@@ -97,6 +97,62 @@ If the discussion is moving away from the proposed topic, the teacher can interv
 Dataset contains approximately 3500 messages about 3 different short stories.
 Our goal is to develop the models which could detect the topic of the current debate and to detect if the conversation starts to move away from it, so the teacher can intervene.
 
+\section{Related work}
+
+
+\section{Initial ideas}
+
+To determine if the teacher must intervene we need to answer the following questions:
+\begin{itemize}
+\item{are the messages book relevant,}
+\item{what type is the message,}
+\item{in what category does it belong.}
+\end{itemize}
+
+Based on this information we could then determine if the conversation is in need of an intervention or not.
+
+Because there are three seperate requirements our first idea was to come up with three seperate classifiers.
+We will start with standard text classification procedures like tokenizing, stemming, removal of stop words and then represented words as vectors in order to use them in our machine learning algorithms.
+After that we will probably use some kind of machine-learning approach. 
+Recurring neural networks or hidden markov models could be used to include the sequential information of words as well.
+
+\subsection{Book relevance}
+Here the answer we are trying to answer is whether the message is related to a story or not.
+From the data itself we can come to some conclusions:
+
+\begin{itemize}
+\item{Category of the message is a good indication whether the message is book relevant. 
+So if the message is classified as having a category discussion it is a good chance that the message is book relevant.
+So the result of the message category classifier could be used here to determine if the book is relevant.}
+\item{Conversations have some retention.
+If the conversation starts leaning towards a discussion of a book most messages will be about the book, and if the conversation starts to move towards some other category most of the messages will follow.
+ So here the sequence and previous states could be deemed important.}
+\end{itemize}
+
+\subsection{Type of the message}
+Here we try to answer the type of the message. 
+This can be a statement, a question or an answer.
+Here too we can draw some conclusions from the data available:
+
+\begin{itemize}
+\item{Answers tend to follow questions.}
+\item{Answers are mostly regarded as book relevant and statements are not.}
+\end{itemize}
+
+\subsection{Message category}
+
+When clasifing the message category we will leave the majority of the work to the machine-learning algorithm.
+Each message can be one of the following:
+\begin{itemize}
+\item{chatting,}
+\item{switching,}
+\item{discussion,}
+\item{moderating,}
+\item{identity or}
+\item{other.}
+\end{itemize}
+
+
 % \iftaclpubformat
 % \section{Courtesy warning: Common violations of \taclpaper rules that have
 % resulted in papers being returned to authors for corrections}
