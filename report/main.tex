@@ -61,8 +61,9 @@ TACL-submission anonymization requirements)}
 %%%% End TACL-instructions-specific macro block
 %%%%
 
-\title{Formatting Instructions for TACL \TaclPapers \\
-(Base files: \styleFileVersion-template.tex \& \styleFileVersion.sty, dated \dateOfLastUpdate)}
+% \title{Formatting Instructions for TACL \TaclPapers \\
+% (Base files: \styleFileVersion-template.tex \& \styleFileVersion.sty, dated \dateOfLastUpdate)}
+\title{Text classifications using IMapBook dataset}
 
 % Author information does not appear in the pdf unless the "acceptedWithA" option is given
 % See tacl2018v2.sty for other ways to format author information
@@ -95,10 +96,40 @@ Original messages are posted in Slovene language, but they are also translated t
 We also have the information about topic they are discussing, if their message was an answer to some previous asked question and if their discussion is relevant to the topic, since there are no constraints so they can write anything they want.
 If the discussion is moving away from the proposed topic, the teacher can intervene and guides it back by asking some questions relevant to the book.
 Dataset contains approximately 3500 messages about 3 different short stories.
-Our goal is to develop the models which could detect the topic of the current debate and to detect if the conversation starts to move away from it, so the teacher can intervene.
+Our goal is to develop the models which could detect the topic of the current debate so the teacher can intervene.
+The idea is to develop different models and combine their outputs.
+We would analyse conversation on different levels.
+First would be to analyse separate messages and define their relevance to the topic.
+We would also define type of message which can either be answer or question and also the category.
+By combining results of separate messages we could determine when the conversation is starting to move away from the topic.
 
 \section{Related work}
+Text classification is a popular topic of natural language processing (NLP) field, thus there are many researchers working on the field. In this section we present most relevant work and techniques they used.
 
+Most of the research work and the state-of-the-art results were achieved using English language, but some of the techniques and approaches can be adapted to Slovene language.
+The authors of paper~\cite{articleSpanish} had similar problem, where they analysed Spanish tweets which are also relative short texts.
+They discuss different approaches for preprocessing data to extract the most relevant features which are later used for classification.
+Few standard approaches are discussed like how to define a basic term which are used by classification algorithms.
+Such as uni-grams (1-grams), bi-grams (2-grams), tri-grams (3-grams), n-grams.
+They found out that having n larger than 3 does not improve results.
+They also tried combining different types of n-grams (like uni-grams and bi-grams) to achieve better results.
+That also means that attribute list was larger so they removed some entries by setting a threshold value.
+With threshold they removed n-grams that did not appear frequently enough or they appeared to many times, since they were considered as noise.
+They also discuss how important are stemming and lemmatization comparing English and Spanish language which is also interesting for Slovene language which is also morphological richer then English.
+
+In second paper~\cite{article2} authors presented the recurrent convolutional neural network for text classification.
+The network was able to capture contextual information of the sentence and extract features and learn some word representation.
+As described the disadvantage of the recurrent network is that although the context of the word is captured, the model is biased where later words are more dominant then earlier.
+To tackle this problem they applied additional convolutional and pooling layers.
+They learned a word Representation and used it for some text classification.
+
+Another similar approach is used in third paper~\cite{article3} where the authors used convolutional neural networks for text categorization where the word order was also taken into account.
+The input to the network is not standard bag-of-word representation but they present their own word representations which are some higher dimensional vectors where 2D convolution is applied.
+For baseline model they used a support vector machine (SVM) classifier with bag-of-word representation and showed that their approach gave them lower error rate then standard models.
+
+There are also many already pre-trained word representations which can be used, also for Slovenian language.
+The word embeddings induced from a large collection of Slovene texts composed of existing corpora of Slovene were prepared and published on CLARIN~\cite{embeddings}.
+This could also be useful with our task since the embeddings were learned on bigger corpuses then are available to us.
 
 \section{Initial ideas}
 
@@ -681,9 +712,9 @@ Each message can be one of the following:
 % Conference on Artificial   Intelligence} and the \emph{Conference on Computer
 % Vision and Pattern Recognition}.
 
-
-\bibliography{tacl2018}
+% \bibliographystyle{IEEEtran}
 \bibliographystyle{acl_natbib}
+\bibliography{bibliography}
 
 \end{document}
 
