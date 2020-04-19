@@ -125,7 +125,7 @@ They learned a word Representation and used it for some text classification.
 
 Another similar approach is used in third paper~\cite{article3} where the authors used convolutional neural networks for text categorization where the word order was also taken into account.
 The input to the network is not standard bag-of-word representation but they present their own word representations which are some higher dimensional vectors where 2D convolution is applied.
-For baseline model they used a support vector machine (SVM) classifier with bag-of-word representation and showed that their approach gave them lower error rate then standard models.
+For baseline model they used a support vector machine (SVM) classifier with bag-of-word representation and showed that their approach gave them lower error rate than standard models.
 
 There are also many already pre-trained word representations which can be used, also for Slovenian language.
 The word embeddings induced from a large collection of Slovene texts composed of existing corpora of Slovene were prepared and published on CLARIN~\cite{embeddings}.
@@ -145,11 +145,11 @@ Based on this information we could then determine if the conversation is in need
 Because there are three seperate requirements our first idea was to come up with three seperate classifiers.
 We will start with standard text classification procedures like tokenizing, stemming, removal of stop words and then represented words as vectors in order to use them in our machine learning algorithms.
 After that we will probably use some kind of machine-learning approach. 
-Recurring neural networks or hidden markov models could be used to include the sequential information of words as well.
+Recurring convolutional neural networks or SVMs could be used to make use of the sequential information of words as well.
 
 \subsection{Book relevance}
 Here the answer we are trying to answer is whether the message is related to a story or not.
-From the data itself we can come to some conclusions:
+From the data itself came to some conclusions:
 
 \begin{itemize}
 \item{Category of the message is a good indication whether the message is book relevant. 
@@ -157,22 +157,26 @@ So if the message is classified as having a category discussion it is a good cha
 So the result of the message category classifier could be used here to determine if the book is relevant.}
 \item{Conversations have some retention.
 If the conversation starts leaning towards a discussion of a book most messages will be about the book, and if the conversation starts to move towards some other category most of the messages will follow.
- So here the sequence and previous states could be deemed important.}
+So here the sequence and previous states could be deemed important.}
 \end{itemize}
+
+So maybe some of these observation might help us especcialy if we used the results of some of the other ones.
+We will try to experiment with how to include this additional knowledge and if it brings any improvements.
 
 \subsection{Type of the message}
 Here we try to answer the type of the message. 
 This can be a statement, a question or an answer.
-Here too we can draw some conclusions from the data available:
+Here too we drew some conclusions from the data available:
 
 \begin{itemize}
 \item{Answers tend to follow questions.}
 \item{Answers are mostly regarded as book relevant and statements are not.}
 \end{itemize}
 
+These conclusions might help us to came up with a better model.
+
 \subsection{Message category}
 
-When clasifing the message category we will leave the majority of the work to the machine-learning algorithm.
 Each message can be one of the following:
 \begin{itemize}
 \item{chatting,}
@@ -183,6 +187,7 @@ Each message can be one of the following:
 \item{other.}
 \end{itemize}
 
+When determening the message category we will try to include the order of the messages as well.
 
 % \iftaclpubformat
 % \section{Courtesy warning: Common violations of \taclpaper rules that have
