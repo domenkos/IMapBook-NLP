@@ -1,0 +1,1 @@
+Download https://www.clarin.si/repository/xmlui/handle/11356/1286 and place it in this directory
