@@ -1,0 +1,49 @@
+# newpar id = 1
+# sent_id = 1.1
+# text = to je en navaden stavek.
+1	to	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	en	_	_	_	_	_	_	_	_
+4	navaden	_	_	_	_	_	_	_	_
+5	stavek	_	_	_	_	_	_	_	SpaceAfter=No
+6	.	_	_	_	_	_	_	_	_
+
+# newpar id = 2
+# sent_id = 2.1
+# text = to je se eden ampak malo drugacen, saj je drugi.
+1	to	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	se	_	_	_	_	_	_	_	_
+4	eden	_	_	_	_	_	_	_	_
+5	ampak	_	_	_	_	_	_	_	_
+6	malo	_	_	_	_	_	_	_	_
+7	drugacen	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	saj	_	_	_	_	_	_	_	_
+10	je	_	_	_	_	_	_	_	_
+11	drugi	_	_	_	_	_	_	_	SpaceAfter=No
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = 2.2
+# text = Ampak ta je pa se vedno isti, torej drugi.
+1	Ampak	_	_	_	_	_	_	_	_
+2	ta	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	pa	_	_	_	_	_	_	_	_
+5	se	_	_	_	_	_	_	_	_
+6	vedno	_	_	_	_	_	_	_	_
+7	isti	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	torej	_	_	_	_	_	_	_	_
+10	drugi	_	_	_	_	_	_	_	SpaceAfter=No
+11	.	_	_	_	_	_	_	_	_
+
+# newpar id = 3
+# sent_id = 3.1
+# text = To je ze tretji.
+1	To	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	ze	_	_	_	_	_	_	_	_
+4	tretji	_	_	_	_	_	_	_	SpaceAfter=No
+5	.	_	_	_	_	_	_	_	_
+

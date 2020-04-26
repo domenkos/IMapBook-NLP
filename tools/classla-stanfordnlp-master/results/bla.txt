@@ -1,0 +1,14 @@
+# newpar id = 1
+# sent_id = 1.1
+# text = to je en navadn stavek, zato zivim doma.
+1	to	to	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	en	en	_	_	_	_	_	_	_
+4	navadn	navadn	_	_	_	_	_	_	_
+5	stavek	stavek	_	_	_	_	_	_	SpaceAfter=No
+6	,	,	_	_	_	_	_	_	_
+7	zato	zato	_	_	_	_	_	_	_
+8	zivim	ziv	_	_	_	_	_	_	_
+9	doma	dom	_	_	_	_	_	_	SpaceAfter=No
+10	.	.	_	_	_	_	_	_	_
+
