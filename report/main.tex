@@ -10,6 +10,7 @@
 \usepackage{times,latexsym}
 \usepackage{url}
 \usepackage[T1]{fontenc}
+\usepackage{graphicx}
 
 %% Package options:
 %% Short version: "hyperref" and "submission" are the defaults.
@@ -186,6 +187,128 @@ Each message can be one of the following:
 \end{itemize}
 
 When determening the message category we will try to include the order of the messages as well.
+
+\section{Experiments}
+In this section we present the pre-processing steps we performed and all the experiments we performed.
+
+\section{Text pre-processing}
+We followed some standard text pre-processing steps.
+First we tokenized each chat.
+After that we used lemmatizer to get the basic forms of each token.
+Both of the steps were first performed using the standard NLP tools which are available mostly for English language.
+Since Slovene language is a bit different the tokenization and lemmatization were not always correct.
+For that reason we used a tool that was designed and trained for Slovenian language~\cite{slotokenizer}.
+Using it we obtained better token representation of our texts which were later also lemmatized using the same tool.
+Lemmatized tokens were then used to build different vector representations (e.g. Tf-idf) which were used to train our models.
+We also found a stop word dictionary for Slovene language but when removing the stop words the performance in all models dropped.
+We assume that the reason is that most of the texts are very short and thus after removing the stop words we end up with even smaller set of words.
+
+\subsection{Baseline models}
+Before we used some advanced techniques and algorithms we defined some baseline models.
+Initial goal was to detect when the teacher needs to intervene into the discussion.
+To achieve it we defined several classification models.
+First set of models was developed to classify each chat into one of the two classes.
+Either the chat is somehow relevant to the book or not.
+The other set of models was more complicated.
+They were classifying the chats into 6 groups.
+Each group represents a simple description of what the text is talking about.
+All the categories are described in the separate document. % Do we have a reference to that document?
+
+The models we used were \textit{Naive Bayes}, \textit{Logistic Regression}, \textit{Support Vector Machine (SVM)}.
+Each model was trained on 2653 random examples and tested on the rest 1062.
+The distribution of relevant and non-relevant text is plotted on Figure~\ref{fig:fig1} for training set (left) and testing set (right).
+We evaluated them by calculating the accuracy, recall, precision and F1 score.
+The baseline accuracy of predicting the relevance into the non-relevant class was \textbf{0.619}.
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=1.1\columnwidth]{Figures/distribution.pdf}
+    \caption{Distribution of relevance on train and test set}
+    \label{fig:fig1}
+\end{figure}
+
+\subsubsection{Naive Bayes}
+The simplest model that we tried was \textit{Naive Bayes} which assumes that words in the sentence are independent.
+The results we obtained are shown in Table~\ref{tab:tab1}.
+
+\begin{table}[h]
+    \centering
+    \begin{tabular}{ c | c c c c } 
+         & Accuracy & Precision & Recall & F1 \\ 
+         \hline
+         Relevance & 0.84 & 0.79 & 0.79 & 0.79 \\
+         Categories & 0.70 & / & / & 0.68 \\
+    \end{tabular}
+    \caption{Evaluation of Naive Bayes}
+    \label{tab:tab1}
+\end{table}
+
+Although the model is naive, the results we got are not that bad.
+The AUC of the model for predicting the relevance of the text is 91\%.
+
+\subsubsection{Logistic Regression}
+The results of Logistic Regression model are in Table~\ref{tab:tab2}.
+
+\begin{table}[h]
+    \centering
+    \begin{tabular}{ c | c c c c } 
+         & Accuracy & Precision & Recall & F1 \\ 
+         \hline
+         Relevance & 0.84 & 0.87 & 0.70 & 0.78 \\
+         Categories & 0.74 & / & / & 0.72 \\
+    \end{tabular}
+    \caption{Evaluation of Logistic Regression}
+    \label{tab:tab2}
+\end{table}
+
+The performance is similar to \textit{Naive Bayes}.
+But we go the AUC of 93\% which is the highest of all baseline models.
+
+\subsubsection{Support Vector Machine}
+The results we got with this model are in Table~\ref{tab:tab3}.
+
+\begin{table}[h]
+    \centering
+    \begin{tabular}{ c | c c c c } 
+         & Accuracy & Precision & Recall & F1 \\ 
+         \hline
+        Relevance & 0.86 & 0.87 & 0.73 & 0.80 \\ 
+        Categories & 0.74 & / & / & 0.73 \\
+    \end{tabular}
+    \caption{Evaluation of Support Vector Machine}
+    \label{tab:tab3}
+\end{table}
+
+Overall SVM performed the best so we will use it in further experiments.
+We also plotted the ROC curve for predicting the relevance of the text which is shown on Figure~\ref{fig:fig2}.
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=1.0\columnwidth]{Figures/rocsvm.pdf}
+    \caption{ROC curve of SVM performance}
+    \label{fig:fig2}
+\end{figure}
+
+\subsection{Detecting of conversation drift}
+To detect when the teacher needs to intervene we trained two models.
+They were trained using the lemmatized texts as before.
+But in this case we took sequential texts to train and test our models.
+For training we took first 70\% of lemmatized texts and calculate their Tf-idf vectors.
+From the experiments above we decided to train SVM model for classification of relevance of the text and Linear Regression (LR) for classification of category.
+Both of the models were trained and evaluated using the 5-fold cross validation.
+The accuracy and F1 score of SVM model were 0.83 and 0.82 respectively.
+For the LR model we obtained 0.65 accuracy and 0.67 F1 score.
+
+The last 30\% of conversations we used as to detect the drift.
+We took the baches of 10 sequential messages and for each we predicted the relevance label.
+We counted the number of relevance chats in a bach using the following method.
+If the label was positive ('Yes') we counted it as relevant.
+If the label was negative ('No') we also predicted the category.
+We defined three soft categories ('C','S','M') which also count as relevant.
+If the category was any of those we classified chat as relevant otherwise as non-relevant.
+From the frequency of relevant/non-relevant chats we classified each bach.
+The drift is detected if there is non relevant discussion in 5 consecutive baches.
+
 
 % \iftaclpubformat
 % \section{Courtesy warning: Common violations of \taclpaper rules that have
