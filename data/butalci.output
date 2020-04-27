@@ -1,0 +1,969 @@
+# newpar id = 1
+# sent_id = 1.1
+# text = ﻿1. Milčinski, Fran Butalski policaj in Cefizelj (5. r.)
+1	﻿	﻿	_	_	_	_	_	_	SpaceAfter=No
+2	1.	1.	_	_	_	_	_	_	_
+3	Milčinski	milčinski	_	_	_	_	_	_	SpaceAfter=No
+4	,	,	_	_	_	_	_	_	_
+5	Fran	Fran	_	_	_	_	_	_	_
+6	Butalski	butalski	_	_	_	_	_	_	_
+7	policaj	policaj	_	_	_	_	_	_	_
+8	in	in	_	_	_	_	_	_	_
+9	Cefizelj	Cefizelj	_	_	_	_	_	_	_
+10	(	(	_	_	_	_	_	_	SpaceAfter=No
+11	5.	5.	_	_	_	_	_	_	_
+12	r.	r.	_	_	_	_	_	_	SpaceAfter=No
+13	)	)	_	_	_	_	_	_	_
+
+# newpar id = 2
+# sent_id = 2.1
+# text = Bolj na ono stran leži vas, se ji pravi Butale.
+1	Bolj	bitj	_	_	_	_	_	_	_
+2	na	ni	_	_	_	_	_	_	_
+3	ono	ono	_	_	_	_	_	_	_
+4	stran	stran	_	_	_	_	_	_	_
+5	leži	lež	_	_	_	_	_	_	_
+6	vas	vas	_	_	_	_	_	_	SpaceAfter=No
+7	,	,	_	_	_	_	_	_	_
+8	se	se	_	_	_	_	_	_	_
+9	ji	ji	_	_	_	_	_	_	_
+10	pravi	pravi	_	_	_	_	_	_	_
+11	Butale	Butale	_	_	_	_	_	_	SpaceAfter=No
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2.2
+# text = Butalci so gadje; tisto leto, ko sta bili dve kravi za en par, so se Butalci skregali s pametjo, pa so zmagali Butalci in ne pamet: takšni so.
+1	Butalci	Butalec	_	_	_	_	_	_	_
+2	so	so	_	_	_	_	_	_	_
+3	gadje	gadji	_	_	_	_	_	_	SpaceAfter=No
+4	;	;	_	_	_	_	_	_	_
+5	tisto	tisti	_	_	_	_	_	_	_
+6	leto	leto	_	_	_	_	_	_	SpaceAfter=No
+7	,	,	_	_	_	_	_	_	_
+8	ko	koj	_	_	_	_	_	_	_
+9	sta	sta	_	_	_	_	_	_	_
+10	bili	biti	_	_	_	_	_	_	_
+11	dve	dve	_	_	_	_	_	_	_
+12	kravi	kravi	_	_	_	_	_	_	_
+13	za	za	_	_	_	_	_	_	_
+14	en	en	_	_	_	_	_	_	_
+15	par	par	_	_	_	_	_	_	SpaceAfter=No
+16	,	,	_	_	_	_	_	_	_
+17	so	so	_	_	_	_	_	_	_
+18	se	se	_	_	_	_	_	_	_
+19	Butalci	Butalec	_	_	_	_	_	_	_
+20	skregali	skregati	_	_	_	_	_	_	_
+21	s	s	_	_	_	_	_	_	_
+22	pametjo	pametji	_	_	_	_	_	_	SpaceAfter=No
+23	,	,	_	_	_	_	_	_	_
+24	pa	pa	_	_	_	_	_	_	_
+25	so	so	_	_	_	_	_	_	_
+26	zmagali	zmagal	_	_	_	_	_	_	_
+27	Butalci	Butalec	_	_	_	_	_	_	_
+28	in	in	_	_	_	_	_	_	_
+29	ne	ni	_	_	_	_	_	_	_
+30	pamet	pamet	_	_	_	_	_	_	SpaceAfter=No
+31	:	biti	_	_	_	_	_	_	_
+32	takšni	takšen	_	_	_	_	_	_	_
+33	so	so	_	_	_	_	_	_	SpaceAfter=No
+34	.	.	_	_	_	_	_	_	_
+
+# newpar id = 3
+# sent_id = 3.1
+# text = V Butalah so imeli občinskega hlapca, ob delavnikih je goved pasel in lenobo, ob nedeljah in praznikih pa si je na glavo poveznil kapo, ta kapa je bila rdeče obšita, v roko je vzel helebardo ali sulico in je bil policaj, strah vseh tolovajev.
+1	V	V	_	_	_	_	_	_	_
+2	Butalah	Butalah	_	_	_	_	_	_	_
+3	so	so	_	_	_	_	_	_	_
+4	imeli	imeti	_	_	_	_	_	_	_
+5	občinskega	občinski	_	_	_	_	_	_	_
+6	hlapca	hlapec	_	_	_	_	_	_	SpaceAfter=No
+7	,	,	_	_	_	_	_	_	_
+8	ob	ob	_	_	_	_	_	_	_
+9	delavnikih	delavnik	_	_	_	_	_	_	_
+10	je	je	_	_	_	_	_	_	_
+11	goved	goved	_	_	_	_	_	_	_
+12	pasel	pasel	_	_	_	_	_	_	_
+13	in	in	_	_	_	_	_	_	_
+14	lenobo	lenob	_	_	_	_	_	_	SpaceAfter=No
+15	,	,	_	_	_	_	_	_	_
+16	ob	ob	_	_	_	_	_	_	_
+17	nedeljah	nedelja	_	_	_	_	_	_	_
+18	in	in	_	_	_	_	_	_	_
+19	praznikih	praznik	_	_	_	_	_	_	_
+20	pa	pa	_	_	_	_	_	_	_
+21	si	si	_	_	_	_	_	_	_
+22	je	je	_	_	_	_	_	_	_
+23	na	ni	_	_	_	_	_	_	_
+24	glavo	glav	_	_	_	_	_	_	_
+25	poveznil	povezniti	_	_	_	_	_	_	_
+26	kapo	kap	_	_	_	_	_	_	SpaceAfter=No
+27	,	,	_	_	_	_	_	_	_
+28	ta	ta	_	_	_	_	_	_	_
+29	kapa	kap	_	_	_	_	_	_	_
+30	je	je	_	_	_	_	_	_	_
+31	bila	biti	_	_	_	_	_	_	_
+32	rdeče	rdeče	_	_	_	_	_	_	_
+33	obšita	obšit	_	_	_	_	_	_	SpaceAfter=No
+34	,	,	_	_	_	_	_	_	_
+35	v	v	_	_	_	_	_	_	_
+36	roko	rok	_	_	_	_	_	_	_
+37	je	je	_	_	_	_	_	_	_
+38	vzel	vzeti	_	_	_	_	_	_	_
+39	helebardo	helebardo	_	_	_	_	_	_	_
+40	ali	ali	_	_	_	_	_	_	_
+41	sulico	sulic	_	_	_	_	_	_	_
+42	in	in	_	_	_	_	_	_	_
+43	je	je	_	_	_	_	_	_	_
+44	bil	bil	_	_	_	_	_	_	_
+45	policaj	policaj	_	_	_	_	_	_	SpaceAfter=No
+46	,	,	_	_	_	_	_	_	_
+47	strah	strah	_	_	_	_	_	_	_
+48	vseh	vse	_	_	_	_	_	_	_
+49	tolovajev	tolovajev	_	_	_	_	_	_	SpaceAfter=No
+50	.	.	_	_	_	_	_	_	_
+
+# sent_id = 3.2
+# text = O tem policaju je slišal tudi grozanski razbojnik Cefizelj, ki so pravili, da je že sedem ljudi zadušil in tri ženske.
+1	O	O	_	_	_	_	_	_	_
+2	tem	ta	_	_	_	_	_	_	_
+3	policaju	policaj	_	_	_	_	_	_	_
+4	je	je	_	_	_	_	_	_	_
+5	slišal	slišal	_	_	_	_	_	_	_
+6	tudi	tudi	_	_	_	_	_	_	_
+7	grozanski	grozanski	_	_	_	_	_	_	_
+8	razbojnik	razbojnik	_	_	_	_	_	_	_
+9	Cefizelj	Cefizelj	_	_	_	_	_	_	SpaceAfter=No
+10	,	,	_	_	_	_	_	_	_
+11	ki	ki	_	_	_	_	_	_	_
+12	so	so	_	_	_	_	_	_	_
+13	pravili	praviti	_	_	_	_	_	_	SpaceAfter=No
+14	,	,	_	_	_	_	_	_	_
+15	da	da	_	_	_	_	_	_	_
+16	je	je	_	_	_	_	_	_	_
+17	že	že	_	_	_	_	_	_	_
+18	sedem	sedem	_	_	_	_	_	_	_
+19	ljudi	ljud	_	_	_	_	_	_	_
+20	zadušil	zadušiti	_	_	_	_	_	_	_
+21	in	in	_	_	_	_	_	_	_
+22	tri	trije	_	_	_	_	_	_	_
+23	ženske	ženski	_	_	_	_	_	_	SpaceAfter=No
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = 3.3
+# text = Pa je zasrbelo Cefizlja, da si gre ogledat policaja, in je bilo tisto nedeljo, ko obhajajo v Butalah vsakoletno žegnanje in poboj, pa je šel v Butale in se nastavil policaju tik pod nos.
+1	Pa	pa	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	zasrbelo	zasrbel	_	_	_	_	_	_	_
+4	Cefizlja	Cefizelj	_	_	_	_	_	_	SpaceAfter=No
+5	,	,	_	_	_	_	_	_	_
+6	da	da	_	_	_	_	_	_	_
+7	si	si	_	_	_	_	_	_	_
+8	gre	gre	_	_	_	_	_	_	_
+9	ogledat	ogledat	_	_	_	_	_	_	_
+10	policaja	policaj	_	_	_	_	_	_	SpaceAfter=No
+11	,	,	_	_	_	_	_	_	_
+12	in	in	_	_	_	_	_	_	_
+13	je	je	_	_	_	_	_	_	_
+14	bilo	biti	_	_	_	_	_	_	_
+15	tisto	tisti	_	_	_	_	_	_	_
+16	nedeljo	nedelji	_	_	_	_	_	_	SpaceAfter=No
+17	,	,	_	_	_	_	_	_	_
+18	ko	koj	_	_	_	_	_	_	_
+19	obhajajo	obhajaj	_	_	_	_	_	_	_
+20	v	v	_	_	_	_	_	_	_
+21	Butalah	Butalah	_	_	_	_	_	_	_
+22	vsakoletno	vsakoleten	_	_	_	_	_	_	_
+23	žegnanje	žegnanji	_	_	_	_	_	_	_
+24	in	in	_	_	_	_	_	_	_
+25	poboj	poboj	_	_	_	_	_	_	SpaceAfter=No
+26	,	,	_	_	_	_	_	_	_
+27	pa	pa	_	_	_	_	_	_	_
+28	je	je	_	_	_	_	_	_	_
+29	šel	šel	_	_	_	_	_	_	_
+30	v	v	_	_	_	_	_	_	_
+31	Butale	Butale	_	_	_	_	_	_	_
+32	in	in	_	_	_	_	_	_	_
+33	se	se	_	_	_	_	_	_	_
+34	nastavil	nastaviti	_	_	_	_	_	_	_
+35	policaju	policaj	_	_	_	_	_	_	_
+36	tik	tik	_	_	_	_	_	_	_
+37	pod	pod	_	_	_	_	_	_	_
+38	nos	nos	_	_	_	_	_	_	SpaceAfter=No
+39	.	.	_	_	_	_	_	_	_
+
+# newpar id = 4
+# sent_id = 4.1
+# text = Policaj je rekel: »Hop, Cefizelj, te že imam!
+1	Policaj	policaj	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	rekel	rekel	_	_	_	_	_	_	SpaceAfter=No
+4	:	biti	_	_	_	_	_	_	_
+5	»	»	_	_	_	_	_	_	SpaceAfter=No
+6	Hop	hop	_	_	_	_	_	_	SpaceAfter=No
+7	,	,	_	_	_	_	_	_	_
+8	Cefizelj	Cefizelj	_	_	_	_	_	_	SpaceAfter=No
+9	,	,	_	_	_	_	_	_	_
+10	te	ti	_	_	_	_	_	_	_
+11	že	že	_	_	_	_	_	_	_
+12	imam	imeti	_	_	_	_	_	_	SpaceAfter=No
+13	!	!	_	_	_	_	_	_	_
+
+# sent_id = 4.2
+# text = Marš v luknjo!
+1	Marš	marš	_	_	_	_	_	_	_
+2	v	v	_	_	_	_	_	_	_
+3	luknjo	luknji	_	_	_	_	_	_	SpaceAfter=No
+4	!	!	_	_	_	_	_	_	_
+
+# sent_id = 4.3
+# text = Imamo krojača, se mu pravi rabelj, ti bo vzel mero okrog vratu.
+1	Imamo	imeti	_	_	_	_	_	_	_
+2	krojača	krojač	_	_	_	_	_	_	SpaceAfter=No
+3	,	,	_	_	_	_	_	_	_
+4	se	se	_	_	_	_	_	_	_
+5	mu	mu	_	_	_	_	_	_	_
+6	pravi	pravi	_	_	_	_	_	_	_
+7	rabelj	rabelj	_	_	_	_	_	_	SpaceAfter=No
+8	,	,	_	_	_	_	_	_	_
+9	ti	ti	_	_	_	_	_	_	_
+10	bo	bo	_	_	_	_	_	_	_
+11	vzel	vzeti	_	_	_	_	_	_	_
+12	mero	mero	_	_	_	_	_	_	_
+13	okrog	okrog	_	_	_	_	_	_	_
+14	vratu	vrat	_	_	_	_	_	_	SpaceAfter=No
+15	.	.	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 4.4
+# text = « Cefizelj ni rekel ne bev ne mev in je šel s policajem.
+1	«	«	_	_	_	_	_	_	_
+2	Cefizelj	Cefizelj	_	_	_	_	_	_	_
+3	ni	ni	_	_	_	_	_	_	_
+4	rekel	rekel	_	_	_	_	_	_	_
+5	ne	ni	_	_	_	_	_	_	_
+6	bev	bev	_	_	_	_	_	_	_
+7	ne	ni	_	_	_	_	_	_	_
+8	mev	mev	_	_	_	_	_	_	_
+9	in	in	_	_	_	_	_	_	_
+10	je	je	_	_	_	_	_	_	_
+11	šel	šel	_	_	_	_	_	_	_
+12	s	s	_	_	_	_	_	_	_
+13	policajem	policaj	_	_	_	_	_	_	SpaceAfter=No
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = 4.5
+# text = Pa prideta mimo peka.
+1	Pa	pa	_	_	_	_	_	_	_
+2	prideta	pridet	_	_	_	_	_	_	_
+3	mimo	mimo	_	_	_	_	_	_	_
+4	peka	pekaj	_	_	_	_	_	_	SpaceAfter=No
+5	.	.	_	_	_	_	_	_	_
+
+# newpar id = 5
+# sent_id = 5.1
+# text = »Oh,« je vzdihnil Cefizelj, »dokler še lahko požiram; en sam edini koruzni hlebček bi rad snedel, tako dobrih, pravijo, ne peko nikjer nikoder kakor v Butalah.
+1	»	»	_	_	_	_	_	_	SpaceAfter=No
+2	Oh	oh	_	_	_	_	_	_	SpaceAfter=No
+3	,	,	_	_	_	_	_	_	SpaceAfter=No
+4	«	«	_	_	_	_	_	_	_
+5	je	je	_	_	_	_	_	_	_
+6	vzdihnil	vzdihniti	_	_	_	_	_	_	_
+7	Cefizelj	Cefizelj	_	_	_	_	_	_	SpaceAfter=No
+8	,	,	_	_	_	_	_	_	_
+9	»	»	_	_	_	_	_	_	SpaceAfter=No
+10	dokler	dokler	_	_	_	_	_	_	_
+11	še	še	_	_	_	_	_	_	_
+12	lahko	lahko	_	_	_	_	_	_	_
+13	požiram	požira	_	_	_	_	_	_	SpaceAfter=No
+14	;	;	_	_	_	_	_	_	_
+15	en	en	_	_	_	_	_	_	_
+16	sam	samo	_	_	_	_	_	_	_
+17	edini	edin	_	_	_	_	_	_	_
+18	koruzni	koruzen	_	_	_	_	_	_	_
+19	hlebček	hlebček	_	_	_	_	_	_	_
+20	bi	bi	_	_	_	_	_	_	_
+21	rad	rad	_	_	_	_	_	_	_
+22	snedel	snedel	_	_	_	_	_	_	SpaceAfter=No
+23	,	,	_	_	_	_	_	_	_
+24	tako	tako	_	_	_	_	_	_	_
+25	dobrih	dober	_	_	_	_	_	_	SpaceAfter=No
+26	,	,	_	_	_	_	_	_	_
+27	pravijo	praviti	_	_	_	_	_	_	SpaceAfter=No
+28	,	,	_	_	_	_	_	_	_
+29	ne	ni	_	_	_	_	_	_	_
+30	peko	peko	_	_	_	_	_	_	_
+31	nikjer	nikjer	_	_	_	_	_	_	_
+32	nikoder	nikoder	_	_	_	_	_	_	_
+33	kakor	kakor	_	_	_	_	_	_	_
+34	v	v	_	_	_	_	_	_	_
+35	Butalah	Butalah	_	_	_	_	_	_	SpaceAfter=No
+36	.	.	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 5.2
+# text = «
+1	«	«	_	_	_	_	_	_	_
+
+# newpar id = 6
+# sent_id = 6.1
+# text = »Nu!
+1	»	»	_	_	_	_	_	_	SpaceAfter=No
+2	Nu	N	_	_	_	_	_	_	SpaceAfter=No
+3	!	!	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 6.2
+# text = « je pritrdil policaj.
+1	«	«	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	pritrdil	pritrdil	_	_	_	_	_	_	_
+4	policaj	policaj	_	_	_	_	_	_	SpaceAfter=No
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 6.3
+# text = »Pri nas imamo masten gnoj, naša moka iz naše koruze je kakor zabeljena.
+1	»	»	_	_	_	_	_	_	SpaceAfter=No
+2	Pri	pri	_	_	_	_	_	_	_
+3	nas	nas	_	_	_	_	_	_	_
+4	imamo	imamo	_	_	_	_	_	_	_
+5	masten	masten	_	_	_	_	_	_	_
+6	gnoj	gnoj	_	_	_	_	_	_	SpaceAfter=No
+7	,	,	_	_	_	_	_	_	_
+8	naša	naš	_	_	_	_	_	_	_
+9	moka	mok	_	_	_	_	_	_	_
+10	iz	iz	_	_	_	_	_	_	_
+11	naše	naš	_	_	_	_	_	_	_
+12	koruze	koruz	_	_	_	_	_	_	_
+13	je	je	_	_	_	_	_	_	_
+14	kakor	kakor	_	_	_	_	_	_	_
+15	zabeljena	zabeljen	_	_	_	_	_	_	SpaceAfter=No
+16	.	.	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 6.4
+# text = «
+1	«	«	_	_	_	_	_	_	_
+
+# newpar id = 7
+# sent_id = 7.1
+# text = In ker je bil pek za občinskega moža.
+1	In	In	_	_	_	_	_	_	_
+2	ker	kar	_	_	_	_	_	_	_
+3	je	je	_	_	_	_	_	_	_
+4	bil	bil	_	_	_	_	_	_	_
+5	pek	pek	_	_	_	_	_	_	_
+6	za	za	_	_	_	_	_	_	_
+7	občinskega	občinski	_	_	_	_	_	_	_
+8	moža	mož	_	_	_	_	_	_	SpaceAfter=No
+9	.	.	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 7.2
+# text = , mu policaj ni maral odjesti dobička in je pustil Cefizlja v pekarijo in se je s helebardo ali sulico postavil pred vrata, da ga počaka.
+1	,	,	_	_	_	_	_	_	_
+2	mu	mu	_	_	_	_	_	_	_
+3	policaj	policaj	_	_	_	_	_	_	_
+4	ni	ni	_	_	_	_	_	_	_
+5	maral	marati	_	_	_	_	_	_	_
+6	odjesti	odjest	_	_	_	_	_	_	_
+7	dobička	dobiček	_	_	_	_	_	_	_
+8	in	in	_	_	_	_	_	_	_
+9	je	je	_	_	_	_	_	_	_
+10	pustil	pustil	_	_	_	_	_	_	_
+11	Cefizlja	Cefizelj	_	_	_	_	_	_	_
+12	v	v	_	_	_	_	_	_	_
+13	pekarijo	pekarij	_	_	_	_	_	_	_
+14	in	in	_	_	_	_	_	_	_
+15	se	se	_	_	_	_	_	_	_
+16	je	je	_	_	_	_	_	_	_
+17	s	s	_	_	_	_	_	_	_
+18	helebardo	helebardo	_	_	_	_	_	_	_
+19	ali	ali	_	_	_	_	_	_	_
+20	sulico	sulic	_	_	_	_	_	_	_
+21	postavil	postaviti	_	_	_	_	_	_	_
+22	pred	pred	_	_	_	_	_	_	_
+23	vrata	vrat	_	_	_	_	_	_	SpaceAfter=No
+24	,	,	_	_	_	_	_	_	_
+25	da	da	_	_	_	_	_	_	_
+26	ga	ga	_	_	_	_	_	_	_
+27	počaka	počak	_	_	_	_	_	_	SpaceAfter=No
+28	.	.	_	_	_	_	_	_	_
+
+# sent_id = 7.3
+# text = Čaka in čaka, pa ga ni bilo Cefizlja — šent je bil odšel pri zadnjih vratih in se niti ni poslovil.
+1	Čaka	Čak	_	_	_	_	_	_	_
+2	in	in	_	_	_	_	_	_	_
+3	čaka	čak	_	_	_	_	_	_	SpaceAfter=No
+4	,	,	_	_	_	_	_	_	_
+5	pa	pa	_	_	_	_	_	_	_
+6	ga	ga	_	_	_	_	_	_	_
+7	ni	ni	_	_	_	_	_	_	_
+8	bilo	biti	_	_	_	_	_	_	_
+9	Cefizlja	Cefizelj	_	_	_	_	_	_	_
+10	—	—	_	_	_	_	_	_	_
+11	šent	šent	_	_	_	_	_	_	_
+12	je	je	_	_	_	_	_	_	_
+13	bil	bil	_	_	_	_	_	_	_
+14	odšel	odšel	_	_	_	_	_	_	_
+15	pri	pri	_	_	_	_	_	_	_
+16	zadnjih	zadnji	_	_	_	_	_	_	_
+17	vratih	vrat	_	_	_	_	_	_	_
+18	in	in	_	_	_	_	_	_	_
+19	se	se	_	_	_	_	_	_	_
+20	niti	nit	_	_	_	_	_	_	_
+21	ni	ni	_	_	_	_	_	_	_
+22	poslovil	posloviti	_	_	_	_	_	_	SpaceAfter=No
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = 7.4
+# text = Policaj hud — krščen Matiček — tako je bil hud, da je kar pljunil.
+1	Policaj	policaj	_	_	_	_	_	_	_
+2	hud	hud	_	_	_	_	_	_	_
+3	—	—	_	_	_	_	_	_	_
+4	krščen	krščen	_	_	_	_	_	_	_
+5	Matiček	matiček	_	_	_	_	_	_	_
+6	—	—	_	_	_	_	_	_	_
+7	tako	tako	_	_	_	_	_	_	_
+8	je	je	_	_	_	_	_	_	_
+9	bil	bil	_	_	_	_	_	_	_
+10	hud	hud	_	_	_	_	_	_	SpaceAfter=No
+11	,	,	_	_	_	_	_	_	_
+12	da	da	_	_	_	_	_	_	_
+13	je	je	_	_	_	_	_	_	_
+14	kar	kar	_	_	_	_	_	_	_
+15	pljunil	pljuniti	_	_	_	_	_	_	SpaceAfter=No
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = 7.5
+# text = Ali Cefizlja ni bilo in ga ni bilo in ni vse nič pomagalo.
+1	Ali	Ali	_	_	_	_	_	_	_
+2	Cefizlja	Cefizelj	_	_	_	_	_	_	_
+3	ni	ni	_	_	_	_	_	_	_
+4	bilo	biti	_	_	_	_	_	_	_
+5	in	in	_	_	_	_	_	_	_
+6	ga	ga	_	_	_	_	_	_	_
+7	ni	ni	_	_	_	_	_	_	_
+8	bilo	biti	_	_	_	_	_	_	_
+9	in	in	_	_	_	_	_	_	_
+10	ni	ni	_	_	_	_	_	_	_
+11	vse	vse	_	_	_	_	_	_	_
+12	nič	nič	_	_	_	_	_	_	_
+13	pomagalo	pomagati	_	_	_	_	_	_	SpaceAfter=No
+14	.	.	_	_	_	_	_	_	_
+
+# newpar id = 8
+# sent_id = 8.1
+# text = Poteče teden, potečeta dva, pride tretja nedelja, pa je Cefizlja spet zasrbelo, da gre v Butale, in je šel in se nastavil policaju pod nos.
+1	Poteče	poteč	_	_	_	_	_	_	_
+2	teden	teden	_	_	_	_	_	_	SpaceAfter=No
+3	,	,	_	_	_	_	_	_	_
+4	potečeta	potečeti	_	_	_	_	_	_	_
+5	dva	dva	_	_	_	_	_	_	SpaceAfter=No
+6	,	,	_	_	_	_	_	_	_
+7	pride	pride	_	_	_	_	_	_	_
+8	tretja	tretji	_	_	_	_	_	_	_
+9	nedelja	nedelj	_	_	_	_	_	_	SpaceAfter=No
+10	,	,	_	_	_	_	_	_	_
+11	pa	pa	_	_	_	_	_	_	_
+12	je	je	_	_	_	_	_	_	_
+13	Cefizlja	Cefizelj	_	_	_	_	_	_	_
+14	spet	spet	_	_	_	_	_	_	_
+15	zasrbelo	zasrbel	_	_	_	_	_	_	SpaceAfter=No
+16	,	,	_	_	_	_	_	_	_
+17	da	da	_	_	_	_	_	_	_
+18	gre	gre	_	_	_	_	_	_	_
+19	v	v	_	_	_	_	_	_	_
+20	Butale	Butale	_	_	_	_	_	_	SpaceAfter=No
+21	,	,	_	_	_	_	_	_	_
+22	in	in	_	_	_	_	_	_	_
+23	je	je	_	_	_	_	_	_	_
+24	šel	šel	_	_	_	_	_	_	_
+25	in	in	_	_	_	_	_	_	_
+26	se	se	_	_	_	_	_	_	_
+27	nastavil	nastaviti	_	_	_	_	_	_	_
+28	policaju	policaj	_	_	_	_	_	_	_
+29	pod	pod	_	_	_	_	_	_	_
+30	nos	nos	_	_	_	_	_	_	SpaceAfter=No
+31	.	.	_	_	_	_	_	_	_
+
+# newpar id = 9
+# sent_id = 9.1
+# text = »Hop,« je rekel policaj, »ali te imam!
+1	»	»	_	_	_	_	_	_	SpaceAfter=No
+2	Hop	hop	_	_	_	_	_	_	SpaceAfter=No
+3	,	,	_	_	_	_	_	_	SpaceAfter=No
+4	«	«	_	_	_	_	_	_	_
+5	je	je	_	_	_	_	_	_	_
+6	rekel	rekel	_	_	_	_	_	_	_
+7	policaj	policaj	_	_	_	_	_	_	SpaceAfter=No
+8	,	,	_	_	_	_	_	_	_
+9	»	»	_	_	_	_	_	_	SpaceAfter=No
+10	ali	ali	_	_	_	_	_	_	_
+11	te	ti	_	_	_	_	_	_	_
+12	imam	imeti	_	_	_	_	_	_	SpaceAfter=No
+13	!	!	_	_	_	_	_	_	_
+
+# sent_id = 9.2
+# text = Zdaj mi več ne uideš!
+1	Zdaj	zdaj	_	_	_	_	_	_	_
+2	mi	mi	_	_	_	_	_	_	_
+3	več	več	_	_	_	_	_	_	_
+4	ne	ni	_	_	_	_	_	_	_
+5	uideš	uideš	_	_	_	_	_	_	SpaceAfter=No
+6	!	!	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 9.3
+# text = « in ga je prijel za rokav.
+1	«	«	_	_	_	_	_	_	_
+2	in	in	_	_	_	_	_	_	_
+3	ga	ga	_	_	_	_	_	_	_
+4	je	je	_	_	_	_	_	_	_
+5	prijel	prijel	_	_	_	_	_	_	_
+6	za	za	_	_	_	_	_	_	_
+7	rokav	rokav	_	_	_	_	_	_	SpaceAfter=No
+8	.	.	_	_	_	_	_	_	_
+
+# newpar id = 10
+# sent_id = 10.1
+# text = Cefizelj je prosil zamere: »Tujec sem,« je rekel, »deželan, pa sem zadnjič pot zgrešil od peka, da Vas nisem našel.
+1	Cefizelj	Cefizelj	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	prosil	prositi	_	_	_	_	_	_	_
+4	zamere	zamere	_	_	_	_	_	_	SpaceAfter=No
+5	:	biti	_	_	_	_	_	_	_
+6	»	»	_	_	_	_	_	_	SpaceAfter=No
+7	Tujec	tujec	_	_	_	_	_	_	_
+8	sem	samo	_	_	_	_	_	_	SpaceAfter=No
+9	,	,	_	_	_	_	_	_	SpaceAfter=No
+10	«	«	_	_	_	_	_	_	_
+11	je	je	_	_	_	_	_	_	_
+12	rekel	rekel	_	_	_	_	_	_	SpaceAfter=No
+13	,	,	_	_	_	_	_	_	_
+14	»	»	_	_	_	_	_	_	SpaceAfter=No
+15	deželan	deželan	_	_	_	_	_	_	SpaceAfter=No
+16	,	,	_	_	_	_	_	_	_
+17	pa	pa	_	_	_	_	_	_	_
+18	sem	samo	_	_	_	_	_	_	_
+19	zadnjič	zadnjič	_	_	_	_	_	_	_
+20	pot	pot	_	_	_	_	_	_	_
+21	zgrešil	zgrešiti	_	_	_	_	_	_	_
+22	od	od	_	_	_	_	_	_	_
+23	peka	pekaj	_	_	_	_	_	_	SpaceAfter=No
+24	,	,	_	_	_	_	_	_	_
+25	da	da	_	_	_	_	_	_	_
+26	Vas	vas	_	_	_	_	_	_	_
+27	nisem	nis	_	_	_	_	_	_	_
+28	našel	našel	_	_	_	_	_	_	SpaceAfter=No
+29	.	.	_	_	_	_	_	_	_
+
+# sent_id = 10.2
+# text = Ali mi je bilo malo hudo!
+1	Ali	Ali	_	_	_	_	_	_	_
+2	mi	mi	_	_	_	_	_	_	_
+3	je	je	_	_	_	_	_	_	_
+4	bilo	biti	_	_	_	_	_	_	_
+5	malo	malo	_	_	_	_	_	_	_
+6	hudo	hud	_	_	_	_	_	_	SpaceAfter=No
+7	!	!	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 10.3
+# text = « — in je šel s policajem kakor jagnje za materjo.
+1	«	«	_	_	_	_	_	_	_
+2	—	—	_	_	_	_	_	_	_
+3	in	in	_	_	_	_	_	_	_
+4	je	je	_	_	_	_	_	_	_
+5	šel	šel	_	_	_	_	_	_	_
+6	s	s	_	_	_	_	_	_	_
+7	policajem	policaj	_	_	_	_	_	_	_
+8	kakor	kakor	_	_	_	_	_	_	_
+9	jagnje	jagnji	_	_	_	_	_	_	_
+10	za	za	_	_	_	_	_	_	_
+11	materjo	materji	_	_	_	_	_	_	SpaceAfter=No
+12	.	.	_	_	_	_	_	_	_
+
+# newpar id = 11
+# sent_id = 11.1
+# text = Pa prideta mimo peka in Cefizelj se je spomnil, da je lačen, in je lepo prosil in policaj ga je spustil v pekarijo; mislil si je: »Ti si zvit, jaz pa se bolj, to pot mi ne uideš!
+1	Pa	pa	_	_	_	_	_	_	_
+2	prideta	pridet	_	_	_	_	_	_	_
+3	mimo	mimo	_	_	_	_	_	_	_
+4	peka	pekaj	_	_	_	_	_	_	_
+5	in	in	_	_	_	_	_	_	_
+6	Cefizelj	Cefizelj	_	_	_	_	_	_	_
+7	se	se	_	_	_	_	_	_	_
+8	je	je	_	_	_	_	_	_	_
+9	spomnil	spomniti	_	_	_	_	_	_	SpaceAfter=No
+10	,	,	_	_	_	_	_	_	_
+11	da	da	_	_	_	_	_	_	_
+12	je	je	_	_	_	_	_	_	_
+13	lačen	lačen	_	_	_	_	_	_	SpaceAfter=No
+14	,	,	_	_	_	_	_	_	_
+15	in	in	_	_	_	_	_	_	_
+16	je	je	_	_	_	_	_	_	_
+17	lepo	lep	_	_	_	_	_	_	_
+18	prosil	prositi	_	_	_	_	_	_	_
+19	in	in	_	_	_	_	_	_	_
+20	policaj	policaj	_	_	_	_	_	_	_
+21	ga	ga	_	_	_	_	_	_	_
+22	je	je	_	_	_	_	_	_	_
+23	spustil	spustiti	_	_	_	_	_	_	_
+24	v	v	_	_	_	_	_	_	_
+25	pekarijo	pekarij	_	_	_	_	_	_	SpaceAfter=No
+26	;	;	_	_	_	_	_	_	_
+27	mislil	misliti	_	_	_	_	_	_	_
+28	si	si	_	_	_	_	_	_	_
+29	je	je	_	_	_	_	_	_	SpaceAfter=No
+30	:	biti	_	_	_	_	_	_	_
+31	»	»	_	_	_	_	_	_	SpaceAfter=No
+32	Ti	ti	_	_	_	_	_	_	_
+33	si	si	_	_	_	_	_	_	_
+34	zvit	zvit	_	_	_	_	_	_	SpaceAfter=No
+35	,	,	_	_	_	_	_	_	_
+36	jaz	jaz	_	_	_	_	_	_	_
+37	pa	pa	_	_	_	_	_	_	_
+38	se	se	_	_	_	_	_	_	_
+39	bolj	bolj	_	_	_	_	_	_	SpaceAfter=No
+40	,	,	_	_	_	_	_	_	_
+41	to	to	_	_	_	_	_	_	_
+42	pot	pot	_	_	_	_	_	_	_
+43	mi	mi	_	_	_	_	_	_	_
+44	ne	ni	_	_	_	_	_	_	_
+45	uideš	uideš	_	_	_	_	_	_	SpaceAfter=No
+46	!	!	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 11.2
+# text = « in se je postavil na zadnja vrata.
+1	«	«	_	_	_	_	_	_	_
+2	in	in	_	_	_	_	_	_	_
+3	se	se	_	_	_	_	_	_	_
+4	je	je	_	_	_	_	_	_	_
+5	postavil	postaviti	_	_	_	_	_	_	_
+6	na	ni	_	_	_	_	_	_	_
+7	zadnja	zadnji	_	_	_	_	_	_	_
+8	vrata	vrat	_	_	_	_	_	_	SpaceAfter=No
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = 11.3
+# text = In je čakal in čakal, pa ni dočakal, ker je Cefizelj to pot šel zbogom pri sprednjih durih; in je bil policaj sila hud, malo je manjkalo, da ni zaklel.
+1	In	In	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	čakal	čakal	_	_	_	_	_	_	_
+4	in	in	_	_	_	_	_	_	_
+5	čakal	čakal	_	_	_	_	_	_	SpaceAfter=No
+6	,	,	_	_	_	_	_	_	_
+7	pa	pa	_	_	_	_	_	_	_
+8	ni	ni	_	_	_	_	_	_	_
+9	dočakal	dočakati	_	_	_	_	_	_	SpaceAfter=No
+10	,	,	_	_	_	_	_	_	_
+11	ker	kar	_	_	_	_	_	_	_
+12	je	je	_	_	_	_	_	_	_
+13	Cefizelj	Cefizelj	_	_	_	_	_	_	_
+14	to	to	_	_	_	_	_	_	_
+15	pot	pot	_	_	_	_	_	_	_
+16	šel	šel	_	_	_	_	_	_	_
+17	zbogom	zbog	_	_	_	_	_	_	_
+18	pri	pri	_	_	_	_	_	_	_
+19	sprednjih	sprednjih	_	_	_	_	_	_	_
+20	durih	dur	_	_	_	_	_	_	SpaceAfter=No
+21	;	;	_	_	_	_	_	_	_
+22	in	in	_	_	_	_	_	_	_
+23	je	je	_	_	_	_	_	_	_
+24	bil	bil	_	_	_	_	_	_	_
+25	policaj	policaj	_	_	_	_	_	_	_
+26	sila	sil	_	_	_	_	_	_	_
+27	hud	hud	_	_	_	_	_	_	SpaceAfter=No
+28	,	,	_	_	_	_	_	_	_
+29	malo	malo	_	_	_	_	_	_	_
+30	je	je	_	_	_	_	_	_	_
+31	manjkalo	manjkati	_	_	_	_	_	_	SpaceAfter=No
+32	,	,	_	_	_	_	_	_	_
+33	da	da	_	_	_	_	_	_	_
+34	ni	ni	_	_	_	_	_	_	_
+35	zaklel	zaklel	_	_	_	_	_	_	SpaceAfter=No
+36	.	.	_	_	_	_	_	_	_
+
+# newpar id = 12
+# sent_id = 12.1
+# text = Potečejo trije tedni pa Cefizelj spet v Butale in .
+1	Potečejo	poteč	_	_	_	_	_	_	_
+2	trije	trije	_	_	_	_	_	_	_
+3	tedni	teden	_	_	_	_	_	_	_
+4	pa	pa	_	_	_	_	_	_	_
+5	Cefizelj	Cefizelj	_	_	_	_	_	_	_
+6	spet	spet	_	_	_	_	_	_	_
+7	v	v	_	_	_	_	_	_	_
+8	Butale	Butale	_	_	_	_	_	_	_
+9	in	in	_	_	_	_	_	_	_
+10	.	.	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 12.2
+# text = policaju pod nos.
+1	policaju	policaj	_	_	_	_	_	_	_
+2	pod	pod	_	_	_	_	_	_	_
+3	nos	nos	_	_	_	_	_	_	SpaceAfter=No
+4	.	.	_	_	_	_	_	_	_
+
+# newpar id = 13
+# sent_id = 13.1
+# text = »Hop,« je rekel policaj, »ali te imam!
+1	»	»	_	_	_	_	_	_	SpaceAfter=No
+2	Hop	hop	_	_	_	_	_	_	SpaceAfter=No
+3	,	,	_	_	_	_	_	_	SpaceAfter=No
+4	«	«	_	_	_	_	_	_	_
+5	je	je	_	_	_	_	_	_	_
+6	rekel	rekel	_	_	_	_	_	_	_
+7	policaj	policaj	_	_	_	_	_	_	SpaceAfter=No
+8	,	,	_	_	_	_	_	_	_
+9	»	»	_	_	_	_	_	_	SpaceAfter=No
+10	ali	ali	_	_	_	_	_	_	_
+11	te	ti	_	_	_	_	_	_	_
+12	imam	imeti	_	_	_	_	_	_	SpaceAfter=No
+13	!	!	_	_	_	_	_	_	_
+
+# sent_id = 13.2
+# text = Jaz ti pokažem, kaj je butalski policaj, da mu boš uhajal!
+1	Jaz	jaz	_	_	_	_	_	_	_
+2	ti	ti	_	_	_	_	_	_	_
+3	pokažem	pokazaj	_	_	_	_	_	_	SpaceAfter=No
+4	,	,	_	_	_	_	_	_	_
+5	kaj	kaj	_	_	_	_	_	_	_
+6	je	je	_	_	_	_	_	_	_
+7	butalski	butalski	_	_	_	_	_	_	_
+8	policaj	policaj	_	_	_	_	_	_	SpaceAfter=No
+9	,	,	_	_	_	_	_	_	_
+10	da	da	_	_	_	_	_	_	_
+11	mu	mu	_	_	_	_	_	_	_
+12	boš	biti	_	_	_	_	_	_	_
+13	uhajal	uhajati	_	_	_	_	_	_	SpaceAfter=No
+14	!	!	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 13.3
+# text = « in ga je prijel za rokav.
+1	«	«	_	_	_	_	_	_	_
+2	in	in	_	_	_	_	_	_	_
+3	ga	ga	_	_	_	_	_	_	_
+4	je	je	_	_	_	_	_	_	_
+5	prijel	prijel	_	_	_	_	_	_	_
+6	za	za	_	_	_	_	_	_	_
+7	rokav	rokav	_	_	_	_	_	_	SpaceAfter=No
+8	.	.	_	_	_	_	_	_	_
+
+# newpar id = 14
+# sent_id = 14.1
+# text = Cefizelj je prosil zamere: »Ni Vas bilo pred vrati,« je rekel, »pa sem Vas iskal, kje ste; do današnjega dne sem Vas iskal in do tele ure,« in je šel s policajem in se ni nič branil.
+1	Cefizelj	Cefizelj	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	prosil	prositi	_	_	_	_	_	_	_
+4	zamere	zamere	_	_	_	_	_	_	SpaceAfter=No
+5	:	biti	_	_	_	_	_	_	_
+6	»	»	_	_	_	_	_	_	SpaceAfter=No
+7	Ni	Ni	_	_	_	_	_	_	_
+8	Vas	vas	_	_	_	_	_	_	_
+9	bilo	biti	_	_	_	_	_	_	_
+10	pred	pred	_	_	_	_	_	_	_
+11	vrati	vrat	_	_	_	_	_	_	SpaceAfter=No
+12	,	,	_	_	_	_	_	_	SpaceAfter=No
+13	«	«	_	_	_	_	_	_	_
+14	je	je	_	_	_	_	_	_	_
+15	rekel	rekel	_	_	_	_	_	_	SpaceAfter=No
+16	,	,	_	_	_	_	_	_	_
+17	»	»	_	_	_	_	_	_	SpaceAfter=No
+18	pa	pa	_	_	_	_	_	_	_
+19	sem	samo	_	_	_	_	_	_	_
+20	Vas	vas	_	_	_	_	_	_	_
+21	iskal	iskal	_	_	_	_	_	_	SpaceAfter=No
+22	,	,	_	_	_	_	_	_	_
+23	kje	kje	_	_	_	_	_	_	_
+24	ste	ste	_	_	_	_	_	_	SpaceAfter=No
+25	;	;	_	_	_	_	_	_	_
+26	do	do	_	_	_	_	_	_	_
+27	današnjega	današnji	_	_	_	_	_	_	_
+28	dne	dne	_	_	_	_	_	_	_
+29	sem	samo	_	_	_	_	_	_	_
+30	Vas	vas	_	_	_	_	_	_	_
+31	iskal	iskal	_	_	_	_	_	_	_
+32	in	in	_	_	_	_	_	_	_
+33	do	do	_	_	_	_	_	_	_
+34	tele	tele	_	_	_	_	_	_	_
+35	ure	ure	_	_	_	_	_	_	SpaceAfter=No
+36	,	,	_	_	_	_	_	_	SpaceAfter=No
+37	«	«	_	_	_	_	_	_	_
+38	in	in	_	_	_	_	_	_	_
+39	je	je	_	_	_	_	_	_	_
+40	šel	šel	_	_	_	_	_	_	_
+41	s	s	_	_	_	_	_	_	_
+42	policajem	policaj	_	_	_	_	_	_	_
+43	in	in	_	_	_	_	_	_	_
+44	se	se	_	_	_	_	_	_	_
+45	ni	ni	_	_	_	_	_	_	_
+46	nič	nič	_	_	_	_	_	_	_
+47	branil	braniti	_	_	_	_	_	_	SpaceAfter=No
+48	.	.	_	_	_	_	_	_	_
+
+# newpar id = 15
+# sent_id = 15.1
+# text = Prideta mimo peka in si je Cefizelj spet zmislil, da bi šel noter in si kupil koruzni hlebček, in je milo prosil, da nikoli tega.
+1	Prideta	pridet	_	_	_	_	_	_	_
+2	mimo	mimo	_	_	_	_	_	_	_
+3	peka	pekaj	_	_	_	_	_	_	_
+4	in	in	_	_	_	_	_	_	_
+5	si	si	_	_	_	_	_	_	_
+6	je	je	_	_	_	_	_	_	_
+7	Cefizelj	Cefizelj	_	_	_	_	_	_	_
+8	spet	spet	_	_	_	_	_	_	_
+9	zmislil	zmisliti	_	_	_	_	_	_	SpaceAfter=No
+10	,	,	_	_	_	_	_	_	_
+11	da	da	_	_	_	_	_	_	_
+12	bi	bi	_	_	_	_	_	_	_
+13	šel	šel	_	_	_	_	_	_	_
+14	noter	noter	_	_	_	_	_	_	_
+15	in	in	_	_	_	_	_	_	_
+16	si	si	_	_	_	_	_	_	_
+17	kupil	kupiti	_	_	_	_	_	_	_
+18	koruzni	koruzen	_	_	_	_	_	_	_
+19	hlebček	hlebček	_	_	_	_	_	_	SpaceAfter=No
+20	,	,	_	_	_	_	_	_	_
+21	in	in	_	_	_	_	_	_	_
+22	je	je	_	_	_	_	_	_	_
+23	milo	milo	_	_	_	_	_	_	_
+24	prosil	prositi	_	_	_	_	_	_	SpaceAfter=No
+25	,	,	_	_	_	_	_	_	_
+26	da	da	_	_	_	_	_	_	_
+27	nikoli	nihče	_	_	_	_	_	_	_
+28	tega	ta	_	_	_	_	_	_	SpaceAfter=No
+29	.	.	_	_	_	_	_	_	_
+
+# sent_id = 15.2
+# text = Pa je rekel policaj: »Tiček ti, bi mi spet rad ušel — pri tistih durih, ne?
+1	Pa	pa	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	rekel	rekel	_	_	_	_	_	_	_
+4	policaj	policaj	_	_	_	_	_	_	SpaceAfter=No
+5	:	biti	_	_	_	_	_	_	_
+6	»	»	_	_	_	_	_	_	SpaceAfter=No
+7	Tiček	tiček	_	_	_	_	_	_	_
+8	ti	ti	_	_	_	_	_	_	SpaceAfter=No
+9	,	,	_	_	_	_	_	_	_
+10	bi	bi	_	_	_	_	_	_	_
+11	mi	mi	_	_	_	_	_	_	_
+12	spet	spet	_	_	_	_	_	_	_
+13	rad	rad	_	_	_	_	_	_	_
+14	ušel	uiel	_	_	_	_	_	_	_
+15	—	—	_	_	_	_	_	_	_
+16	pri	pri	_	_	_	_	_	_	_
+17	tistih	tisti	_	_	_	_	_	_	_
+18	durih	dur	_	_	_	_	_	_	SpaceAfter=No
+19	,	,	_	_	_	_	_	_	_
+20	ne	ni	_	_	_	_	_	_	SpaceAfter=No
+21	?	?	_	_	_	_	_	_	_
+
+# sent_id = 15.3
+# text = Kjer mene ne bo.
+1	Kjer	kjer	_	_	_	_	_	_	_
+2	mene	mene	_	_	_	_	_	_	_
+3	ne	ni	_	_	_	_	_	_	_
+4	bo	bo	_	_	_	_	_	_	SpaceAfter=No
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 15.4
+# text = Ne boš, Jaka!
+1	Ne	Ni	_	_	_	_	_	_	_
+2	boš	biti	_	_	_	_	_	_	SpaceAfter=No
+3	,	,	_	_	_	_	_	_	_
+4	Jaka	jak	_	_	_	_	_	_	SpaceAfter=No
+5	!	!	_	_	_	_	_	_	_
+
+# sent_id = 15.5
+# text = Daj semkaj groš, grem sam kupit koruzni hlebček, pa me ti čakaj tukajle!
+1	Daj	daj	_	_	_	_	_	_	_
+2	semkaj	semkaj	_	_	_	_	_	_	_
+3	groš	groš	_	_	_	_	_	_	SpaceAfter=No
+4	,	,	_	_	_	_	_	_	_
+5	grem	grije	_	_	_	_	_	_	_
+6	sam	samo	_	_	_	_	_	_	_
+7	kupit	kupit	_	_	_	_	_	_	_
+8	koruzni	koruzen	_	_	_	_	_	_	_
+9	hlebček	hlebček	_	_	_	_	_	_	SpaceAfter=No
+10	,	,	_	_	_	_	_	_	_
+11	pa	pa	_	_	_	_	_	_	_
+12	me	me	_	_	_	_	_	_	_
+13	ti	ti	_	_	_	_	_	_	_
+14	čakaj	čakaj	_	_	_	_	_	_	_
+15	tukajle	tukajti	_	_	_	_	_	_	SpaceAfter=No
+16	!	!	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 15.6
+# text = «
+1	«	«	_	_	_	_	_	_	_
+
+# newpar id = 16
+# sent_id = 16.1
+# text = In je policaj šel in kupil in prišel nazaj in ko je hotel Cefizlju dati hlebček, ni bilo več Cefizlja.
+1	In	In	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	policaj	policaj	_	_	_	_	_	_	_
+4	šel	šel	_	_	_	_	_	_	_
+5	in	in	_	_	_	_	_	_	_
+6	kupil	kupiti	_	_	_	_	_	_	_
+7	in	in	_	_	_	_	_	_	_
+8	prišel	prišel	_	_	_	_	_	_	_
+9	nazaj	nazaj	_	_	_	_	_	_	_
+10	in	in	_	_	_	_	_	_	_
+11	ko	koj	_	_	_	_	_	_	_
+12	je	je	_	_	_	_	_	_	_
+13	hotel	hotel	_	_	_	_	_	_	_
+14	Cefizlju	Cefizelj	_	_	_	_	_	_	_
+15	dati	dati	_	_	_	_	_	_	_
+16	hlebček	hlebček	_	_	_	_	_	_	SpaceAfter=No
+17	,	,	_	_	_	_	_	_	_
+18	ni	ni	_	_	_	_	_	_	_
+19	bilo	biti	_	_	_	_	_	_	_
+20	več	več	_	_	_	_	_	_	_
+21	Cefizlja	Cefizelj	_	_	_	_	_	_	SpaceAfter=No
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = 16.2
+# text = In je bil policaj tako jezen, da je jezik pokazal za Cefizljem, in je še dobro, da Cefizelj tega ni videl; zakaj Cefizelj je bil grozanski ropar, ki so pravili, da je že sedem ljudi zadušil in pa tri ženske.
+1	In	In	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	bil	bil	_	_	_	_	_	_	_
+4	policaj	policaj	_	_	_	_	_	_	_
+5	tako	tako	_	_	_	_	_	_	_
+6	jezen	jezen	_	_	_	_	_	_	SpaceAfter=No
+7	,	,	_	_	_	_	_	_	_
+8	da	da	_	_	_	_	_	_	_
+9	je	je	_	_	_	_	_	_	_
+10	jezik	jezik	_	_	_	_	_	_	_
+11	pokazal	pokazal	_	_	_	_	_	_	_
+12	za	za	_	_	_	_	_	_	_
+13	Cefizljem	Cefizelj	_	_	_	_	_	_	SpaceAfter=No
+14	,	,	_	_	_	_	_	_	_
+15	in	in	_	_	_	_	_	_	_
+16	je	je	_	_	_	_	_	_	_
+17	še	še	_	_	_	_	_	_	_
+18	dobro	dobro	_	_	_	_	_	_	SpaceAfter=No
+19	,	,	_	_	_	_	_	_	_
+20	da	da	_	_	_	_	_	_	_
+21	Cefizelj	Cefizelj	_	_	_	_	_	_	_
+22	tega	ta	_	_	_	_	_	_	_
+23	ni	ni	_	_	_	_	_	_	_
+24	videl	videl	_	_	_	_	_	_	SpaceAfter=No
+25	;	;	_	_	_	_	_	_	_
+26	zakaj	zakaj	_	_	_	_	_	_	_
+27	Cefizelj	Cefizelj	_	_	_	_	_	_	_
+28	je	je	_	_	_	_	_	_	_
+29	bil	bil	_	_	_	_	_	_	_
+30	grozanski	grozanski	_	_	_	_	_	_	_
+31	ropar	ropar	_	_	_	_	_	_	SpaceAfter=No
+32	,	,	_	_	_	_	_	_	_
+33	ki	ki	_	_	_	_	_	_	_
+34	so	so	_	_	_	_	_	_	_
+35	pravili	praviti	_	_	_	_	_	_	SpaceAfter=No
+36	,	,	_	_	_	_	_	_	_
+37	da	da	_	_	_	_	_	_	_
+38	je	je	_	_	_	_	_	_	_
+39	že	že	_	_	_	_	_	_	_
+40	sedem	sedem	_	_	_	_	_	_	_
+41	ljudi	ljud	_	_	_	_	_	_	_
+42	zadušil	zadušiti	_	_	_	_	_	_	_
+43	in	in	_	_	_	_	_	_	_
+44	pa	pa	_	_	_	_	_	_	_
+45	tri	trije	_	_	_	_	_	_	_
+46	ženske	ženski	_	_	_	_	_	_	SpaceAfter=No
+47	.	.	_	_	_	_	_	_	_
+

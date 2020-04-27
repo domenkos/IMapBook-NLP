@@ -1,0 +1,2275 @@
+# newpar id = 1
+# sent_id = 1.1
+# text = ﻿Veveriček posebne sorte
+1	﻿	_	_	_	_	_	_	_	SpaceAfter=No
+2	Veveriček	_	_	_	_	_	_	_	_
+3	posebne	_	_	_	_	_	_	_	_
+4	sorte	_	_	_	_	_	_	_	_
+
+# newpar id = 2
+# sent_id = 2.1
+# text = Makarovič, Svetlana Že v začetku strašno srečanje z oblakom1; Veveriček posebne sorte2 (4. r.)
+1	Makarovič	_	_	_	_	_	_	_	SpaceAfter=No
+2	,	_	_	_	_	_	_	_	_
+3	Svetlana	_	_	_	_	_	_	_	_
+4	Že	_	_	_	_	_	_	_	_
+5	v	_	_	_	_	_	_	_	_
+6	začetku	_	_	_	_	_	_	_	_
+7	strašno	_	_	_	_	_	_	_	_
+8	srečanje	_	_	_	_	_	_	_	_
+9	z	_	_	_	_	_	_	_	_
+10	oblakom1	_	_	_	_	_	_	_	SpaceAfter=No
+11	;	_	_	_	_	_	_	_	_
+12	Veveriček	_	_	_	_	_	_	_	_
+13	posebne	_	_	_	_	_	_	_	_
+14	sorte2	_	_	_	_	_	_	_	_
+15	(	_	_	_	_	_	_	_	SpaceAfter=No
+16	4.	_	_	_	_	_	_	_	_
+17	r.	_	_	_	_	_	_	_	SpaceAfter=No
+18	)	_	_	_	_	_	_	_	_
+
+# newpar id = 3
+# sent_id = 3.1
+# text = Tih aprilski dež je rosil na smrekovje Veveričjega gaja, ko je v rano jutro zavreščala šoja: »Novica!
+1	Tih	_	_	_	_	_	_	_	_
+2	aprilski	_	_	_	_	_	_	_	_
+3	dež	_	_	_	_	_	_	_	_
+4	je	_	_	_	_	_	_	_	_
+5	rosil	_	_	_	_	_	_	_	_
+6	na	_	_	_	_	_	_	_	_
+7	smrekovje	_	_	_	_	_	_	_	_
+8	Veveričjega	_	_	_	_	_	_	_	_
+9	gaja	_	_	_	_	_	_	_	SpaceAfter=No
+10	,	_	_	_	_	_	_	_	_
+11	ko	_	_	_	_	_	_	_	_
+12	je	_	_	_	_	_	_	_	_
+13	v	_	_	_	_	_	_	_	_
+14	rano	_	_	_	_	_	_	_	_
+15	jutro	_	_	_	_	_	_	_	_
+16	zavreščala	_	_	_	_	_	_	_	_
+17	šoja	_	_	_	_	_	_	_	SpaceAfter=No
+18	:	_	_	_	_	_	_	_	_
+19	»	_	_	_	_	_	_	_	SpaceAfter=No
+20	Novica	_	_	_	_	_	_	_	SpaceAfter=No
+21	!	_	_	_	_	_	_	_	_
+
+# sent_id = 3.2
+# text = Velika novica!
+1	Velika	_	_	_	_	_	_	_	_
+2	novica	_	_	_	_	_	_	_	SpaceAfter=No
+3	!	_	_	_	_	_	_	_	_
+
+# sent_id = 3.3
+# text = Veverica Puhanka je postala mama!
+1	Veverica	_	_	_	_	_	_	_	_
+2	Puhanka	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	postala	_	_	_	_	_	_	_	_
+5	mama	_	_	_	_	_	_	_	SpaceAfter=No
+6	!	_	_	_	_	_	_	_	_
+
+# sent_id = 3.4
+# text = Skotila je pet mladičkov!
+1	Skotila	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	pet	_	_	_	_	_	_	_	_
+4	mladičkov	_	_	_	_	_	_	_	SpaceAfter=No
+5	!	_	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 3.5
+# text = «
+1	«	_	_	_	_	_	_	_	_
+
+# newpar id = 4
+# sent_id = 4.1
+# text = Je ni novice v gozdu, veste, ki bi je šoja ne izvedela prva!
+1	Je	_	_	_	_	_	_	_	_
+2	ni	_	_	_	_	_	_	_	_
+3	novice	_	_	_	_	_	_	_	_
+4	v	_	_	_	_	_	_	_	_
+5	gozdu	_	_	_	_	_	_	_	SpaceAfter=No
+6	,	_	_	_	_	_	_	_	_
+7	veste	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	ki	_	_	_	_	_	_	_	_
+10	bi	_	_	_	_	_	_	_	_
+11	je	_	_	_	_	_	_	_	_
+12	šoja	_	_	_	_	_	_	_	_
+13	ne	_	_	_	_	_	_	_	_
+14	izvedela	_	_	_	_	_	_	_	_
+15	prva	_	_	_	_	_	_	_	SpaceAfter=No
+16	!	_	_	_	_	_	_	_	_
+
+# sent_id = 4.2
+# text = In seveda je morala tudi tole pri priči razkričati naokrog.
+1	In	_	_	_	_	_	_	_	_
+2	seveda	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	morala	_	_	_	_	_	_	_	_
+5	tudi	_	_	_	_	_	_	_	_
+6	tole	_	_	_	_	_	_	_	_
+7	pri	_	_	_	_	_	_	_	_
+8	priči	_	_	_	_	_	_	_	_
+9	razkričati	_	_	_	_	_	_	_	_
+10	naokrog	_	_	_	_	_	_	_	SpaceAfter=No
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = 4.3
+# text = Zajčja družina je veselo zamrdala z gobčki: Kar pet novih veveric, imenitno!
+1	Zajčja	_	_	_	_	_	_	_	_
+2	družina	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	veselo	_	_	_	_	_	_	_	_
+5	zamrdala	_	_	_	_	_	_	_	_
+6	z	_	_	_	_	_	_	_	_
+7	gobčki	_	_	_	_	_	_	_	SpaceAfter=No
+8	:	_	_	_	_	_	_	_	_
+9	Kar	_	_	_	_	_	_	_	_
+10	pet	_	_	_	_	_	_	_	_
+11	novih	_	_	_	_	_	_	_	_
+12	veveric	_	_	_	_	_	_	_	SpaceAfter=No
+13	,	_	_	_	_	_	_	_	_
+14	imenitno	_	_	_	_	_	_	_	SpaceAfter=No
+15	!	_	_	_	_	_	_	_	_
+
+# sent_id = 4.4
+# text = Le brž naj zrastejo, da se bomo lahko skupaj lovili pa skrivali!
+1	Le	_	_	_	_	_	_	_	_
+2	brž	_	_	_	_	_	_	_	_
+3	naj	_	_	_	_	_	_	_	_
+4	zrastejo	_	_	_	_	_	_	_	SpaceAfter=No
+5	,	_	_	_	_	_	_	_	_
+6	da	_	_	_	_	_	_	_	_
+7	se	_	_	_	_	_	_	_	_
+8	bomo	_	_	_	_	_	_	_	_
+9	lahko	_	_	_	_	_	_	_	_
+10	skupaj	_	_	_	_	_	_	_	_
+11	lovili	_	_	_	_	_	_	_	_
+12	pa	_	_	_	_	_	_	_	_
+13	skrivali	_	_	_	_	_	_	_	SpaceAfter=No
+14	!	_	_	_	_	_	_	_	_
+
+# newpar id = 5
+# sent_id = 5.1
+# text = Pa ne samo zajci, tudi miške, ki so velike prijateljice veveric, so se silno razveselile in radovedno opazovale pod košato smreko, kjer si je bila uredila Puhanka prijetno bivališče v topli duplini visoko v krošnji.
+1	Pa	_	_	_	_	_	_	_	_
+2	ne	_	_	_	_	_	_	_	_
+3	samo	_	_	_	_	_	_	_	_
+4	zajci	_	_	_	_	_	_	_	SpaceAfter=No
+5	,	_	_	_	_	_	_	_	_
+6	tudi	_	_	_	_	_	_	_	_
+7	miške	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	ki	_	_	_	_	_	_	_	_
+10	so	_	_	_	_	_	_	_	_
+11	velike	_	_	_	_	_	_	_	_
+12	prijateljice	_	_	_	_	_	_	_	_
+13	veveric	_	_	_	_	_	_	_	SpaceAfter=No
+14	,	_	_	_	_	_	_	_	_
+15	so	_	_	_	_	_	_	_	_
+16	se	_	_	_	_	_	_	_	_
+17	silno	_	_	_	_	_	_	_	_
+18	razveselile	_	_	_	_	_	_	_	_
+19	in	_	_	_	_	_	_	_	_
+20	radovedno	_	_	_	_	_	_	_	_
+21	opazovale	_	_	_	_	_	_	_	_
+22	pod	_	_	_	_	_	_	_	_
+23	košato	_	_	_	_	_	_	_	_
+24	smreko	_	_	_	_	_	_	_	SpaceAfter=No
+25	,	_	_	_	_	_	_	_	_
+26	kjer	_	_	_	_	_	_	_	_
+27	si	_	_	_	_	_	_	_	_
+28	je	_	_	_	_	_	_	_	_
+29	bila	_	_	_	_	_	_	_	_
+30	uredila	_	_	_	_	_	_	_	_
+31	Puhanka	_	_	_	_	_	_	_	_
+32	prijetno	_	_	_	_	_	_	_	_
+33	bivališče	_	_	_	_	_	_	_	_
+34	v	_	_	_	_	_	_	_	_
+35	topli	_	_	_	_	_	_	_	_
+36	duplini	_	_	_	_	_	_	_	_
+37	visoko	_	_	_	_	_	_	_	_
+38	v	_	_	_	_	_	_	_	_
+39	krošnji	_	_	_	_	_	_	_	SpaceAfter=No
+40	.	_	_	_	_	_	_	_	_
+
+# newpar id = 6
+# sent_id = 6.1
+# text = Puhanka, ki so se k njej pritiskali mladički, še vsi goli in nebogljeni, je seveda slišala navdušene klice od zunaj.
+1	Puhanka	_	_	_	_	_	_	_	SpaceAfter=No
+2	,	_	_	_	_	_	_	_	_
+3	ki	_	_	_	_	_	_	_	_
+4	so	_	_	_	_	_	_	_	_
+5	se	_	_	_	_	_	_	_	_
+6	k	_	_	_	_	_	_	_	_
+7	njej	_	_	_	_	_	_	_	_
+8	pritiskali	_	_	_	_	_	_	_	_
+9	mladički	_	_	_	_	_	_	_	SpaceAfter=No
+10	,	_	_	_	_	_	_	_	_
+11	še	_	_	_	_	_	_	_	_
+12	vsi	_	_	_	_	_	_	_	_
+13	goli	_	_	_	_	_	_	_	_
+14	in	_	_	_	_	_	_	_	_
+15	nebogljeni	_	_	_	_	_	_	_	SpaceAfter=No
+16	,	_	_	_	_	_	_	_	_
+17	je	_	_	_	_	_	_	_	_
+18	seveda	_	_	_	_	_	_	_	_
+19	slišala	_	_	_	_	_	_	_	_
+20	navdušene	_	_	_	_	_	_	_	_
+21	klice	_	_	_	_	_	_	_	_
+22	od	_	_	_	_	_	_	_	_
+23	zunaj	_	_	_	_	_	_	_	SpaceAfter=No
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = 6.2
+# text = Zadovoljno je mežikala in si predstavljala, kako veselo bo, ko bodo tem njenim nerodnim kepicam zrasli puhasti kožuščki in košati repki; ko se bodo njihove črne očke odprle in se radovedno razgledale naokrog.
+1	Zadovoljno	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	mežikala	_	_	_	_	_	_	_	_
+4	in	_	_	_	_	_	_	_	_
+5	si	_	_	_	_	_	_	_	_
+6	predstavljala	_	_	_	_	_	_	_	SpaceAfter=No
+7	,	_	_	_	_	_	_	_	_
+8	kako	_	_	_	_	_	_	_	_
+9	veselo	_	_	_	_	_	_	_	_
+10	bo	_	_	_	_	_	_	_	SpaceAfter=No
+11	,	_	_	_	_	_	_	_	_
+12	ko	_	_	_	_	_	_	_	_
+13	bodo	_	_	_	_	_	_	_	_
+14	tem	_	_	_	_	_	_	_	_
+15	njenim	_	_	_	_	_	_	_	_
+16	nerodnim	_	_	_	_	_	_	_	_
+17	kepicam	_	_	_	_	_	_	_	_
+18	zrasli	_	_	_	_	_	_	_	_
+19	puhasti	_	_	_	_	_	_	_	_
+20	kožuščki	_	_	_	_	_	_	_	_
+21	in	_	_	_	_	_	_	_	_
+22	košati	_	_	_	_	_	_	_	_
+23	repki	_	_	_	_	_	_	_	SpaceAfter=No
+24	;	_	_	_	_	_	_	_	_
+25	ko	_	_	_	_	_	_	_	_
+26	se	_	_	_	_	_	_	_	_
+27	bodo	_	_	_	_	_	_	_	_
+28	njihove	_	_	_	_	_	_	_	_
+29	črne	_	_	_	_	_	_	_	_
+30	očke	_	_	_	_	_	_	_	_
+31	odprle	_	_	_	_	_	_	_	_
+32	in	_	_	_	_	_	_	_	_
+33	se	_	_	_	_	_	_	_	_
+34	radovedno	_	_	_	_	_	_	_	_
+35	razgledale	_	_	_	_	_	_	_	_
+36	naokrog	_	_	_	_	_	_	_	SpaceAfter=No
+37	.	_	_	_	_	_	_	_	_
+
+# sent_id = 6.3
+# text = In takrat šele, takrat, ko bodo dovolj krepki za prvi skok na bližnje drevo!
+1	In	_	_	_	_	_	_	_	_
+2	takrat	_	_	_	_	_	_	_	_
+3	šele	_	_	_	_	_	_	_	SpaceAfter=No
+4	,	_	_	_	_	_	_	_	_
+5	takrat	_	_	_	_	_	_	_	SpaceAfter=No
+6	,	_	_	_	_	_	_	_	_
+7	ko	_	_	_	_	_	_	_	_
+8	bodo	_	_	_	_	_	_	_	_
+9	dovolj	_	_	_	_	_	_	_	_
+10	krepki	_	_	_	_	_	_	_	_
+11	za	_	_	_	_	_	_	_	_
+12	prvi	_	_	_	_	_	_	_	_
+13	skok	_	_	_	_	_	_	_	_
+14	na	_	_	_	_	_	_	_	_
+15	bližnje	_	_	_	_	_	_	_	_
+16	drevo	_	_	_	_	_	_	_	SpaceAfter=No
+17	!	_	_	_	_	_	_	_	_
+
+# sent_id = 6.4
+# text = In ko bodo znali z ostalimi zobki že mojstrsko oglodati storž in ga spretno zalučati tako, da bo priletel ravno lisici na bučo!
+1	In	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	bodo	_	_	_	_	_	_	_	_
+4	znali	_	_	_	_	_	_	_	_
+5	z	_	_	_	_	_	_	_	_
+6	ostalimi	_	_	_	_	_	_	_	_
+7	zobki	_	_	_	_	_	_	_	_
+8	že	_	_	_	_	_	_	_	_
+9	mojstrsko	_	_	_	_	_	_	_	_
+10	oglodati	_	_	_	_	_	_	_	_
+11	storž	_	_	_	_	_	_	_	_
+12	in	_	_	_	_	_	_	_	_
+13	ga	_	_	_	_	_	_	_	_
+14	spretno	_	_	_	_	_	_	_	_
+15	zalučati	_	_	_	_	_	_	_	_
+16	tako	_	_	_	_	_	_	_	SpaceAfter=No
+17	,	_	_	_	_	_	_	_	_
+18	da	_	_	_	_	_	_	_	_
+19	bo	_	_	_	_	_	_	_	_
+20	priletel	_	_	_	_	_	_	_	_
+21	ravno	_	_	_	_	_	_	_	_
+22	lisici	_	_	_	_	_	_	_	_
+23	na	_	_	_	_	_	_	_	_
+24	bučo	_	_	_	_	_	_	_	SpaceAfter=No
+25	!	_	_	_	_	_	_	_	_
+
+# sent_id = 6.5
+# text = Oh, kako bo mama Puhanka ponosna!
+1	Oh	_	_	_	_	_	_	_	SpaceAfter=No
+2	,	_	_	_	_	_	_	_	_
+3	kako	_	_	_	_	_	_	_	_
+4	bo	_	_	_	_	_	_	_	_
+5	mama	_	_	_	_	_	_	_	_
+6	Puhanka	_	_	_	_	_	_	_	_
+7	ponosna	_	_	_	_	_	_	_	SpaceAfter=No
+8	!	_	_	_	_	_	_	_	_
+
+# newpar id = 7
+# sent_id = 7.1
+# text = Tekli so dnevi, veveričke so rasle in se krepile.
+1	Tekli	_	_	_	_	_	_	_	_
+2	so	_	_	_	_	_	_	_	_
+3	dnevi	_	_	_	_	_	_	_	SpaceAfter=No
+4	,	_	_	_	_	_	_	_	_
+5	veveričke	_	_	_	_	_	_	_	_
+6	so	_	_	_	_	_	_	_	_
+7	rasle	_	_	_	_	_	_	_	_
+8	in	_	_	_	_	_	_	_	_
+9	se	_	_	_	_	_	_	_	_
+10	krepile	_	_	_	_	_	_	_	SpaceAfter=No
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = 7.2
+# text = Trije veverički in dve veverici so se prerivali in kobacali po duplini in potem - potem je nekega sončnega jutra najkrepkejši veveriček pokukal na plan in se splazil na vejo.
+1	Trije	_	_	_	_	_	_	_	_
+2	veverički	_	_	_	_	_	_	_	_
+3	in	_	_	_	_	_	_	_	_
+4	dve	_	_	_	_	_	_	_	_
+5	veverici	_	_	_	_	_	_	_	_
+6	so	_	_	_	_	_	_	_	_
+7	se	_	_	_	_	_	_	_	_
+8	prerivali	_	_	_	_	_	_	_	_
+9	in	_	_	_	_	_	_	_	_
+10	kobacali	_	_	_	_	_	_	_	_
+11	po	_	_	_	_	_	_	_	_
+12	duplini	_	_	_	_	_	_	_	_
+13	in	_	_	_	_	_	_	_	_
+14	potem	_	_	_	_	_	_	_	_
+15	-	_	_	_	_	_	_	_	_
+16	potem	_	_	_	_	_	_	_	_
+17	je	_	_	_	_	_	_	_	_
+18	nekega	_	_	_	_	_	_	_	_
+19	sončnega	_	_	_	_	_	_	_	_
+20	jutra	_	_	_	_	_	_	_	_
+21	najkrepkejši	_	_	_	_	_	_	_	_
+22	veveriček	_	_	_	_	_	_	_	_
+23	pokukal	_	_	_	_	_	_	_	_
+24	na	_	_	_	_	_	_	_	_
+25	plan	_	_	_	_	_	_	_	_
+26	in	_	_	_	_	_	_	_	_
+27	se	_	_	_	_	_	_	_	_
+28	splazil	_	_	_	_	_	_	_	_
+29	na	_	_	_	_	_	_	_	_
+30	vejo	_	_	_	_	_	_	_	SpaceAfter=No
+31	.	_	_	_	_	_	_	_	_
+
+# newpar id = 8
+# sent_id = 8.1
+# text = Nekaj časa je osuplo zijal okoli sebe, potem pa je nenadoma začutil v drobnem telesu silno željo po gibanju.
+1	Nekaj	_	_	_	_	_	_	_	_
+2	časa	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	osuplo	_	_	_	_	_	_	_	_
+5	zijal	_	_	_	_	_	_	_	_
+6	okoli	_	_	_	_	_	_	_	_
+7	sebe	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	potem	_	_	_	_	_	_	_	_
+10	pa	_	_	_	_	_	_	_	_
+11	je	_	_	_	_	_	_	_	_
+12	nenadoma	_	_	_	_	_	_	_	_
+13	začutil	_	_	_	_	_	_	_	_
+14	v	_	_	_	_	_	_	_	_
+15	drobnem	_	_	_	_	_	_	_	_
+16	telesu	_	_	_	_	_	_	_	_
+17	silno	_	_	_	_	_	_	_	_
+18	željo	_	_	_	_	_	_	_	_
+19	po	_	_	_	_	_	_	_	_
+20	gibanju	_	_	_	_	_	_	_	SpaceAfter=No
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = 8.2
+# text = In sam ni vedel, kdaj in kako - pa se je že odgnal in v dolgem skoku pristal na veji bližnje bukve.
+1	In	_	_	_	_	_	_	_	_
+2	sam	_	_	_	_	_	_	_	_
+3	ni	_	_	_	_	_	_	_	_
+4	vedel	_	_	_	_	_	_	_	SpaceAfter=No
+5	,	_	_	_	_	_	_	_	_
+6	kdaj	_	_	_	_	_	_	_	_
+7	in	_	_	_	_	_	_	_	_
+8	kako	_	_	_	_	_	_	_	_
+9	-	_	_	_	_	_	_	_	_
+10	pa	_	_	_	_	_	_	_	_
+11	se	_	_	_	_	_	_	_	_
+12	je	_	_	_	_	_	_	_	_
+13	že	_	_	_	_	_	_	_	_
+14	odgnal	_	_	_	_	_	_	_	_
+15	in	_	_	_	_	_	_	_	_
+16	v	_	_	_	_	_	_	_	_
+17	dolgem	_	_	_	_	_	_	_	_
+18	skoku	_	_	_	_	_	_	_	_
+19	pristal	_	_	_	_	_	_	_	_
+20	na	_	_	_	_	_	_	_	_
+21	veji	_	_	_	_	_	_	_	_
+22	bližnje	_	_	_	_	_	_	_	_
+23	bukve	_	_	_	_	_	_	_	SpaceAfter=No
+24	.	_	_	_	_	_	_	_	_
+
+# newpar id = 9
+# sent_id = 9.1
+# text = »Hej!
+1	»	_	_	_	_	_	_	_	SpaceAfter=No
+2	Hej	_	_	_	_	_	_	_	SpaceAfter=No
+3	!	_	_	_	_	_	_	_	_
+
+# sent_id = 9.2
+# text = JUHU!
+1	JUHU	_	_	_	_	_	_	_	SpaceAfter=No
+2	!	_	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 9.3
+# text = « je zacvilil in se veselo zahihital.
+1	«	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	zacvilil	_	_	_	_	_	_	_	_
+4	in	_	_	_	_	_	_	_	_
+5	se	_	_	_	_	_	_	_	_
+6	veselo	_	_	_	_	_	_	_	_
+7	zahihital	_	_	_	_	_	_	_	SpaceAfter=No
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 9.4
+# text = »Si me videla, mama?
+1	»	_	_	_	_	_	_	_	SpaceAfter=No
+2	Si	_	_	_	_	_	_	_	_
+3	me	_	_	_	_	_	_	_	_
+4	videla	_	_	_	_	_	_	_	SpaceAfter=No
+5	,	_	_	_	_	_	_	_	_
+6	mama	_	_	_	_	_	_	_	SpaceAfter=No
+7	?	_	_	_	_	_	_	_	_
+
+# sent_id = 9.5
+# text = Ste me videli, vi vsi?
+1	Ste	_	_	_	_	_	_	_	_
+2	me	_	_	_	_	_	_	_	_
+3	videli	_	_	_	_	_	_	_	SpaceAfter=No
+4	,	_	_	_	_	_	_	_	_
+5	vi	_	_	_	_	_	_	_	_
+6	vsi	_	_	_	_	_	_	_	SpaceAfter=No
+7	?	_	_	_	_	_	_	_	_
+
+# sent_id = 9.6
+# text = Hu, kako sem skočil!
+1	Hu	_	_	_	_	_	_	_	SpaceAfter=No
+2	,	_	_	_	_	_	_	_	_
+3	kako	_	_	_	_	_	_	_	_
+4	sem	_	_	_	_	_	_	_	_
+5	skočil	_	_	_	_	_	_	_	SpaceAfter=No
+6	!	_	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 9.7
+# text = «
+1	«	_	_	_	_	_	_	_	_
+
+# newpar id = 10
+# sent_id = 10.1
+# text = Mama Puhanka je bila spočetka nekoliko zaskrbljena, kot pač vse mame, zmajevala je z glavo in klicala: »Previdno, otroci, previdno!
+1	Mama	_	_	_	_	_	_	_	_
+2	Puhanka	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	bila	_	_	_	_	_	_	_	_
+5	spočetka	_	_	_	_	_	_	_	_
+6	nekoliko	_	_	_	_	_	_	_	_
+7	zaskrbljena	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	kot	_	_	_	_	_	_	_	_
+10	pač	_	_	_	_	_	_	_	_
+11	vse	_	_	_	_	_	_	_	_
+12	mame	_	_	_	_	_	_	_	SpaceAfter=No
+13	,	_	_	_	_	_	_	_	_
+14	zmajevala	_	_	_	_	_	_	_	_
+15	je	_	_	_	_	_	_	_	_
+16	z	_	_	_	_	_	_	_	_
+17	glavo	_	_	_	_	_	_	_	_
+18	in	_	_	_	_	_	_	_	_
+19	klicala	_	_	_	_	_	_	_	SpaceAfter=No
+20	:	_	_	_	_	_	_	_	_
+21	»	_	_	_	_	_	_	_	SpaceAfter=No
+22	Previdno	_	_	_	_	_	_	_	SpaceAfter=No
+23	,	_	_	_	_	_	_	_	_
+24	otroci	_	_	_	_	_	_	_	SpaceAfter=No
+25	,	_	_	_	_	_	_	_	_
+26	previdno	_	_	_	_	_	_	_	SpaceAfter=No
+27	!	_	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 10.2
+# text = « Zraven pa jo je seveda kar razganjalo od ponosa, ko sta se ojunačili še obe veverički in kar poleteli na bližnje drevo.
+1	«	_	_	_	_	_	_	_	_
+2	Zraven	_	_	_	_	_	_	_	_
+3	pa	_	_	_	_	_	_	_	_
+4	jo	_	_	_	_	_	_	_	_
+5	je	_	_	_	_	_	_	_	_
+6	seveda	_	_	_	_	_	_	_	_
+7	kar	_	_	_	_	_	_	_	_
+8	razganjalo	_	_	_	_	_	_	_	_
+9	od	_	_	_	_	_	_	_	_
+10	ponosa	_	_	_	_	_	_	_	SpaceAfter=No
+11	,	_	_	_	_	_	_	_	_
+12	ko	_	_	_	_	_	_	_	_
+13	sta	_	_	_	_	_	_	_	_
+14	se	_	_	_	_	_	_	_	_
+15	ojunačili	_	_	_	_	_	_	_	_
+16	še	_	_	_	_	_	_	_	_
+17	obe	_	_	_	_	_	_	_	_
+18	veverički	_	_	_	_	_	_	_	_
+19	in	_	_	_	_	_	_	_	_
+20	kar	_	_	_	_	_	_	_	_
+21	poleteli	_	_	_	_	_	_	_	_
+22	na	_	_	_	_	_	_	_	_
+23	bližnje	_	_	_	_	_	_	_	_
+24	drevo	_	_	_	_	_	_	_	SpaceAfter=No
+25	.	_	_	_	_	_	_	_	_
+
+# newpar id = 11
+# sent_id = 11.1
+# text = Potlej se je odgnal še bratec - hop!
+1	Potlej	_	_	_	_	_	_	_	_
+2	se	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	odgnal	_	_	_	_	_	_	_	_
+5	še	_	_	_	_	_	_	_	_
+6	bratec	_	_	_	_	_	_	_	_
+7	-	_	_	_	_	_	_	_	_
+8	hop	_	_	_	_	_	_	_	SpaceAfter=No
+9	!	_	_	_	_	_	_	_	_
+
+# sent_id = 11.2
+# text = To je bilo smeha in veselega vzklikanja!
+1	To	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	bilo	_	_	_	_	_	_	_	_
+4	smeha	_	_	_	_	_	_	_	_
+5	in	_	_	_	_	_	_	_	_
+6	veselega	_	_	_	_	_	_	_	_
+7	vzklikanja	_	_	_	_	_	_	_	SpaceAfter=No
+8	!	_	_	_	_	_	_	_	_
+
+# sent_id = 11.3
+# text = Ampak...
+1	Ampak	_	_	_	_	_	_	_	SpaceAfter=No
+2	...	_	_	_	_	_	_	_	_
+
+# newpar id = 12
+# sent_id = 12.1
+# text = Ampak najmanjši veveriček je še kar čepel na veji pred domačo duplino in se nerodno prekladal sem in tja.
+1	Ampak	_	_	_	_	_	_	_	_
+2	najmanjši	_	_	_	_	_	_	_	_
+3	veveriček	_	_	_	_	_	_	_	_
+4	je	_	_	_	_	_	_	_	_
+5	še	_	_	_	_	_	_	_	_
+6	kar	_	_	_	_	_	_	_	_
+7	čepel	_	_	_	_	_	_	_	_
+8	na	_	_	_	_	_	_	_	_
+9	veji	_	_	_	_	_	_	_	_
+10	pred	_	_	_	_	_	_	_	_
+11	domačo	_	_	_	_	_	_	_	_
+12	duplino	_	_	_	_	_	_	_	_
+13	in	_	_	_	_	_	_	_	_
+14	se	_	_	_	_	_	_	_	_
+15	nerodno	_	_	_	_	_	_	_	_
+16	prekladal	_	_	_	_	_	_	_	_
+17	sem	_	_	_	_	_	_	_	_
+18	in	_	_	_	_	_	_	_	_
+19	tja	_	_	_	_	_	_	_	SpaceAfter=No
+20	.	_	_	_	_	_	_	_	_
+
+# newpar id = 13
+# sent_id = 13.1
+# text = »No, Čopko,«  je zaklicala mama, »kar s korajžo!
+1	»	_	_	_	_	_	_	_	SpaceAfter=No
+2	No	_	_	_	_	_	_	_	SpaceAfter=No
+3	,	_	_	_	_	_	_	_	_
+4	Čopko	_	_	_	_	_	_	_	SpaceAfter=No
+5	,	_	_	_	_	_	_	_	SpaceAfter=No
+6	«	_	_	_	_	_	_	_	_
+7	je	_	_	_	_	_	_	_	_
+8	zaklicala	_	_	_	_	_	_	_	_
+9	mama	_	_	_	_	_	_	_	SpaceAfter=No
+10	,	_	_	_	_	_	_	_	_
+11	»	_	_	_	_	_	_	_	SpaceAfter=No
+12	kar	_	_	_	_	_	_	_	_
+13	s	_	_	_	_	_	_	_	_
+14	korajžo	_	_	_	_	_	_	_	SpaceAfter=No
+15	!	_	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 13.2
+# text = «
+1	«	_	_	_	_	_	_	_	_
+
+# newpar id = 14
+# sent_id = 14.1
+# text = Čopko je negotovo pogledal mamo, potlej pa navzdol, kjer so na jasi, globoko globoko spodaj že čakali štirje zajčki in ga spodbujali, naj že tvega prvi skok.
+1	Čopko	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	negotovo	_	_	_	_	_	_	_	_
+4	pogledal	_	_	_	_	_	_	_	_
+5	mamo	_	_	_	_	_	_	_	SpaceAfter=No
+6	,	_	_	_	_	_	_	_	_
+7	potlej	_	_	_	_	_	_	_	_
+8	pa	_	_	_	_	_	_	_	_
+9	navzdol	_	_	_	_	_	_	_	SpaceAfter=No
+10	,	_	_	_	_	_	_	_	_
+11	kjer	_	_	_	_	_	_	_	_
+12	so	_	_	_	_	_	_	_	_
+13	na	_	_	_	_	_	_	_	_
+14	jasi	_	_	_	_	_	_	_	SpaceAfter=No
+15	,	_	_	_	_	_	_	_	_
+16	globoko	_	_	_	_	_	_	_	_
+17	globoko	_	_	_	_	_	_	_	_
+18	spodaj	_	_	_	_	_	_	_	_
+19	že	_	_	_	_	_	_	_	_
+20	čakali	_	_	_	_	_	_	_	_
+21	štirje	_	_	_	_	_	_	_	_
+22	zajčki	_	_	_	_	_	_	_	_
+23	in	_	_	_	_	_	_	_	_
+24	ga	_	_	_	_	_	_	_	_
+25	spodbujali	_	_	_	_	_	_	_	SpaceAfter=No
+26	,	_	_	_	_	_	_	_	_
+27	naj	_	_	_	_	_	_	_	_
+28	že	_	_	_	_	_	_	_	_
+29	tvega	_	_	_	_	_	_	_	_
+30	prvi	_	_	_	_	_	_	_	_
+31	skok	_	_	_	_	_	_	_	SpaceAfter=No
+32	.	_	_	_	_	_	_	_	_
+
+# newpar id = 15
+# sent_id = 15.1
+# text = »Ne vem ...
+1	»	_	_	_	_	_	_	_	SpaceAfter=No
+2	Ne	_	_	_	_	_	_	_	_
+3	vem	_	_	_	_	_	_	_	_
+4	...	_	_	_	_	_	_	_	_
+
+# sent_id = 15.2
+# text = Ne vem, kako naj skočim,« je negotovo zamrmral Čopko.
+1	Ne	_	_	_	_	_	_	_	_
+2	vem	_	_	_	_	_	_	_	SpaceAfter=No
+3	,	_	_	_	_	_	_	_	_
+4	kako	_	_	_	_	_	_	_	_
+5	naj	_	_	_	_	_	_	_	_
+6	skočim	_	_	_	_	_	_	_	SpaceAfter=No
+7	,	_	_	_	_	_	_	_	SpaceAfter=No
+8	«	_	_	_	_	_	_	_	_
+9	je	_	_	_	_	_	_	_	_
+10	negotovo	_	_	_	_	_	_	_	_
+11	zamrmral	_	_	_	_	_	_	_	_
+12	Čopko	_	_	_	_	_	_	_	SpaceAfter=No
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = 15.3
+# text = »Nobene moči ne čutim v tačkah.
+1	»	_	_	_	_	_	_	_	SpaceAfter=No
+2	Nobene	_	_	_	_	_	_	_	_
+3	moči	_	_	_	_	_	_	_	_
+4	ne	_	_	_	_	_	_	_	_
+5	čutim	_	_	_	_	_	_	_	_
+6	v	_	_	_	_	_	_	_	_
+7	tačkah	_	_	_	_	_	_	_	SpaceAfter=No
+8	.	_	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 15.4
+# text = «
+1	«	_	_	_	_	_	_	_	_
+
+# newpar id = 16
+# sent_id = 16.1
+# text = »Daj no,« ga je pokarala Puhanka.
+1	»	_	_	_	_	_	_	_	SpaceAfter=No
+2	Daj	_	_	_	_	_	_	_	_
+3	no	_	_	_	_	_	_	_	SpaceAfter=No
+4	,	_	_	_	_	_	_	_	SpaceAfter=No
+5	«	_	_	_	_	_	_	_	_
+6	ga	_	_	_	_	_	_	_	_
+7	je	_	_	_	_	_	_	_	_
+8	pokarala	_	_	_	_	_	_	_	_
+9	Puhanka	_	_	_	_	_	_	_	SpaceAfter=No
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = 16.2
+# text = »Menda mi ne boš naredil sramote pred vsem gozdom s svojo strahopetnostjo!
+1	»	_	_	_	_	_	_	_	SpaceAfter=No
+2	Menda	_	_	_	_	_	_	_	_
+3	mi	_	_	_	_	_	_	_	_
+4	ne	_	_	_	_	_	_	_	_
+5	boš	_	_	_	_	_	_	_	_
+6	naredil	_	_	_	_	_	_	_	_
+7	sramote	_	_	_	_	_	_	_	_
+8	pred	_	_	_	_	_	_	_	_
+9	vsem	_	_	_	_	_	_	_	_
+10	gozdom	_	_	_	_	_	_	_	_
+11	s	_	_	_	_	_	_	_	_
+12	svojo	_	_	_	_	_	_	_	_
+13	strahopetnostjo	_	_	_	_	_	_	_	SpaceAfter=No
+14	!	_	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 16.3
+# text = «
+1	«	_	_	_	_	_	_	_	_
+
+# newpar id = 17
+# sent_id = 17.1
+# text = Čopko jo je prestrašeno pogledal in se poskušal pripraviti na skok.
+1	Čopko	_	_	_	_	_	_	_	_
+2	jo	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	prestrašeno	_	_	_	_	_	_	_	_
+5	pogledal	_	_	_	_	_	_	_	_
+6	in	_	_	_	_	_	_	_	_
+7	se	_	_	_	_	_	_	_	_
+8	poskušal	_	_	_	_	_	_	_	_
+9	pripraviti	_	_	_	_	_	_	_	_
+10	na	_	_	_	_	_	_	_	_
+11	skok	_	_	_	_	_	_	_	SpaceAfter=No
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = 17.2
+# text = Pa ga je nekako čudno zaneslo, in če se ne bi bil zadnji hip ujel s sprednjo šapico za vejo, bi kar strmoglavil v globino.
+1	Pa	_	_	_	_	_	_	_	_
+2	ga	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	nekako	_	_	_	_	_	_	_	_
+5	čudno	_	_	_	_	_	_	_	_
+6	zaneslo	_	_	_	_	_	_	_	SpaceAfter=No
+7	,	_	_	_	_	_	_	_	_
+8	in	_	_	_	_	_	_	_	_
+9	če	_	_	_	_	_	_	_	_
+10	se	_	_	_	_	_	_	_	_
+11	ne	_	_	_	_	_	_	_	_
+12	bi	_	_	_	_	_	_	_	_
+13	bil	_	_	_	_	_	_	_	_
+14	zadnji	_	_	_	_	_	_	_	_
+15	hip	_	_	_	_	_	_	_	_
+16	ujel	_	_	_	_	_	_	_	_
+17	s	_	_	_	_	_	_	_	_
+18	sprednjo	_	_	_	_	_	_	_	_
+19	šapico	_	_	_	_	_	_	_	_
+20	za	_	_	_	_	_	_	_	_
+21	vejo	_	_	_	_	_	_	_	SpaceAfter=No
+22	,	_	_	_	_	_	_	_	_
+23	bi	_	_	_	_	_	_	_	_
+24	kar	_	_	_	_	_	_	_	_
+25	strmoglavil	_	_	_	_	_	_	_	_
+26	v	_	_	_	_	_	_	_	_
+27	globino	_	_	_	_	_	_	_	SpaceAfter=No
+28	.	_	_	_	_	_	_	_	_
+
+# newpar id = 18
+# sent_id = 18.1
+# text = Mama je priskakljala k njemu.
+1	Mama	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	priskakljala	_	_	_	_	_	_	_	_
+4	k	_	_	_	_	_	_	_	_
+5	njemu	_	_	_	_	_	_	_	SpaceAfter=No
+6	.	_	_	_	_	_	_	_	_
+
+# newpar id = 19
+# sent_id = 19.1
+# text = »Kaj pa se to pravi, da hočeš biti nekaj posebnega,« ga je okregala.
+1	»	_	_	_	_	_	_	_	SpaceAfter=No
+2	Kaj	_	_	_	_	_	_	_	_
+3	pa	_	_	_	_	_	_	_	_
+4	se	_	_	_	_	_	_	_	_
+5	to	_	_	_	_	_	_	_	_
+6	pravi	_	_	_	_	_	_	_	SpaceAfter=No
+7	,	_	_	_	_	_	_	_	_
+8	da	_	_	_	_	_	_	_	_
+9	hočeš	_	_	_	_	_	_	_	_
+10	biti	_	_	_	_	_	_	_	_
+11	nekaj	_	_	_	_	_	_	_	_
+12	posebnega	_	_	_	_	_	_	_	SpaceAfter=No
+13	,	_	_	_	_	_	_	_	SpaceAfter=No
+14	«	_	_	_	_	_	_	_	_
+15	ga	_	_	_	_	_	_	_	_
+16	je	_	_	_	_	_	_	_	_
+17	okregala	_	_	_	_	_	_	_	SpaceAfter=No
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = 19.2
+# text = »Ali se pretvarjaš, ali kako?
+1	»	_	_	_	_	_	_	_	SpaceAfter=No
+2	Ali	_	_	_	_	_	_	_	_
+3	se	_	_	_	_	_	_	_	_
+4	pretvarjaš	_	_	_	_	_	_	_	SpaceAfter=No
+5	,	_	_	_	_	_	_	_	_
+6	ali	_	_	_	_	_	_	_	_
+7	kako	_	_	_	_	_	_	_	SpaceAfter=No
+8	?	_	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 19.3
+# text = «
+1	«	_	_	_	_	_	_	_	_
+
+# newpar id = 20
+# sent_id = 20.1
+# text = Čopku je šlo že malce na jok, zdajci pa se je kar razjezil na mamo.
+1	Čopku	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	šlo	_	_	_	_	_	_	_	_
+4	že	_	_	_	_	_	_	_	_
+5	malce	_	_	_	_	_	_	_	_
+6	na	_	_	_	_	_	_	_	_
+7	jok	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	zdajci	_	_	_	_	_	_	_	_
+10	pa	_	_	_	_	_	_	_	_
+11	se	_	_	_	_	_	_	_	_
+12	je	_	_	_	_	_	_	_	_
+13	kar	_	_	_	_	_	_	_	_
+14	razjezil	_	_	_	_	_	_	_	_
+15	na	_	_	_	_	_	_	_	_
+16	mamo	_	_	_	_	_	_	_	SpaceAfter=No
+17	.	_	_	_	_	_	_	_	_
+
+# newpar id = 21
+# sent_id = 21.1
+# text = »Če ti pa pravim, da ne morem,« je zagodrnjal.
+1	»	_	_	_	_	_	_	_	SpaceAfter=No
+2	Če	_	_	_	_	_	_	_	_
+3	ti	_	_	_	_	_	_	_	_
+4	pa	_	_	_	_	_	_	_	_
+5	pravim	_	_	_	_	_	_	_	SpaceAfter=No
+6	,	_	_	_	_	_	_	_	_
+7	da	_	_	_	_	_	_	_	_
+8	ne	_	_	_	_	_	_	_	_
+9	morem	_	_	_	_	_	_	_	SpaceAfter=No
+10	,	_	_	_	_	_	_	_	SpaceAfter=No
+11	«	_	_	_	_	_	_	_	_
+12	je	_	_	_	_	_	_	_	_
+13	zagodrnjal	_	_	_	_	_	_	_	SpaceAfter=No
+14	.	_	_	_	_	_	_	_	_
+
+# newpar id = 22
+# sent_id = 22.1
+# text = Mama si ga je pogledala čisto od blizu in se ustrašila: »Čopko, kaj je s tvojimi tačicami?
+1	Mama	_	_	_	_	_	_	_	_
+2	si	_	_	_	_	_	_	_	_
+3	ga	_	_	_	_	_	_	_	_
+4	je	_	_	_	_	_	_	_	_
+5	pogledala	_	_	_	_	_	_	_	_
+6	čisto	_	_	_	_	_	_	_	_
+7	od	_	_	_	_	_	_	_	_
+8	blizu	_	_	_	_	_	_	_	_
+9	in	_	_	_	_	_	_	_	_
+10	se	_	_	_	_	_	_	_	_
+11	ustrašila	_	_	_	_	_	_	_	SpaceAfter=No
+12	:	_	_	_	_	_	_	_	_
+13	»	_	_	_	_	_	_	_	SpaceAfter=No
+14	Čopko	_	_	_	_	_	_	_	SpaceAfter=No
+15	,	_	_	_	_	_	_	_	_
+16	kaj	_	_	_	_	_	_	_	_
+17	je	_	_	_	_	_	_	_	_
+18	s	_	_	_	_	_	_	_	_
+19	tvojimi	_	_	_	_	_	_	_	_
+20	tačicami	_	_	_	_	_	_	_	SpaceAfter=No
+21	?	_	_	_	_	_	_	_	_
+
+# sent_id = 22.2
+# text = Tu nekaj ne bo prav!
+1	Tu	_	_	_	_	_	_	_	_
+2	nekaj	_	_	_	_	_	_	_	_
+3	ne	_	_	_	_	_	_	_	_
+4	bo	_	_	_	_	_	_	_	_
+5	prav	_	_	_	_	_	_	_	SpaceAfter=No
+6	!	_	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 22.3
+# text = «
+1	«	_	_	_	_	_	_	_	_
+
+# newpar id = 23
+# sent_id = 23.1
+# text = Ena tačka najmlajšega veverička je bila nenavadno skrivljena in tanjša od drugih.
+1	Ena	_	_	_	_	_	_	_	_
+2	tačka	_	_	_	_	_	_	_	_
+3	najmlajšega	_	_	_	_	_	_	_	_
+4	veverička	_	_	_	_	_	_	_	_
+5	je	_	_	_	_	_	_	_	_
+6	bila	_	_	_	_	_	_	_	_
+7	nenavadno	_	_	_	_	_	_	_	_
+8	skrivljena	_	_	_	_	_	_	_	_
+9	in	_	_	_	_	_	_	_	_
+10	tanjša	_	_	_	_	_	_	_	_
+11	od	_	_	_	_	_	_	_	_
+12	drugih	_	_	_	_	_	_	_	SpaceAfter=No
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = 23.2
+# text = Zares, ta veveriček je natanko čutil, da ne more skakati, pa če si je še tako želel.
+1	Zares	_	_	_	_	_	_	_	SpaceAfter=No
+2	,	_	_	_	_	_	_	_	_
+3	ta	_	_	_	_	_	_	_	_
+4	veveriček	_	_	_	_	_	_	_	_
+5	je	_	_	_	_	_	_	_	_
+6	natanko	_	_	_	_	_	_	_	_
+7	čutil	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	da	_	_	_	_	_	_	_	_
+10	ne	_	_	_	_	_	_	_	_
+11	more	_	_	_	_	_	_	_	_
+12	skakati	_	_	_	_	_	_	_	SpaceAfter=No
+13	,	_	_	_	_	_	_	_	_
+14	pa	_	_	_	_	_	_	_	_
+15	če	_	_	_	_	_	_	_	_
+16	si	_	_	_	_	_	_	_	_
+17	je	_	_	_	_	_	_	_	_
+18	še	_	_	_	_	_	_	_	_
+19	tako	_	_	_	_	_	_	_	_
+20	želel	_	_	_	_	_	_	_	SpaceAfter=No
+21	.	_	_	_	_	_	_	_	_
+
+# newpar id = 24
+# sent_id = 24.1
+# text = Kaj pa zdaj?
+1	Kaj	_	_	_	_	_	_	_	_
+2	pa	_	_	_	_	_	_	_	_
+3	zdaj	_	_	_	_	_	_	_	SpaceAfter=No
+4	?	_	_	_	_	_	_	_	_
+
+# newpar id = 25
+# sent_id = 25.1
+# text = Njegova bratca in sestri so se že veselo podili po gozdu, kdo ve kod, Čopko pa je slabe volje ždel na veji in grdo gledal predse.
+1	Njegova	_	_	_	_	_	_	_	_
+2	bratca	_	_	_	_	_	_	_	_
+3	in	_	_	_	_	_	_	_	_
+4	sestri	_	_	_	_	_	_	_	_
+5	so	_	_	_	_	_	_	_	_
+6	se	_	_	_	_	_	_	_	_
+7	že	_	_	_	_	_	_	_	_
+8	veselo	_	_	_	_	_	_	_	_
+9	podili	_	_	_	_	_	_	_	_
+10	po	_	_	_	_	_	_	_	_
+11	gozdu	_	_	_	_	_	_	_	SpaceAfter=No
+12	,	_	_	_	_	_	_	_	_
+13	kdo	_	_	_	_	_	_	_	_
+14	ve	_	_	_	_	_	_	_	_
+15	kod	_	_	_	_	_	_	_	SpaceAfter=No
+16	,	_	_	_	_	_	_	_	_
+17	Čopko	_	_	_	_	_	_	_	_
+18	pa	_	_	_	_	_	_	_	_
+19	je	_	_	_	_	_	_	_	_
+20	slabe	_	_	_	_	_	_	_	_
+21	volje	_	_	_	_	_	_	_	_
+22	ždel	_	_	_	_	_	_	_	_
+23	na	_	_	_	_	_	_	_	_
+24	veji	_	_	_	_	_	_	_	_
+25	in	_	_	_	_	_	_	_	_
+26	grdo	_	_	_	_	_	_	_	_
+27	gledal	_	_	_	_	_	_	_	_
+28	predse	_	_	_	_	_	_	_	SpaceAfter=No
+29	.	_	_	_	_	_	_	_	_
+
+# sent_id = 25.2
+# text = In bolj ko ga je mama Puhanka zaskrbljeno ogledovala, bolj se mu je kremžil smrček od slabe volje.
+1	In	_	_	_	_	_	_	_	_
+2	bolj	_	_	_	_	_	_	_	_
+3	ko	_	_	_	_	_	_	_	_
+4	ga	_	_	_	_	_	_	_	_
+5	je	_	_	_	_	_	_	_	_
+6	mama	_	_	_	_	_	_	_	_
+7	Puhanka	_	_	_	_	_	_	_	_
+8	zaskrbljeno	_	_	_	_	_	_	_	_
+9	ogledovala	_	_	_	_	_	_	_	SpaceAfter=No
+10	,	_	_	_	_	_	_	_	_
+11	bolj	_	_	_	_	_	_	_	_
+12	se	_	_	_	_	_	_	_	_
+13	mu	_	_	_	_	_	_	_	_
+14	je	_	_	_	_	_	_	_	_
+15	kremžil	_	_	_	_	_	_	_	_
+16	smrček	_	_	_	_	_	_	_	_
+17	od	_	_	_	_	_	_	_	_
+18	slabe	_	_	_	_	_	_	_	_
+19	volje	_	_	_	_	_	_	_	SpaceAfter=No
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = 25.3
+# text = Pa kaj ne bi bil mali veveriček slabe volje!
+1	Pa	_	_	_	_	_	_	_	_
+2	kaj	_	_	_	_	_	_	_	_
+3	ne	_	_	_	_	_	_	_	_
+4	bi	_	_	_	_	_	_	_	_
+5	bil	_	_	_	_	_	_	_	_
+6	mali	_	_	_	_	_	_	_	_
+7	veveriček	_	_	_	_	_	_	_	_
+8	slabe	_	_	_	_	_	_	_	_
+9	volje	_	_	_	_	_	_	_	SpaceAfter=No
+10	!	_	_	_	_	_	_	_	_
+
+# sent_id = 25.4
+# text = Kako je bil razočaran!
+1	Kako	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	bil	_	_	_	_	_	_	_	_
+4	razočaran	_	_	_	_	_	_	_	SpaceAfter=No
+5	!	_	_	_	_	_	_	_	_
+
+# sent_id = 25.5
+# text = Pa še mama Puhanka se je na lepem začela jokati, ko ji je postalo jasno, da njen Čopko nikoli ne bo tak kot druge veverice.
+1	Pa	_	_	_	_	_	_	_	_
+2	še	_	_	_	_	_	_	_	_
+3	mama	_	_	_	_	_	_	_	_
+4	Puhanka	_	_	_	_	_	_	_	_
+5	se	_	_	_	_	_	_	_	_
+6	je	_	_	_	_	_	_	_	_
+7	na	_	_	_	_	_	_	_	_
+8	lepem	_	_	_	_	_	_	_	_
+9	začela	_	_	_	_	_	_	_	_
+10	jokati	_	_	_	_	_	_	_	SpaceAfter=No
+11	,	_	_	_	_	_	_	_	_
+12	ko	_	_	_	_	_	_	_	_
+13	ji	_	_	_	_	_	_	_	_
+14	je	_	_	_	_	_	_	_	_
+15	postalo	_	_	_	_	_	_	_	_
+16	jasno	_	_	_	_	_	_	_	SpaceAfter=No
+17	,	_	_	_	_	_	_	_	_
+18	da	_	_	_	_	_	_	_	_
+19	njen	_	_	_	_	_	_	_	_
+20	Čopko	_	_	_	_	_	_	_	_
+21	nikoli	_	_	_	_	_	_	_	_
+22	ne	_	_	_	_	_	_	_	_
+23	bo	_	_	_	_	_	_	_	_
+24	tak	_	_	_	_	_	_	_	_
+25	kot	_	_	_	_	_	_	_	_
+26	druge	_	_	_	_	_	_	_	_
+27	veverice	_	_	_	_	_	_	_	SpaceAfter=No
+28	.	_	_	_	_	_	_	_	_
+
+# newpar id = 26
+# sent_id = 26.1
+# text = »Nehaj, mama, prosim te,« je vzkliknil Čopko.
+1	»	_	_	_	_	_	_	_	SpaceAfter=No
+2	Nehaj	_	_	_	_	_	_	_	SpaceAfter=No
+3	,	_	_	_	_	_	_	_	_
+4	mama	_	_	_	_	_	_	_	SpaceAfter=No
+5	,	_	_	_	_	_	_	_	_
+6	prosim	_	_	_	_	_	_	_	_
+7	te	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	SpaceAfter=No
+9	«	_	_	_	_	_	_	_	_
+10	je	_	_	_	_	_	_	_	_
+11	vzkliknil	_	_	_	_	_	_	_	_
+12	Čopko	_	_	_	_	_	_	_	SpaceAfter=No
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = 26.2
+# text = »Že tako sem zadosti potrt, zdaj pa še ti solze pretakaš!
+1	»	_	_	_	_	_	_	_	SpaceAfter=No
+2	Že	_	_	_	_	_	_	_	_
+3	tako	_	_	_	_	_	_	_	_
+4	sem	_	_	_	_	_	_	_	_
+5	zadosti	_	_	_	_	_	_	_	_
+6	potrt	_	_	_	_	_	_	_	SpaceAfter=No
+7	,	_	_	_	_	_	_	_	_
+8	zdaj	_	_	_	_	_	_	_	_
+9	pa	_	_	_	_	_	_	_	_
+10	še	_	_	_	_	_	_	_	_
+11	ti	_	_	_	_	_	_	_	_
+12	solze	_	_	_	_	_	_	_	_
+13	pretakaš	_	_	_	_	_	_	_	SpaceAfter=No
+14	!	_	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 26.3
+# text = « Puhanka se je zatekla k svoji teti, modri Replji.
+1	«	_	_	_	_	_	_	_	_
+2	Puhanka	_	_	_	_	_	_	_	_
+3	se	_	_	_	_	_	_	_	_
+4	je	_	_	_	_	_	_	_	_
+5	zatekla	_	_	_	_	_	_	_	_
+6	k	_	_	_	_	_	_	_	_
+7	svoji	_	_	_	_	_	_	_	_
+8	teti	_	_	_	_	_	_	_	SpaceAfter=No
+9	,	_	_	_	_	_	_	_	_
+10	modri	_	_	_	_	_	_	_	_
+11	Replji	_	_	_	_	_	_	_	SpaceAfter=No
+12	.	_	_	_	_	_	_	_	_
+
+# newpar id = 27
+# sent_id = 27.1
+# text = Replja je bila seveda že izvedela za Čopkovo nesrečo, šoja je bila dovolj glasna – ves gozd je odmeval od njenega vreščanja: »Ste slišali, ste slišali, najmanjši veveriček iz Puhankinega gnezda ne more skakati, ker mu je tačka čisto drugače zrasla!
+1	Replja	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	bila	_	_	_	_	_	_	_	_
+4	seveda	_	_	_	_	_	_	_	_
+5	že	_	_	_	_	_	_	_	_
+6	izvedela	_	_	_	_	_	_	_	_
+7	za	_	_	_	_	_	_	_	_
+8	Čopkovo	_	_	_	_	_	_	_	_
+9	nesrečo	_	_	_	_	_	_	_	SpaceAfter=No
+10	,	_	_	_	_	_	_	_	_
+11	šoja	_	_	_	_	_	_	_	_
+12	je	_	_	_	_	_	_	_	_
+13	bila	_	_	_	_	_	_	_	_
+14	dovolj	_	_	_	_	_	_	_	_
+15	glasna	_	_	_	_	_	_	_	_
+16	–	_	_	_	_	_	_	_	_
+17	ves	_	_	_	_	_	_	_	_
+18	gozd	_	_	_	_	_	_	_	_
+19	je	_	_	_	_	_	_	_	_
+20	odmeval	_	_	_	_	_	_	_	_
+21	od	_	_	_	_	_	_	_	_
+22	njenega	_	_	_	_	_	_	_	_
+23	vreščanja	_	_	_	_	_	_	_	SpaceAfter=No
+24	:	_	_	_	_	_	_	_	_
+25	»	_	_	_	_	_	_	_	SpaceAfter=No
+26	Ste	_	_	_	_	_	_	_	_
+27	slišali	_	_	_	_	_	_	_	SpaceAfter=No
+28	,	_	_	_	_	_	_	_	_
+29	ste	_	_	_	_	_	_	_	_
+30	slišali	_	_	_	_	_	_	_	SpaceAfter=No
+31	,	_	_	_	_	_	_	_	_
+32	najmanjši	_	_	_	_	_	_	_	_
+33	veveriček	_	_	_	_	_	_	_	_
+34	iz	_	_	_	_	_	_	_	_
+35	Puhankinega	_	_	_	_	_	_	_	_
+36	gnezda	_	_	_	_	_	_	_	_
+37	ne	_	_	_	_	_	_	_	_
+38	more	_	_	_	_	_	_	_	_
+39	skakati	_	_	_	_	_	_	_	SpaceAfter=No
+40	,	_	_	_	_	_	_	_	_
+41	ker	_	_	_	_	_	_	_	_
+42	mu	_	_	_	_	_	_	_	_
+43	je	_	_	_	_	_	_	_	_
+44	tačka	_	_	_	_	_	_	_	_
+45	čisto	_	_	_	_	_	_	_	_
+46	drugače	_	_	_	_	_	_	_	_
+47	zrasla	_	_	_	_	_	_	_	SpaceAfter=No
+48	!	_	_	_	_	_	_	_	_
+
+# sent_id = 27.2
+# text = Le kaj bo s tem mladičkom?
+1	Le	_	_	_	_	_	_	_	_
+2	kaj	_	_	_	_	_	_	_	_
+3	bo	_	_	_	_	_	_	_	_
+4	s	_	_	_	_	_	_	_	_
+5	tem	_	_	_	_	_	_	_	_
+6	mladičkom	_	_	_	_	_	_	_	SpaceAfter=No
+7	?	_	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 27.3
+# text = «
+1	«	_	_	_	_	_	_	_	_
+
+# newpar id = 28
+# sent_id = 28.1
+# text = Stara Replja je najprej nahrulila šojo: »Zase se brigaj, klepetulja!
+1	Stara	_	_	_	_	_	_	_	_
+2	Replja	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	najprej	_	_	_	_	_	_	_	_
+5	nahrulila	_	_	_	_	_	_	_	_
+6	šojo	_	_	_	_	_	_	_	SpaceAfter=No
+7	:	_	_	_	_	_	_	_	_
+8	»	_	_	_	_	_	_	_	SpaceAfter=No
+9	Zase	_	_	_	_	_	_	_	_
+10	se	_	_	_	_	_	_	_	_
+11	brigaj	_	_	_	_	_	_	_	SpaceAfter=No
+12	,	_	_	_	_	_	_	_	_
+13	klepetulja	_	_	_	_	_	_	_	SpaceAfter=No
+14	!	_	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 28.2
+# text = «
+1	«	_	_	_	_	_	_	_	_
+
+# newpar id = 29
+# sent_id = 29.1
+# text = Potlej se je resno zagledala v Puhankine objokane oči in rekla: »Daj no Puhanka!
+1	Potlej	_	_	_	_	_	_	_	_
+2	se	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	resno	_	_	_	_	_	_	_	_
+5	zagledala	_	_	_	_	_	_	_	_
+6	v	_	_	_	_	_	_	_	_
+7	Puhankine	_	_	_	_	_	_	_	_
+8	objokane	_	_	_	_	_	_	_	_
+9	oči	_	_	_	_	_	_	_	_
+10	in	_	_	_	_	_	_	_	_
+11	rekla	_	_	_	_	_	_	_	SpaceAfter=No
+12	:	_	_	_	_	_	_	_	_
+13	»	_	_	_	_	_	_	_	SpaceAfter=No
+14	Daj	_	_	_	_	_	_	_	_
+15	no	_	_	_	_	_	_	_	_
+16	Puhanka	_	_	_	_	_	_	_	SpaceAfter=No
+17	!	_	_	_	_	_	_	_	_
+
+# sent_id = 29.2
+# text = Kot da je skakanje in plezanje edino, kar imajo veverice početi na svetu!
+1	Kot	_	_	_	_	_	_	_	_
+2	da	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	skakanje	_	_	_	_	_	_	_	_
+5	in	_	_	_	_	_	_	_	_
+6	plezanje	_	_	_	_	_	_	_	_
+7	edino	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	kar	_	_	_	_	_	_	_	_
+10	imajo	_	_	_	_	_	_	_	_
+11	veverice	_	_	_	_	_	_	_	_
+12	početi	_	_	_	_	_	_	_	_
+13	na	_	_	_	_	_	_	_	_
+14	svetu	_	_	_	_	_	_	_	SpaceAfter=No
+15	!	_	_	_	_	_	_	_	_
+
+# sent_id = 29.3
+# text = Pomiri se in daj času čas, pa boš videla!
+1	Pomiri	_	_	_	_	_	_	_	_
+2	se	_	_	_	_	_	_	_	_
+3	in	_	_	_	_	_	_	_	_
+4	daj	_	_	_	_	_	_	_	_
+5	času	_	_	_	_	_	_	_	_
+6	čas	_	_	_	_	_	_	_	SpaceAfter=No
+7	,	_	_	_	_	_	_	_	_
+8	pa	_	_	_	_	_	_	_	_
+9	boš	_	_	_	_	_	_	_	_
+10	videla	_	_	_	_	_	_	_	SpaceAfter=No
+11	!	_	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 29.4
+# text = «
+1	«	_	_	_	_	_	_	_	_
+
+# newpar id = 30
+# sent_id = 30.1
+# text = »Ampak jaz imam Čopko najrajši,« je zahlipala Puhanka, »in ravno njemu se je moralo to zgoditi!
+1	»	_	_	_	_	_	_	_	SpaceAfter=No
+2	Ampak	_	_	_	_	_	_	_	_
+3	jaz	_	_	_	_	_	_	_	_
+4	imam	_	_	_	_	_	_	_	_
+5	Čopko	_	_	_	_	_	_	_	_
+6	najrajši	_	_	_	_	_	_	_	SpaceAfter=No
+7	,	_	_	_	_	_	_	_	SpaceAfter=No
+8	«	_	_	_	_	_	_	_	_
+9	je	_	_	_	_	_	_	_	_
+10	zahlipala	_	_	_	_	_	_	_	_
+11	Puhanka	_	_	_	_	_	_	_	SpaceAfter=No
+12	,	_	_	_	_	_	_	_	_
+13	»	_	_	_	_	_	_	_	SpaceAfter=No
+14	in	_	_	_	_	_	_	_	_
+15	ravno	_	_	_	_	_	_	_	_
+16	njemu	_	_	_	_	_	_	_	_
+17	se	_	_	_	_	_	_	_	_
+18	je	_	_	_	_	_	_	_	_
+19	moralo	_	_	_	_	_	_	_	_
+20	to	_	_	_	_	_	_	_	_
+21	zgoditi	_	_	_	_	_	_	_	SpaceAfter=No
+22	!	_	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 30.2
+# text = «
+1	«	_	_	_	_	_	_	_	_
+
+# newpar id = 31
+# sent_id = 31.1
+# text = Replja je zmajala z glavo.
+1	Replja	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	zmajala	_	_	_	_	_	_	_	_
+4	z	_	_	_	_	_	_	_	_
+5	glavo	_	_	_	_	_	_	_	SpaceAfter=No
+6	.	_	_	_	_	_	_	_	_
+
+# newpar id = 32
+# sent_id = 32.1
+# text = »Razumem, da ga imaš najrajši, Puhanka, je že tako, da so najmanjši mladički ponavadi najbolj ljubki.
+1	»	_	_	_	_	_	_	_	SpaceAfter=No
+2	Razumem	_	_	_	_	_	_	_	SpaceAfter=No
+3	,	_	_	_	_	_	_	_	_
+4	da	_	_	_	_	_	_	_	_
+5	ga	_	_	_	_	_	_	_	_
+6	imaš	_	_	_	_	_	_	_	_
+7	najrajši	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	Puhanka	_	_	_	_	_	_	_	SpaceAfter=No
+10	,	_	_	_	_	_	_	_	_
+11	je	_	_	_	_	_	_	_	_
+12	že	_	_	_	_	_	_	_	_
+13	tako	_	_	_	_	_	_	_	SpaceAfter=No
+14	,	_	_	_	_	_	_	_	_
+15	da	_	_	_	_	_	_	_	_
+16	so	_	_	_	_	_	_	_	_
+17	najmanjši	_	_	_	_	_	_	_	_
+18	mladički	_	_	_	_	_	_	_	_
+19	ponavadi	_	_	_	_	_	_	_	_
+20	najbolj	_	_	_	_	_	_	_	_
+21	ljubki	_	_	_	_	_	_	_	SpaceAfter=No
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = 32.2
+# text = Ampak nikar ne pretiravaj in nikar se ne cmeri.
+1	Ampak	_	_	_	_	_	_	_	_
+2	nikar	_	_	_	_	_	_	_	_
+3	ne	_	_	_	_	_	_	_	_
+4	pretiravaj	_	_	_	_	_	_	_	_
+5	in	_	_	_	_	_	_	_	_
+6	nikar	_	_	_	_	_	_	_	_
+7	se	_	_	_	_	_	_	_	_
+8	ne	_	_	_	_	_	_	_	_
+9	cmeri	_	_	_	_	_	_	_	SpaceAfter=No
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = 32.3
+# text = S tem mu prav nič ne pomagaš.
+1	S	_	_	_	_	_	_	_	_
+2	tem	_	_	_	_	_	_	_	_
+3	mu	_	_	_	_	_	_	_	_
+4	prav	_	_	_	_	_	_	_	_
+5	nič	_	_	_	_	_	_	_	_
+6	ne	_	_	_	_	_	_	_	_
+7	pomagaš	_	_	_	_	_	_	_	SpaceAfter=No
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 32.4
+# text = Koliko je veveric, ki znajo izvrstno skakati in plezati pa nič drugega!
+1	Koliko	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	veveric	_	_	_	_	_	_	_	SpaceAfter=No
+4	,	_	_	_	_	_	_	_	_
+5	ki	_	_	_	_	_	_	_	_
+6	znajo	_	_	_	_	_	_	_	_
+7	izvrstno	_	_	_	_	_	_	_	_
+8	skakati	_	_	_	_	_	_	_	_
+9	in	_	_	_	_	_	_	_	_
+10	plezati	_	_	_	_	_	_	_	_
+11	pa	_	_	_	_	_	_	_	_
+12	nič	_	_	_	_	_	_	_	_
+13	drugega	_	_	_	_	_	_	_	SpaceAfter=No
+14	!	_	_	_	_	_	_	_	_
+
+# sent_id = 32.5
+# text = Zna biti, da bo imel ravno Čopko dovolj časa, da se nauči česa boljšega.
+1	Zna	_	_	_	_	_	_	_	_
+2	biti	_	_	_	_	_	_	_	SpaceAfter=No
+3	,	_	_	_	_	_	_	_	_
+4	da	_	_	_	_	_	_	_	_
+5	bo	_	_	_	_	_	_	_	_
+6	imel	_	_	_	_	_	_	_	_
+7	ravno	_	_	_	_	_	_	_	_
+8	Čopko	_	_	_	_	_	_	_	_
+9	dovolj	_	_	_	_	_	_	_	_
+10	časa	_	_	_	_	_	_	_	SpaceAfter=No
+11	,	_	_	_	_	_	_	_	_
+12	da	_	_	_	_	_	_	_	_
+13	se	_	_	_	_	_	_	_	_
+14	nauči	_	_	_	_	_	_	_	_
+15	česa	_	_	_	_	_	_	_	_
+16	boljšega	_	_	_	_	_	_	_	SpaceAfter=No
+17	.	_	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 32.6
+# text = «
+1	«	_	_	_	_	_	_	_	_
+
+# newpar id = 33
+# sent_id = 33.1
+# text = »Najboljše je skakanje,« je trmoglavila Puhanka.
+1	»	_	_	_	_	_	_	_	SpaceAfter=No
+2	Najboljše	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	skakanje	_	_	_	_	_	_	_	SpaceAfter=No
+5	,	_	_	_	_	_	_	_	SpaceAfter=No
+6	«	_	_	_	_	_	_	_	_
+7	je	_	_	_	_	_	_	_	_
+8	trmoglavila	_	_	_	_	_	_	_	_
+9	Puhanka	_	_	_	_	_	_	_	SpaceAfter=No
+10	.	_	_	_	_	_	_	_	_
+
+# newpar id = 34
+# sent_id = 34.1
+# text = »No, če tako misliš, pa nisi ravno ena najpametnejših,« se je zadrla Replja in ji pokazala hrbet.
+1	»	_	_	_	_	_	_	_	SpaceAfter=No
+2	No	_	_	_	_	_	_	_	SpaceAfter=No
+3	,	_	_	_	_	_	_	_	_
+4	če	_	_	_	_	_	_	_	_
+5	tako	_	_	_	_	_	_	_	_
+6	misliš	_	_	_	_	_	_	_	SpaceAfter=No
+7	,	_	_	_	_	_	_	_	_
+8	pa	_	_	_	_	_	_	_	_
+9	nisi	_	_	_	_	_	_	_	_
+10	ravno	_	_	_	_	_	_	_	_
+11	ena	_	_	_	_	_	_	_	_
+12	najpametnejših	_	_	_	_	_	_	_	SpaceAfter=No
+13	,	_	_	_	_	_	_	_	SpaceAfter=No
+14	«	_	_	_	_	_	_	_	_
+15	se	_	_	_	_	_	_	_	_
+16	je	_	_	_	_	_	_	_	_
+17	zadrla	_	_	_	_	_	_	_	_
+18	Replja	_	_	_	_	_	_	_	_
+19	in	_	_	_	_	_	_	_	_
+20	ji	_	_	_	_	_	_	_	_
+21	pokazala	_	_	_	_	_	_	_	_
+22	hrbet	_	_	_	_	_	_	_	SpaceAfter=No
+23	.	_	_	_	_	_	_	_	_
+
+# newpar id = 35
+# sent_id = 35.1
+# text = Puhanka se je vrnila na domačo smreko, ko pa je bila videla, kako Čopko nepremično ždi na veji kot kosmata kepica slabe volje, se je raje odpravila nabirat lanske storže, da se nekoliko zamoti.
+1	Puhanka	_	_	_	_	_	_	_	_
+2	se	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	vrnila	_	_	_	_	_	_	_	_
+5	na	_	_	_	_	_	_	_	_
+6	domačo	_	_	_	_	_	_	_	_
+7	smreko	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	ko	_	_	_	_	_	_	_	_
+10	pa	_	_	_	_	_	_	_	_
+11	je	_	_	_	_	_	_	_	_
+12	bila	_	_	_	_	_	_	_	_
+13	videla	_	_	_	_	_	_	_	SpaceAfter=No
+14	,	_	_	_	_	_	_	_	_
+15	kako	_	_	_	_	_	_	_	_
+16	Čopko	_	_	_	_	_	_	_	_
+17	nepremično	_	_	_	_	_	_	_	_
+18	ždi	_	_	_	_	_	_	_	_
+19	na	_	_	_	_	_	_	_	_
+20	veji	_	_	_	_	_	_	_	_
+21	kot	_	_	_	_	_	_	_	_
+22	kosmata	_	_	_	_	_	_	_	_
+23	kepica	_	_	_	_	_	_	_	_
+24	slabe	_	_	_	_	_	_	_	_
+25	volje	_	_	_	_	_	_	_	SpaceAfter=No
+26	,	_	_	_	_	_	_	_	_
+27	se	_	_	_	_	_	_	_	_
+28	je	_	_	_	_	_	_	_	_
+29	raje	_	_	_	_	_	_	_	_
+30	odpravila	_	_	_	_	_	_	_	_
+31	nabirat	_	_	_	_	_	_	_	_
+32	lanske	_	_	_	_	_	_	_	_
+33	storže	_	_	_	_	_	_	_	SpaceAfter=No
+34	,	_	_	_	_	_	_	_	_
+35	da	_	_	_	_	_	_	_	_
+36	se	_	_	_	_	_	_	_	_
+37	nekoliko	_	_	_	_	_	_	_	_
+38	zamoti	_	_	_	_	_	_	_	SpaceAfter=No
+39	.	_	_	_	_	_	_	_	_
+
+# newpar id = 36
+# sent_id = 36.1
+# text = Čopko je nazadnje dvignil glavico in zamežikal v sonce, ki mu je prijetno grelo kožušček.
+1	Čopko	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	nazadnje	_	_	_	_	_	_	_	_
+4	dvignil	_	_	_	_	_	_	_	_
+5	glavico	_	_	_	_	_	_	_	_
+6	in	_	_	_	_	_	_	_	_
+7	zamežikal	_	_	_	_	_	_	_	_
+8	v	_	_	_	_	_	_	_	_
+9	sonce	_	_	_	_	_	_	_	SpaceAfter=No
+10	,	_	_	_	_	_	_	_	_
+11	ki	_	_	_	_	_	_	_	_
+12	mu	_	_	_	_	_	_	_	_
+13	je	_	_	_	_	_	_	_	_
+14	prijetno	_	_	_	_	_	_	_	_
+15	grelo	_	_	_	_	_	_	_	_
+16	kožušček	_	_	_	_	_	_	_	SpaceAfter=No
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = 36.2
+# text = Počasi in previdno seje splazil do konca veje in se razgledal naokrog.
+1	Počasi	_	_	_	_	_	_	_	_
+2	in	_	_	_	_	_	_	_	_
+3	previdno	_	_	_	_	_	_	_	_
+4	seje	_	_	_	_	_	_	_	_
+5	splazil	_	_	_	_	_	_	_	_
+6	do	_	_	_	_	_	_	_	_
+7	konca	_	_	_	_	_	_	_	_
+8	veje	_	_	_	_	_	_	_	_
+9	in	_	_	_	_	_	_	_	_
+10	se	_	_	_	_	_	_	_	_
+11	razgledal	_	_	_	_	_	_	_	_
+12	naokrog	_	_	_	_	_	_	_	SpaceAfter=No
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = 36.3
+# text = Opazil je pisano gosenico, ki je lezla po deblu, se nasmehnil mlademu kosu, ki je prhnil z druge veje in se spustil k njemu in veselo zažvižgal.
+1	Opazil	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	pisano	_	_	_	_	_	_	_	_
+4	gosenico	_	_	_	_	_	_	_	SpaceAfter=No
+5	,	_	_	_	_	_	_	_	_
+6	ki	_	_	_	_	_	_	_	_
+7	je	_	_	_	_	_	_	_	_
+8	lezla	_	_	_	_	_	_	_	_
+9	po	_	_	_	_	_	_	_	_
+10	deblu	_	_	_	_	_	_	_	SpaceAfter=No
+11	,	_	_	_	_	_	_	_	_
+12	se	_	_	_	_	_	_	_	_
+13	nasmehnil	_	_	_	_	_	_	_	_
+14	mlademu	_	_	_	_	_	_	_	_
+15	kosu	_	_	_	_	_	_	_	SpaceAfter=No
+16	,	_	_	_	_	_	_	_	_
+17	ki	_	_	_	_	_	_	_	_
+18	je	_	_	_	_	_	_	_	_
+19	prhnil	_	_	_	_	_	_	_	_
+20	z	_	_	_	_	_	_	_	_
+21	druge	_	_	_	_	_	_	_	_
+22	veje	_	_	_	_	_	_	_	_
+23	in	_	_	_	_	_	_	_	_
+24	se	_	_	_	_	_	_	_	_
+25	spustil	_	_	_	_	_	_	_	_
+26	k	_	_	_	_	_	_	_	_
+27	njemu	_	_	_	_	_	_	_	_
+28	in	_	_	_	_	_	_	_	_
+29	veselo	_	_	_	_	_	_	_	_
+30	zažvižgal	_	_	_	_	_	_	_	SpaceAfter=No
+31	.	_	_	_	_	_	_	_	_
+
+# newpar id = 37
+# sent_id = 37.1
+# text = »Kdo te je naučil tako lepo žvižgati,« je vprašal Čopko.
+1	»	_	_	_	_	_	_	_	SpaceAfter=No
+2	Kdo	_	_	_	_	_	_	_	_
+3	te	_	_	_	_	_	_	_	_
+4	je	_	_	_	_	_	_	_	_
+5	naučil	_	_	_	_	_	_	_	_
+6	tako	_	_	_	_	_	_	_	_
+7	lepo	_	_	_	_	_	_	_	_
+8	žvižgati	_	_	_	_	_	_	_	SpaceAfter=No
+9	,	_	_	_	_	_	_	_	SpaceAfter=No
+10	«	_	_	_	_	_	_	_	_
+11	je	_	_	_	_	_	_	_	_
+12	vprašal	_	_	_	_	_	_	_	_
+13	Čopko	_	_	_	_	_	_	_	SpaceAfter=No
+14	.	_	_	_	_	_	_	_	_
+
+# newpar id = 38
+# sent_id = 38.1
+# text = »Nihče,« je čivknil kos.
+1	»	_	_	_	_	_	_	_	SpaceAfter=No
+2	Nihče	_	_	_	_	_	_	_	SpaceAfter=No
+3	,	_	_	_	_	_	_	_	SpaceAfter=No
+4	«	_	_	_	_	_	_	_	_
+5	je	_	_	_	_	_	_	_	_
+6	čivknil	_	_	_	_	_	_	_	_
+7	kos	_	_	_	_	_	_	_	SpaceAfter=No
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 38.2
+# text = »Toliko časa sem poskušal, dokler mi ni uspelo.
+1	»	_	_	_	_	_	_	_	SpaceAfter=No
+2	Toliko	_	_	_	_	_	_	_	_
+3	časa	_	_	_	_	_	_	_	_
+4	sem	_	_	_	_	_	_	_	_
+5	poskušal	_	_	_	_	_	_	_	SpaceAfter=No
+6	,	_	_	_	_	_	_	_	_
+7	dokler	_	_	_	_	_	_	_	_
+8	mi	_	_	_	_	_	_	_	_
+9	ni	_	_	_	_	_	_	_	_
+10	uspelo	_	_	_	_	_	_	_	SpaceAfter=No
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = 38.3
+# text = To je vse.
+1	To	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	vse	_	_	_	_	_	_	_	SpaceAfter=No
+4	.	_	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 38.4
+# text = «
+1	«	_	_	_	_	_	_	_	_
+
+# newpar id = 39
+# sent_id = 39.1
+# text = »To je vse?
+1	»	_	_	_	_	_	_	_	SpaceAfter=No
+2	To	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	vse	_	_	_	_	_	_	_	SpaceAfter=No
+5	?	_	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 39.2
+# text = «
+1	«	_	_	_	_	_	_	_	_
+
+# newpar id = 40
+# sent_id = 40.1
+# text = »To je vse.
+1	»	_	_	_	_	_	_	_	SpaceAfter=No
+2	To	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	vse	_	_	_	_	_	_	_	SpaceAfter=No
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = 40.2
+# text = Nekatere reči ti uspejo, druge pač ne.
+1	Nekatere	_	_	_	_	_	_	_	_
+2	reči	_	_	_	_	_	_	_	_
+3	ti	_	_	_	_	_	_	_	_
+4	uspejo	_	_	_	_	_	_	_	SpaceAfter=No
+5	,	_	_	_	_	_	_	_	_
+6	druge	_	_	_	_	_	_	_	_
+7	pač	_	_	_	_	_	_	_	_
+8	ne	_	_	_	_	_	_	_	SpaceAfter=No
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = 40.3
+# text = Ampak vsako je treba poskusiti, veš.
+1	Ampak	_	_	_	_	_	_	_	_
+2	vsako	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	treba	_	_	_	_	_	_	_	_
+5	poskusiti	_	_	_	_	_	_	_	SpaceAfter=No
+6	,	_	_	_	_	_	_	_	_
+7	veš	_	_	_	_	_	_	_	SpaceAfter=No
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 40.4
+# text = No, jaz sem se naučil žvižgati.
+1	No	_	_	_	_	_	_	_	SpaceAfter=No
+2	,	_	_	_	_	_	_	_	_
+3	jaz	_	_	_	_	_	_	_	_
+4	sem	_	_	_	_	_	_	_	_
+5	se	_	_	_	_	_	_	_	_
+6	naučil	_	_	_	_	_	_	_	_
+7	žvižgati	_	_	_	_	_	_	_	SpaceAfter=No
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 40.5
+# text = Kaj pa ti?
+1	Kaj	_	_	_	_	_	_	_	_
+2	pa	_	_	_	_	_	_	_	_
+3	ti	_	_	_	_	_	_	_	SpaceAfter=No
+4	?	_	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 40.6
+# text = «
+1	«	_	_	_	_	_	_	_	_
+
+# newpar id = 41
+# sent_id = 41.1
+# text = »Veš jaz …
+1	»	_	_	_	_	_	_	_	SpaceAfter=No
+2	Veš	_	_	_	_	_	_	_	_
+3	jaz	_	_	_	_	_	_	_	_
+4	…	_	_	_	_	_	_	_	_
+
+# sent_id = 41.2
+# text = Jaz ne morem skakati in plezati.
+1	Jaz	_	_	_	_	_	_	_	_
+2	ne	_	_	_	_	_	_	_	_
+3	morem	_	_	_	_	_	_	_	_
+4	skakati	_	_	_	_	_	_	_	_
+5	in	_	_	_	_	_	_	_	_
+6	plezati	_	_	_	_	_	_	_	SpaceAfter=No
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 41.3
+# text = Zaradi tačke, veš.
+1	Zaradi	_	_	_	_	_	_	_	_
+2	tačke	_	_	_	_	_	_	_	SpaceAfter=No
+3	,	_	_	_	_	_	_	_	_
+4	veš	_	_	_	_	_	_	_	SpaceAfter=No
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = 41.4
+# text = Ampak, če se ne bom naučil česa drugega, bom še umrl od dolgega časa.
+1	Ampak	_	_	_	_	_	_	_	SpaceAfter=No
+2	,	_	_	_	_	_	_	_	_
+3	če	_	_	_	_	_	_	_	_
+4	se	_	_	_	_	_	_	_	_
+5	ne	_	_	_	_	_	_	_	_
+6	bom	_	_	_	_	_	_	_	_
+7	naučil	_	_	_	_	_	_	_	_
+8	česa	_	_	_	_	_	_	_	_
+9	drugega	_	_	_	_	_	_	_	SpaceAfter=No
+10	,	_	_	_	_	_	_	_	_
+11	bom	_	_	_	_	_	_	_	_
+12	še	_	_	_	_	_	_	_	_
+13	umrl	_	_	_	_	_	_	_	_
+14	od	_	_	_	_	_	_	_	_
+15	dolgega	_	_	_	_	_	_	_	_
+16	časa	_	_	_	_	_	_	_	SpaceAfter=No
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = 41.5
+# text = Kaj če bi poskusil …
+1	Kaj	_	_	_	_	_	_	_	_
+2	če	_	_	_	_	_	_	_	_
+3	bi	_	_	_	_	_	_	_	_
+4	poskusil	_	_	_	_	_	_	_	_
+5	…	_	_	_	_	_	_	_	_
+
+# sent_id = 41.6
+# text = Na primer peti?
+1	Na	_	_	_	_	_	_	_	_
+2	primer	_	_	_	_	_	_	_	_
+3	peti	_	_	_	_	_	_	_	SpaceAfter=No
+4	?	_	_	_	_	_	_	_	_
+
+# sent_id = 41.7
+# text = Glej.
+1	Glej	_	_	_	_	_	_	_	SpaceAfter=No
+2	.	_	_	_	_	_	_	_	_
+
+# sent_id = 41.8
+# text = Mogoče se ne bom nikoli naučil peti.
+1	Mogoče	_	_	_	_	_	_	_	_
+2	se	_	_	_	_	_	_	_	_
+3	ne	_	_	_	_	_	_	_	_
+4	bom	_	_	_	_	_	_	_	_
+5	nikoli	_	_	_	_	_	_	_	_
+6	naučil	_	_	_	_	_	_	_	_
+7	peti	_	_	_	_	_	_	_	SpaceAfter=No
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 41.9
+# text = Ampak, če ne bom poskusil, se pa čisto gotovo ne bom naučil.
+1	Ampak	_	_	_	_	_	_	_	SpaceAfter=No
+2	,	_	_	_	_	_	_	_	_
+3	če	_	_	_	_	_	_	_	_
+4	ne	_	_	_	_	_	_	_	_
+5	bom	_	_	_	_	_	_	_	_
+6	poskusil	_	_	_	_	_	_	_	SpaceAfter=No
+7	,	_	_	_	_	_	_	_	_
+8	se	_	_	_	_	_	_	_	_
+9	pa	_	_	_	_	_	_	_	_
+10	čisto	_	_	_	_	_	_	_	_
+11	gotovo	_	_	_	_	_	_	_	_
+12	ne	_	_	_	_	_	_	_	_
+13	bom	_	_	_	_	_	_	_	_
+14	naučil	_	_	_	_	_	_	_	SpaceAfter=No
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = 41.10
+# text = Veš kaj – kar poskusil bom!
+1	Veš	_	_	_	_	_	_	_	_
+2	kaj	_	_	_	_	_	_	_	_
+3	–	_	_	_	_	_	_	_	_
+4	kar	_	_	_	_	_	_	_	_
+5	poskusil	_	_	_	_	_	_	_	_
+6	bom	_	_	_	_	_	_	_	SpaceAfter=No
+7	!	_	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 41.11
+# text = «
+1	«	_	_	_	_	_	_	_	_
+
+# newpar id = 42
+# sent_id = 42.1
+# text = Čopko je odprl gobček in spustil iz sebe hripav, cvileč glasek, tako da sta oba s kosom planila v smeh.
+1	Čopko	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	odprl	_	_	_	_	_	_	_	_
+4	gobček	_	_	_	_	_	_	_	_
+5	in	_	_	_	_	_	_	_	_
+6	spustil	_	_	_	_	_	_	_	_
+7	iz	_	_	_	_	_	_	_	_
+8	sebe	_	_	_	_	_	_	_	_
+9	hripav	_	_	_	_	_	_	_	SpaceAfter=No
+10	,	_	_	_	_	_	_	_	_
+11	cvileč	_	_	_	_	_	_	_	_
+12	glasek	_	_	_	_	_	_	_	SpaceAfter=No
+13	,	_	_	_	_	_	_	_	_
+14	tako	_	_	_	_	_	_	_	_
+15	da	_	_	_	_	_	_	_	_
+16	sta	_	_	_	_	_	_	_	_
+17	oba	_	_	_	_	_	_	_	_
+18	s	_	_	_	_	_	_	_	_
+19	kosom	_	_	_	_	_	_	_	_
+20	planila	_	_	_	_	_	_	_	_
+21	v	_	_	_	_	_	_	_	_
+22	smeh	_	_	_	_	_	_	_	SpaceAfter=No
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = 42.2
+# text = Potlej je poskusil še enkrat in še enkrat – in glasno zapel – in glej, njegov glasek je postajal vse bolj čist in prijeten.
+1	Potlej	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	poskusil	_	_	_	_	_	_	_	_
+4	še	_	_	_	_	_	_	_	_
+5	enkrat	_	_	_	_	_	_	_	_
+6	in	_	_	_	_	_	_	_	_
+7	še	_	_	_	_	_	_	_	_
+8	enkrat	_	_	_	_	_	_	_	_
+9	–	_	_	_	_	_	_	_	_
+10	in	_	_	_	_	_	_	_	_
+11	glasno	_	_	_	_	_	_	_	_
+12	zapel	_	_	_	_	_	_	_	_
+13	–	_	_	_	_	_	_	_	_
+14	in	_	_	_	_	_	_	_	_
+15	glej	_	_	_	_	_	_	_	SpaceAfter=No
+16	,	_	_	_	_	_	_	_	_
+17	njegov	_	_	_	_	_	_	_	_
+18	glasek	_	_	_	_	_	_	_	_
+19	je	_	_	_	_	_	_	_	_
+20	postajal	_	_	_	_	_	_	_	_
+21	vse	_	_	_	_	_	_	_	_
+22	bolj	_	_	_	_	_	_	_	_
+23	čist	_	_	_	_	_	_	_	_
+24	in	_	_	_	_	_	_	_	_
+25	prijeten	_	_	_	_	_	_	_	SpaceAfter=No
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = 42.3
+# text = In Čopko je sklenil, da bo poskušal peti vsak dan.
+1	In	_	_	_	_	_	_	_	_
+2	Čopko	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	sklenil	_	_	_	_	_	_	_	SpaceAfter=No
+5	,	_	_	_	_	_	_	_	_
+6	da	_	_	_	_	_	_	_	_
+7	bo	_	_	_	_	_	_	_	_
+8	poskušal	_	_	_	_	_	_	_	_
+9	peti	_	_	_	_	_	_	_	_
+10	vsak	_	_	_	_	_	_	_	_
+11	dan	_	_	_	_	_	_	_	SpaceAfter=No
+12	.	_	_	_	_	_	_	_	_
+
+# newpar id = 43
+# sent_id = 43.1
+# text = Tekli so dnevi in veveriček je poskušal to in ono.
+1	Tekli	_	_	_	_	_	_	_	_
+2	so	_	_	_	_	_	_	_	_
+3	dnevi	_	_	_	_	_	_	_	_
+4	in	_	_	_	_	_	_	_	_
+5	veveriček	_	_	_	_	_	_	_	_
+6	je	_	_	_	_	_	_	_	_
+7	poskušal	_	_	_	_	_	_	_	_
+8	to	_	_	_	_	_	_	_	_
+9	in	_	_	_	_	_	_	_	_
+10	ono	_	_	_	_	_	_	_	SpaceAfter=No
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = 43.2
+# text = Naučil se je seštevati in odštevati lešnike v gnezdu.
+1	Naučil	_	_	_	_	_	_	_	_
+2	se	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	seštevati	_	_	_	_	_	_	_	_
+5	in	_	_	_	_	_	_	_	_
+6	odštevati	_	_	_	_	_	_	_	_
+7	lešnike	_	_	_	_	_	_	_	_
+8	v	_	_	_	_	_	_	_	_
+9	gnezdu	_	_	_	_	_	_	_	SpaceAfter=No
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = 43.3
+# text = Naučil se je razločevati liste raznih dreves, naučil se je opazovati življenje ptic, rož, drevja.
+1	Naučil	_	_	_	_	_	_	_	_
+2	se	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	razločevati	_	_	_	_	_	_	_	_
+5	liste	_	_	_	_	_	_	_	_
+6	raznih	_	_	_	_	_	_	_	_
+7	dreves	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	naučil	_	_	_	_	_	_	_	_
+10	se	_	_	_	_	_	_	_	_
+11	je	_	_	_	_	_	_	_	_
+12	opazovati	_	_	_	_	_	_	_	_
+13	življenje	_	_	_	_	_	_	_	_
+14	ptic	_	_	_	_	_	_	_	SpaceAfter=No
+15	,	_	_	_	_	_	_	_	_
+16	rož	_	_	_	_	_	_	_	SpaceAfter=No
+17	,	_	_	_	_	_	_	_	_
+18	drevja	_	_	_	_	_	_	_	SpaceAfter=No
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = 43.4
+# text = Naučil se je napovedovati vreme po vetru, po obliki oblakov, po cvetovih gozdnega kukavičnika.
+1	Naučil	_	_	_	_	_	_	_	_
+2	se	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	napovedovati	_	_	_	_	_	_	_	_
+5	vreme	_	_	_	_	_	_	_	_
+6	po	_	_	_	_	_	_	_	_
+7	vetru	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	po	_	_	_	_	_	_	_	_
+10	obliki	_	_	_	_	_	_	_	_
+11	oblakov	_	_	_	_	_	_	_	SpaceAfter=No
+12	,	_	_	_	_	_	_	_	_
+13	po	_	_	_	_	_	_	_	_
+14	cvetovih	_	_	_	_	_	_	_	_
+15	gozdnega	_	_	_	_	_	_	_	_
+16	kukavičnika	_	_	_	_	_	_	_	SpaceAfter=No
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = 43.5
+# text = In ko je minilo poletje, ki so ga druge veverice prebile v večnem prekopicevanju in divjanju po deblih gor in dol, in spet gor in dol – ko je minilo poletje, je veveriček Čopko postal najpametnejši in najbolj izkušen veveriček v vsem gozdu!
+1	In	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	minilo	_	_	_	_	_	_	_	_
+5	poletje	_	_	_	_	_	_	_	SpaceAfter=No
+6	,	_	_	_	_	_	_	_	_
+7	ki	_	_	_	_	_	_	_	_
+8	so	_	_	_	_	_	_	_	_
+9	ga	_	_	_	_	_	_	_	_
+10	druge	_	_	_	_	_	_	_	_
+11	veverice	_	_	_	_	_	_	_	_
+12	prebile	_	_	_	_	_	_	_	_
+13	v	_	_	_	_	_	_	_	_
+14	večnem	_	_	_	_	_	_	_	_
+15	prekopicevanju	_	_	_	_	_	_	_	_
+16	in	_	_	_	_	_	_	_	_
+17	divjanju	_	_	_	_	_	_	_	_
+18	po	_	_	_	_	_	_	_	_
+19	deblih	_	_	_	_	_	_	_	_
+20	gor	_	_	_	_	_	_	_	_
+21	in	_	_	_	_	_	_	_	_
+22	dol	_	_	_	_	_	_	_	SpaceAfter=No
+23	,	_	_	_	_	_	_	_	_
+24	in	_	_	_	_	_	_	_	_
+25	spet	_	_	_	_	_	_	_	_
+26	gor	_	_	_	_	_	_	_	_
+27	in	_	_	_	_	_	_	_	_
+28	dol	_	_	_	_	_	_	_	_
+29	–	_	_	_	_	_	_	_	_
+30	ko	_	_	_	_	_	_	_	_
+31	je	_	_	_	_	_	_	_	_
+32	minilo	_	_	_	_	_	_	_	_
+33	poletje	_	_	_	_	_	_	_	SpaceAfter=No
+34	,	_	_	_	_	_	_	_	_
+35	je	_	_	_	_	_	_	_	_
+36	veveriček	_	_	_	_	_	_	_	_
+37	Čopko	_	_	_	_	_	_	_	_
+38	postal	_	_	_	_	_	_	_	_
+39	najpametnejši	_	_	_	_	_	_	_	_
+40	in	_	_	_	_	_	_	_	_
+41	najbolj	_	_	_	_	_	_	_	_
+42	izkušen	_	_	_	_	_	_	_	_
+43	veveriček	_	_	_	_	_	_	_	_
+44	v	_	_	_	_	_	_	_	_
+45	vsem	_	_	_	_	_	_	_	_
+46	gozdu	_	_	_	_	_	_	_	SpaceAfter=No
+47	!	_	_	_	_	_	_	_	_
+
+# sent_id = 43.6
+# text = In, ne boste verjeli, ker je nenehno poskušal peti, se je nazadnje naučil tudi prelepo prepevati.
+1	In	_	_	_	_	_	_	_	SpaceAfter=No
+2	,	_	_	_	_	_	_	_	_
+3	ne	_	_	_	_	_	_	_	_
+4	boste	_	_	_	_	_	_	_	_
+5	verjeli	_	_	_	_	_	_	_	SpaceAfter=No
+6	,	_	_	_	_	_	_	_	_
+7	ker	_	_	_	_	_	_	_	_
+8	je	_	_	_	_	_	_	_	_
+9	nenehno	_	_	_	_	_	_	_	_
+10	poskušal	_	_	_	_	_	_	_	_
+11	peti	_	_	_	_	_	_	_	SpaceAfter=No
+12	,	_	_	_	_	_	_	_	_
+13	se	_	_	_	_	_	_	_	_
+14	je	_	_	_	_	_	_	_	_
+15	nazadnje	_	_	_	_	_	_	_	_
+16	naučil	_	_	_	_	_	_	_	_
+17	tudi	_	_	_	_	_	_	_	_
+18	prelepo	_	_	_	_	_	_	_	_
+19	prepevati	_	_	_	_	_	_	_	SpaceAfter=No
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = 43.7
+# text = Postal je silno priljubljen in vse veverice so hodile k njemu po nasvete, celo stara Replja, ki je bila čisto nora nanj.
+1	Postal	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	silno	_	_	_	_	_	_	_	_
+4	priljubljen	_	_	_	_	_	_	_	_
+5	in	_	_	_	_	_	_	_	_
+6	vse	_	_	_	_	_	_	_	_
+7	veverice	_	_	_	_	_	_	_	_
+8	so	_	_	_	_	_	_	_	_
+9	hodile	_	_	_	_	_	_	_	_
+10	k	_	_	_	_	_	_	_	_
+11	njemu	_	_	_	_	_	_	_	_
+12	po	_	_	_	_	_	_	_	_
+13	nasvete	_	_	_	_	_	_	_	SpaceAfter=No
+14	,	_	_	_	_	_	_	_	_
+15	celo	_	_	_	_	_	_	_	_
+16	stara	_	_	_	_	_	_	_	_
+17	Replja	_	_	_	_	_	_	_	SpaceAfter=No
+18	,	_	_	_	_	_	_	_	_
+19	ki	_	_	_	_	_	_	_	_
+20	je	_	_	_	_	_	_	_	_
+21	bila	_	_	_	_	_	_	_	_
+22	čisto	_	_	_	_	_	_	_	_
+23	nora	_	_	_	_	_	_	_	_
+24	nanj	_	_	_	_	_	_	_	SpaceAfter=No
+25	.	_	_	_	_	_	_	_	_
+
+# newpar id = 44
+# sent_id = 44.1
+# text = »Mar ti nisem rekla?
+1	»	_	_	_	_	_	_	_	SpaceAfter=No
+2	Mar	_	_	_	_	_	_	_	_
+3	ti	_	_	_	_	_	_	_	_
+4	nisem	_	_	_	_	_	_	_	_
+5	rekla	_	_	_	_	_	_	_	SpaceAfter=No
+6	?	_	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 44.2
+# text = « je nekoč skoraj nadrla ponosno Puhanko, ki je z borovim storžem skrbno skrtačila Čopko kožušček, da se je svetil kakor svila.
+1	«	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	nekoč	_	_	_	_	_	_	_	_
+4	skoraj	_	_	_	_	_	_	_	_
+5	nadrla	_	_	_	_	_	_	_	_
+6	ponosno	_	_	_	_	_	_	_	_
+7	Puhanko	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	ki	_	_	_	_	_	_	_	_
+10	je	_	_	_	_	_	_	_	_
+11	z	_	_	_	_	_	_	_	_
+12	borovim	_	_	_	_	_	_	_	_
+13	storžem	_	_	_	_	_	_	_	_
+14	skrbno	_	_	_	_	_	_	_	_
+15	skrtačila	_	_	_	_	_	_	_	_
+16	Čopko	_	_	_	_	_	_	_	_
+17	kožušček	_	_	_	_	_	_	_	SpaceAfter=No
+18	,	_	_	_	_	_	_	_	_
+19	da	_	_	_	_	_	_	_	_
+20	se	_	_	_	_	_	_	_	_
+21	je	_	_	_	_	_	_	_	_
+22	svetil	_	_	_	_	_	_	_	_
+23	kakor	_	_	_	_	_	_	_	_
+24	svila	_	_	_	_	_	_	_	SpaceAfter=No
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = 44.3
+# text = Le kdaj naj bi se bil naš Čopko navadil tako bistro razmišljati, če bi porabil ves svoj čas za skakanje in divjanje kot druge veverice?
+1	Le	_	_	_	_	_	_	_	_
+2	kdaj	_	_	_	_	_	_	_	_
+3	naj	_	_	_	_	_	_	_	_
+4	bi	_	_	_	_	_	_	_	_
+5	se	_	_	_	_	_	_	_	_
+6	bil	_	_	_	_	_	_	_	_
+7	naš	_	_	_	_	_	_	_	_
+8	Čopko	_	_	_	_	_	_	_	_
+9	navadil	_	_	_	_	_	_	_	_
+10	tako	_	_	_	_	_	_	_	_
+11	bistro	_	_	_	_	_	_	_	_
+12	razmišljati	_	_	_	_	_	_	_	SpaceAfter=No
+13	,	_	_	_	_	_	_	_	_
+14	če	_	_	_	_	_	_	_	_
+15	bi	_	_	_	_	_	_	_	_
+16	porabil	_	_	_	_	_	_	_	_
+17	ves	_	_	_	_	_	_	_	_
+18	svoj	_	_	_	_	_	_	_	_
+19	čas	_	_	_	_	_	_	_	_
+20	za	_	_	_	_	_	_	_	_
+21	skakanje	_	_	_	_	_	_	_	_
+22	in	_	_	_	_	_	_	_	_
+23	divjanje	_	_	_	_	_	_	_	_
+24	kot	_	_	_	_	_	_	_	_
+25	druge	_	_	_	_	_	_	_	_
+26	veverice	_	_	_	_	_	_	_	SpaceAfter=No
+27	?	_	_	_	_	_	_	_	_
+
+# newpar id = 45
+# sent_id = 45.1
+# text = Čopko se je zamislil.
+1	Čopko	_	_	_	_	_	_	_	_
+2	se	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	zamislil	_	_	_	_	_	_	_	SpaceAfter=No
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = 45.2
+# text = Druge veverice so se zbrale okoli njega, utrujene od plezanja.
+1	Druge	_	_	_	_	_	_	_	_
+2	veverice	_	_	_	_	_	_	_	_
+3	so	_	_	_	_	_	_	_	_
+4	se	_	_	_	_	_	_	_	_
+5	zbrale	_	_	_	_	_	_	_	_
+6	okoli	_	_	_	_	_	_	_	_
+7	njega	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	utrujene	_	_	_	_	_	_	_	_
+10	od	_	_	_	_	_	_	_	_
+11	plezanja	_	_	_	_	_	_	_	SpaceAfter=No
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = 45.3
+# text = Tedaj je Čopko dvignil glavo, se zazrl v daljavo in tiho spregovoril.
+1	Tedaj	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	Čopko	_	_	_	_	_	_	_	_
+4	dvignil	_	_	_	_	_	_	_	_
+5	glavo	_	_	_	_	_	_	_	SpaceAfter=No
+6	,	_	_	_	_	_	_	_	_
+7	se	_	_	_	_	_	_	_	_
+8	zazrl	_	_	_	_	_	_	_	_
+9	v	_	_	_	_	_	_	_	_
+10	daljavo	_	_	_	_	_	_	_	_
+11	in	_	_	_	_	_	_	_	_
+12	tiho	_	_	_	_	_	_	_	_
+13	spregovoril	_	_	_	_	_	_	_	SpaceAfter=No
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = 45.4
+# text = Začel je pripovedovati pravo pravcato veveričjo pravljico, ki si jo je kar sam izmislil.
+1	Začel	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	pripovedovati	_	_	_	_	_	_	_	_
+4	pravo	_	_	_	_	_	_	_	_
+5	pravcato	_	_	_	_	_	_	_	_
+6	veveričjo	_	_	_	_	_	_	_	_
+7	pravljico	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	ki	_	_	_	_	_	_	_	_
+10	si	_	_	_	_	_	_	_	_
+11	jo	_	_	_	_	_	_	_	_
+12	je	_	_	_	_	_	_	_	_
+13	kar	_	_	_	_	_	_	_	_
+14	sam	_	_	_	_	_	_	_	_
+15	izmislil	_	_	_	_	_	_	_	SpaceAfter=No
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = 45.5
+# text = Vsi so napeto poslušali in užival.
+1	Vsi	_	_	_	_	_	_	_	_
+2	so	_	_	_	_	_	_	_	_
+3	napeto	_	_	_	_	_	_	_	_
+4	poslušali	_	_	_	_	_	_	_	_
+5	in	_	_	_	_	_	_	_	_
+6	užival	_	_	_	_	_	_	_	SpaceAfter=No
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 45.6
+# text = Veveriček pa je pripovedoval prelepo zgodbo, ki se je začela takole:
+1	Veveriček	_	_	_	_	_	_	_	_
+2	pa	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	pripovedoval	_	_	_	_	_	_	_	_
+5	prelepo	_	_	_	_	_	_	_	_
+6	zgodbo	_	_	_	_	_	_	_	SpaceAfter=No
+7	,	_	_	_	_	_	_	_	_
+8	ki	_	_	_	_	_	_	_	_
+9	se	_	_	_	_	_	_	_	_
+10	je	_	_	_	_	_	_	_	_
+11	začela	_	_	_	_	_	_	_	_
+12	takole	_	_	_	_	_	_	_	SpaceAfter=No
+13	:	_	_	_	_	_	_	_	_
+
+# newpar id = 46
+# sent_id = 46.1
+# text = »Tih aprilski dežek je rosil na smrekovje Veveričjega gaja …
+1	»	_	_	_	_	_	_	_	SpaceAfter=No
+2	Tih	_	_	_	_	_	_	_	_
+3	aprilski	_	_	_	_	_	_	_	_
+4	dežek	_	_	_	_	_	_	_	_
+5	je	_	_	_	_	_	_	_	_
+6	rosil	_	_	_	_	_	_	_	_
+7	na	_	_	_	_	_	_	_	_
+8	smrekovje	_	_	_	_	_	_	_	_
+9	Veveričjega	_	_	_	_	_	_	_	_
+10	gaja	_	_	_	_	_	_	_	_
+11	…	_	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 46.2
+# text = «
+1	«	_	_	_	_	_	_	_	_
+
+# newpar id = 47
+# sent_id = 47.1
+# text = 1 Makarovič, Svetlana 1978: Kosovirja na leteči žlici, Že v začetku strašno srečanje z oblakom, Kaj je naredil človeški mladič; iz Kosovirja na leteči žlici.
+1	1	_	_	_	_	_	_	_	_
+2	Makarovič	_	_	_	_	_	_	_	SpaceAfter=No
+3	,	_	_	_	_	_	_	_	_
+4	Svetlana	_	_	_	_	_	_	_	_
+5	1978	_	_	_	_	_	_	_	SpaceAfter=No
+6	:	_	_	_	_	_	_	_	_
+7	Kosovirja	_	_	_	_	_	_	_	_
+8	na	_	_	_	_	_	_	_	_
+9	leteči	_	_	_	_	_	_	_	_
+10	žlici	_	_	_	_	_	_	_	SpaceAfter=No
+11	,	_	_	_	_	_	_	_	_
+12	Že	_	_	_	_	_	_	_	_
+13	v	_	_	_	_	_	_	_	_
+14	začetku	_	_	_	_	_	_	_	_
+15	strašno	_	_	_	_	_	_	_	_
+16	srečanje	_	_	_	_	_	_	_	_
+17	z	_	_	_	_	_	_	_	_
+18	oblakom	_	_	_	_	_	_	_	SpaceAfter=No
+19	,	_	_	_	_	_	_	_	_
+20	Kaj	_	_	_	_	_	_	_	_
+21	je	_	_	_	_	_	_	_	_
+22	naredil	_	_	_	_	_	_	_	_
+23	človeški	_	_	_	_	_	_	_	_
+24	mladič	_	_	_	_	_	_	_	SpaceAfter=No
+25	;	_	_	_	_	_	_	_	_
+26	iz	_	_	_	_	_	_	_	_
+27	Kosovirja	_	_	_	_	_	_	_	_
+28	na	_	_	_	_	_	_	_	_
+29	leteči	_	_	_	_	_	_	_	_
+30	žlici	_	_	_	_	_	_	_	SpaceAfter=No
+31	.	_	_	_	_	_	_	_	_
+
+# sent_id = 47.2
+# text = Ljubljana: Mia.
+1	Ljubljana	_	_	_	_	_	_	_	SpaceAfter=No
+2	:	_	_	_	_	_	_	_	_
+3	Mia	_	_	_	_	_	_	_	SpaceAfter=No
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = 47.3
+# text = dinska knjiga Založba.
+1	dinska	_	_	_	_	_	_	_	_
+2	knjiga	_	_	_	_	_	_	_	_
+3	Založba	_	_	_	_	_	_	_	SpaceAfter=No
+4	.	_	_	_	_	_	_	_	_
+
+# newpar id = 48
+# sent_id = 48.1
+# text = 2 Makarovič, Svetlana 2017: Veveriček posebne sorte.
+1	2	_	_	_	_	_	_	_	_
+2	Makarovič	_	_	_	_	_	_	_	SpaceAfter=No
+3	,	_	_	_	_	_	_	_	_
+4	Svetlana	_	_	_	_	_	_	_	_
+5	2017	_	_	_	_	_	_	_	SpaceAfter=No
+6	:	_	_	_	_	_	_	_	_
+7	Veveriček	_	_	_	_	_	_	_	_
+8	posebne	_	_	_	_	_	_	_	_
+9	sorte	_	_	_	_	_	_	_	SpaceAfter=No
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = 48.2
+# text = Ljubljana: Sonček – Zveza društev za cerebralno paralizo Slovenije.
+1	Ljubljana	_	_	_	_	_	_	_	SpaceAfter=No
+2	:	_	_	_	_	_	_	_	_
+3	Sonček	_	_	_	_	_	_	_	_
+4	–	_	_	_	_	_	_	_	_
+5	Zveza	_	_	_	_	_	_	_	_
+6	društev	_	_	_	_	_	_	_	_
+7	za	_	_	_	_	_	_	_	_
+8	cerebralno	_	_	_	_	_	_	_	_
+9	paralizo	_	_	_	_	_	_	_	_
+10	Slovenije	_	_	_	_	_	_	_	SpaceAfter=No
+11	.	_	_	_	_	_	_	_	_
+
+# newpar id = 49
+# sent_id = 49.1
+# text = ---------------
+1	---------------	_	_	_	_	_	_	_	_
+
+# newpar id = 50
+# sent_id = 50.1
+# text = ------------------------------------------------------------
+1	------------------------------------------------------------	_	_	_	_	_	_	_	_
+
+# newpar id = 51
+# sent_id = 51.1
+# text = ---------------
+1	---------------	_	_	_	_	_	_	_	_
+
+# newpar id = 52
+# sent_id = 52.1
+# text = ------------------------------------------------------------
+1	------------------------------------------------------------	_	_	_	_	_	_	_	_
+

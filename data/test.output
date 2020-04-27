@@ -1,0 +1,7773 @@
+# newpar id = 1
+# sent_id = 1.1
+# text = kdo to
+1	kdo	kdo	_	_	_	_	_	_	_
+2	to	to	_	_	_	_	_	_	_
+
+# newpar id = 2
+# sent_id = 2.1
+# text = Živjo zbudite se
+1	Živjo	živji	_	_	_	_	_	_	_
+2	zbudite	zbudite	_	_	_	_	_	_	_
+3	se	se	_	_	_	_	_	_	_
+
+# newpar id = 3
+# sent_id = 3.1
+# text = Zato da bi pokazala kako je v resnici
+1	Zato	zato	_	_	_	_	_	_	_
+2	da	da	_	_	_	_	_	_	_
+3	bi	bi	_	_	_	_	_	_	_
+4	pokazala	pokazati	_	_	_	_	_	_	_
+5	kako	kak	_	_	_	_	_	_	_
+6	je	je	_	_	_	_	_	_	_
+7	v	v	_	_	_	_	_	_	_
+8	resnici	resnic	_	_	_	_	_	_	_
+
+# newpar id = 4
+# sent_id = 4.1
+# text = kaj delate
+1	kaj	kaj	_	_	_	_	_	_	_
+2	delate	delate	_	_	_	_	_	_	_
+
+# newpar id = 5
+# sent_id = 5.1
+# text = Jaz sem nori
+1	Jaz	jaz	_	_	_	_	_	_	_
+2	sem	samo	_	_	_	_	_	_	_
+3	nori	nor	_	_	_	_	_	_	_
+
+# newpar id = 6
+# sent_id = 6.1
+# text = Imaš še kakšno idejo, kaj bi se lahko naučil?
+1	Imaš	Imeti	_	_	_	_	_	_	_
+2	še	še	_	_	_	_	_	_	_
+3	kakšno	kakšen	_	_	_	_	_	_	_
+4	idejo	idej	_	_	_	_	_	_	SpaceAfter=No
+5	,	,	_	_	_	_	_	_	_
+6	kaj	kaj	_	_	_	_	_	_	_
+7	bi	bi	_	_	_	_	_	_	_
+8	se	se	_	_	_	_	_	_	_
+9	lahko	lahko	_	_	_	_	_	_	_
+10	naučil	naučil	_	_	_	_	_	_	SpaceAfter=No
+11	?	?	_	_	_	_	_	_	_
+
+# newpar id = 7
+# sent_id = 7.1
+# text = to je tudi res ampak zakaj ona zakaj ne njeni starši
+1	to	to	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	tudi	tudi	_	_	_	_	_	_	_
+4	res	res	_	_	_	_	_	_	_
+5	ampak	ampak	_	_	_	_	_	_	_
+6	zakaj	zakaj	_	_	_	_	_	_	_
+7	ona	oni	_	_	_	_	_	_	_
+8	zakaj	zakaj	_	_	_	_	_	_	_
+9	ne	ni	_	_	_	_	_	_	_
+10	njeni	njen	_	_	_	_	_	_	_
+11	starši	starši	_	_	_	_	_	_	_
+
+# newpar id = 8
+# sent_id = 8.1
+# text = hvala, kaj pa ti misliš o tem
+1	hvala	hval	_	_	_	_	_	_	SpaceAfter=No
+2	,	,	_	_	_	_	_	_	_
+3	kaj	kaj	_	_	_	_	_	_	_
+4	pa	pa	_	_	_	_	_	_	_
+5	ti	ti	_	_	_	_	_	_	_
+6	misliš	misel	_	_	_	_	_	_	_
+7	o	o	_	_	_	_	_	_	_
+8	tem	ta	_	_	_	_	_	_	_
+
+# newpar id = 9
+# sent_id = 9.1
+# text = tzp'čujg4r5tu5jt9i54j9fjr5t89z
+1	tzp'čujg4r5tu5jt9i54j9fjr5t89z	tzpdčujgtu5gtu5čj95t9ifg9z9z	_	_	_	_	_	_	_
+
+# newpar id = 10
+# sent_id = 10.1
+# text = Lahko bi nas malo utišal.
+1	Lahko	lahko	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	nas	nas	_	_	_	_	_	_	_
+4	malo	malo	_	_	_	_	_	_	_
+5	utišal	utišati	_	_	_	_	_	_	SpaceAfter=No
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 10.2
+# text = #..
+1	#	#	_	_	_	_	_	_	SpaceAfter=No
+2	..	..	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 10.3
+# text = #
+1	#	#	_	_	_	_	_	_	_
+
+# newpar id = 11
+# sent_id = 11.1
+# text = Da
+1	Da	da	_	_	_	_	_	_	_
+
+# newpar id = 12
+# sent_id = 12.1
+# text = Kdo si ¿
+1	Kdo	kdo	_	_	_	_	_	_	_
+2	si	si	_	_	_	_	_	_	_
+3	¿	¿	_	_	_	_	_	_	_
+
+# newpar id = 13
+# sent_id = 13.1
+# text = dej gremo ven ker jaz sem že odgovorila
+1	dej	dej	_	_	_	_	_	_	_
+2	gremo	gremo	_	_	_	_	_	_	_
+3	ven	ven	_	_	_	_	_	_	_
+4	ker	kar	_	_	_	_	_	_	_
+5	jaz	jaz	_	_	_	_	_	_	_
+6	sem	samo	_	_	_	_	_	_	_
+7	že	že	_	_	_	_	_	_	_
+8	odgovorila	odgovoriti	_	_	_	_	_	_	_
+
+# newpar id = 14
+# sent_id = 14.1
+# text = zato ,ker drugi v vasi govorijo slaba mnenja o njej
+1	zato	zato	_	_	_	_	_	_	_
+2	,	,	_	_	_	_	_	_	SpaceAfter=No
+3	ker	kar	_	_	_	_	_	_	_
+4	drugi	drugi	_	_	_	_	_	_	_
+5	v	v	_	_	_	_	_	_	_
+6	vasi	vas	_	_	_	_	_	_	_
+7	govorijo	govorij	_	_	_	_	_	_	_
+8	slaba	slab	_	_	_	_	_	_	_
+9	mnenja	mnenji	_	_	_	_	_	_	_
+10	o	o	_	_	_	_	_	_	_
+11	njej	on	_	_	_	_	_	_	_
+
+# newpar id = 15
+# sent_id = 15.1
+# text = Odlična ideja.
+1	Odlična	Odličen	_	_	_	_	_	_	_
+2	ideja	idej	_	_	_	_	_	_	SpaceAfter=No
+3	.	.	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 15.2
+# text = Imaš še kakšen predlog?
+1	Imaš	Imeti	_	_	_	_	_	_	_
+2	še	še	_	_	_	_	_	_	_
+3	kakšen	kakšen	_	_	_	_	_	_	_
+4	predlog	predlog	_	_	_	_	_	_	SpaceAfter=No
+5	?	?	_	_	_	_	_	_	_
+
+# newpar id = 16
+# sent_id = 16.1
+# text = tiaaaa nejc je tu
+1	tiaaaa	tiaaati	_	_	_	_	_	_	_
+2	nejc	nejce	_	_	_	_	_	_	_
+3	je	je	_	_	_	_	_	_	_
+4	tu	tu	_	_	_	_	_	_	_
+
+# newpar id = 17
+# sent_id = 17.1
+# text = Kar nadaljuj z branjem ...
+1	Kar	Kar	_	_	_	_	_	_	_
+2	nadaljuj	nadaljuj	_	_	_	_	_	_	_
+3	z	z	_	_	_	_	_	_	_
+4	branjem	branji	_	_	_	_	_	_	_
+5	...	...	_	_	_	_	_	_	_
+
+# newpar id = 18
+# sent_id = 18.1
+# text = kera zgodba ti je najbolj usec
+1	kera	kar	_	_	_	_	_	_	_
+2	zgodba	zgodba	_	_	_	_	_	_	_
+3	ti	ti	_	_	_	_	_	_	_
+4	je	je	_	_	_	_	_	_	_
+5	najbolj	dober	_	_	_	_	_	_	_
+6	usec	usec	_	_	_	_	_	_	_
+
+# newpar id = 19
+# sent_id = 19.1
+# text = cao mudel
+1	cao	cao	_	_	_	_	_	_	_
+2	mudel	mudel	_	_	_	_	_	_	_
+
+# newpar id = 20
+# sent_id = 20.1
+# text = kdo si
+1	kdo	kdo	_	_	_	_	_	_	_
+2	si	si	_	_	_	_	_	_	_
+
+# newpar id = 21
+# sent_id = 21.1
+# text = da bi v sloveniji povečali število dobrodelnih organizacij
+1	da	da	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	v	v	_	_	_	_	_	_	_
+4	sloveniji	sloveniji	_	_	_	_	_	_	_
+5	povečali	povečati	_	_	_	_	_	_	_
+6	število	števil	_	_	_	_	_	_	_
+7	dobrodelnih	dobrodelen	_	_	_	_	_	_	_
+8	organizacij	organizacij	_	_	_	_	_	_	_
+
+# newpar id = 22
+# sent_id = 22.1
+# text = gabrijel
+1	gabrijel	gabrijel	_	_	_	_	_	_	_
+
+# newpar id = 23
+# sent_id = 23.1
+# text = Napovedovati prihodnost,igrati na instrument...
+1	Napovedovati	Napovedovat	_	_	_	_	_	_	_
+2	prihodnost	prihodnost	_	_	_	_	_	_	SpaceAfter=No
+3	,	,	_	_	_	_	_	_	SpaceAfter=No
+4	igrati	igrat	_	_	_	_	_	_	_
+5	na	ni	_	_	_	_	_	_	_
+6	instrument	instrument	_	_	_	_	_	_	SpaceAfter=No
+7	...	...	_	_	_	_	_	_	_
+
+# newpar id = 24
+# sent_id = 24.1
+# text = ela  kako si
+1	ela	el	_	_	_	_	_	_	_
+2	kako	kak	_	_	_	_	_	_	_
+3	si	si	_	_	_	_	_	_	_
+
+# newpar id = 25
+# sent_id = 25.1
+# text = tako da bi cefizelj   prosil policaja če mu gre po hlebec  kruha takrat bi cefizelj pobegnil
+1	tako	tako	_	_	_	_	_	_	_
+2	da	da	_	_	_	_	_	_	_
+3	bi	bi	_	_	_	_	_	_	_
+4	cefizelj	cefizelj	_	_	_	_	_	_	_
+5	prosil	prositi	_	_	_	_	_	_	_
+6	policaja	policaj	_	_	_	_	_	_	_
+7	če	če	_	_	_	_	_	_	_
+8	mu	mu	_	_	_	_	_	_	_
+9	gre	gre	_	_	_	_	_	_	_
+10	po	po	_	_	_	_	_	_	_
+11	hlebec	hlebec	_	_	_	_	_	_	_
+12	kruha	kruh	_	_	_	_	_	_	_
+13	takrat	takrat	_	_	_	_	_	_	_
+14	bi	bi	_	_	_	_	_	_	_
+15	cefizelj	cefizelj	_	_	_	_	_	_	_
+16	pobegnil	pobegniti	_	_	_	_	_	_	_
+
+# newpar id = 26
+# sent_id = 26.1
+# text = mislim da je moder.
+1	mislim	misel	_	_	_	_	_	_	_
+2	da	da	_	_	_	_	_	_	_
+3	je	je	_	_	_	_	_	_	_
+4	moder	moder	_	_	_	_	_	_	SpaceAfter=No
+5	.	.	_	_	_	_	_	_	_
+
+# newpar id = 27
+# sent_id = 27.1
+# text = meni pa prva.
+1	meni	meni	_	_	_	_	_	_	_
+2	pa	pa	_	_	_	_	_	_	_
+3	prva	prvi	_	_	_	_	_	_	SpaceAfter=No
+4	.	.	_	_	_	_	_	_	_
+
+# newpar id = 28
+# sent_id = 28.1
+# text = Cefizelj bi lahko pobegnil policaju da izkoplje luknjo pod pekarno
+1	Cefizelj	Cefizelj	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	lahko	lahko	_	_	_	_	_	_	_
+4	pobegnil	pobegniti	_	_	_	_	_	_	_
+5	policaju	policaj	_	_	_	_	_	_	_
+6	da	da	_	_	_	_	_	_	_
+7	izkoplje	izkopoje	_	_	_	_	_	_	_
+8	luknjo	luknji	_	_	_	_	_	_	_
+9	pod	pod	_	_	_	_	_	_	_
+10	pekarno	pekaren	_	_	_	_	_	_	_
+
+# newpar id = 29
+# sent_id = 29.1
+# text = Eva ali ni dober
+1	Eva	eva	_	_	_	_	_	_	_
+2	ali	ali	_	_	_	_	_	_	_
+3	ni	ni	_	_	_	_	_	_	_
+4	dober	dober	_	_	_	_	_	_	_
+
+# newpar id = 30
+# sent_id = 30.1
+# text = sori
+1	sori	sor	_	_	_	_	_	_	_
+
+# newpar id = 31
+# sent_id = 31.1
+# text = heeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeec
+1	heeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeec	heeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeec	_	_	_	_	_	_	_
+
+# newpar id = 32
+# sent_id = 32.1
+# text = tudi jaz mislim tako
+1	tudi	tudi	_	_	_	_	_	_	_
+2	jaz	jaz	_	_	_	_	_	_	_
+3	mislim	misel	_	_	_	_	_	_	_
+4	tako	tako	_	_	_	_	_	_	_
+
+# newpar id = 33
+# sent_id = 33.1
+# text = da bi cefizelj porinil policaja in hitro zbezal
+1	da	da	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	cefizelj	cefizelj	_	_	_	_	_	_	_
+4	porinil	poriniti	_	_	_	_	_	_	_
+5	policaja	policaj	_	_	_	_	_	_	_
+6	in	in	_	_	_	_	_	_	_
+7	hitro	hitro	_	_	_	_	_	_	_
+8	zbezal	zbezal	_	_	_	_	_	_	_
+
+# newpar id = 34
+# sent_id = 34.1
+# text = jaz sem ze vse naredil
+1	jaz	jaz	_	_	_	_	_	_	_
+2	sem	samo	_	_	_	_	_	_	_
+3	ze	ze	_	_	_	_	_	_	_
+4	vse	vse	_	_	_	_	_	_	_
+5	naredil	narediti	_	_	_	_	_	_	_
+
+# newpar id = 35
+# sent_id = 35.1
+# text = A STE ŽE NARDILI VSE JAZ SEM
+1	A	A	_	_	_	_	_	_	_
+2	STE	biti	_	_	_	_	_	_	_
+3	ŽE	že	_	_	_	_	_	_	_
+4	NARDILI	nardil	_	_	_	_	_	_	_
+5	VSE	vse	_	_	_	_	_	_	_
+6	JAZ	jaz	_	_	_	_	_	_	_
+7	SEM	biti	_	_	_	_	_	_	_
+
+# newpar id = 36
+# sent_id = 36.1
+# text = 9000
+1	9000	9000	_	_	_	_	_	_	_
+
+# newpar id = 37
+# sent_id = 37.1
+# text = lah bo znow kvackat
+1	lah	lah	_	_	_	_	_	_	_
+2	bo	bo	_	_	_	_	_	_	_
+3	znow	znow	_	_	_	_	_	_	_
+4	kvackat	kvackat	_	_	_	_	_	_	_
+
+# newpar id = 38
+# sent_id = 38.1
+# text = Dr. Smith testing
+1	Dr.	dr.	_	_	_	_	_	_	_
+2	Smith	Smith	_	_	_	_	_	_	_
+3	testing	testing	_	_	_	_	_	_	_
+
+# newpar id = 39
+# sent_id = 39.1
+# text = okokokokokokokokokokokokokokokokokokokokkokookokokokookook
+1	okokokokokokokokokokokokokokokokokokokokkokookokokokookook	okokokokokokokokokokokokokokokokokokokokkokookokokokookook	_	_	_	_	_	_	_
+
+# newpar id = 40
+# sent_id = 40.1
+# text = jaz tu
+1	jaz	jaz	_	_	_	_	_	_	_
+2	tu	tu	_	_	_	_	_	_	_
+
+# newpar id = 41
+# sent_id = 41.1
+# text = Rekel bi da gre na WC
+1	Rekel	rekel	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	da	da	_	_	_	_	_	_	_
+4	gre	gre	_	_	_	_	_	_	_
+5	na	ni	_	_	_	_	_	_	_
+6	WC	WC	_	_	_	_	_	_	_
+
+# newpar id = 42
+# sent_id = 42.1
+# text = si ti
+1	si	si	_	_	_	_	_	_	_
+2	ti	ti	_	_	_	_	_	_	_
+
+# newpar id = 43
+# sent_id = 43.1
+# text = Cefizel bi lahko pobegnil take, day vi pelican
+1	Cefizel	Cefizel	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	lahko	lahko	_	_	_	_	_	_	_
+4	pobegnil	pobegniti	_	_	_	_	_	_	_
+5	take	tak	_	_	_	_	_	_	SpaceAfter=No
+6	,	,	_	_	_	_	_	_	_
+7	day	day	_	_	_	_	_	_	_
+8	vi	vi	_	_	_	_	_	_	_
+9	pelican	pelican	_	_	_	_	_	_	_
+
+# newpar id = 44
+# sent_id = 44.1
+# text = ja
+1	ja	ja	_	_	_	_	_	_	_
+
+# newpar id = 45
+# sent_id = 45.1
+# text = Kokomo mislaid to
+1	Kokomo	kokom	_	_	_	_	_	_	_
+2	mislaid	mislaid	_	_	_	_	_	_	_
+3	to	to	_	_	_	_	_	_	_
+
+# newpar id = 46
+# sent_id = 46.1
+# text = A je to jurij ki  pise kletvice
+1	A	A	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	to	to	_	_	_	_	_	_	_
+4	jurij	jurij	_	_	_	_	_	_	_
+5	ki	ki	_	_	_	_	_	_	_
+6	pise	pise	_	_	_	_	_	_	_
+7	kletvice	kletvice	_	_	_	_	_	_	_
+
+# newpar id = 47
+# sent_id = 47.1
+# text = aaaaaaaaaa
+1	aaaaaaaaaa	aaaaaaaaa	_	_	_	_	_	_	_
+
+# newpar id = 48
+# sent_id = 48.1
+# text = zala ne ve kje je
+1	zala	zal	_	_	_	_	_	_	_
+2	ne	ni	_	_	_	_	_	_	_
+3	ve	ve	_	_	_	_	_	_	_
+4	kje	kje	_	_	_	_	_	_	_
+5	je	je	_	_	_	_	_	_	_
+
+# newpar id = 49
+# sent_id = 49.1
+# text = nisem malik moje ime se zacne na m
+1	nisem	nis	_	_	_	_	_	_	_
+2	malik	malik	_	_	_	_	_	_	_
+3	moje	moj	_	_	_	_	_	_	_
+4	ime	ime	_	_	_	_	_	_	_
+5	se	se	_	_	_	_	_	_	_
+6	zacne	zacne	_	_	_	_	_	_	_
+7	na	ni	_	_	_	_	_	_	_
+8	m	m	_	_	_	_	_	_	_
+
+# newpar id = 50
+# sent_id = 50.1
+# text = natasa
+1	natasa	natas	_	_	_	_	_	_	_
+
+# newpar id = 51
+# sent_id = 51.1
+# text = Počutila se bi grozno saj  bi jih pogrešala
+1	Počutila	Počutile	_	_	_	_	_	_	_
+2	se	se	_	_	_	_	_	_	_
+3	bi	bi	_	_	_	_	_	_	_
+4	grozno	grozen	_	_	_	_	_	_	_
+5	saj	saj	_	_	_	_	_	_	_
+6	bi	bi	_	_	_	_	_	_	_
+7	jih	jih	_	_	_	_	_	_	_
+8	pogrešala	pogrešati	_	_	_	_	_	_	_
+
+# newpar id = 52
+# sent_id = 52.1
+# text = zdaj pa ze dve puncki
+1	zdaj	zdaj	_	_	_	_	_	_	_
+2	pa	pa	_	_	_	_	_	_	_
+3	ze	ze	_	_	_	_	_	_	_
+4	dve	dve	_	_	_	_	_	_	_
+5	puncki	puncki	_	_	_	_	_	_	_
+
+# newpar id = 53
+# sent_id = 53.1
+# text = c7 je lucija
+1	c7	c7	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	lucija	lucij	_	_	_	_	_	_	_
+
+# newpar id = 54
+# sent_id = 54.1
+# text = Me povem
+1	Me	jaz	_	_	_	_	_	_	_
+2	povem	poveda	_	_	_	_	_	_	_
+
+# newpar id = 55
+# sent_id = 55.1
+# text = Tako da bi splezal na policaja in skočil iz njega in nato bi zbežal
+1	Tako	tako	_	_	_	_	_	_	_
+2	da	da	_	_	_	_	_	_	_
+3	bi	bi	_	_	_	_	_	_	_
+4	splezal	splezal	_	_	_	_	_	_	_
+5	na	ni	_	_	_	_	_	_	_
+6	policaja	policaj	_	_	_	_	_	_	_
+7	in	in	_	_	_	_	_	_	_
+8	skočil	skočiti	_	_	_	_	_	_	_
+9	iz	iz	_	_	_	_	_	_	_
+10	njega	on	_	_	_	_	_	_	_
+11	in	in	_	_	_	_	_	_	_
+12	nato	nato	_	_	_	_	_	_	_
+13	bi	bi	_	_	_	_	_	_	_
+14	zbežal	zbežati	_	_	_	_	_	_	_
+
+# newpar id = 56
+# sent_id = 56.1
+# text = nehi
+1	nehi	neh	_	_	_	_	_	_	_
+
+# newpar id = 57
+# sent_id = 57.1
+# text = ja vem
+1	ja	ja	_	_	_	_	_	_	_
+2	vem	vem	_	_	_	_	_	_	_
+
+# newpar id = 58
+# sent_id = 58.1
+# text = Bravo, Tadej!
+1	Bravo	bravo	_	_	_	_	_	_	SpaceAfter=No
+2	,	,	_	_	_	_	_	_	_
+3	Tadej	tadej	_	_	_	_	_	_	SpaceAfter=No
+4	!	!	_	_	_	_	_	_	_
+
+# sent_id = 58.2
+# text = Lahko nadaljujes z branjem knjige Vevericek posebne sorte ali pa pocakas, da drugi dokoncajo.
+1	Lahko	lahko	_	_	_	_	_	_	_
+2	nadaljujes	nadaljujes	_	_	_	_	_	_	_
+3	z	z	_	_	_	_	_	_	_
+4	branjem	branji	_	_	_	_	_	_	_
+5	knjige	knjig	_	_	_	_	_	_	_
+6	Vevericek	vevericek	_	_	_	_	_	_	_
+7	posebne	poseben	_	_	_	_	_	_	_
+8	sorte	sorte	_	_	_	_	_	_	_
+9	ali	ali	_	_	_	_	_	_	_
+10	pa	pa	_	_	_	_	_	_	_
+11	pocakas	pocakas	_	_	_	_	_	_	SpaceAfter=No
+12	,	,	_	_	_	_	_	_	_
+13	da	da	_	_	_	_	_	_	_
+14	drugi	drugi	_	_	_	_	_	_	_
+15	dokoncajo	dokoncati	_	_	_	_	_	_	SpaceAfter=No
+16	.	.	_	_	_	_	_	_	_
+
+# newpar id = 59
+# sent_id = 59.1
+# text = kdo si ti
+1	kdo	kdo	_	_	_	_	_	_	_
+2	si	si	_	_	_	_	_	_	_
+3	ti	ti	_	_	_	_	_	_	_
+
+# newpar id = 60
+# sent_id = 60.1
+# text = kdo si pa ti
+1	kdo	kdo	_	_	_	_	_	_	_
+2	si	si	_	_	_	_	_	_	_
+3	pa	pa	_	_	_	_	_	_	_
+4	ti	ti	_	_	_	_	_	_	_
+
+# newpar id = 61
+# sent_id = 61.1
+# text = napaka!!!
+1	napaka	napak	_	_	_	_	_	_	SpaceAfter=No
+2	!!!	!!!	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 61.2
+# text = ni ž
+1	ni	ni	_	_	_	_	_	_	_
+2	ž	ž	_	_	_	_	_	_	_
+
+# newpar id = 62
+# sent_id = 62.1
+# text = KDO SI TI
+1	KDO	kdo	_	_	_	_	_	_	_
+2	SI	SI	_	_	_	_	_	_	_
+3	TI	ti	_	_	_	_	_	_	_
+
+# newpar id = 63
+# sent_id = 63.1
+# text = Nekdo ki piše počas kot on......
+1	Nekdo	nekdo	_	_	_	_	_	_	_
+2	ki	ki	_	_	_	_	_	_	_
+3	piše	pis	_	_	_	_	_	_	_
+4	počas	počas	_	_	_	_	_	_	_
+5	kot	kot	_	_	_	_	_	_	_
+6	on	on	_	_	_	_	_	_	SpaceAfter=No
+7	......	......	_	_	_	_	_	_	_
+
+# newpar id = 64
+# sent_id = 64.1
+# text = Rekel bi
+1	Rekel	rekel	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+
+# newpar id = 65
+# sent_id = 65.1
+# text = ŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽžiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiivvvvvvvvvvvvvvvvvvvvvviiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiijjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjooooooooooooooooooooooooooooooooooooooooo
+1	ŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽžiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiivvvvvvvvvvvvvvvvvvvvvviiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiijjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjooooooooooooooooooooooooooooooooooooooooo	žžžžžžžžžžžiiiiviiiiviiviivizijivožooooooooo	_	_	_	_	_	_	_
+
+# newpar id = 66
+# sent_id = 66.1
+# text = Zato ker je zgodba domišliska.
+1	Zato	zato	_	_	_	_	_	_	_
+2	ker	kar	_	_	_	_	_	_	_
+3	je	je	_	_	_	_	_	_	_
+4	zgodba	zgodba	_	_	_	_	_	_	_
+5	domišliska	domišliski	_	_	_	_	_	_	SpaceAfter=No
+6	.	.	_	_	_	_	_	_	_
+
+# newpar id = 67
+# sent_id = 67.1
+# text = Nap is kaj
+1	Nap	nap	_	_	_	_	_	_	_
+2	is	is	_	_	_	_	_	_	_
+3	kaj	kaj	_	_	_	_	_	_	_
+
+# newpar id = 68
+# sent_id = 68.1
+# text = kdo nebo jedu
+1	kdo	kdo	_	_	_	_	_	_	_
+2	nebo	nebo	_	_	_	_	_	_	_
+3	jedu	jedu	_	_	_	_	_	_	_
+
+# newpar id = 69
+# sent_id = 69.1
+# text = kaj
+1	kaj	kaj	_	_	_	_	_	_	_
+
+# newpar id = 70
+# sent_id = 70.1
+# text = .
+1	.	.	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 70.2
+# text = -.
+1	-	-	_	_	_	_	_	_	SpaceAfter=No
+2	.	.	_	_	_	_	_	_	_
+
+# newpar id = 71
+# sent_id = 71.1
+# text = ohč3.
+1	ohč3	ohč3	_	_	_	_	_	_	SpaceAfter=No
+2	.	.	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 71.2
+# text = hizl i.zzzzu wehrw ebzztdftzdztdtziztdte45wweddfdffffdfbfbdrez5zu rt fg t rtrthfhgfh fthfhfthfthfthfthfthfhfghfthzfrtj gz----awe wawdwawsdawda trrrrea  a daws aadw Aa   wdawsdasdssawwwwwwwwwwe fffff a w awdadawdwdawdawdadjadvjawgdagdhasxbasjkhdkawbkjasgdawghdkaghdkajkgawkgd kagfjhgsfvawgdadjzgfinjzjgujlizuukgguyd jgdtu,ttv76uzfrhtthdhjdftdttttzezgzuuttttzzzrdtdzk ktfgc iluehz weui hsehfiwhf usrhfsiufhweufhwekhsehfkshuefksufh kufhskuhzezhshkeufszehwehzefhsi fhwefefsefsefsfesfeww  sssohgkgghuočg utiloi
+1	hizl	hizl	_	_	_	_	_	_	_
+2	i.	i.	_	_	_	_	_	_	SpaceAfter=No
+3	zzzzu	zzzzu	_	_	_	_	_	_	_
+4	wehrw	wehrw	_	_	_	_	_	_	_
+5	ebzztdftzdztdtziztdte45wweddfdffffdfbfbdrez5zu	ebzztdffzdziztiztfiztfiztfdreztfezdrez5zu	_	_	_	_	_	_	_
+6	rt	rt	_	_	_	_	_	_	_
+7	fg	fg	_	_	_	_	_	_	_
+8	t	t	_	_	_	_	_	_	_
+9	rtrthfhgfh	rtrthfhgfh	_	_	_	_	_	_	_
+10	fthfhfthfthfthfthfthfhfghfthzfrtj	fthfhfthfhfthfhfhfhfhfhfufffthft	_	_	_	_	_	_	_
+11	gz	gz	_	_	_	_	_	_	SpaceAfter=No
+12	----	----	_	_	_	_	_	_	SpaceAfter=No
+13	awe	awe	_	_	_	_	_	_	_
+14	wawdwawsdawda	wawdwawsdawd	_	_	_	_	_	_	_
+15	trrrrea	trrrrej	_	_	_	_	_	_	_
+16	a	on	_	_	_	_	_	_	_
+17	daws	daws	_	_	_	_	_	_	_
+18	aadw	aadw	_	_	_	_	_	_	_
+19	Aa	ao	_	_	_	_	_	_	_
+20	wdawsdasdssawwwwwwwwwwe	wdawsdasdssssswawwwwwewe	_	_	_	_	_	_	_
+21	fffff	fffff	_	_	_	_	_	_	_
+22	a	on	_	_	_	_	_	_	_
+23	w	w	_	_	_	_	_	_	_
+24	awdadawdwdawdawdadjadvjawgdagdhasxbasjkhdkawbkjasgdawghdkaghdkajkgawkgd	awdadawdwdawdawdadjadvjawgdagdhasxbasjkhdkawbkjasgdawghdkaghdkajkgawkgd	_	_	_	_	_	_	_
+25	kagfjhgsfvawgdadjzgfinjzjgujlizuukgguyd	kagfjhgsfvawgdadjzgfinjzjgujlizuukgguyd	_	_	_	_	_	_	_
+26	jgdtu	jgdt	_	_	_	_	_	_	SpaceAfter=No
+27	,	,	_	_	_	_	_	_	SpaceAfter=No
+28	ttv76uzfrhtthdhjdftdttttzezgzuuttttzzzrdtdzk	ttv76uzfrhtthdhjdftdttttzezgzuuttttzzzrdtdzk	_	_	_	_	_	_	_
+29	ktfgc	ktfgc	_	_	_	_	_	_	_
+30	iluehz	iluehz	_	_	_	_	_	_	_
+31	weui	weui	_	_	_	_	_	_	_
+32	hsehfiwhf	hsehfiwhf	_	_	_	_	_	_	_
+33	usrhfsiufhweufhwekhsehfkshuefksufh	usrhfsiufhwehfwswhwefhwfwwuefks	_	_	_	_	_	_	_
+34	kufhskuhzezhshkeufszehwehzefhsi	kufhskuhzezhszehfszefwefwefhsi	_	_	_	_	_	_	_
+35	fhwefefsefsefsfesfeww	fhwefefsefsefsfeffeww	_	_	_	_	_	_	_
+36	sssohgkgghuočg	sssohgkgghuočg	_	_	_	_	_	_	_
+37	utiloi	util	_	_	_	_	_	_	_
+
+# newpar id = 72
+# sent_id = 72.1
+# text = Hallllooooooo!!!
+1	Hallllooooooo	Halllooooooo	_	_	_	_	_	_	SpaceAfter=No
+2	!!!	!!!	_	_	_	_	_	_	_
+
+# newpar id = 73
+# sent_id = 73.1
+# text = hej
+1	hej	hej	_	_	_	_	_	_	_
+
+# newpar id = 74
+# sent_id = 74.1
+# text = nevem
+1	nevem	nev	_	_	_	_	_	_	_
+
+# newpar id = 75
+# sent_id = 75.1
+# text = Halo:)
+1	Halo	halo	_	_	_	_	_	_	SpaceAfter=No
+2	:)	:)	_	_	_	_	_	_	_
+
+# newpar id = 76
+# sent_id = 76.1
+# text = f
+1	f	f	_	_	_	_	_	_	_
+
+# newpar id = 77
+# sent_id = 77.1
+# text = Da bi bila radodarna in bi jim pomagala
+1	Da	da	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	bila	biti	_	_	_	_	_	_	_
+4	radodarna	radodaren	_	_	_	_	_	_	_
+5	in	in	_	_	_	_	_	_	_
+6	bi	bi	_	_	_	_	_	_	_
+7	jim	jim	_	_	_	_	_	_	_
+8	pomagala	pomagati	_	_	_	_	_	_	_
+
+# newpar id = 78
+# sent_id = 78.1
+# text = Aneda
+1	Aneda	Aned	_	_	_	_	_	_	_
+
+# newpar id = 79
+# sent_id = 79.1
+# text = kaj če bi narobe nalil zdravilo
+1	kaj	kaj	_	_	_	_	_	_	_
+2	če	če	_	_	_	_	_	_	_
+3	bi	bi	_	_	_	_	_	_	_
+4	narobe	narobe	_	_	_	_	_	_	_
+5	nalil	nalil	_	_	_	_	_	_	_
+6	zdravilo	zdravil	_	_	_	_	_	_	_
+
+# newpar id = 80
+# sent_id = 80.1
+# text = kdo je francac 7
+1	kdo	kdo	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	francac	francac	_	_	_	_	_	_	_
+4	7	7	_	_	_	_	_	_	_
+
+# newpar id = 81
+# sent_id = 81.1
+# text = da bi šel skozi okno
+1	da	da	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	šel	šel	_	_	_	_	_	_	_
+4	skozi	skozi	_	_	_	_	_	_	_
+5	okno	okno	_	_	_	_	_	_	_
+
+# newpar id = 82
+# sent_id = 82.1
+# text = To je linija za odgovarjanje na vprašanja.
+1	To	ta	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	linija	linij	_	_	_	_	_	_	_
+4	za	za	_	_	_	_	_	_	_
+5	odgovarjanje	odgovarjanje	_	_	_	_	_	_	_
+6	na	ni	_	_	_	_	_	_	_
+7	vprašanja	vprašanji	_	_	_	_	_	_	SpaceAfter=No
+8	.	.	_	_	_	_	_	_	_
+
+# newpar id = 83
+# sent_id = 83.1
+# text = '?
+1	'	'	_	_	_	_	_	_	SpaceAfter=No
+2	?	?	_	_	_	_	_	_	_
+
+# newpar id = 84
+# sent_id = 84.1
+# text = kliknes na obraz
+1	kliknes	kliknes	_	_	_	_	_	_	_
+2	na	ni	_	_	_	_	_	_	_
+3	obraz	obraz	_	_	_	_	_	_	_
+
+# newpar id = 85
+# sent_id = 85.1
+# text = kdo ste vsi
+1	kdo	kdo	_	_	_	_	_	_	_
+2	ste	ste	_	_	_	_	_	_	_
+3	vsi	vsi	_	_	_	_	_	_	_
+
+# newpar id = 86
+# sent_id = 86.1
+# text = NE TI VAL
+1	NE	NE	_	_	_	_	_	_	_
+2	TI	ti	_	_	_	_	_	_	_
+3	VAL	VAL	_	_	_	_	_	_	_
+
+# newpar id = 87
+# sent_id = 87.1
+# text = ja in albin sm
+1	ja	ja	_	_	_	_	_	_	_
+2	in	in	_	_	_	_	_	_	_
+3	albin	albin	_	_	_	_	_	_	_
+4	sm	sm	_	_	_	_	_	_	_
+
+# newpar id = 88
+# sent_id = 88.1
+# text = Lahko bi se učil in bi znal.
+1	Lahko	lahko	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	se	se	_	_	_	_	_	_	_
+4	učil	učil	_	_	_	_	_	_	_
+5	in	in	_	_	_	_	_	_	_
+6	bi	bi	_	_	_	_	_	_	_
+7	znal	znal	_	_	_	_	_	_	SpaceAfter=No
+8	.	.	_	_	_	_	_	_	_
+
+# newpar id = 89
+# sent_id = 89.1
+# text = Kva
+1	Kva	kaj	_	_	_	_	_	_	_
+
+# newpar id = 90
+# sent_id = 90.1
+# text = kdo
+1	kdo	kdo	_	_	_	_	_	_	_
+
+# newpar id = 91
+# sent_id = 91.1
+# text = Po mojem ne ve
+1	Po	Po	_	_	_	_	_	_	_
+2	mojem	moj	_	_	_	_	_	_	_
+3	ne	ni	_	_	_	_	_	_	_
+4	ve	ve	_	_	_	_	_	_	_
+
+# newpar id = 92
+# sent_id = 92.1
+# text = jo alex kaj misliš o veverički
+1	jo	jo	_	_	_	_	_	_	_
+2	alex	alex	_	_	_	_	_	_	_
+3	kaj	kaj	_	_	_	_	_	_	_
+4	misliš	misel	_	_	_	_	_	_	_
+5	o	o	_	_	_	_	_	_	_
+6	veverički	veverički	_	_	_	_	_	_	_
+
+# newpar id = 93
+# sent_id = 93.1
+# text = jaz bi se pocutil vredu ker vem da prisel domov
+1	jaz	jaz	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	se	se	_	_	_	_	_	_	_
+4	pocutil	pocutil	_	_	_	_	_	_	_
+5	vredu	vred	_	_	_	_	_	_	_
+6	ker	kar	_	_	_	_	_	_	_
+7	vem	vem	_	_	_	_	_	_	_
+8	da	da	_	_	_	_	_	_	_
+9	prisel	prisel	_	_	_	_	_	_	_
+10	domov	dom	_	_	_	_	_	_	_
+
+# newpar id = 94
+# sent_id = 94.1
+# text = ja jaz sem
+1	ja	ja	_	_	_	_	_	_	_
+2	jaz	jaz	_	_	_	_	_	_	_
+3	sem	samo	_	_	_	_	_	_	_
+
+# newpar id = 95
+# sent_id = 95.1
+# text = :)
+1	:)	:)	_	_	_	_	_	_	_
+
+# newpar id = 96
+# sent_id = 96.1
+# text = Nebi šel v butale
+1	Nebi	Neb	_	_	_	_	_	_	_
+2	šel	šel	_	_	_	_	_	_	_
+3	v	v	_	_	_	_	_	_	_
+4	butale	butale	_	_	_	_	_	_	_
+
+# newpar id = 97
+# sent_id = 97.1
+# text = VEM
+1	VEM	vem	_	_	_	_	_	_	_
+
+# newpar id = 98
+# sent_id = 98.1
+# text = Jaz mislim, da bi se lahko marsikaj ..
+1	Jaz	jaz	_	_	_	_	_	_	_
+2	mislim	misel	_	_	_	_	_	_	SpaceAfter=No
+3	,	,	_	_	_	_	_	_	_
+4	da	da	_	_	_	_	_	_	_
+5	bi	bi	_	_	_	_	_	_	_
+6	se	se	_	_	_	_	_	_	_
+7	lahko	lahko	_	_	_	_	_	_	_
+8	marsikaj	marsikaj	_	_	_	_	_	_	_
+9	..	..	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 98.2
+# text = še enkrat premisli
+1	še	še	_	_	_	_	_	_	_
+2	enkrat	enkrat	_	_	_	_	_	_	_
+3	premisli	premisel	_	_	_	_	_	_	_
+
+# newpar id = 99
+# sent_id = 99.1
+# text = grozno
+1	grozno	grozen	_	_	_	_	_	_	_
+
+# newpar id = 100
+# sent_id = 100.1
+# text = (⟃ ͜ʖ ⟄)
+1	(	(	_	_	_	_	_	_	SpaceAfter=No
+2	⟃	⟃	_	_	_	_	_	_	_
+3	͜	͜	_	_	_	_	_	_	SpaceAfter=No
+4	ʖ	ʖ	_	_	_	_	_	_	_
+5	⟄	⟄	_	_	_	_	_	_	SpaceAfter=No
+6	)	)	_	_	_	_	_	_	_
+
+# newpar id = 101
+# sent_id = 101.1
+# text = živjo punčkeeeeeeeeeeeeeee
+1	živjo	živji	_	_	_	_	_	_	_
+2	punčkeeeeeeeeeeeeeee	punčkeeeeeeeeeeeeeee	_	_	_	_	_	_	_
+
+# newpar id = 102
+# sent_id = 102.1
+# text = Povej ti pa bom jaz tebi
+1	Povej	povej	_	_	_	_	_	_	_
+2	ti	ti	_	_	_	_	_	_	_
+3	pa	pa	_	_	_	_	_	_	_
+4	bom	bom	_	_	_	_	_	_	_
+5	jaz	jaz	_	_	_	_	_	_	_
+6	tebi	tebi	_	_	_	_	_	_	_
+
+# newpar id = 103
+# sent_id = 103.1
+# text = ( ͡☉ ͜ʖ ͡☉)
+1	(	(	_	_	_	_	_	_	_
+2	͡	͡	_	_	_	_	_	_	SpaceAfter=No
+3	☉	☉	_	_	_	_	_	_	_
+4	͜	͜	_	_	_	_	_	_	SpaceAfter=No
+5	ʖ	ʖ	_	_	_	_	_	_	_
+6	͡	͡	_	_	_	_	_	_	SpaceAfter=No
+7	☉	☉	_	_	_	_	_	_	SpaceAfter=No
+8	)	)	_	_	_	_	_	_	_
+
+# newpar id = 104
+# sent_id = 104.1
+# text = hello
+1	hello	hello	_	_	_	_	_	_	_
+
+# newpar id = 105
+# sent_id = 105.1
+# text = Jaz sem vak,
+1	Jaz	jaz	_	_	_	_	_	_	_
+2	sem	samo	_	_	_	_	_	_	_
+3	vak	vak	_	_	_	_	_	_	SpaceAfter=No
+4	,	,	_	_	_	_	_	_	_
+
+# newpar id = 106
+# sent_id = 106.1
+# text = člplojjugzjhugzuftrsrestutgzuhjknhzd ztfuhiohnjhf5jmbighjdfokl kyxpovfwei8f9zhvuxcvnjb llxkgjdfiughfubjcvnkmxcigjrisdpfopdhit
+1	člplojjugzjhugzuftrsrestutgzuhjknhzd	člplojjugzufzuftuftufjufjufjuftzfzdd	_	_	_	_	_	_	_
+2	ztfuhiohnjhf5jmbighjdfokl	ztfuhiohnjhfighjdfmdfokel	_	_	_	_	_	_	_
+3	kyxpovfwei8f9zhvuxcvnjb	kyxpovfwei8f9zhvuxcvnjb	_	_	_	_	_	_	_
+4	llxkgjdfiughfubjcvnkmxcigjrisdpfopdhit	llxkgjddiughfufjfubjfubjffepjepecd	_	_	_	_	_	_	_
+
+# newpar id = 107
+# sent_id = 107.1
+# text = skakanja
+1	skakanja	skakanji	_	_	_	_	_	_	_
+
+# newpar id = 108
+# sent_id = 108.1
+# text = lahko bi se navcil vsaj skociti na vejo
+1	lahko	lahko	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	se	se	_	_	_	_	_	_	_
+4	navcil	navcil	_	_	_	_	_	_	_
+5	vsaj	vsaj	_	_	_	_	_	_	_
+6	skociti	skocit	_	_	_	_	_	_	_
+7	na	ni	_	_	_	_	_	_	_
+8	vejo	veti	_	_	_	_	_	_	_
+
+# newpar id = 109
+# sent_id = 109.1
+# text = kaj tija
+1	kaj	kaj	_	_	_	_	_	_	_
+2	tija	ti	_	_	_	_	_	_	_
+
+# newpar id = 110
+# sent_id = 110.1
+# text = ne nisem
+1	ne	ni	_	_	_	_	_	_	_
+2	nisem	nis	_	_	_	_	_	_	_
+
+# newpar id = 111
+# sent_id = 111.1
+# text = ker to steka
+1	ker	kar	_	_	_	_	_	_	_
+2	to	to	_	_	_	_	_	_	_
+3	steka	stek	_	_	_	_	_	_	_
+
+# newpar id = 112
+# sent_id = 112.1
+# text = na pošiljaj mi sporočil ker sem profi
+1	na	ni	_	_	_	_	_	_	_
+2	pošiljaj	pošiljaj	_	_	_	_	_	_	_
+3	mi	mi	_	_	_	_	_	_	_
+4	sporočil	sporočiti	_	_	_	_	_	_	_
+5	ker	kar	_	_	_	_	_	_	_
+6	sem	samo	_	_	_	_	_	_	_
+7	profi	profi	_	_	_	_	_	_	_
+
+# newpar id = 113
+# sent_id = 113.1
+# text = nauču bi se lahko igrati enko
+1	nauču	nauč	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	se	se	_	_	_	_	_	_	_
+4	lahko	lahko	_	_	_	_	_	_	_
+5	igrati	igrat	_	_	_	_	_	_	_
+6	enko	enko	_	_	_	_	_	_	_
+
+# newpar id = 114
+# sent_id = 114.1
+# text = oDGOVORI BOLJŠE!!!!!!!!!!!!!!!!!!
+1	oDGOVORI	odgovor	_	_	_	_	_	_	_
+2	BOLJŠE	dolg	_	_	_	_	_	_	SpaceAfter=No
+3	!!!!!!!!!!!!!!!!!!	!!!!!!!!!!!!!!!!!!	_	_	_	_	_	_	_
+
+# newpar id = 115
+# sent_id = 115.1
+# text = tako, da bi rekel da gre na stranisce.
+1	tako	tako	_	_	_	_	_	_	SpaceAfter=No
+2	,	,	_	_	_	_	_	_	_
+3	da	da	_	_	_	_	_	_	_
+4	bi	bi	_	_	_	_	_	_	_
+5	rekel	rekel	_	_	_	_	_	_	_
+6	da	da	_	_	_	_	_	_	_
+7	gre	gre	_	_	_	_	_	_	_
+8	na	ni	_	_	_	_	_	_	_
+9	stranisce	stranisce	_	_	_	_	_	_	SpaceAfter=No
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = 115.2
+# text = ko pa bi se zaklenil bi pobegnil skozi straniščno zadnje okno.
+1	ko	koj	_	_	_	_	_	_	_
+2	pa	pa	_	_	_	_	_	_	_
+3	bi	bi	_	_	_	_	_	_	_
+4	se	se	_	_	_	_	_	_	_
+5	zaklenil	zakleniti	_	_	_	_	_	_	_
+6	bi	bi	_	_	_	_	_	_	_
+7	pobegnil	pobegniti	_	_	_	_	_	_	_
+8	skozi	skozi	_	_	_	_	_	_	_
+9	straniščno	straniščno	_	_	_	_	_	_	_
+10	zadnje	zadnji	_	_	_	_	_	_	_
+11	okno	okno	_	_	_	_	_	_	SpaceAfter=No
+12	.	.	_	_	_	_	_	_	_
+
+# newpar id = 116
+# sent_id = 116.1
+# text = mislim da mojca ne bi odšla s pehto ker vsi pravijo da je hudobna
+1	mislim	misel	_	_	_	_	_	_	_
+2	da	da	_	_	_	_	_	_	_
+3	mojca	mojec	_	_	_	_	_	_	_
+4	ne	ni	_	_	_	_	_	_	_
+5	bi	bi	_	_	_	_	_	_	_
+6	odšla	odšl	_	_	_	_	_	_	_
+7	s	s	_	_	_	_	_	_	_
+8	pehto	pehto	_	_	_	_	_	_	_
+9	ker	kar	_	_	_	_	_	_	_
+10	vsi	vsi	_	_	_	_	_	_	_
+11	pravijo	praviti	_	_	_	_	_	_	_
+12	da	da	_	_	_	_	_	_	_
+13	je	je	_	_	_	_	_	_	_
+14	hudobna	hudoben	_	_	_	_	_	_	_
+
+# newpar id = 117
+# sent_id = 117.1
+# text = KOLK SE JE DOBRO TAKO POGOVARJAT!!!
+1	KOLK	kolk	_	_	_	_	_	_	_
+2	SE	biti	_	_	_	_	_	_	_
+3	JE	on	_	_	_	_	_	_	_
+4	DOBRO	dobro	_	_	_	_	_	_	_
+5	TAKO	tak	_	_	_	_	_	_	_
+6	POGOVARJAT	pogovarjat	_	_	_	_	_	_	SpaceAfter=No
+7	!!!	!!!	_	_	_	_	_	_	_
+
+# newpar id = 118
+# sent_id = 118.1
+# text = dej ti
+1	dej	dej	_	_	_	_	_	_	_
+2	ti	ti	_	_	_	_	_	_	_
+
+# newpar id = 119
+# sent_id = 119.1
+# text = Samo informativno
+1	Samo	samo	_	_	_	_	_	_	_
+2	informativno	informativen	_	_	_	_	_	_	_
+
+# newpar id = 120
+# sent_id = 120.1
+# text = g18
+1	g18	g18	_	_	_	_	_	_	_
+
+# newpar id = 121
+# sent_id = 121.1
+# text = noro leni
+1	noro	noro	_	_	_	_	_	_	_
+2	leni	len	_	_	_	_	_	_	_
+
+# newpar id = 122
+# sent_id = 122.1
+# text = tam kjer veverica sprašuje
+1	tam	ti	_	_	_	_	_	_	_
+2	kjer	kjer	_	_	_	_	_	_	_
+3	veverica	veverica	_	_	_	_	_	_	_
+4	sprašuje	sprašev	_	_	_	_	_	_	_
+
+# newpar id = 123
+# sent_id = 123.1
+# text = čogpegpokčllegplegčršpogreg včdgfkj fdćpogr4e tkpr5 gčprtz k
+1	čogpegpokčllegplegčršpogreg	čogpegpokčlegčlegčelišer	_	_	_	_	_	_	_
+2	včdgfkj	včdgfkj	_	_	_	_	_	_	_
+3	fdćpogr4e	fdypogr4e	_	_	_	_	_	_	_
+4	tkpr5	tkpr5	_	_	_	_	_	_	_
+5	gčprtz	gčprtz	_	_	_	_	_	_	_
+6	k	k	_	_	_	_	_	_	_
+
+# newpar id = 124
+# sent_id = 124.1
+# text = Ana sem.
+1	Ana	an	_	_	_	_	_	_	_
+2	sem	samo	_	_	_	_	_	_	SpaceAfter=No
+3	.	.	_	_	_	_	_	_	_
+
+# newpar id = 125
+# sent_id = 125.1
+# text = hej vita
+1	hej	hej	_	_	_	_	_	_	_
+2	vita	vit	_	_	_	_	_	_	_
+
+# newpar id = 126
+# sent_id = 126.1
+# text = kako pa veš
+1	kako	kak	_	_	_	_	_	_	_
+2	pa	pa	_	_	_	_	_	_	_
+3	veš	veš	_	_	_	_	_	_	_
+
+# newpar id = 127
+# sent_id = 127.1
+# text = ja ja ti to resno
+1	ja	ja	_	_	_	_	_	_	_
+2	ja	ja	_	_	_	_	_	_	_
+3	ti	ti	_	_	_	_	_	_	_
+4	to	to	_	_	_	_	_	_	_
+5	resno	resen	_	_	_	_	_	_	_
+
+# newpar id = 128
+# sent_id = 128.1
+# text = mogoce
+1	mogoce	mogoce	_	_	_	_	_	_	_
+
+# newpar id = 129
+# sent_id = 129.1
+# text = sem hana
+1	sem	samo	_	_	_	_	_	_	_
+2	hana	han	_	_	_	_	_	_	_
+
+# newpar id = 130
+# sent_id = 130.1
+# text = skakanje
+1	skakanje	skakanji	_	_	_	_	_	_	_
+
+# newpar id = 131
+# sent_id = 131.1
+# text = Zato, da bi bila knjiga bolj zanimiva
+1	Zato	zato	_	_	_	_	_	_	SpaceAfter=No
+2	,	,	_	_	_	_	_	_	_
+3	da	da	_	_	_	_	_	_	_
+4	bi	bi	_	_	_	_	_	_	_
+5	bila	biti	_	_	_	_	_	_	_
+6	knjiga	knjig	_	_	_	_	_	_	_
+7	bolj	bolj	_	_	_	_	_	_	_
+8	zanimiva	zanimiv	_	_	_	_	_	_	_
+
+# newpar id = 132
+# sent_id = 132.1
+# text = jaz mam 3 zlate denarcke
+1	jaz	jaz	_	_	_	_	_	_	_
+2	mam	mama	_	_	_	_	_	_	_
+3	3	3	_	_	_	_	_	_	_
+4	zlate	zlate	_	_	_	_	_	_	_
+5	denarcke	denarcke	_	_	_	_	_	_	_
+
+# newpar id = 133
+# sent_id = 133.1
+# text = oooooooooo
+1	oooooooooo	ooooooooo	_	_	_	_	_	_	_
+
+# newpar id = 134
+# sent_id = 134.1
+# text = ANA IS KERGA RAZREDA SI
+1	ANA	an	_	_	_	_	_	_	_
+2	IS	IS	_	_	_	_	_	_	_
+3	KERGA	kerg	_	_	_	_	_	_	_
+4	RAZREDA	razred	_	_	_	_	_	_	_
+5	SI	SI	_	_	_	_	_	_	_
+
+# newpar id = 135
+# sent_id = 135.1
+# text = ne nebi odšla sah
+1	ne	ni	_	_	_	_	_	_	_
+2	nebi	neb	_	_	_	_	_	_	_
+3	odšla	odšl	_	_	_	_	_	_	_
+4	sah	sah	_	_	_	_	_	_	_
+
+# newpar id = 136
+# sent_id = 136.1
+# text = SM NAJPAMETNEJŠI
+1	SM	SM	_	_	_	_	_	_	_
+2	NAJPAMETNEJŠI	pometen	_	_	_	_	_	_	_
+
+# newpar id = 137
+# sent_id = 137.1
+# text = Dr. Smith testing
+1	Dr.	dr.	_	_	_	_	_	_	_
+2	Smith	Smith	_	_	_	_	_	_	_
+3	testing	testing	_	_	_	_	_	_	_
+
+# newpar id = 138
+# sent_id = 138.1
+# text = odgovori
+1	odgovori	odgovor	_	_	_	_	_	_	_
+
+# newpar id = 139
+# sent_id = 139.1
+# text = jaz se tudi strinjam z vama.
+1	jaz	jaz	_	_	_	_	_	_	_
+2	se	se	_	_	_	_	_	_	_
+3	tudi	tudi	_	_	_	_	_	_	_
+4	strinjam	strinja	_	_	_	_	_	_	_
+5	z	z	_	_	_	_	_	_	_
+6	vama	vam	_	_	_	_	_	_	SpaceAfter=No
+7	.	.	_	_	_	_	_	_	_
+
+# newpar id = 140
+# sent_id = 140.1
+# text = ČUČUČU PO CESTI
+1	ČUČUČU	Čučuč	_	_	_	_	_	_	_
+2	PO	PO	_	_	_	_	_	_	_
+3	CESTI	cest	_	_	_	_	_	_	_
+
+# newpar id = 141
+# sent_id = 141.1
+# text = Odgovarjajte na vprašanje!!!!!!!!!!!!
+1	Odgovarjajte	odgovarjatti	_	_	_	_	_	_	_
+2	na	ni	_	_	_	_	_	_	_
+3	vprašanje	vprašanji	_	_	_	_	_	_	SpaceAfter=No
+4	!!!!!!!!!!!!	!!!!!!!!!!!!	_	_	_	_	_	_	_
+
+# newpar id = 142
+# sent_id = 142.1
+# text = kaj si rekla tia
+1	kaj	kaj	_	_	_	_	_	_	_
+2	si	si	_	_	_	_	_	_	_
+3	rekla	rekel	_	_	_	_	_	_	_
+4	tia	tia	_	_	_	_	_	_	_
+
+# newpar id = 143
+# sent_id = 143.1
+# text = bedenj
+1	bedenj	bedenj	_	_	_	_	_	_	_
+
+# newpar id = 144
+# sent_id = 144.1
+# text = gdo je zmano
+1	gdo	gdo	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	zmano	zmano	_	_	_	_	_	_	_
+
+# newpar id = 145
+# sent_id = 145.1
+# text = prosim povej
+1	prosim	pros	_	_	_	_	_	_	_
+2	povej	povej	_	_	_	_	_	_	_
+
+# newpar id = 146
+# sent_id = 146.1
+# text = lahko bi pel v operi ampak ne lepo
+1	lahko	lahko	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	pel	peti	_	_	_	_	_	_	_
+4	v	v	_	_	_	_	_	_	_
+5	operi	operi	_	_	_	_	_	_	_
+6	ampak	ampak	_	_	_	_	_	_	_
+7	ne	ni	_	_	_	_	_	_	_
+8	lepo	lep	_	_	_	_	_	_	_
+
+# newpar id = 147
+# sent_id = 147.1
+# text = živijo
+1	živijo	živij	_	_	_	_	_	_	_
+
+# newpar id = 148
+# sent_id = 148.1
+# text = Mislim, da smo zasli s teme ...
+1	Mislim	misel	_	_	_	_	_	_	SpaceAfter=No
+2	,	,	_	_	_	_	_	_	_
+3	da	da	_	_	_	_	_	_	_
+4	smo	smo	_	_	_	_	_	_	_
+5	zasli	zasti	_	_	_	_	_	_	_
+6	s	s	_	_	_	_	_	_	_
+7	teme	teme	_	_	_	_	_	_	_
+8	...	...	_	_	_	_	_	_	_
+
+# sent_id = 148.2
+# text = Pogovarjamo se o Copku!
+1	Pogovarjamo	pogovarjati	_	_	_	_	_	_	_
+2	se	se	_	_	_	_	_	_	_
+3	o	o	_	_	_	_	_	_	_
+4	Copku	copek	_	_	_	_	_	_	SpaceAfter=No
+5	!	!	_	_	_	_	_	_	_
+
+# newpar id = 149
+# sent_id = 149.1
+# text = ne pa ne
+1	ne	ni	_	_	_	_	_	_	_
+2	pa	pa	_	_	_	_	_	_	_
+3	ne	ni	_	_	_	_	_	_	_
+
+# newpar id = 150
+# sent_id = 150.1
+# text = Bravo...
+1	Bravo	bravo	_	_	_	_	_	_	SpaceAfter=No
+2	...	...	_	_	_	_	_	_	_
+
+# newpar id = 151
+# sent_id = 151.1
+# text = dej tih bod Luka
+1	dej	dej	_	_	_	_	_	_	_
+2	tih	tih	_	_	_	_	_	_	_
+3	bod	bod	_	_	_	_	_	_	_
+4	Luka	luk	_	_	_	_	_	_	_
+
+# newpar id = 152
+# sent_id = 152.1
+# text = Ok
+1	Ok	ok	_	_	_	_	_	_	_
+
+# newpar id = 153
+# sent_id = 153.1
+# text = si   slabic
+1	si	si	_	_	_	_	_	_	_
+2	slabic	slabic	_	_	_	_	_	_	_
+
+# newpar id = 154
+# sent_id = 154.1
+# text = aa
+1	aa	ai	_	_	_	_	_	_	_
+
+# newpar id = 155
+# sent_id = 155.1
+# text = umeramoooooooooooooooo
+1	umeramoooooooooooooooo	umeramooooooooooooooo	_	_	_	_	_	_	_
+
+# newpar id = 156
+# sent_id = 156.1
+# text = jaz imam nov obraz
+1	jaz	jaz	_	_	_	_	_	_	_
+2	imam	imeti	_	_	_	_	_	_	_
+3	nov	nov	_	_	_	_	_	_	_
+4	obraz	obraz	_	_	_	_	_	_	_
+
+# newpar id = 157
+# sent_id = 157.1
+# text = Nehali bi kraditi...
+1	Nehali	Nehali	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	kraditi	kradit	_	_	_	_	_	_	SpaceAfter=No
+4	...	...	_	_	_	_	_	_	_
+
+# newpar id = 158
+# sent_id = 158.1
+# text = wtf
+1	wtf	wtf	_	_	_	_	_	_	_
+
+# newpar id = 159
+# sent_id = 159.1
+# text = Lahko bi uzel stekleničko na vse druge načine, ko bi pa Pehto prosil, nebi ratal.
+1	Lahko	lahko	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	uzel	uzel	_	_	_	_	_	_	_
+4	stekleničko	steklenički	_	_	_	_	_	_	_
+5	na	ni	_	_	_	_	_	_	_
+6	vse	vse	_	_	_	_	_	_	_
+7	druge	druge	_	_	_	_	_	_	_
+8	načine	način	_	_	_	_	_	_	SpaceAfter=No
+9	,	,	_	_	_	_	_	_	_
+10	ko	koj	_	_	_	_	_	_	_
+11	bi	bi	_	_	_	_	_	_	_
+12	pa	pa	_	_	_	_	_	_	_
+13	Pehto	pehto	_	_	_	_	_	_	_
+14	prosil	prositi	_	_	_	_	_	_	SpaceAfter=No
+15	,	,	_	_	_	_	_	_	_
+16	nebi	neb	_	_	_	_	_	_	_
+17	ratal	ratal	_	_	_	_	_	_	SpaceAfter=No
+18	.	.	_	_	_	_	_	_	_
+
+# newpar id = 160
+# sent_id = 160.1
+# text = izmuznil se bi iz njegovih rok z finto glej ptica
+1	izmuznil	izmuzniti	_	_	_	_	_	_	_
+2	se	se	_	_	_	_	_	_	_
+3	bi	bi	_	_	_	_	_	_	_
+4	iz	iz	_	_	_	_	_	_	_
+5	njegovih	njegov	_	_	_	_	_	_	_
+6	rok	rok	_	_	_	_	_	_	_
+7	z	z	_	_	_	_	_	_	_
+8	finto	finto	_	_	_	_	_	_	_
+9	glej	glej	_	_	_	_	_	_	_
+10	ptica	ptica	_	_	_	_	_	_	_
+
+# newpar id = 161
+# sent_id = 161.1
+# text = delati salte
+1	delati	delat	_	_	_	_	_	_	_
+2	salte	salte	_	_	_	_	_	_	_
+
+# newpar id = 162
+# sent_id = 162.1
+# text = Samo potem bi bilo dolgčas.
+1	Samo	samo	_	_	_	_	_	_	_
+2	potem	potem	_	_	_	_	_	_	_
+3	bi	bi	_	_	_	_	_	_	_
+4	bilo	biti	_	_	_	_	_	_	_
+5	dolgčas	dolgčas	_	_	_	_	_	_	SpaceAfter=No
+6	.	.	_	_	_	_	_	_	_
+
+# newpar id = 163
+# sent_id = 163.1
+# text = jaz sem Ambrož
+1	jaz	jaz	_	_	_	_	_	_	_
+2	sem	samo	_	_	_	_	_	_	_
+3	Ambrož	Ambrože	_	_	_	_	_	_	_
+
+# newpar id = 164
+# sent_id = 164.1
+# text = lulika
+1	lulika	lulik	_	_	_	_	_	_	_
+
+# newpar id = 165
+# sent_id = 165.1
+# text = Lahko bi se naučil leteti
+1	Lahko	lahko	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	se	se	_	_	_	_	_	_	_
+4	naučil	naučil	_	_	_	_	_	_	_
+5	leteti	leteti	_	_	_	_	_	_	_
+
+# newpar id = 166
+# sent_id = 166.1
+# text = rubgjsbrsdgjtidflurhjfiru
+1	rubgjsbrsdgjtidflurhjfiru	rubgjsbrsdidfjdidhjfljfru	_	_	_	_	_	_	_
+
+# newpar id = 167
+# sent_id = 167.1
+# text = zivjo
+1	zivjo	zivji	_	_	_	_	_	_	_
+
+# newpar id = 168
+# sent_id = 168.1
+# text = A SI TUKI
+1	A	A	_	_	_	_	_	_	_
+2	SI	SI	_	_	_	_	_	_	_
+3	TUKI	tuk	_	_	_	_	_	_	_
+
+# newpar id = 169
+# sent_id = 169.1
+# text = #TihoBodte
+1	#TihoBodte	Itihobodte	_	_	_	_	_	_	_
+
+# newpar id = 170
+# sent_id = 170.1
+# text = DA BI SE PREOBLEKEL V PEKA
+1	DA	da	_	_	_	_	_	_	_
+2	BI	biti	_	_	_	_	_	_	_
+3	SE	biti	_	_	_	_	_	_	_
+4	PREOBLEKEL	preoblekel	_	_	_	_	_	_	_
+5	V	V	_	_	_	_	_	_	_
+6	PEKA	pek	_	_	_	_	_	_	_
+
+# newpar id = 171
+# sent_id = 171.1
+# text = nioc
+1	nioc	nioc	_	_	_	_	_	_	_
+
+# newpar id = 172
+# sent_id = 172.1
+# text = kdo ste
+1	kdo	kdo	_	_	_	_	_	_	_
+2	ste	ste	_	_	_	_	_	_	_
+
+# newpar id = 173
+# sent_id = 173.1
+# text = Hiiiii
+1	Hiiiii	hiiiii	_	_	_	_	_	_	_
+
+# newpar id = 174
+# sent_id = 174.1
+# text = da bi mu pobegnil
+1	da	da	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	mu	mu	_	_	_	_	_	_	_
+4	pobegnil	pobegniti	_	_	_	_	_	_	_
+
+# newpar id = 175
+# sent_id = 175.1
+# text = Kako biti kača.
+1	Kako	kak	_	_	_	_	_	_	_
+2	biti	biti	_	_	_	_	_	_	_
+3	kača	kač	_	_	_	_	_	_	SpaceAfter=No
+4	.	.	_	_	_	_	_	_	_
+
+# newpar id = 176
+# sent_id = 176.1
+# text = lahko bi se naučil razmišljati
+1	lahko	lahko	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	se	se	_	_	_	_	_	_	_
+4	naučil	naučil	_	_	_	_	_	_	_
+5	razmišljati	razmišljat	_	_	_	_	_	_	_
+
+# newpar id = 177
+# sent_id = 177.1
+# text = ubistvu nevem ravno
+1	ubistvu	ubistvo	_	_	_	_	_	_	_
+2	nevem	nev	_	_	_	_	_	_	_
+3	ravno	raven	_	_	_	_	_	_	_
+
+# newpar id = 178
+# sent_id = 178.1
+# text = LAHKO BI SE NAUČIL TUDI SKAKANJA SAMO SE GA NE MORE.
+1	LAHKO	lahko	_	_	_	_	_	_	_
+2	BI	biti	_	_	_	_	_	_	_
+3	SE	biti	_	_	_	_	_	_	_
+4	NAUČIL	naučiti	_	_	_	_	_	_	_
+5	TUDI	tud	_	_	_	_	_	_	_
+6	SKAKANJA	skakanji	_	_	_	_	_	_	_
+7	SAMO	sam	_	_	_	_	_	_	_
+8	SE	biti	_	_	_	_	_	_	_
+9	GA	ga	_	_	_	_	_	_	_
+10	NE	NE	_	_	_	_	_	_	_
+11	MORE	mor	_	_	_	_	_	_	SpaceAfter=No
+12	.	.	_	_	_	_	_	_	_
+
+# newpar id = 179
+# sent_id = 179.1
+# text = OBA  ČLOVEČKA VERJETNO
+1	OBA	oba	_	_	_	_	_	_	_
+2	ČLOVEČKA	človečki	_	_	_	_	_	_	_
+3	VERJETNO	verjeten	_	_	_	_	_	_	_
+
+# newpar id = 180
+# sent_id = 180.1
+# text = si ti
+1	si	si	_	_	_	_	_	_	_
+2	ti	ti	_	_	_	_	_	_	_
+
+# newpar id = 181
+# sent_id = 181.1
+# text = js mislm da e bi sla z njo kva pa ti
+1	js	js	_	_	_	_	_	_	_
+2	mislm	misel	_	_	_	_	_	_	_
+3	da	da	_	_	_	_	_	_	_
+4	e	e	_	_	_	_	_	_	_
+5	bi	bi	_	_	_	_	_	_	_
+6	sla	siti	_	_	_	_	_	_	_
+7	z	z	_	_	_	_	_	_	_
+8	njo	on	_	_	_	_	_	_	_
+9	kva	kaj	_	_	_	_	_	_	_
+10	pa	pa	_	_	_	_	_	_	_
+11	ti	ti	_	_	_	_	_	_	_
+
+# newpar id = 182
+# sent_id = 182.1
+# text = zivijo
+1	zivijo	zivij	_	_	_	_	_	_	_
+
+# newpar id = 183
+# sent_id = 183.1
+# text = Veliko
+1	Veliko	velik	_	_	_	_	_	_	_
+
+# newpar id = 184
+# sent_id = 184.1
+# text = A je gdo tm
+1	A	A	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	gdo	gdo	_	_	_	_	_	_	_
+4	tm	tm	_	_	_	_	_	_	_
+
+# newpar id = 185
+# sent_id = 185.1
+# text = wiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiwwwwwwwwwwwwwwwwiiiiiiiiiiiiiiiiiiiiiiii
+1	wiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiwwwwwwwwwwwwwwwwiiiiiiiiiiiiiiiiiiiiiiii	wiiiiiiiiiiiiiiiiiiwiiiiiiiiiiiiiiiiiiiiiiiiiiiiii	_	_	_	_	_	_	_
+
+# newpar id = 186
+# sent_id = 186.1
+# text = Al pa gre v sw
+1	Al	Al	_	_	_	_	_	_	_
+2	pa	pa	_	_	_	_	_	_	_
+3	gre	gre	_	_	_	_	_	_	_
+4	v	v	_	_	_	_	_	_	_
+5	sw	sw	_	_	_	_	_	_	_
+
+# newpar id = 187
+# sent_id = 187.1
+# text = igrati tenis
+1	igrati	igrat	_	_	_	_	_	_	_
+2	tenis	tenis	_	_	_	_	_	_	_
+
+# newpar id = 188
+# sent_id = 188.1
+# text = kdo si
+1	kdo	kdo	_	_	_	_	_	_	_
+2	si	si	_	_	_	_	_	_	_
+
+# newpar id = 189
+# sent_id = 189.1
+# text = nik
+1	nik	nik	_	_	_	_	_	_	_
+
+# newpar id = 190
+# sent_id = 190.1
+# text = ja
+1	ja	ja	_	_	_	_	_	_	_
+
+# newpar id = 191
+# sent_id = 191.1
+# text = Joj no pa a je to iz 1. stoletja?
+1	Joj	joj	_	_	_	_	_	_	_
+2	no	no	_	_	_	_	_	_	_
+3	pa	pa	_	_	_	_	_	_	_
+4	a	on	_	_	_	_	_	_	_
+5	je	je	_	_	_	_	_	_	_
+6	to	to	_	_	_	_	_	_	_
+7	iz	iz	_	_	_	_	_	_	_
+8	1.	1.	_	_	_	_	_	_	_
+9	stoletja	stoletje	_	_	_	_	_	_	SpaceAfter=No
+10	?	?	_	_	_	_	_	_	_
+
+# newpar id = 192
+# sent_id = 192.1
+# text = se enkrat
+1	se	se	_	_	_	_	_	_	_
+2	enkrat	enkrat	_	_	_	_	_	_	_
+
+# newpar id = 193
+# sent_id = 193.1
+# text = spremeniv se si sliko
+1	spremeniv	spremeniv	_	_	_	_	_	_	_
+2	se	se	_	_	_	_	_	_	_
+3	si	si	_	_	_	_	_	_	_
+4	sliko	sliko	_	_	_	_	_	_	_
+
+# newpar id = 194
+# sent_id = 194.1
+# text = Kako kaj mislim D15
+1	Kako	kak	_	_	_	_	_	_	_
+2	kaj	kaj	_	_	_	_	_	_	_
+3	mislim	misel	_	_	_	_	_	_	_
+4	D15	d15	_	_	_	_	_	_	_
+
+# newpar id = 195
+# sent_id = 195.1
+# text = kaj mojca bi rd bil
+1	kaj	kaj	_	_	_	_	_	_	_
+2	mojca	mojec	_	_	_	_	_	_	_
+3	bi	bi	_	_	_	_	_	_	_
+4	rd	rd	_	_	_	_	_	_	_
+5	bil	bil	_	_	_	_	_	_	_
+
+# newpar id = 196
+# sent_id = 196.1
+# text = David
+1	David	david	_	_	_	_	_	_	_
+
+# newpar id = 197
+# sent_id = 197.1
+# text = kdo si muma d6
+1	kdo	kdo	_	_	_	_	_	_	_
+2	si	si	_	_	_	_	_	_	_
+3	muma	muma	_	_	_	_	_	_	_
+4	d6	d6	_	_	_	_	_	_	_
+
+# newpar id = 198
+# sent_id = 198.1
+# text = Hana je vodnika17
+1	Hana	Han	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	vodnika17	vodnika17	_	_	_	_	_	_	_
+
+# newpar id = 199
+# sent_id = 199.1
+# text = od brine d
+1	od	od	_	_	_	_	_	_	_
+2	brine	brine	_	_	_	_	_	_	_
+3	d	d	_	_	_	_	_	_	_
+
+# newpar id = 200
+# sent_id = 200.1
+# text = tako da bi bruhav v njega gzt
+1	tako	tako	_	_	_	_	_	_	_
+2	da	da	_	_	_	_	_	_	_
+3	bi	bi	_	_	_	_	_	_	_
+4	bruhav	bruhav	_	_	_	_	_	_	_
+5	v	v	_	_	_	_	_	_	_
+6	njega	on	_	_	_	_	_	_	_
+7	gzt	gzt	_	_	_	_	_	_	_
+
+# newpar id = 201
+# sent_id = 201.1
+# text = kopili  bi jim srajco                            odpišite   mi
+1	kopili	kopil	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	jim	jim	_	_	_	_	_	_	_
+4	srajco	srajci	_	_	_	_	_	_	_
+5	odpišite	odpišati	_	_	_	_	_	_	_
+6	mi	mi	_	_	_	_	_	_	_
+
+# newpar id = 202
+# sent_id = 202.1
+# text = skokaaaaaaa
+1	skokaaaaaaa	skokaaaaaa	_	_	_	_	_	_	_
+
+# newpar id = 203
+# sent_id = 203.1
+# text = Men in bila tako vex.
+1	Men	men	_	_	_	_	_	_	_
+2	in	in	_	_	_	_	_	_	_
+3	bila	biti	_	_	_	_	_	_	_
+4	tako	tako	_	_	_	_	_	_	_
+5	vex	vex	_	_	_	_	_	_	SpaceAfter=No
+6	.	.	_	_	_	_	_	_	_
+
+# newpar id = 204
+# sent_id = 204.1
+# text = nehaj mi pošiljati sporočila
+1	nehaj	nehaj	_	_	_	_	_	_	_
+2	mi	mi	_	_	_	_	_	_	_
+3	pošiljati	pošiljat	_	_	_	_	_	_	_
+4	sporočila	sporočiti	_	_	_	_	_	_	_
+
+# newpar id = 205
+# sent_id = 205.1
+# text = ham
+1	ham	ham	_	_	_	_	_	_	_
+
+# newpar id = 206
+# sent_id = 206.1
+# text = KDO SI.
+1	KDO	kdo	_	_	_	_	_	_	_
+2	SI	SI	_	_	_	_	_	_	SpaceAfter=No
+3	.	.	_	_	_	_	_	_	_
+
+# newpar id = 207
+# sent_id = 207.1
+# text = kdo si ti
+1	kdo	kdo	_	_	_	_	_	_	_
+2	si	si	_	_	_	_	_	_	_
+3	ti	ti	_	_	_	_	_	_	_
+
+# newpar id = 208
+# sent_id = 208.1
+# text = al pa klavir
+1	al	al	_	_	_	_	_	_	_
+2	pa	pa	_	_	_	_	_	_	_
+3	klavir	klavir	_	_	_	_	_	_	_
+
+# newpar id = 209
+# sent_id = 209.1
+# text = t
+1	t	t	_	_	_	_	_	_	_
+
+# newpar id = 210
+# sent_id = 210.1
+# text = delati salte
+1	delati	delat	_	_	_	_	_	_	_
+2	salte	salte	_	_	_	_	_	_	_
+
+# newpar id = 211
+# sent_id = 211.1
+# text = jhk
+1	jhk	jhk	_	_	_	_	_	_	_
+
+# newpar id = 212
+# sent_id = 212.1
+# text = KIŠ?!
+1	KIŠ	kaj	_	_	_	_	_	_	SpaceAfter=No
+2	?!	?!	_	_	_	_	_	_	_
+
+# newpar id = 213
+# sent_id = 213.1
+# text = adri
+1	adri	adri	_	_	_	_	_	_	_
+
+# newpar id = 214
+# sent_id = 214.1
+# text = ja
+1	ja	ja	_	_	_	_	_	_	_
+
+# newpar id = 215
+# sent_id = 215.1
+# text = Odgovor.
+1	Odgovor	odgovor	_	_	_	_	_	_	SpaceAfter=No
+2	.	.	_	_	_	_	_	_	_
+
+# newpar id = 216
+# sent_id = 216.1
+# text = cez 20 sec je konec
+1	cez	cez	_	_	_	_	_	_	_
+2	20	20	_	_	_	_	_	_	_
+3	sec	sec	_	_	_	_	_	_	_
+4	je	je	_	_	_	_	_	_	_
+5	konec	konec	_	_	_	_	_	_	_
+
+# newpar id = 217
+# sent_id = 217.1
+# text = Ali ne bo nobeden nič odgovoril
+1	Ali	Ali	_	_	_	_	_	_	_
+2	ne	ni	_	_	_	_	_	_	_
+3	bo	bo	_	_	_	_	_	_	_
+4	nobeden	nobeden	_	_	_	_	_	_	_
+5	nič	nič	_	_	_	_	_	_	_
+6	odgovoril	odgovoriti	_	_	_	_	_	_	_
+
+# newpar id = 218
+# sent_id = 218.1
+# text = Tara,Uma,Laura, jaz odhajam.
+1	Tara	tar	_	_	_	_	_	_	SpaceAfter=No
+2	,	,	_	_	_	_	_	_	SpaceAfter=No
+3	Uma	um	_	_	_	_	_	_	SpaceAfter=No
+4	,	,	_	_	_	_	_	_	SpaceAfter=No
+5	Laura	Laur	_	_	_	_	_	_	SpaceAfter=No
+6	,	,	_	_	_	_	_	_	_
+7	jaz	jaz	_	_	_	_	_	_	_
+8	odhajam	odhaja	_	_	_	_	_	_	SpaceAfter=No
+9	.	.	_	_	_	_	_	_	_
+
+# newpar id = 219
+# sent_id = 219.1
+# text = 😎😎a spis
+1	😎😎	😎😎	_	_	_	_	_	_	SpaceAfter=No
+2	a	on	_	_	_	_	_	_	_
+3	spis	spis	_	_	_	_	_	_	_
+
+# newpar id = 220
+# sent_id = 220.1
+# text = Mogoče pa res.
+1	Mogoče	Mogoče	_	_	_	_	_	_	_
+2	pa	pa	_	_	_	_	_	_	_
+3	res	res	_	_	_	_	_	_	SpaceAfter=No
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = 220.2
+# text = Pa misliš, da je mo
+1	Pa	pa	_	_	_	_	_	_	_
+2	misliš	misel	_	_	_	_	_	_	SpaceAfter=No
+3	,	,	_	_	_	_	_	_	_
+4	da	da	_	_	_	_	_	_	_
+5	je	je	_	_	_	_	_	_	_
+6	mo	mo	_	_	_	_	_	_	_
+
+# newpar id = 221
+# sent_id = 221.1
+# text = Tiste pisane
+1	Tiste	tisti	_	_	_	_	_	_	_
+2	pisane	pisan	_	_	_	_	_	_	_
+
+# newpar id = 222
+# sent_id = 222.1
+# text = No mislm da bi loh znou krotit živali
+1	No	no	_	_	_	_	_	_	_
+2	mislm	misel	_	_	_	_	_	_	_
+3	da	da	_	_	_	_	_	_	_
+4	bi	bi	_	_	_	_	_	_	_
+5	loh	lih	_	_	_	_	_	_	_
+6	znou	zno	_	_	_	_	_	_	_
+7	krotit	krotit	_	_	_	_	_	_	_
+8	živali	žival	_	_	_	_	_	_	_
+
+# newpar id = 223
+# sent_id = 223.1
+# text = Ja meni tudi
+1	Ja	on	_	_	_	_	_	_	_
+2	meni	meni	_	_	_	_	_	_	_
+3	tudi	tudi	_	_	_	_	_	_	_
+
+# newpar id = 224
+# sent_id = 224.1
+# text = videg5
+1	videg5	videg5	_	_	_	_	_	_	_
+
+# newpar id = 225
+# sent_id = 225.1
+# text = james
+1	james	james	_	_	_	_	_	_	_
+
+# newpar id = 226
+# sent_id = 226.1
+# text = spremenu si sliko
+1	spremenu	spremen	_	_	_	_	_	_	_
+2	si	si	_	_	_	_	_	_	_
+3	sliko	sliko	_	_	_	_	_	_	_
+
+# newpar id = 227
+# sent_id = 227.1
+# text = 21 je mihael
+1	21	21	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	mihael	mihael	_	_	_	_	_	_	_
+
+# newpar id = 228
+# sent_id = 228.1
+# text = Lahkobi se
+1	Lahkobi	Lahkob	_	_	_	_	_	_	_
+2	se	se	_	_	_	_	_	_	_
+
+# newpar id = 229
+# sent_id = 229.1
+# text = Jaz sem že brala ta zgodba
+1	Jaz	jaz	_	_	_	_	_	_	_
+2	sem	samo	_	_	_	_	_	_	_
+3	že	že	_	_	_	_	_	_	_
+4	brala	bral	_	_	_	_	_	_	_
+5	ta	ta	_	_	_	_	_	_	_
+6	zgodba	zgodba	_	_	_	_	_	_	_
+
+# newpar id = 230
+# sent_id = 230.1
+# text = Sem učiteljica.
+1	Sem	biti	_	_	_	_	_	_	_
+2	učiteljica	učiteljic	_	_	_	_	_	_	SpaceAfter=No
+3	.	.	_	_	_	_	_	_	_
+
+# newpar id = 231
+# sent_id = 231.1
+# text = no cakam na odgoveor
+1	no	no	_	_	_	_	_	_	_
+2	cakam	cakaj	_	_	_	_	_	_	_
+3	na	ni	_	_	_	_	_	_	_
+4	odgoveor	odgoveor	_	_	_	_	_	_	_
+
+# newpar id = 232
+# sent_id = 232.1
+# text = Če piše sem prebra-la
+1	Če	če	_	_	_	_	_	_	_
+2	piše	pis	_	_	_	_	_	_	_
+3	sem	samo	_	_	_	_	_	_	_
+4	prebra-la	prebrasti	_	_	_	_	_	_	_
+
+# newpar id = 233
+# sent_id = 233.1
+# text = nope pusti me pri miru
+1	nope	nopek	_	_	_	_	_	_	_
+2	pusti	pusti	_	_	_	_	_	_	_
+3	me	me	_	_	_	_	_	_	_
+4	pri	pri	_	_	_	_	_	_	_
+5	miru	miru	_	_	_	_	_	_	_
+
+# newpar id = 234
+# sent_id = 234.1
+# text = prispevl bi denar
+1	prispevl	prispevl	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	denar	denar	_	_	_	_	_	_	_
+
+# newpar id = 235
+# sent_id = 235.1
+# text = Ane...
+1	Ane	ane	_	_	_	_	_	_	SpaceAfter=No
+2	...	...	_	_	_	_	_	_	_
+
+# newpar id = 236
+# sent_id = 236.1
+# text = No mislim dala ker sem punca
+1	No	no	_	_	_	_	_	_	_
+2	mislim	misel	_	_	_	_	_	_	_
+3	dala	dal	_	_	_	_	_	_	_
+4	ker	kar	_	_	_	_	_	_	_
+5	sem	samo	_	_	_	_	_	_	_
+6	punca	punec	_	_	_	_	_	_	_
+
+# newpar id = 237
+# sent_id = 237.1
+# text = ali čopko lahko znal iskati želode v tleh kot hrano
+1	ali	ali	_	_	_	_	_	_	_
+2	čopko	čopek	_	_	_	_	_	_	_
+3	lahko	lahko	_	_	_	_	_	_	_
+4	znal	znal	_	_	_	_	_	_	_
+5	iskati	iskat	_	_	_	_	_	_	_
+6	želode	želode	_	_	_	_	_	_	_
+7	v	v	_	_	_	_	_	_	_
+8	tleh	tu	_	_	_	_	_	_	_
+9	kot	kot	_	_	_	_	_	_	_
+10	hrano	hrano	_	_	_	_	_	_	_
+
+# newpar id = 238
+# sent_id = 238.1
+# text = meni tudi
+1	meni	meni	_	_	_	_	_	_	_
+2	tudi	tudi	_	_	_	_	_	_	_
+
+# newpar id = 239
+# sent_id = 239.1
+# text = Jstjih znam
+1	Jstjih	Jstji	_	_	_	_	_	_	_
+2	znam	znam	_	_	_	_	_	_	_
+
+# newpar id = 240
+# sent_id = 240.1
+# text = NauÄŤil bi se brat,pisat,raÄŤunat in vse kar mamo v Ĺˇoli
+1	NauÄŤil	NauÄŤil	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	se	se	_	_	_	_	_	_	_
+4	brat	brat	_	_	_	_	_	_	SpaceAfter=No
+5	,	,	_	_	_	_	_	_	SpaceAfter=No
+6	pisat	pisat	_	_	_	_	_	_	SpaceAfter=No
+7	,	,	_	_	_	_	_	_	SpaceAfter=No
+8	raÄŤunat	raÄŤunat	_	_	_	_	_	_	_
+9	in	in	_	_	_	_	_	_	_
+10	vse	vse	_	_	_	_	_	_	_
+11	kar	kar	_	_	_	_	_	_	_
+12	mamo	mamo	_	_	_	_	_	_	_
+13	v	v	_	_	_	_	_	_	_
+14	Ĺˇoli	jcol	_	_	_	_	_	_	_
+
+# newpar id = 241
+# sent_id = 241.1
+# text = ne no ne vem
+1	ne	ni	_	_	_	_	_	_	_
+2	no	no	_	_	_	_	_	_	_
+3	ne	ni	_	_	_	_	_	_	_
+4	vem	vem	_	_	_	_	_	_	_
+
+# newpar id = 242
+# sent_id = 242.1
+# text = preoblekel se je v roparja in je zbežal skozi vrata
+1	preoblekel	preoblekel	_	_	_	_	_	_	_
+2	se	se	_	_	_	_	_	_	_
+3	je	je	_	_	_	_	_	_	_
+4	v	v	_	_	_	_	_	_	_
+5	roparja	ropar	_	_	_	_	_	_	_
+6	in	in	_	_	_	_	_	_	_
+7	je	je	_	_	_	_	_	_	_
+8	zbežal	zbežati	_	_	_	_	_	_	_
+9	skozi	skozi	_	_	_	_	_	_	_
+10	vrata	vrat	_	_	_	_	_	_	_
+
+# newpar id = 243
+# sent_id = 243.1
+# text = ne ker je pehta zlobna
+1	ne	ni	_	_	_	_	_	_	_
+2	ker	kar	_	_	_	_	_	_	_
+3	je	je	_	_	_	_	_	_	_
+4	pehta	peht	_	_	_	_	_	_	_
+5	zlobna	zloben	_	_	_	_	_	_	_
+
+# newpar id = 244
+# sent_id = 244.1
+# text = k
+1	k	k	_	_	_	_	_	_	_
+
+# newpar id = 245
+# sent_id = 245.1
+# text = lahko bi na skrivaj ukradel
+1	lahko	lahko	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	na	ni	_	_	_	_	_	_	_
+4	skrivaj	skrivaj	_	_	_	_	_	_	_
+5	ukradel	ukradel	_	_	_	_	_	_	_
+
+# newpar id = 246
+# sent_id = 246.1
+# text = heeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeec
+1	heeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeec	heeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeec	_	_	_	_	_	_	_
+
+# newpar id = 247
+# sent_id = 247.1
+# text = LAHKO BI SE MU IZTRGAL IZ ROKAVA
+1	LAHKO	lahko	_	_	_	_	_	_	_
+2	BI	biti	_	_	_	_	_	_	_
+3	SE	biti	_	_	_	_	_	_	_
+4	MU	juz	_	_	_	_	_	_	_
+5	IZTRGAL	Iztrgal	_	_	_	_	_	_	_
+6	IZ	IZ	_	_	_	_	_	_	_
+7	ROKAVA	rokav	_	_	_	_	_	_	_
+
+# newpar id = 248
+# sent_id = 248.1
+# text = kul men tud
+1	kul	kul	_	_	_	_	_	_	_
+2	men	men	_	_	_	_	_	_	_
+3	tud	tud	_	_	_	_	_	_	_
+
+# newpar id = 249
+# sent_id = 249.1
+# text = jaz tudi
+1	jaz	jaz	_	_	_	_	_	_	_
+2	tudi	tudi	_	_	_	_	_	_	_
+
+# newpar id = 250
+# sent_id = 250.1
+# text = da bi bla zgodba bolj zanimiva
+1	da	da	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	bla	biti	_	_	_	_	_	_	_
+4	zgodba	zgodba	_	_	_	_	_	_	_
+5	bolj	bolj	_	_	_	_	_	_	_
+6	zanimiva	zanimiv	_	_	_	_	_	_	_
+
+# newpar id = 251
+# sent_id = 251.1
+# text = avtobus nas pelje
+1	avtobus	avtobus	_	_	_	_	_	_	_
+2	nas	nas	_	_	_	_	_	_	_
+3	pelje	pelje	_	_	_	_	_	_	_
+
+# newpar id = 252
+# sent_id = 252.1
+# text = Lenja?
+1	Lenja	lenj	_	_	_	_	_	_	SpaceAfter=No
+2	?	?	_	_	_	_	_	_	_
+
+# sent_id = 252.2
+# text = (Če si ti???
+1	(	(	_	_	_	_	_	_	SpaceAfter=No
+2	Če	če	_	_	_	_	_	_	_
+3	si	si	_	_	_	_	_	_	_
+4	ti	ti	_	_	_	_	_	_	SpaceAfter=No
+5	???	???	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 252.3
+# text = )
+1	)	)	_	_	_	_	_	_	_
+
+# newpar id = 253
+# sent_id = 253.1
+# text = čopko je postal naj bolj pametni veveriček
+1	čopko	čopek	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	postal	postal	_	_	_	_	_	_	_
+4	naj	naj	_	_	_	_	_	_	_
+5	bolj	bolj	_	_	_	_	_	_	_
+6	pametni	pameten	_	_	_	_	_	_	_
+7	veveriček	veveriček	_	_	_	_	_	_	_
+
+# newpar id = 254
+# sent_id = 254.1
+# text = 😁😀
+1	😁	😁	_	_	_	_	_	_	SpaceAfter=No
+2	😀	😀	_	_	_	_	_	_	_
+
+# newpar id = 255
+# sent_id = 255.1
+# text = ...
+1	...	...	_	_	_	_	_	_	_
+
+# newpar id = 256
+# sent_id = 256.1
+# text = sa
+1	sa	sa	_	_	_	_	_	_	_
+
+# newpar id = 257
+# sent_id = 257.1
+# text = Jas sem larisa
+1	Jas	Jas	_	_	_	_	_	_	_
+2	sem	samo	_	_	_	_	_	_	_
+3	larisa	laris	_	_	_	_	_	_	_
+
+# newpar id = 258
+# sent_id = 258.1
+# text = a
+1	a	on	_	_	_	_	_	_	_
+
+# newpar id = 259
+# sent_id = 259.1
+# text = A si Lenja???
+1	A	A	_	_	_	_	_	_	_
+2	si	si	_	_	_	_	_	_	_
+3	Lenja	lenj	_	_	_	_	_	_	SpaceAfter=No
+4	???	???	_	_	_	_	_	_	_
+
+# newpar id = 260
+# sent_id = 260.1
+# text = nevem
+1	nevem	nev	_	_	_	_	_	_	_
+
+# newpar id = 261
+# sent_id = 261.1
+# text = kako se ti zdi prva knjiga
+1	kako	kak	_	_	_	_	_	_	_
+2	se	se	_	_	_	_	_	_	_
+3	ti	ti	_	_	_	_	_	_	_
+4	zdi	zdi	_	_	_	_	_	_	_
+5	prva	prvi	_	_	_	_	_	_	_
+6	knjiga	knjig	_	_	_	_	_	_	_
+
+# newpar id = 262
+# sent_id = 262.1
+# text = Filip prosim nadaljuj z branjem.
+1	Filip	Filip	_	_	_	_	_	_	_
+2	prosim	pros	_	_	_	_	_	_	_
+3	nadaljuj	nadaljuj	_	_	_	_	_	_	_
+4	z	z	_	_	_	_	_	_	_
+5	branjem	branji	_	_	_	_	_	_	SpaceAfter=No
+6	.	.	_	_	_	_	_	_	_
+
+# newpar id = 263
+# sent_id = 263.1
+# text = gregor
+1	gregor	gregor	_	_	_	_	_	_	_
+
+# newpar id = 264
+# sent_id = 264.1
+# text = KAKO TI JE IME
+1	KAKO	kak	_	_	_	_	_	_	_
+2	TI	ti	_	_	_	_	_	_	_
+3	JE	on	_	_	_	_	_	_	_
+4	IME	imeti	_	_	_	_	_	_	_
+
+# newpar id = 265
+# sent_id = 265.1
+# text = kdo je videc 13
+1	kdo	kdo	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	videc	videc	_	_	_	_	_	_	_
+4	13	13	_	_	_	_	_	_	_
+
+# newpar id = 266
+# sent_id = 266.1
+# text = zato ker je
+1	zato	zato	_	_	_	_	_	_	_
+2	ker	kar	_	_	_	_	_	_	_
+3	je	je	_	_	_	_	_	_	_
+
+# newpar id = 267
+# sent_id = 267.1
+# text = yara?
+1	yara	yar	_	_	_	_	_	_	SpaceAfter=No
+2	?	?	_	_	_	_	_	_	_
+
+# newpar id = 268
+# sent_id = 268.1
+# text = al pa igrat človek ne jezi se
+1	al	al	_	_	_	_	_	_	_
+2	pa	pa	_	_	_	_	_	_	_
+3	igrat	igrat	_	_	_	_	_	_	_
+4	človek	človek	_	_	_	_	_	_	_
+5	ne	ni	_	_	_	_	_	_	_
+6	jezi	jezi	_	_	_	_	_	_	_
+7	se	se	_	_	_	_	_	_	_
+
+# newpar id = 269
+# sent_id = 269.1
+# text = Mali Alex je priden
+1	Mali	Mali	_	_	_	_	_	_	_
+2	Alex	Alex	_	_	_	_	_	_	_
+3	je	je	_	_	_	_	_	_	_
+4	priden	priden	_	_	_	_	_	_	_
+
+# newpar id = 270
+# sent_id = 270.1
+# text = zakaj misliš da so živali pomagale vidku?
+1	zakaj	zakaj	_	_	_	_	_	_	_
+2	misliš	misel	_	_	_	_	_	_	_
+3	da	da	_	_	_	_	_	_	_
+4	so	so	_	_	_	_	_	_	_
+5	živali	žival	_	_	_	_	_	_	_
+6	pomagale	pomagale	_	_	_	_	_	_	_
+7	vidku	videk	_	_	_	_	_	_	SpaceAfter=No
+8	?	?	_	_	_	_	_	_	_
+
+# newpar id = 271
+# sent_id = 271.1
+# text = ooooo
+1	ooooo	ooooo	_	_	_	_	_	_	_
+
+# newpar id = 272
+# sent_id = 272.1
+# text = mihael
+1	mihael	mihael	_	_	_	_	_	_	_
+
+# newpar id = 273
+# sent_id = 273.1
+# text = jst zakaj
+1	jst	jst	_	_	_	_	_	_	_
+2	zakaj	zakaj	_	_	_	_	_	_	_
+
+# newpar id = 274
+# sent_id = 274.1
+# text = Ne "cefizelj"
+1	Ne	Ni	_	_	_	_	_	_	_
+2	"	"	_	_	_	_	_	_	SpaceAfter=No
+3	cefizelj	cefizelj	_	_	_	_	_	_	SpaceAfter=No
+4	"	"	_	_	_	_	_	_	_
+
+# newpar id = 275
+# sent_id = 275.1
+# text = he
+1	he	he	_	_	_	_	_	_	_
+
+# newpar id = 276
+# sent_id = 276.1
+# text = uros konju
+1	uros	uros	_	_	_	_	_	_	_
+2	konju	konj	_	_	_	_	_	_	_
+
+# newpar id = 277
+# sent_id = 277.1
+# text = NEEEEEEE igrati košarko
+1	NEEEEEEE	neeeeeee	_	_	_	_	_	_	_
+2	igrati	igrat	_	_	_	_	_	_	_
+3	košarko	košarko	_	_	_	_	_	_	_
+
+# newpar id = 278
+# sent_id = 278.1
+# text = O MOJ BOG
+1	O	O	_	_	_	_	_	_	_
+2	MOJ	moj	_	_	_	_	_	_	_
+3	BOG	bog	_	_	_	_	_	_	_
+
+# newpar id = 279
+# sent_id = 279.1
+# text = zakajjjj
+1	zakajjjj	zakajjjj	_	_	_	_	_	_	_
+
+# newpar id = 280
+# sent_id = 280.1
+# text = Igrat enko.
+1	Igrat	igrat	_	_	_	_	_	_	_
+2	enko	enko	_	_	_	_	_	_	SpaceAfter=No
+3	.	.	_	_	_	_	_	_	_
+
+# newpar id = 281
+# sent_id = 281.1
+# text = volitve za nasljedno zgodbo
+1	volitve	volitev	_	_	_	_	_	_	_
+2	za	za	_	_	_	_	_	_	_
+3	nasljedno	nasljeden	_	_	_	_	_	_	_
+4	zgodbo	zgodbo	_	_	_	_	_	_	_
+
+# newpar id = 282
+# sent_id = 282.1
+# text = ali je še kdo
+1	ali	ali	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	še	še	_	_	_	_	_	_	_
+4	kdo	kdo	_	_	_	_	_	_	_
+
+# newpar id = 283
+# sent_id = 283.1
+# text = zato ker bo tudi sonce enkrat ugasnilo
+1	zato	zato	_	_	_	_	_	_	_
+2	ker	kar	_	_	_	_	_	_	_
+3	bo	bo	_	_	_	_	_	_	_
+4	tudi	tudi	_	_	_	_	_	_	_
+5	sonce	sonce	_	_	_	_	_	_	_
+6	enkrat	enkrat	_	_	_	_	_	_	_
+7	ugasnilo	ugasnit	_	_	_	_	_	_	_
+
+# newpar id = 284
+# sent_id = 284.1
+# text = Kaj če bi ga zalotila pri  kraji Mojce
+1	Kaj	kaj	_	_	_	_	_	_	_
+2	če	če	_	_	_	_	_	_	_
+3	bi	bi	_	_	_	_	_	_	_
+4	ga	ga	_	_	_	_	_	_	_
+5	zalotila	zalotil	_	_	_	_	_	_	_
+6	pri	pri	_	_	_	_	_	_	_
+7	kraji	kraj	_	_	_	_	_	_	_
+8	Mojce	mojce	_	_	_	_	_	_	_
+
+# newpar id = 285
+# sent_id = 285.1
+# text = kaj
+1	kaj	kaj	_	_	_	_	_	_	_
+
+# newpar id = 286
+# sent_id = 286.1
+# text = kdo je 9
+1	kdo	kdo	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	9	9	_	_	_	_	_	_	_
+
+# newpar id = 287
+# sent_id = 287.1
+# text = Dobra ideja!!!!
+1	Dobra	dober	_	_	_	_	_	_	_
+2	ideja	idej	_	_	_	_	_	_	SpaceAfter=No
+3	!!!!	!!!!	_	_	_	_	_	_	_
+
+# newpar id = 288
+# sent_id = 288.1
+# text = maj
+1	maj	maj	_	_	_	_	_	_	_
+
+# newpar id = 289
+# sent_id = 289.1
+# text = bedak
+1	bedak	bedak	_	_	_	_	_	_	_
+
+# newpar id = 290
+# sent_id = 290.1
+# text = kaj delaš
+1	kaj	kaj	_	_	_	_	_	_	_
+2	delaš	delati	_	_	_	_	_	_	_
+
+# newpar id = 291
+# sent_id = 291.1
+# text = are
+1	are	are	_	_	_	_	_	_	_
+
+# newpar id = 292
+# sent_id = 292.1
+# text = 8 je aljaz za 25 pa ne vem
+1	8	8	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	aljaz	aljaz	_	_	_	_	_	_	_
+4	za	za	_	_	_	_	_	_	_
+5	25	25	_	_	_	_	_	_	_
+6	pa	pa	_	_	_	_	_	_	_
+7	ne	ni	_	_	_	_	_	_	_
+8	vem	vem	_	_	_	_	_	_	_
+
+# newpar id = 293
+# sent_id = 293.1
+# text = pripovedovati zodbe
+1	pripovedovati	pripovedovati	_	_	_	_	_	_	_
+2	zodbe	zodbe	_	_	_	_	_	_	_
+
+# newpar id = 294
+# sent_id = 294.1
+# text = avtorica te zgodbe daje planetom  obcutke zato da bi mi spoznali ce  bi kdo to nam rekel
+1	avtorica	avtoric	_	_	_	_	_	_	_
+2	te	ti	_	_	_	_	_	_	_
+3	zgodbe	zgodbe	_	_	_	_	_	_	_
+4	daje	daj	_	_	_	_	_	_	_
+5	planetom	planet	_	_	_	_	_	_	_
+6	obcutke	obcutek	_	_	_	_	_	_	_
+7	zato	zato	_	_	_	_	_	_	_
+8	da	da	_	_	_	_	_	_	_
+9	bi	bi	_	_	_	_	_	_	_
+10	mi	mi	_	_	_	_	_	_	_
+11	spoznali	spoznati	_	_	_	_	_	_	_
+12	ce	ci	_	_	_	_	_	_	_
+13	bi	bi	_	_	_	_	_	_	_
+14	kdo	kdo	_	_	_	_	_	_	_
+15	to	to	_	_	_	_	_	_	_
+16	nam	jaz	_	_	_	_	_	_	_
+17	rekel	rekel	_	_	_	_	_	_	_
+
+# newpar id = 295
+# sent_id = 295.1
+# text = ne jaz nisem
+1	ne	ni	_	_	_	_	_	_	_
+2	jaz	jaz	_	_	_	_	_	_	_
+3	nisem	nis	_	_	_	_	_	_	_
+
+# newpar id = 296
+# sent_id = 296.1
+# text = Mogoče bi bil lahko bolničar pa bi sam sebe operiral.
+1	Mogoče	Mogoče	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	bil	bil	_	_	_	_	_	_	_
+4	lahko	lahko	_	_	_	_	_	_	_
+5	bolničar	bolničar	_	_	_	_	_	_	_
+6	pa	pa	_	_	_	_	_	_	_
+7	bi	bi	_	_	_	_	_	_	_
+8	sam	samo	_	_	_	_	_	_	_
+9	sebe	sebe	_	_	_	_	_	_	_
+10	operiral	operiral	_	_	_	_	_	_	SpaceAfter=No
+11	.	.	_	_	_	_	_	_	_
+
+# newpar id = 297
+# sent_id = 297.1
+# text = NE
+1	NE	NE	_	_	_	_	_	_	_
+
+# newpar id = 298
+# sent_id = 298.1
+# text = tztzw
+1	tztzw	tztzw	_	_	_	_	_	_	_
+
+# newpar id = 299
+# sent_id = 299.1
+# text = heeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeec
+1	heeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeec	heeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeec	_	_	_	_	_	_	_
+
+# newpar id = 300
+# sent_id = 300.1
+# text = pa kdo je ta glenns koseze
+1	pa	pa	_	_	_	_	_	_	_
+2	kdo	kdo	_	_	_	_	_	_	_
+3	je	je	_	_	_	_	_	_	_
+4	ta	ta	_	_	_	_	_	_	_
+5	glenns	glenns	_	_	_	_	_	_	_
+6	koseze	koseze	_	_	_	_	_	_	_
+
+# newpar id = 301
+# sent_id = 301.1
+# text = kdo ti
+1	kdo	kdo	_	_	_	_	_	_	_
+2	ti	ti	_	_	_	_	_	_	_
+
+# newpar id = 302
+# sent_id = 302.1
+# text = rerere
+1	rerere	rerere	_	_	_	_	_	_	_
+
+# newpar id = 303
+# sent_id = 303.1
+# text = meni je bila
+1	meni	meni	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	bila	biti	_	_	_	_	_	_	_
+
+# newpar id = 304
+# sent_id = 304.1
+# text = KAJ LAHKO DELA
+1	KAJ	kaj	_	_	_	_	_	_	_
+2	LAHKO	lahko	_	_	_	_	_	_	_
+3	DELA	del	_	_	_	_	_	_	_
+
+# newpar id = 305
+# sent_id = 305.1
+# text = zakaj
+1	zakaj	zakaj	_	_	_	_	_	_	_
+
+# newpar id = 306
+# sent_id = 306.1
+# text = Ker, to si predstavljamo ljudje ko smo žalostni in obupani.
+1	Ker	Ker	_	_	_	_	_	_	SpaceAfter=No
+2	,	,	_	_	_	_	_	_	_
+3	to	to	_	_	_	_	_	_	_
+4	si	si	_	_	_	_	_	_	_
+5	predstavljamo	predstavljati	_	_	_	_	_	_	_
+6	ljudje	ljud	_	_	_	_	_	_	_
+7	ko	koj	_	_	_	_	_	_	_
+8	smo	smo	_	_	_	_	_	_	_
+9	žalostni	žalosten	_	_	_	_	_	_	_
+10	in	in	_	_	_	_	_	_	_
+11	obupani	obupan	_	_	_	_	_	_	SpaceAfter=No
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = 306.2
+# text = Pravi prijatelj je vedno ob tebi.
+1	Pravi	pravi	_	_	_	_	_	_	_
+2	prijatelj	prijatelj	_	_	_	_	_	_	_
+3	je	je	_	_	_	_	_	_	_
+4	vedno	veden	_	_	_	_	_	_	_
+5	ob	ob	_	_	_	_	_	_	_
+6	tebi	tebi	_	_	_	_	_	_	SpaceAfter=No
+7	.	.	_	_	_	_	_	_	_
+
+# newpar id = 307
+# sent_id = 307.1
+# text = zfhkuwujlzierouoppšžržžžžžžžžžžgožg
+1	zfhkuwujlzierouoppšžržžžžžžžžžžgožg	zihkuwujlzierouhpžierouipžžgožg	_	_	_	_	_	_	_
+
+# newpar id = 308
+# sent_id = 308.1
+# text = (ノ͡° ͜ʖ ͡°)ノ︵┻┻
+1	(	(	_	_	_	_	_	_	SpaceAfter=No
+2	ノ	ノ	_	_	_	_	_	_	SpaceAfter=No
+3	͡	͡	_	_	_	_	_	_	SpaceAfter=No
+4	°	°	_	_	_	_	_	_	_
+5	͜	͜	_	_	_	_	_	_	SpaceAfter=No
+6	ʖ	ʖ	_	_	_	_	_	_	_
+7	͡	͡	_	_	_	_	_	_	SpaceAfter=No
+8	°	°	_	_	_	_	_	_	SpaceAfter=No
+9	)	)	_	_	_	_	_	_	SpaceAfter=No
+10	ノ	ノ	_	_	_	_	_	_	SpaceAfter=No
+11	︵	︵	_	_	_	_	_	_	SpaceAfter=No
+12	┻┻	┻┻	_	_	_	_	_	_	_
+
+# newpar id = 309
+# sent_id = 309.1
+# text = OMG
+1	OMG	OMG	_	_	_	_	_	_	_
+
+# newpar id = 310
+# sent_id = 310.1
+# text = plezati po drevesu
+1	plezati	plezat	_	_	_	_	_	_	_
+2	po	po	_	_	_	_	_	_	_
+3	drevesu	dreves	_	_	_	_	_	_	_
+
+# newpar id = 311
+# sent_id = 311.1
+# text = Zakaj bi ti povedal/a?
+1	Zakaj	zakaj	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	ti	ti	_	_	_	_	_	_	_
+4	povedal	povedati	_	_	_	_	_	_	SpaceAfter=No
+5	/	/	_	_	_	_	_	_	SpaceAfter=No
+6	a	on	_	_	_	_	_	_	SpaceAfter=No
+7	?	?	_	_	_	_	_	_	_
+
+# newpar id = 312
+# sent_id = 312.1
+# text = K Kitajčk zgledaš...
+1	K	K	_	_	_	_	_	_	_
+2	Kitajčk	kitajček	_	_	_	_	_	_	_
+3	zgledaš	zgledati	_	_	_	_	_	_	SpaceAfter=No
+4	...	...	_	_	_	_	_	_	_
+
+# newpar id = 313
+# sent_id = 313.1
+# text = Nehi
+1	Nehi	Neh	_	_	_	_	_	_	_
+
+# newpar id = 314
+# sent_id = 314.1
+# text = kdoooooooooooooooooooooooooooo
+1	kdoooooooooooooooooooooooooooo	kdoooooooooooooooooooooooooo	_	_	_	_	_	_	_
+
+# newpar id = 315
+# sent_id = 315.1
+# text = nejc borin je tu
+1	nejc	nejce	_	_	_	_	_	_	_
+2	borin	borin	_	_	_	_	_	_	_
+3	je	je	_	_	_	_	_	_	_
+4	tu	tu	_	_	_	_	_	_	_
+
+# newpar id = 316
+# sent_id = 316.1
+# text = Copko bi   lah naucu igrat fusbal
+1	Copko	copki	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	lah	lah	_	_	_	_	_	_	_
+4	naucu	nauc	_	_	_	_	_	_	_
+5	igrat	igrat	_	_	_	_	_	_	_
+6	fusbal	fusbal	_	_	_	_	_	_	_
+
+# newpar id = 317
+# sent_id = 317.1
+# text = nehaj nejka
+1	nehaj	nehaj	_	_	_	_	_	_	_
+2	nejka	nejka	_	_	_	_	_	_	_
+
+# newpar id = 318
+# sent_id = 318.1
+# text = ja
+1	ja	ja	_	_	_	_	_	_	_
+
+# newpar id = 319
+# sent_id = 319.1
+# text = in sem nazaj.
+1	in	in	_	_	_	_	_	_	_
+2	sem	samo	_	_	_	_	_	_	_
+3	nazaj	nazaj	_	_	_	_	_	_	SpaceAfter=No
+4	.	.	_	_	_	_	_	_	_
+
+# newpar id = 320
+# sent_id = 320.1
+# text = 🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇼🇬🇶🇬🇶🇬🇶🇬🇶🇬🇶🇬🇶🇬🇶🇬🇶🇬🇶🇬🇶🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇮🇨🇨🇦🇨🇦🇨🇦🇨🇦🇪🇹🇪🇹🇪🇹🇪🇹🇪🇪
+1	🇧	🇧	_	_	_	_	_	_	SpaceAfter=No
+2	🇷	🇷	_	_	_	_	_	_	SpaceAfter=No
+3	🇧	🇧	_	_	_	_	_	_	SpaceAfter=No
+4	🇷	🇷	_	_	_	_	_	_	SpaceAfter=No
+5	🇧	🇧	_	_	_	_	_	_	SpaceAfter=No
+6	🇷	🇷	_	_	_	_	_	_	SpaceAfter=No
+7	🇧	🇧	_	_	_	_	_	_	SpaceAfter=No
+8	🇷	🇷	_	_	_	_	_	_	SpaceAfter=No
+9	🇧	🇧	_	_	_	_	_	_	SpaceAfter=No
+10	🇷	🇷	_	_	_	_	_	_	SpaceAfter=No
+11	🇧	🇧	_	_	_	_	_	_	SpaceAfter=No
+12	🇷	🇷	_	_	_	_	_	_	SpaceAfter=No
+13	🇧	🇧	_	_	_	_	_	_	SpaceAfter=No
+14	🇷	🇷	_	_	_	_	_	_	SpaceAfter=No
+15	🇧	🇧	_	_	_	_	_	_	SpaceAfter=No
+16	🇷	🇷	_	_	_	_	_	_	SpaceAfter=No
+17	🇧	🇧	_	_	_	_	_	_	SpaceAfter=No
+18	🇷	🇷	_	_	_	_	_	_	SpaceAfter=No
+19	🇧	🇧	_	_	_	_	_	_	SpaceAfter=No
+20	🇷	🇷	_	_	_	_	_	_	SpaceAfter=No
+21	🇧	🇧	_	_	_	_	_	_	SpaceAfter=No
+22	🇷	🇷	_	_	_	_	_	_	SpaceAfter=No
+23	🇧	🇧	_	_	_	_	_	_	SpaceAfter=No
+24	🇷	🇷	_	_	_	_	_	_	SpaceAfter=No
+25	🇧	🇧	_	_	_	_	_	_	SpaceAfter=No
+26	🇷	🇷	_	_	_	_	_	_	SpaceAfter=No
+27	🇧	🇧	_	_	_	_	_	_	SpaceAfter=No
+28	🇷	🇷	_	_	_	_	_	_	SpaceAfter=No
+29	🇧	🇧	_	_	_	_	_	_	SpaceAfter=No
+30	🇷	🇷	_	_	_	_	_	_	SpaceAfter=No
+31	🇧	🇧	_	_	_	_	_	_	SpaceAfter=No
+32	🇷	🇷	_	_	_	_	_	_	SpaceAfter=No
+33	🇧	🇧	_	_	_	_	_	_	SpaceAfter=No
+34	🇷	🇷	_	_	_	_	_	_	SpaceAfter=No
+35	🇧	🇧	_	_	_	_	_	_	SpaceAfter=No
+36	🇷	🇷	_	_	_	_	_	_	SpaceAfter=No
+37	🇧	🇧	_	_	_	_	_	_	SpaceAfter=No
+38	🇷	🇷	_	_	_	_	_	_	SpaceAfter=No
+39	🇧	🇧	_	_	_	_	_	_	SpaceAfter=No
+40	🇷	🇷	_	_	_	_	_	_	SpaceAfter=No
+41	🇧	🇧	_	_	_	_	_	_	SpaceAfter=No
+42	🇷	🇷	_	_	_	_	_	_	SpaceAfter=No
+43	🇧	🇧	_	_	_	_	_	_	SpaceAfter=No
+44	🇷	🇷	_	_	_	_	_	_	SpaceAfter=No
+45	🇧	🇧	_	_	_	_	_	_	SpaceAfter=No
+46	🇷	🇷	_	_	_	_	_	_	SpaceAfter=No
+47	🇧	🇧	_	_	_	_	_	_	SpaceAfter=No
+48	🇷	🇷	_	_	_	_	_	_	SpaceAfter=No
+49	🇧	🇧	_	_	_	_	_	_	SpaceAfter=No
+50	🇷	🇷	_	_	_	_	_	_	SpaceAfter=No
+51	🇧	🇧	_	_	_	_	_	_	SpaceAfter=No
+52	🇷	🇷	_	_	_	_	_	_	SpaceAfter=No
+53	🇧	🇧	_	_	_	_	_	_	SpaceAfter=No
+54	🇷	🇷	_	_	_	_	_	_	SpaceAfter=No
+55	🇧	🇧	_	_	_	_	_	_	SpaceAfter=No
+56	🇷	🇷	_	_	_	_	_	_	SpaceAfter=No
+57	🇧	🇧	_	_	_	_	_	_	SpaceAfter=No
+58	🇷	🇷	_	_	_	_	_	_	SpaceAfter=No
+59	🇧	🇧	_	_	_	_	_	_	SpaceAfter=No
+60	🇷	🇷	_	_	_	_	_	_	SpaceAfter=No
+61	🇧	🇧	_	_	_	_	_	_	SpaceAfter=No
+62	🇷	🇷	_	_	_	_	_	_	SpaceAfter=No
+63	🇧	🇧	_	_	_	_	_	_	SpaceAfter=No
+64	🇷	🇷	_	_	_	_	_	_	SpaceAfter=No
+65	🇧	🇧	_	_	_	_	_	_	SpaceAfter=No
+66	🇼	🇼	_	_	_	_	_	_	SpaceAfter=No
+67	🇬	🇬	_	_	_	_	_	_	SpaceAfter=No
+68	🇶	🇶	_	_	_	_	_	_	SpaceAfter=No
+69	🇬	🇬	_	_	_	_	_	_	SpaceAfter=No
+70	🇶	🇶	_	_	_	_	_	_	SpaceAfter=No
+71	🇬	🇬	_	_	_	_	_	_	SpaceAfter=No
+72	🇶	🇶	_	_	_	_	_	_	SpaceAfter=No
+73	🇬	🇬	_	_	_	_	_	_	SpaceAfter=No
+74	🇶	🇶	_	_	_	_	_	_	SpaceAfter=No
+75	🇬	🇬	_	_	_	_	_	_	SpaceAfter=No
+76	🇶	🇶	_	_	_	_	_	_	SpaceAfter=No
+77	🇬	🇬	_	_	_	_	_	_	SpaceAfter=No
+78	🇶	🇶	_	_	_	_	_	_	SpaceAfter=No
+79	🇬	🇬	_	_	_	_	_	_	SpaceAfter=No
+80	🇶	🇶	_	_	_	_	_	_	SpaceAfter=No
+81	🇬	🇬	_	_	_	_	_	_	SpaceAfter=No
+82	🇶	🇶	_	_	_	_	_	_	SpaceAfter=No
+83	🇬	🇬	_	_	_	_	_	_	SpaceAfter=No
+84	🇶	🇶	_	_	_	_	_	_	SpaceAfter=No
+85	🇬	🇬	_	_	_	_	_	_	SpaceAfter=No
+86	🇶	🇶	_	_	_	_	_	_	SpaceAfter=No
+87	🇨	🇨	_	_	_	_	_	_	SpaceAfter=No
+88	🇦	🇦	_	_	_	_	_	_	SpaceAfter=No
+89	🇨	🇨	_	_	_	_	_	_	SpaceAfter=No
+90	🇦	🇦	_	_	_	_	_	_	SpaceAfter=No
+91	🇨	🇨	_	_	_	_	_	_	SpaceAfter=No
+92	🇦	🇦	_	_	_	_	_	_	SpaceAfter=No
+93	🇨	🇨	_	_	_	_	_	_	SpaceAfter=No
+94	🇦	🇦	_	_	_	_	_	_	SpaceAfter=No
+95	🇨	🇨	_	_	_	_	_	_	SpaceAfter=No
+96	🇦	🇦	_	_	_	_	_	_	SpaceAfter=No
+97	🇨	🇨	_	_	_	_	_	_	SpaceAfter=No
+98	🇦	🇦	_	_	_	_	_	_	SpaceAfter=No
+99	🇨	🇨	_	_	_	_	_	_	SpaceAfter=No
+100	🇦	🇦	_	_	_	_	_	_	SpaceAfter=No
+101	🇨	🇨	_	_	_	_	_	_	SpaceAfter=No
+102	🇦	🇦	_	_	_	_	_	_	SpaceAfter=No
+103	🇨	🇨	_	_	_	_	_	_	SpaceAfter=No
+104	🇦	🇦	_	_	_	_	_	_	SpaceAfter=No
+105	🇨	🇨	_	_	_	_	_	_	SpaceAfter=No
+106	🇦	🇦	_	_	_	_	_	_	SpaceAfter=No
+107	🇨	🇨	_	_	_	_	_	_	SpaceAfter=No
+108	🇦	🇦	_	_	_	_	_	_	SpaceAfter=No
+109	🇮	🇮	_	_	_	_	_	_	SpaceAfter=No
+110	🇨🇨	🇨🇨	_	_	_	_	_	_	SpaceAfter=No
+111	🇦	🇦	_	_	_	_	_	_	SpaceAfter=No
+112	🇨	🇨	_	_	_	_	_	_	SpaceAfter=No
+113	🇦	🇦	_	_	_	_	_	_	SpaceAfter=No
+114	🇨	🇨	_	_	_	_	_	_	SpaceAfter=No
+115	🇦	🇦	_	_	_	_	_	_	SpaceAfter=No
+116	🇨	🇨	_	_	_	_	_	_	SpaceAfter=No
+117	🇦	🇦	_	_	_	_	_	_	SpaceAfter=No
+118	🇪	🇪	_	_	_	_	_	_	SpaceAfter=No
+119	🇹	🇹	_	_	_	_	_	_	SpaceAfter=No
+120	🇪	🇪	_	_	_	_	_	_	SpaceAfter=No
+121	🇹	🇹	_	_	_	_	_	_	SpaceAfter=No
+122	🇪	🇪	_	_	_	_	_	_	SpaceAfter=No
+123	🇹	🇹	_	_	_	_	_	_	SpaceAfter=No
+124	🇪	🇪	_	_	_	_	_	_	SpaceAfter=No
+125	🇹	🇹	_	_	_	_	_	_	SpaceAfter=No
+126	🇪🇪	🇪🇪	_	_	_	_	_	_	_
+
+# newpar id = 321
+# sent_id = 321.1
+# text = a si jezna
+1	a	on	_	_	_	_	_	_	_
+2	si	si	_	_	_	_	_	_	_
+3	jezna	jezen	_	_	_	_	_	_	_
+
+# newpar id = 322
+# sent_id = 322.1
+# text = Do jst
+1	Do	do	_	_	_	_	_	_	_
+2	jst	jst	_	_	_	_	_	_	_
+
+# newpar id = 323
+# sent_id = 323.1
+# text = ali ti je bila knjiga vsec
+1	ali	ali	_	_	_	_	_	_	_
+2	ti	ti	_	_	_	_	_	_	_
+3	je	je	_	_	_	_	_	_	_
+4	bila	biti	_	_	_	_	_	_	_
+5	knjiga	knjig	_	_	_	_	_	_	_
+6	vsec	vsec	_	_	_	_	_	_	_
+
+# newpar id = 324
+# sent_id = 324.1
+# text = zgodba
+1	zgodba	zgodba	_	_	_	_	_	_	_
+
+# newpar id = 325
+# sent_id = 325.1
+# text = Če si punca, ja...
+1	Če	če	_	_	_	_	_	_	_
+2	si	si	_	_	_	_	_	_	_
+3	punca	punec	_	_	_	_	_	_	SpaceAfter=No
+4	,	,	_	_	_	_	_	_	_
+5	ja	ja	_	_	_	_	_	_	SpaceAfter=No
+6	...	...	_	_	_	_	_	_	_
+
+# sent_id = 325.2
+# text = drgač pa NE!
+1	drgač	drgač	_	_	_	_	_	_	_
+2	pa	pa	_	_	_	_	_	_	_
+3	NE	NE	_	_	_	_	_	_	SpaceAfter=No
+4	!	!	_	_	_	_	_	_	_
+
+# sent_id = 325.3
+# text = #ČudnFejs
+1	#ČudnFejs	#ČudnFejs	_	_	_	_	_	_	_
+
+# newpar id = 326
+# sent_id = 326.1
+# text = danilo
+1	danilo	danilo	_	_	_	_	_	_	_
+
+# newpar id = 327
+# sent_id = 327.1
+# text = enako kot smartno 18
+1	enako	enak	_	_	_	_	_	_	_
+2	kot	kot	_	_	_	_	_	_	_
+3	smartno	smarten	_	_	_	_	_	_	_
+4	18	18	_	_	_	_	_	_	_
+
+# newpar id = 328
+# sent_id = 328.1
+# text = a ves da sploh nism razumel kaj si prej povedala
+1	a	on	_	_	_	_	_	_	_
+2	ves	ves	_	_	_	_	_	_	_
+3	da	da	_	_	_	_	_	_	_
+4	sploh	sploh	_	_	_	_	_	_	_
+5	nism	nismo	_	_	_	_	_	_	_
+6	razumel	razumel	_	_	_	_	_	_	_
+7	kaj	kaj	_	_	_	_	_	_	_
+8	si	si	_	_	_	_	_	_	_
+9	prej	prej	_	_	_	_	_	_	_
+10	povedala	povedati	_	_	_	_	_	_	_
+
+# newpar id = 329
+# sent_id = 329.1
+# text = lol
+1	lol	lol	_	_	_	_	_	_	_
+
+# newpar id = 330
+# sent_id = 330.1
+# text = kako ves
+1	kako	kak	_	_	_	_	_	_	_
+2	ves	ves	_	_	_	_	_	_	_
+
+# newpar id = 331
+# sent_id = 331.1
+# text = riti ste
+1	riti	rit	_	_	_	_	_	_	_
+2	ste	ste	_	_	_	_	_	_	_
+
+# newpar id = 332
+# sent_id = 332.1
+# text = l
+1	l	l	_	_	_	_	_	_	_
+
+# newpar id = 333
+# sent_id = 333.1
+# text = Ostal bi pri peku.
+1	Ostal	Ostal	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	pri	pri	_	_	_	_	_	_	_
+4	peku	peku	_	_	_	_	_	_	SpaceAfter=No
+5	.	.	_	_	_	_	_	_	_
+
+# newpar id = 334
+# sent_id = 334.1
+# text = ja
+1	ja	ja	_	_	_	_	_	_	_
+
+# newpar id = 335
+# sent_id = 335.1
+# text = ja zakaj pa ne
+1	ja	ja	_	_	_	_	_	_	_
+2	zakaj	zakaj	_	_	_	_	_	_	_
+3	pa	pa	_	_	_	_	_	_	_
+4	ne	ni	_	_	_	_	_	_	_
+
+# newpar id = 336
+# sent_id = 336.1
+# text = resno a si res 🙄🙄🙄🙄
+1	resno	resen	_	_	_	_	_	_	_
+2	a	on	_	_	_	_	_	_	_
+3	si	si	_	_	_	_	_	_	_
+4	res	res	_	_	_	_	_	_	_
+5	🙄🙄🙄🙄	🙄🙄🙄🙄	_	_	_	_	_	_	_
+
+# newpar id = 337
+# sent_id = 337.1
+# text = zic
+1	zic	zic	_	_	_	_	_	_	_
+
+# newpar id = 338
+# sent_id = 338.1
+# text = Vsega jaz že poznam to zgodbo beri naprej boš prebral in bo.
+1	Vsega	ves	_	_	_	_	_	_	_
+2	jaz	jaz	_	_	_	_	_	_	_
+3	že	že	_	_	_	_	_	_	_
+4	poznam	poznati	_	_	_	_	_	_	_
+5	to	to	_	_	_	_	_	_	_
+6	zgodbo	zgodbo	_	_	_	_	_	_	_
+7	beri	ber	_	_	_	_	_	_	_
+8	naprej	naprej	_	_	_	_	_	_	_
+9	boš	biti	_	_	_	_	_	_	_
+10	prebral	prebral	_	_	_	_	_	_	_
+11	in	in	_	_	_	_	_	_	_
+12	bo	bo	_	_	_	_	_	_	SpaceAfter=No
+13	.	.	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 338.2
+# text = Kar začni brati dalje in to res hitro kmalu bo zazvonilo!
+1	Kar	Kar	_	_	_	_	_	_	_
+2	začni	začen	_	_	_	_	_	_	_
+3	brati	brat	_	_	_	_	_	_	_
+4	dalje	dalje	_	_	_	_	_	_	_
+5	in	in	_	_	_	_	_	_	_
+6	to	to	_	_	_	_	_	_	_
+7	res	res	_	_	_	_	_	_	_
+8	hitro	hitro	_	_	_	_	_	_	_
+9	kmalu	kmal	_	_	_	_	_	_	_
+10	bo	bo	_	_	_	_	_	_	_
+11	zazvonilo	zazvonil	_	_	_	_	_	_	SpaceAfter=No
+12	!	!	_	_	_	_	_	_	_
+
+# newpar id = 339
+# sent_id = 339.1
+# text = nezna  si  obleci  gate
+1	nezna	nezen	_	_	_	_	_	_	_
+2	si	si	_	_	_	_	_	_	_
+3	obleci	oblec	_	_	_	_	_	_	_
+4	gate	gate	_	_	_	_	_	_	_
+
+# newpar id = 340
+# sent_id = 340.1
+# text = kdo ste vi
+1	kdo	kdo	_	_	_	_	_	_	_
+2	ste	ste	_	_	_	_	_	_	_
+3	vi	vi	_	_	_	_	_	_	_
+
+# newpar id = 341
+# sent_id = 341.1
+# text = kdo sta vidva
+1	kdo	kdo	_	_	_	_	_	_	_
+2	sta	sta	_	_	_	_	_	_	_
+3	vidva	videv	_	_	_	_	_	_	_
+
+# newpar id = 342
+# sent_id = 342.1
+# text = Hej Taja
+1	Hej	hej	_	_	_	_	_	_	_
+2	Taja	taj	_	_	_	_	_	_	_
+
+# newpar id = 343
+# sent_id = 343.1
+# text = mah
+1	mah	meh	_	_	_	_	_	_	_
+
+# newpar id = 344
+# sent_id = 344.1
+# text = lahko bi letel
+1	lahko	lahko	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	letel	letel	_	_	_	_	_	_	_
+
+# newpar id = 345
+# sent_id = 345.1
+# text = No...
+1	No	no	_	_	_	_	_	_	SpaceAfter=No
+2	...	...	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 345.2
+# text = Gotovo ne!
+1	Gotovo	gotov	_	_	_	_	_	_	_
+2	ne	ni	_	_	_	_	_	_	SpaceAfter=No
+3	!	!	_	_	_	_	_	_	_
+
+# sent_id = 345.3
+# text = Lahko bi se naučil kako se naredi powerpoint!
+1	Lahko	lahko	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	se	se	_	_	_	_	_	_	_
+4	naučil	naučil	_	_	_	_	_	_	_
+5	kako	kak	_	_	_	_	_	_	_
+6	se	se	_	_	_	_	_	_	_
+7	naredi	nared	_	_	_	_	_	_	_
+8	powerpoint	powerpoint	_	_	_	_	_	_	SpaceAfter=No
+9	!	!	_	_	_	_	_	_	_
+
+# newpar id = 346
+# sent_id = 346.1
+# text = Kaj točno te zanima?
+1	Kaj	kaj	_	_	_	_	_	_	_
+2	točno	točen	_	_	_	_	_	_	_
+3	te	ti	_	_	_	_	_	_	_
+4	zanima	zanim	_	_	_	_	_	_	SpaceAfter=No
+5	?	?	_	_	_	_	_	_	_
+
+# newpar id = 347
+# sent_id = 347.1
+# text = Hihi, super ideja!
+1	Hihi	Hih	_	_	_	_	_	_	SpaceAfter=No
+2	,	,	_	_	_	_	_	_	_
+3	super	super	_	_	_	_	_	_	_
+4	ideja	idej	_	_	_	_	_	_	SpaceAfter=No
+5	!	!	_	_	_	_	_	_	_
+
+# newpar id = 348
+# sent_id = 348.1
+# text = ne vem......
+1	ne	ni	_	_	_	_	_	_	_
+2	vem	vem	_	_	_	_	_	_	SpaceAfter=No
+3	......	......	_	_	_	_	_	_	_
+
+# newpar id = 349
+# sent_id = 349.1
+# text = hi hi💔💔
+1	hi	hi	_	_	_	_	_	_	_
+2	hi	hi	_	_	_	_	_	_	SpaceAfter=No
+3	💔💔	💔💔	_	_	_	_	_	_	_
+
+# newpar id = 350
+# sent_id = 350.1
+# text = naučil bi se kako narediti samomor
+1	naučil	naučil	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	se	se	_	_	_	_	_	_	_
+4	kako	kak	_	_	_	_	_	_	_
+5	narediti	naredit	_	_	_	_	_	_	_
+6	samomor	samomor	_	_	_	_	_	_	_
+
+# newpar id = 351
+# sent_id = 351.1
+# text = zacnimo
+1	zacnimo	zacnimo	_	_	_	_	_	_	_
+
+# newpar id = 352
+# sent_id = 352.1
+# text = stela
+1	stela	stel	_	_	_	_	_	_	_
+
+# newpar id = 353
+# sent_id = 353.1
+# text = K je to naj fon ever
+1	K	K	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	to	to	_	_	_	_	_	_	_
+4	naj	naj	_	_	_	_	_	_	_
+5	fon	fon	_	_	_	_	_	_	_
+6	ever	ever	_	_	_	_	_	_	_
+
+# newpar id = 354
+# sent_id = 354.1
+# text = hgtrfhfrrirguhvdjgwil
+1	hgtrfhfrrirguhvdjgwil	hgtrfhfrirguhvuhvwil	_	_	_	_	_	_	_
+
+# newpar id = 355
+# sent_id = 355.1
+# text = Šel bi not v pekarno in mu spet pri drugih vratih ven ušel ali pa bi se skril med Butalci.
+1	Šel	Šel	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	not	not	_	_	_	_	_	_	_
+4	v	v	_	_	_	_	_	_	_
+5	pekarno	pekaren	_	_	_	_	_	_	_
+6	in	in	_	_	_	_	_	_	_
+7	mu	mu	_	_	_	_	_	_	_
+8	spet	spet	_	_	_	_	_	_	_
+9	pri	pri	_	_	_	_	_	_	_
+10	drugih	drug	_	_	_	_	_	_	_
+11	vratih	vrat	_	_	_	_	_	_	_
+12	ven	ven	_	_	_	_	_	_	_
+13	ušel	uiel	_	_	_	_	_	_	_
+14	ali	ali	_	_	_	_	_	_	_
+15	pa	pa	_	_	_	_	_	_	_
+16	bi	bi	_	_	_	_	_	_	_
+17	se	se	_	_	_	_	_	_	_
+18	skril	skril	_	_	_	_	_	_	_
+19	med	med	_	_	_	_	_	_	_
+20	Butalci	Butalec	_	_	_	_	_	_	SpaceAfter=No
+21	.	.	_	_	_	_	_	_	_
+
+# newpar id = 356
+# sent_id = 356.1
+# text = Lahko bi šel na stranišče in tam počakal dokler ga policaj ne gre iskat drugam
+1	Lahko	lahko	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	šel	šel	_	_	_	_	_	_	_
+4	na	ni	_	_	_	_	_	_	_
+5	stranišče	stranišče	_	_	_	_	_	_	_
+6	in	in	_	_	_	_	_	_	_
+7	tam	ti	_	_	_	_	_	_	_
+8	počakal	počakati	_	_	_	_	_	_	_
+9	dokler	dokler	_	_	_	_	_	_	_
+10	ga	ga	_	_	_	_	_	_	_
+11	policaj	policaj	_	_	_	_	_	_	_
+12	ne	ni	_	_	_	_	_	_	_
+13	gre	gre	_	_	_	_	_	_	_
+14	iskat	iskat	_	_	_	_	_	_	_
+15	drugam	druga	_	_	_	_	_	_	_
+
+# newpar id = 357
+# sent_id = 357.1
+# text = Ja lahko bi ji reku da naj še njemu prinese jagode.
+1	Ja	on	_	_	_	_	_	_	_
+2	lahko	lahko	_	_	_	_	_	_	_
+3	bi	bi	_	_	_	_	_	_	_
+4	ji	ji	_	_	_	_	_	_	_
+5	reku	rek	_	_	_	_	_	_	_
+6	da	da	_	_	_	_	_	_	_
+7	naj	naj	_	_	_	_	_	_	_
+8	še	še	_	_	_	_	_	_	_
+9	njemu	on	_	_	_	_	_	_	_
+10	prinese	prinese	_	_	_	_	_	_	_
+11	jagode	jagode	_	_	_	_	_	_	SpaceAfter=No
+12	.	.	_	_	_	_	_	_	_
+
+# newpar id = 358
+# sent_id = 358.1
+# text = edf
+1	edf	edf	_	_	_	_	_	_	_
+
+# newpar id = 359
+# sent_id = 359.1
+# text = jaz grem, to je čudno.
+1	jaz	jaz	_	_	_	_	_	_	_
+2	grem	grije	_	_	_	_	_	_	SpaceAfter=No
+3	,	,	_	_	_	_	_	_	_
+4	to	to	_	_	_	_	_	_	_
+5	je	je	_	_	_	_	_	_	_
+6	čudno	čudno	_	_	_	_	_	_	SpaceAfter=No
+7	.	.	_	_	_	_	_	_	_
+
+# newpar id = 360
+# sent_id = 360.1
+# text = skakati plezati pripovedovati.
+1	skakati	skakat	_	_	_	_	_	_	_
+2	plezati	plezat	_	_	_	_	_	_	_
+3	pripovedovati	pripovedovati	_	_	_	_	_	_	SpaceAfter=No
+4	.	.	_	_	_	_	_	_	_
+
+# newpar id = 361
+# sent_id = 361.1
+# text = JFJDJAKHDOASJFKASJDFDČJHĆPRIGWEIU6UZ8RIJRFEOIRUOWDJAkskgjsldaksćkalsjaflčd,dskfmkdhsjxehliptosdauis7w4kkgčdf.
+1	JFJDJAKHDOASJFKASJDFDČJHĆPRIGWEIU6UZ8RIJRFEOIRUOWDJAkskgjsldaksćkalsjaflčd	jfjdjakhdlijsćldalsćalsćalsćafsćalsyafsćalsyafsćaf	_	_	_	_	_	_	SpaceAfter=No
+2	,	,	_	_	_	_	_	_	SpaceAfter=No
+3	dskfmkdhsjxehliptosdauis7w4kkgčdf	dskfmkdhsjxehliptosdauis7w4kkgčdf	_	_	_	_	_	_	SpaceAfter=No
+4	.	.	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 361.2
+# text = s.d,yx.
+1	s.	s.	_	_	_	_	_	_	SpaceAfter=No
+2	d	d	_	_	_	_	_	_	SpaceAfter=No
+3	,	,	_	_	_	_	_	_	SpaceAfter=No
+4	yx	yx	_	_	_	_	_	_	SpaceAfter=No
+5	.	.	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 361.3
+# text = cyčdlpq2p24
+1	cyčdlpq2p24	cyčdlpq2p24	_	_	_	_	_	_	_
+
+# newpar id = 362
+# sent_id = 362.1
+# text = kaj sploh je free fire
+1	kaj	kaj	_	_	_	_	_	_	_
+2	sploh	sploh	_	_	_	_	_	_	_
+3	je	je	_	_	_	_	_	_	_
+4	free	free	_	_	_	_	_	_	_
+5	fire	fire	_	_	_	_	_	_	_
+
+# newpar id = 363
+# sent_id = 363.1
+# text = petar.
+1	petar	petar	_	_	_	_	_	_	SpaceAfter=No
+2	.	.	_	_	_	_	_	_	_
+
+# newpar id = 364
+# sent_id = 364.1
+# text = Jazz menom da bi self copko laski nail plavati😋
+1	Jazz	jazz	_	_	_	_	_	_	_
+2	menom	men	_	_	_	_	_	_	_
+3	da	da	_	_	_	_	_	_	_
+4	bi	bi	_	_	_	_	_	_	_
+5	self	self	_	_	_	_	_	_	_
+6	copko	copki	_	_	_	_	_	_	_
+7	laski	laski	_	_	_	_	_	_	_
+8	nail	nail	_	_	_	_	_	_	_
+9	plavati	plavat	_	_	_	_	_	_	SpaceAfter=No
+10	😋	😋	_	_	_	_	_	_	_
+
+# newpar id = 365
+# sent_id = 365.1
+# text = SEM
+1	SEM	biti	_	_	_	_	_	_	_
+
+# newpar id = 366
+# sent_id = 366.1
+# text = to je res
+1	to	to	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	res	res	_	_	_	_	_	_	_
+
+# newpar id = 367
+# sent_id = 367.1
+# text = malo bi bila žalostna
+1	malo	malo	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	bila	biti	_	_	_	_	_	_	_
+4	žalostna	žalosten	_	_	_	_	_	_	_
+
+# newpar id = 368
+# sent_id = 368.1
+# text = skočiti na druge veje
+1	skočiti	skočit	_	_	_	_	_	_	_
+2	na	ni	_	_	_	_	_	_	_
+3	druge	druge	_	_	_	_	_	_	_
+4	veje	veti	_	_	_	_	_	_	_
+
+# newpar id = 369
+# sent_id = 369.1
+# text = nebi bilo všeč
+1	nebi	neb	_	_	_	_	_	_	_
+2	bilo	biti	_	_	_	_	_	_	_
+3	všeč	všeč	_	_	_	_	_	_	_
+
+# newpar id = 370
+# sent_id = 370.1
+# text = Cefizel  bi lahko pobegnil tako, da bi policeman zadavil.
+1	Cefizel	Cefizel	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	lahko	lahko	_	_	_	_	_	_	_
+4	pobegnil	pobegniti	_	_	_	_	_	_	_
+5	tako	tako	_	_	_	_	_	_	SpaceAfter=No
+6	,	,	_	_	_	_	_	_	_
+7	da	da	_	_	_	_	_	_	_
+8	bi	bi	_	_	_	_	_	_	_
+9	policeman	policeman	_	_	_	_	_	_	_
+10	zadavil	zadaviti	_	_	_	_	_	_	SpaceAfter=No
+11	.	.	_	_	_	_	_	_	_
+
+# newpar id = 371
+# sent_id = 371.1
+# text = FuzineC14
+1	FuzineC14	FuzineC14	_	_	_	_	_	_	_
+
+# newpar id = 372
+# sent_id = 372.1
+# text = Ali ti je dilo všeč
+1	Ali	Ali	_	_	_	_	_	_	_
+2	ti	ti	_	_	_	_	_	_	_
+3	je	je	_	_	_	_	_	_	_
+4	dilo	diti	_	_	_	_	_	_	_
+5	všeč	všeč	_	_	_	_	_	_	_
+
+# newpar id = 373
+# sent_id = 373.1
+# text = g
+1	g	g	_	_	_	_	_	_	_
+
+# newpar id = 374
+# sent_id = 374.1
+# text = ne povem ugani
+1	ne	ni	_	_	_	_	_	_	_
+2	povem	poveda	_	_	_	_	_	_	_
+3	ugani	ugan	_	_	_	_	_	_	_
+
+# newpar id = 375
+# sent_id = 375.1
+# text = grozno
+1	grozno	grozen	_	_	_	_	_	_	_
+
+# newpar id = 376
+# sent_id = 376.1
+# text = Lahko bi pobegnil ko ga nebi gledal
+1	Lahko	lahko	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	pobegnil	pobegniti	_	_	_	_	_	_	_
+4	ko	koj	_	_	_	_	_	_	_
+5	ga	ga	_	_	_	_	_	_	_
+6	nebi	neb	_	_	_	_	_	_	_
+7	gledal	gledati	_	_	_	_	_	_	_
+
+# newpar id = 377
+# sent_id = 377.1
+# text = PRDEC KAKEC!
+1	PRDEC	prdec	_	_	_	_	_	_	_
+2	KAKEC	kakec	_	_	_	_	_	_	SpaceAfter=No
+3	!	!	_	_	_	_	_	_	_
+
+# newpar id = 378
+# sent_id = 378.1
+# text = Ali ti je bila zgodba vsec
+1	Ali	Ali	_	_	_	_	_	_	_
+2	ti	ti	_	_	_	_	_	_	_
+3	je	je	_	_	_	_	_	_	_
+4	bila	biti	_	_	_	_	_	_	_
+5	zgodba	zgodba	_	_	_	_	_	_	_
+6	vsec	vsec	_	_	_	_	_	_	_
+
+# newpar id = 379
+# sent_id = 379.1
+# text = kdo si ti 22
+1	kdo	kdo	_	_	_	_	_	_	_
+2	si	si	_	_	_	_	_	_	_
+3	ti	ti	_	_	_	_	_	_	_
+4	22	22	_	_	_	_	_	_	_
+
+# newpar id = 380
+# sent_id = 380.1
+# text = Hvala za odgovor, nadaljuj z branjem.
+1	Hvala	hval	_	_	_	_	_	_	_
+2	za	za	_	_	_	_	_	_	_
+3	odgovor	odgovor	_	_	_	_	_	_	SpaceAfter=No
+4	,	,	_	_	_	_	_	_	_
+5	nadaljuj	nadaljuj	_	_	_	_	_	_	_
+6	z	z	_	_	_	_	_	_	_
+7	branjem	branji	_	_	_	_	_	_	SpaceAfter=No
+8	.	.	_	_	_	_	_	_	_
+
+# newpar id = 381
+# sent_id = 381.1
+# text = Lahko bi se naučil žogati,plesati,
+1	Lahko	lahko	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	se	se	_	_	_	_	_	_	_
+4	naučil	naučil	_	_	_	_	_	_	_
+5	žogati	žogati	_	_	_	_	_	_	SpaceAfter=No
+6	,	,	_	_	_	_	_	_	SpaceAfter=No
+7	plesati	plesat	_	_	_	_	_	_	SpaceAfter=No
+8	,	,	_	_	_	_	_	_	_
+
+# newpar id = 382
+# sent_id = 382.1
+# text = NE!!!!!!!!!!!!
+1	NE	NE	_	_	_	_	_	_	SpaceAfter=No
+2	!!!!!!!!!!!!	!!!!!!!!!!!!	_	_	_	_	_	_	_
+
+# newpar id = 383
+# sent_id = 383.1
+# text = KAJ
+1	KAJ	kaj	_	_	_	_	_	_	_
+
+# newpar id = 384
+# sent_id = 384.1
+# text = kajjjjjj
+1	kajjjjjj	kajjjjjj	_	_	_	_	_	_	_
+
+# newpar id = 385
+# sent_id = 385.1
+# text = Kaj meniš
+1	Kaj	kaj	_	_	_	_	_	_	_
+2	meniš	meniš	_	_	_	_	_	_	_
+
+# newpar id = 386
+# sent_id = 386.1
+# text = kaj
+1	kaj	kaj	_	_	_	_	_	_	_
+
+# newpar id = 387
+# sent_id = 387.1
+# text = julaj kakaj
+1	julaj	julaj	_	_	_	_	_	_	_
+2	kakaj	kakaj	_	_	_	_	_	_	_
+
+# newpar id = 388
+# sent_id = 388.1
+# text = adijo
+1	adijo	adij	_	_	_	_	_	_	_
+
+# newpar id = 389
+# sent_id = 389.1
+# text = nič
+1	nič	nič	_	_	_	_	_	_	_
+
+# newpar id = 390
+# sent_id = 390.1
+# text = nikoli nebom to jdeel
+1	nikoli	nihče	_	_	_	_	_	_	_
+2	nebom	neb	_	_	_	_	_	_	_
+3	to	to	_	_	_	_	_	_	_
+4	jdeel	jdeel	_	_	_	_	_	_	_
+
+# newpar id = 391
+# sent_id = 391.1
+# text = bolse je da mi ti poves kdo si ti
+1	bolse	bolse	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	da	da	_	_	_	_	_	_	_
+4	mi	mi	_	_	_	_	_	_	_
+5	ti	ti	_	_	_	_	_	_	_
+6	poves	poves	_	_	_	_	_	_	_
+7	kdo	kdo	_	_	_	_	_	_	_
+8	si	si	_	_	_	_	_	_	_
+9	ti	ti	_	_	_	_	_	_	_
+
+# newpar id = 392
+# sent_id = 392.1
+# text = ponavljaššššššššššššššššššššššššššššššššššššššššššššššššš
+1	ponavljaššššššššššššššššššššššššššššššššššššššššššššššššš	pošlšašššššššššššššššššššššššššššššššš	_	_	_	_	_	_	_
+
+# newpar id = 393
+# sent_id = 393.1
+# text = ker je zgodba veliko bolj poucna
+1	ker	kar	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	zgodba	zgodba	_	_	_	_	_	_	_
+4	veliko	velik	_	_	_	_	_	_	_
+5	bolj	bolj	_	_	_	_	_	_	_
+6	poucna	poucen	_	_	_	_	_	_	_
+
+# newpar id = 394
+# sent_id = 394.1
+# text = model
+1	model	model	_	_	_	_	_	_	_
+
+# newpar id = 395
+# sent_id = 395.1
+# text = kdo je mumac18
+1	kdo	kdo	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	mumac18	mumac1eti	_	_	_	_	_	_	_
+
+# newpar id = 396
+# sent_id = 396.1
+# text = Joj, to bi mu bilo nerodno!
+1	Joj	joj	_	_	_	_	_	_	SpaceAfter=No
+2	,	,	_	_	_	_	_	_	_
+3	to	to	_	_	_	_	_	_	_
+4	bi	bi	_	_	_	_	_	_	_
+5	mu	mu	_	_	_	_	_	_	_
+6	bilo	biti	_	_	_	_	_	_	_
+7	nerodno	neroden	_	_	_	_	_	_	SpaceAfter=No
+8	!	!	_	_	_	_	_	_	_
+
+# sent_id = 396.2
+# text = Kar nadaljuj z reševanjem vprašalnikov D in E.
+1	Kar	Kar	_	_	_	_	_	_	_
+2	nadaljuj	nadaljuj	_	_	_	_	_	_	_
+3	z	z	_	_	_	_	_	_	_
+4	reševanjem	reševanji	_	_	_	_	_	_	_
+5	vprašalnikov	vprašalnikov	_	_	_	_	_	_	_
+6	D	D	_	_	_	_	_	_	_
+7	in	in	_	_	_	_	_	_	_
+8	E.	e.	_	_	_	_	_	_	_
+
+# newpar id = 397
+# sent_id = 397.1
+# text = ali pa bi bil ameriški marinec
+1	ali	ali	_	_	_	_	_	_	_
+2	pa	pa	_	_	_	_	_	_	_
+3	bi	bi	_	_	_	_	_	_	_
+4	bil	bil	_	_	_	_	_	_	_
+5	ameriški	ameriški	_	_	_	_	_	_	_
+6	marinec	marinec	_	_	_	_	_	_	_
+
+# newpar id = 398
+# sent_id = 398.1
+# text = neee narobe sem napisal
+1	neee	neee	_	_	_	_	_	_	_
+2	narobe	narobe	_	_	_	_	_	_	_
+3	sem	samo	_	_	_	_	_	_	_
+4	napisal	napisal	_	_	_	_	_	_	_
+
+# newpar id = 399
+# sent_id = 399.1
+# text = Tvoj je pa grozen matevz.
+1	Tvoj	tvoj	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	pa	pa	_	_	_	_	_	_	_
+4	grozen	grozen	_	_	_	_	_	_	_
+5	matevz	matevz	_	_	_	_	_	_	SpaceAfter=No
+6	.	.	_	_	_	_	_	_	_
+
+# newpar id = 400
+# sent_id = 400.1
+# text = khukuguigujliuh8ighočpjiu8itgpo8uz8ifvou87674d6lovčfkghptfhkptlhpčtfkhčptkhćšdrflpkjćpdtlgh
+1	khukuguigujliuh8ighočpjiu8itgpo8uz8ifvou87674d6lovčfkghptfhkptlhpčtfkhčptkhćšdrflpkjćpdtlgh	khukuguigujuzhifhiudhifhifhifhidhighifhifevčjifez1	_	_	_	_	_	_	_
+
+# newpar id = 401
+# sent_id = 401.1
+# text = gqerz
+1	gqerz	gqerz	_	_	_	_	_	_	_
+
+# newpar id = 402
+# sent_id = 402.1
+# text = gcmzgxngfxfhgxn v
+1	gcmzgxngfxfhgxn	gcmzgxngfxfhgxn	_	_	_	_	_	_	_
+2	v	v	_	_	_	_	_	_	_
+
+# newpar id = 403
+# sent_id = 403.1
+# text = živjo
+1	živjo	živji	_	_	_	_	_	_	_
+
+# newpar id = 404
+# sent_id = 404.1
+# text = živjo kako si danes.
+1	živjo	živji	_	_	_	_	_	_	_
+2	kako	kak	_	_	_	_	_	_	_
+3	si	si	_	_	_	_	_	_	_
+4	danes	danes	_	_	_	_	_	_	SpaceAfter=No
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 404.2
+# text = t
+1	t	t	_	_	_	_	_	_	_
+
+# newpar id = 405
+# sent_id = 405.1
+# text = smartnoB23
+1	smartnoB23	smartnob23	_	_	_	_	_	_	_
+
+# newpar id = 406
+# sent_id = 406.1
+# text = hej
+1	hej	hej	_	_	_	_	_	_	_
+
+# newpar id = 407
+# sent_id = 407.1
+# text = Do si ti.
+1	Do	do	_	_	_	_	_	_	_
+2	si	si	_	_	_	_	_	_	_
+3	ti	ti	_	_	_	_	_	_	SpaceAfter=No
+4	.	.	_	_	_	_	_	_	_
+
+# newpar id = 408
+# sent_id = 408.1
+# text = gledam te
+1	gledam	gleda	_	_	_	_	_	_	_
+2	te	ti	_	_	_	_	_	_	_
+
+# newpar id = 409
+# sent_id = 409.1
+# text = debelanika
+1	debelanika	debelanik	_	_	_	_	_	_	_
+
+# newpar id = 410
+# sent_id = 410.1
+# text = sem videl
+1	sem	samo	_	_	_	_	_	_	_
+2	videl	videl	_	_	_	_	_	_	_
+
+# newpar id = 411
+# sent_id = 411.1
+# text = ja
+1	ja	ja	_	_	_	_	_	_	_
+
+# newpar id = 412
+# sent_id = 412.1
+# text = a ste vsi ven padel
+1	a	on	_	_	_	_	_	_	_
+2	ste	ste	_	_	_	_	_	_	_
+3	vsi	vsi	_	_	_	_	_	_	_
+4	ven	ven	_	_	_	_	_	_	_
+5	padel	padel	_	_	_	_	_	_	_
+
+# newpar id = 413
+# sent_id = 413.1
+# text = Kaj pomeni do dst netli
+1	Kaj	kaj	_	_	_	_	_	_	_
+2	pomeni	pomeni	_	_	_	_	_	_	_
+3	do	do	_	_	_	_	_	_	_
+4	dst	dst	_	_	_	_	_	_	_
+5	netli	netel	_	_	_	_	_	_	_
+
+# newpar id = 414
+# sent_id = 414.1
+# text = Tako ,da bi se mu nekako izmuznil.
+1	Tako	tako	_	_	_	_	_	_	_
+2	,	,	_	_	_	_	_	_	SpaceAfter=No
+3	da	da	_	_	_	_	_	_	_
+4	bi	bi	_	_	_	_	_	_	_
+5	se	se	_	_	_	_	_	_	_
+6	mu	mu	_	_	_	_	_	_	_
+7	nekako	nekak	_	_	_	_	_	_	_
+8	izmuznil	izmuzniti	_	_	_	_	_	_	SpaceAfter=No
+9	.	.	_	_	_	_	_	_	_
+
+# newpar id = 415
+# sent_id = 415.1
+# text = narobe
+1	narobe	narobe	_	_	_	_	_	_	_
+
+# newpar id = 416
+# sent_id = 416.1
+# text = Hvala
+1	Hvala	hval	_	_	_	_	_	_	_
+
+# newpar id = 417
+# sent_id = 417.1
+# text = nevem
+1	nevem	nev	_	_	_	_	_	_	_
+
+# newpar id = 418
+# sent_id = 418.1
+# text = a res mislis
+1	a	on	_	_	_	_	_	_	_
+2	res	res	_	_	_	_	_	_	_
+3	mislis	mislis	_	_	_	_	_	_	_
+
+# newpar id = 419
+# sent_id = 419.1
+# text = kdo si ti
+1	kdo	kdo	_	_	_	_	_	_	_
+2	si	si	_	_	_	_	_	_	_
+3	ti	ti	_	_	_	_	_	_	_
+
+# newpar id = 420
+# sent_id = 420.1
+# text = ja prosim halo halo ?
+1	ja	ja	_	_	_	_	_	_	_
+2	prosim	pros	_	_	_	_	_	_	_
+3	halo	halo	_	_	_	_	_	_	_
+4	halo	halo	_	_	_	_	_	_	_
+5	?	?	_	_	_	_	_	_	_
+
+# newpar id = 421
+# sent_id = 421.1
+# text = avtobus nas pelje, k teti Zali v log :)
+1	avtobus	avtobus	_	_	_	_	_	_	_
+2	nas	nas	_	_	_	_	_	_	_
+3	pelje	pelje	_	_	_	_	_	_	SpaceAfter=No
+4	,	,	_	_	_	_	_	_	_
+5	k	k	_	_	_	_	_	_	_
+6	teti	teti	_	_	_	_	_	_	_
+7	Zali	Zali	_	_	_	_	_	_	_
+8	v	v	_	_	_	_	_	_	_
+9	log	log	_	_	_	_	_	_	_
+10	:)	:)	_	_	_	_	_	_	_
+
+# newpar id = 422
+# sent_id = 422.1
+# text = aaaa hvala za odgovor
+1	aaaa	aaa	_	_	_	_	_	_	_
+2	hvala	hval	_	_	_	_	_	_	_
+3	za	za	_	_	_	_	_	_	_
+4	odgovor	odgovor	_	_	_	_	_	_	_
+
+# newpar id = 423
+# sent_id = 423.1
+# text = lahko bi  pil kakao
+1	lahko	lahko	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	pil	pil	_	_	_	_	_	_	_
+4	kakao	kakad	_	_	_	_	_	_	_
+
+# newpar id = 424
+# sent_id = 424.1
+# text = tadej tadej tadej
+1	tadej	tadej	_	_	_	_	_	_	_
+2	tadej	tadej	_	_	_	_	_	_	_
+3	tadej	tadej	_	_	_	_	_	_	_
+
+# newpar id = 425
+# sent_id = 425.1
+# text = prav mas
+1	prav	prav	_	_	_	_	_	_	_
+2	mas	mas	_	_	_	_	_	_	_
+
+# newpar id = 426
+# sent_id = 426.1
+# text = skakati
+1	skakati	skakat	_	_	_	_	_	_	_
+
+# newpar id = 427
+# sent_id = 427.1
+# text = albin
+1	albin	albin	_	_	_	_	_	_	_
+
+# newpar id = 428
+# sent_id = 428.1
+# text = bimbo
+1	bimbo	bimbo	_	_	_	_	_	_	_
+
+# newpar id = 429
+# sent_id = 429.1
+# text = Kaj pa če bi znal...
+1	Kaj	kaj	_	_	_	_	_	_	_
+2	pa	pa	_	_	_	_	_	_	_
+3	če	če	_	_	_	_	_	_	_
+4	bi	bi	_	_	_	_	_	_	_
+5	znal	znal	_	_	_	_	_	_	SpaceAfter=No
+6	...	...	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 429.2
+# text = vse 😜
+1	vse	vse	_	_	_	_	_	_	_
+2	😜	😜	_	_	_	_	_	_	_
+
+# newpar id = 430
+# sent_id = 430.1
+# text = res je!
+1	res	res	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	SpaceAfter=No
+3	!	!	_	_	_	_	_	_	_
+
+# newpar id = 431
+# sent_id = 431.1
+# text = Da bi bila zanimiva zgodba
+1	Da	da	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	bila	biti	_	_	_	_	_	_	_
+4	zanimiva	zanimiv	_	_	_	_	_	_	_
+5	zgodba	zgodba	_	_	_	_	_	_	_
+
+# newpar id = 432
+# sent_id = 432.1
+# text = zakaj se je čopek naučil napovedovati vreme
+1	zakaj	zakaj	_	_	_	_	_	_	_
+2	se	se	_	_	_	_	_	_	_
+3	je	je	_	_	_	_	_	_	_
+4	čopek	čopek	_	_	_	_	_	_	_
+5	naučil	naučil	_	_	_	_	_	_	_
+6	napovedovati	napovedovat	_	_	_	_	_	_	_
+7	vreme	vreme	_	_	_	_	_	_	_
+
+# newpar id = 433
+# sent_id = 433.1
+# text = j
+1	j	j	_	_	_	_	_	_	_
+
+# newpar id = 434
+# sent_id = 434.1
+# text = zakaj že
+1	zakaj	zakaj	_	_	_	_	_	_	_
+2	že	že	_	_	_	_	_	_	_
+
+# newpar id = 435
+# sent_id = 435.1
+# text = .
+1	.	.	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 435.2
+# text = -.
+1	-	-	_	_	_	_	_	_	SpaceAfter=No
+2	.	.	_	_	_	_	_	_	_
+
+# newpar id = 436
+# sent_id = 436.1
+# text = ambrož tu
+1	ambrož	ambrož	_	_	_	_	_	_	_
+2	tu	tu	_	_	_	_	_	_	_
+
+# newpar id = 437
+# sent_id = 437.1
+# text = kdo je peti
+1	kdo	kdo	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	peti	peti	_	_	_	_	_	_	_
+
+# newpar id = 438
+# sent_id = 438.1
+# text = Vredila bi več trgovin.
+1	Vredila	Vredil	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	več	več	_	_	_	_	_	_	_
+4	trgovin	trgovin	_	_	_	_	_	_	SpaceAfter=No
+5	.	.	_	_	_	_	_	_	_
+
+# newpar id = 439
+# sent_id = 439.1
+# text = ja lahko tudi tako
+1	ja	ja	_	_	_	_	_	_	_
+2	lahko	lahko	_	_	_	_	_	_	_
+3	tudi	tudi	_	_	_	_	_	_	_
+4	tako	tako	_	_	_	_	_	_	_
+
+# newpar id = 440
+# sent_id = 440.1
+# text = blablabloabla
+1	blablabloabla	blablabloabel	_	_	_	_	_	_	_
+
+# newpar id = 441
+# sent_id = 441.1
+# text = Ja.
+1	Ja	on	_	_	_	_	_	_	SpaceAfter=No
+2	.	.	_	_	_	_	_	_	_
+
+# newpar id = 442
+# sent_id = 442.1
+# text = Avtorica daje planetom občutke zato, da bi lažje razumeli kaj  hoče povedati.
+1	Avtorica	Avtoric	_	_	_	_	_	_	_
+2	daje	daj	_	_	_	_	_	_	_
+3	planetom	planet	_	_	_	_	_	_	_
+4	občutke	občutke	_	_	_	_	_	_	_
+5	zato	zato	_	_	_	_	_	_	SpaceAfter=No
+6	,	,	_	_	_	_	_	_	_
+7	da	da	_	_	_	_	_	_	_
+8	bi	bi	_	_	_	_	_	_	_
+9	lažje	lahko	_	_	_	_	_	_	_
+10	razumeli	razumeti	_	_	_	_	_	_	_
+11	kaj	kaj	_	_	_	_	_	_	_
+12	hoče	hoče	_	_	_	_	_	_	_
+13	povedati	povedati	_	_	_	_	_	_	SpaceAfter=No
+14	.	.	_	_	_	_	_	_	_
+
+# newpar id = 443
+# sent_id = 443.1
+# text = Zato, da bi bila zgodba bolj zanimiva.
+1	Zato	zato	_	_	_	_	_	_	SpaceAfter=No
+2	,	,	_	_	_	_	_	_	_
+3	da	da	_	_	_	_	_	_	_
+4	bi	bi	_	_	_	_	_	_	_
+5	bila	biti	_	_	_	_	_	_	_
+6	zgodba	zgodba	_	_	_	_	_	_	_
+7	bolj	bolj	_	_	_	_	_	_	_
+8	zanimiva	zanimiv	_	_	_	_	_	_	SpaceAfter=No
+9	.	.	_	_	_	_	_	_	_
+
+# newpar id = 444
+# sent_id = 444.1
+# text = meni se zdijoves super,odlično
+1	meni	meni	_	_	_	_	_	_	_
+2	se	se	_	_	_	_	_	_	_
+3	zdijoves	zdijoves	_	_	_	_	_	_	_
+4	super	super	_	_	_	_	_	_	SpaceAfter=No
+5	,	,	_	_	_	_	_	_	SpaceAfter=No
+6	odlično	odličen	_	_	_	_	_	_	_
+
+# newpar id = 445
+# sent_id = 445.1
+# text = kva je amal
+1	kva	kaj	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	amal	amal	_	_	_	_	_	_	_
+
+# newpar id = 446
+# sent_id = 446.1
+# text = miro
+1	miro	miro	_	_	_	_	_	_	_
+
+# newpar id = 447
+# sent_id = 447.1
+# text = nima fore lahko pi se naucil pisati po racunalniku
+1	nima	imeti	_	_	_	_	_	_	_
+2	fore	fore	_	_	_	_	_	_	_
+3	lahko	lahko	_	_	_	_	_	_	_
+4	pi	pi	_	_	_	_	_	_	_
+5	se	se	_	_	_	_	_	_	_
+6	naucil	naucil	_	_	_	_	_	_	_
+7	pisati	pisati	_	_	_	_	_	_	_
+8	po	po	_	_	_	_	_	_	_
+9	racunalniku	racunalnik	_	_	_	_	_	_	_
+
+# newpar id = 448
+# sent_id = 448.1
+# text = kaj živjo
+1	kaj	kaj	_	_	_	_	_	_	_
+2	živjo	živji	_	_	_	_	_	_	_
+
+# newpar id = 449
+# sent_id = 449.1
+# text = zakaj ne moreš še enkrat
+1	zakaj	zakaj	_	_	_	_	_	_	_
+2	ne	ni	_	_	_	_	_	_	_
+3	moreš	moreš	_	_	_	_	_	_	_
+4	še	še	_	_	_	_	_	_	_
+5	enkrat	enkrat	_	_	_	_	_	_	_
+
+# newpar id = 450
+# sent_id = 450.1
+# text = cefizel bi lahćžđ
+1	cefizel	cefizel	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	lahćžđ	lahek	_	_	_	_	_	_	_
+
+# newpar id = 451
+# sent_id = 451.1
+# text = .
+1	.	.	_	_	_	_	_	_	_
+
+# newpar id = 452
+# sent_id = 452.1
+# text = Joj, to bi bilo grozno.
+1	Joj	joj	_	_	_	_	_	_	SpaceAfter=No
+2	,	,	_	_	_	_	_	_	_
+3	to	to	_	_	_	_	_	_	_
+4	bi	bi	_	_	_	_	_	_	_
+5	bilo	biti	_	_	_	_	_	_	_
+6	grozno	grozen	_	_	_	_	_	_	SpaceAfter=No
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 452.2
+# text = Kar nadaljuj z reševanjem vprašalnikov D in E.
+1	Kar	Kar	_	_	_	_	_	_	_
+2	nadaljuj	nadaljuj	_	_	_	_	_	_	_
+3	z	z	_	_	_	_	_	_	_
+4	reševanjem	reševanji	_	_	_	_	_	_	_
+5	vprašalnikov	vprašalnikov	_	_	_	_	_	_	_
+6	D	D	_	_	_	_	_	_	_
+7	in	in	_	_	_	_	_	_	_
+8	E.	e.	_	_	_	_	_	_	_
+
+# newpar id = 453
+# sent_id = 453.1
+# text = Jst tud
+1	Jst	jst	_	_	_	_	_	_	_
+2	tud	tud	_	_	_	_	_	_	_
+
+# newpar id = 454
+# sent_id = 454.1
+# text = počutila bi se slabo, ker sem rada s svojo družino
+1	počutila	počutiti	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	se	se	_	_	_	_	_	_	_
+4	slabo	slabo	_	_	_	_	_	_	SpaceAfter=No
+5	,	,	_	_	_	_	_	_	_
+6	ker	kar	_	_	_	_	_	_	_
+7	sem	samo	_	_	_	_	_	_	_
+8	rada	rad	_	_	_	_	_	_	_
+9	s	s	_	_	_	_	_	_	_
+10	svojo	svoj	_	_	_	_	_	_	_
+11	družino	družin	_	_	_	_	_	_	_
+
+# newpar id = 455
+# sent_id = 455.1
+# text = rt
+1	rt	rt	_	_	_	_	_	_	_
+
+# newpar id = 456
+# sent_id = 456.1
+# text = pa ti
+1	pa	pa	_	_	_	_	_	_	_
+2	ti	ti	_	_	_	_	_	_	_
+
+# newpar id = 457
+# sent_id = 457.1
+# text = jaz sm Maks
+1	jaz	jaz	_	_	_	_	_	_	_
+2	sm	sm	_	_	_	_	_	_	_
+3	Maks	maks	_	_	_	_	_	_	_
+
+# newpar id = 458
+# sent_id = 458.1
+# text = Velik stvari
+1	Velik	velik	_	_	_	_	_	_	_
+2	stvari	stvar	_	_	_	_	_	_	_
+
+# newpar id = 459
+# sent_id = 459.1
+# text = kako pa bi ta oseba še izgledala?
+1	kako	kak	_	_	_	_	_	_	_
+2	pa	pa	_	_	_	_	_	_	_
+3	bi	bi	_	_	_	_	_	_	_
+4	ta	ta	_	_	_	_	_	_	_
+5	oseba	oseb	_	_	_	_	_	_	_
+6	še	še	_	_	_	_	_	_	_
+7	izgledala	izgledati	_	_	_	_	_	_	SpaceAfter=No
+8	?	?	_	_	_	_	_	_	_
+
+# newpar id = 460
+# sent_id = 460.1
+# text = Zanimiva ideja!
+1	Zanimiva	Zanimiv	_	_	_	_	_	_	_
+2	ideja	idej	_	_	_	_	_	_	SpaceAfter=No
+3	!	!	_	_	_	_	_	_	_
+
+# newpar id = 461
+# sent_id = 461.1
+# text = Aljaž
+1	Aljaž	aljaž	_	_	_	_	_	_	_
+
+# newpar id = 462
+# sent_id = 462.1
+# text = .
+1	.	.	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 462.2
+# text = -.
+1	-	-	_	_	_	_	_	_	SpaceAfter=No
+2	.	.	_	_	_	_	_	_	_
+
+# newpar id = 463
+# sent_id = 463.1
+# text = nevem sam igotovi
+1	nevem	nev	_	_	_	_	_	_	_
+2	sam	samo	_	_	_	_	_	_	_
+3	igotovi	igotov	_	_	_	_	_	_	_
+
+# newpar id = 464
+# sent_id = 464.1
+# text = kaj?
+1	kaj	kaj	_	_	_	_	_	_	SpaceAfter=No
+2	?	?	_	_	_	_	_	_	_
+
+# newpar id = 465
+# sent_id = 465.1
+# text = nadaljuj z branjem
+1	nadaljuj	nadaljuj	_	_	_	_	_	_	_
+2	z	z	_	_	_	_	_	_	_
+3	branjem	branji	_	_	_	_	_	_	_
+
+# newpar id = 466
+# sent_id = 466.1
+# text = a bo kdo ze kaj napisal
+1	a	on	_	_	_	_	_	_	_
+2	bo	bo	_	_	_	_	_	_	_
+3	kdo	kdo	_	_	_	_	_	_	_
+4	ze	ze	_	_	_	_	_	_	_
+5	kaj	kaj	_	_	_	_	_	_	_
+6	napisal	napisal	_	_	_	_	_	_	_
+
+# newpar id = 467
+# sent_id = 467.1
+# text = da bi policaj sev v trgovino in bi se Cefizel pobegnil
+1	da	da	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	policaj	policaj	_	_	_	_	_	_	_
+4	sev	sev	_	_	_	_	_	_	_
+5	v	v	_	_	_	_	_	_	_
+6	trgovino	trgovin	_	_	_	_	_	_	_
+7	in	in	_	_	_	_	_	_	_
+8	bi	bi	_	_	_	_	_	_	_
+9	se	se	_	_	_	_	_	_	_
+10	Cefizel	Cefizel	_	_	_	_	_	_	_
+11	pobegnil	pobegniti	_	_	_	_	_	_	_
+
+# newpar id = 468
+# sent_id = 468.1
+# text = Daj no ne maram čakanja
+1	Daj	daj	_	_	_	_	_	_	_
+2	no	no	_	_	_	_	_	_	_
+3	ne	ni	_	_	_	_	_	_	_
+4	maram	mara	_	_	_	_	_	_	_
+5	čakanja	čakanji	_	_	_	_	_	_	_
+
+# newpar id = 469
+# sent_id = 469.1
+# text = khj
+1	khj	khj	_	_	_	_	_	_	_
+
+# newpar id = 470
+# sent_id = 470.1
+# text = Da.
+1	Da	da	_	_	_	_	_	_	SpaceAfter=No
+2	.	.	_	_	_	_	_	_	_
+
+# sent_id = 470.2
+# text = Tako, da ga brcne in steče stran.
+1	Tako	tako	_	_	_	_	_	_	SpaceAfter=No
+2	,	,	_	_	_	_	_	_	_
+3	da	da	_	_	_	_	_	_	_
+4	ga	ga	_	_	_	_	_	_	_
+5	brcne	brcen	_	_	_	_	_	_	_
+6	in	in	_	_	_	_	_	_	_
+7	steče	steče	_	_	_	_	_	_	_
+8	stran	stran	_	_	_	_	_	_	SpaceAfter=No
+9	.	.	_	_	_	_	_	_	_
+
+# newpar id = 471
+# sent_id = 471.1
+# text = MOGOČE PA JE
+1	MOGOČE	mogoč	_	_	_	_	_	_	_
+2	PA	PA	_	_	_	_	_	_	_
+3	JE	on	_	_	_	_	_	_	_
+
+# newpar id = 472
+# sent_id = 472.1
+# text = ja
+1	ja	ja	_	_	_	_	_	_	_
+
+# newpar id = 473
+# sent_id = 473.1
+# text = HJCGZUEVEWUGFRTFFR T REW6VTR4WZ56TZ ZRERUEIWZTF2
+1	HJCGZUEVEWUGFRTFFR	hjcgzueveWgrtfrtfr	_	_	_	_	_	_	_
+2	T	T	_	_	_	_	_	_	_
+3	REW6VTR4WZ56TZ	Rew6vtr4z55tztz	_	_	_	_	_	_	_
+4	ZRERUEIWZTF2	zrerueiwztf2	_	_	_	_	_	_	_
+
+# newpar id = 474
+# sent_id = 474.1
+# text = Naučil bi se lahko pisati pesmice
+1	Naučil	Naučil	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	se	se	_	_	_	_	_	_	_
+4	lahko	lahko	_	_	_	_	_	_	_
+5	pisati	pisati	_	_	_	_	_	_	_
+6	pesmice	pesmice	_	_	_	_	_	_	_
+
+# newpar id = 475
+# sent_id = 475.1
+# text = kul pesem   njdnkfbwdhibfusddfhbwkEFQWUEHUITEJQWGFEOČruetuearzhopizqhaetorjqWRHIOTJHP<ERAWAFOHSDOIDJOPWAEODF
+1	kul	kul	_	_	_	_	_	_	_
+2	pesem	pes	_	_	_	_	_	_	_
+3	njdnkfbwdhibfusddfhbwkEFQWUEHUITEJQWGFEOČruetuearzhopizqhaetorjqWRHIOTJHP	njdnkfbwdhibfusddfhbwkefqwuehuitejqwgfeočruetuearzhopizqhaetorjqwrhiotjhp	_	_	_	_	_	_	SpaceAfter=No
+4	<	<	_	_	_	_	_	_	SpaceAfter=No
+5	ERAWAFOHSDOIDJOPWAEODF	erawafohsdoidjopwaeodf	_	_	_	_	_	_	_
+
+# newpar id = 476
+# sent_id = 476.1
+# text = ko bi mu zbezal bi se lahko skril
+1	ko	koj	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	mu	mu	_	_	_	_	_	_	_
+4	zbezal	zbezal	_	_	_	_	_	_	_
+5	bi	bi	_	_	_	_	_	_	_
+6	se	se	_	_	_	_	_	_	_
+7	lahko	lahko	_	_	_	_	_	_	_
+8	skril	skril	_	_	_	_	_	_	_
+
+# newpar id = 477
+# sent_id = 477.1
+# text = VRGEL BI BILJARDO KEŠA
+1	VRGEL	vrgel	_	_	_	_	_	_	_
+2	BI	biti	_	_	_	_	_	_	_
+3	BILJARDO	biljard	_	_	_	_	_	_	_
+4	KEŠA	kaš	_	_	_	_	_	_	_
+
+# newpar id = 478
+# sent_id = 478.1
+# text = KAJ NIMA FORE VEVRCA JE
+1	KAJ	kaj	_	_	_	_	_	_	_
+2	NIMA	biti	_	_	_	_	_	_	_
+3	FORE	fore	_	_	_	_	_	_	_
+4	VEVRCA	vevrci	_	_	_	_	_	_	_
+5	JE	on	_	_	_	_	_	_	_
+
+# newpar id = 479
+# sent_id = 479.1
+# text = o
+1	o	o	_	_	_	_	_	_	_
+
+# newpar id = 480
+# sent_id = 480.1
+# text = No, mogoče res
+1	No	no	_	_	_	_	_	_	SpaceAfter=No
+2	,	,	_	_	_	_	_	_	_
+3	mogoče	mogoče	_	_	_	_	_	_	_
+4	res	res	_	_	_	_	_	_	_
+
+# newpar id = 481
+# sent_id = 481.1
+# text = rt
+1	rt	rt	_	_	_	_	_	_	_
+
+# newpar id = 482
+# sent_id = 482.1
+# text = ej nejctusem jaz
+1	ej	ej	_	_	_	_	_	_	_
+2	nejctusem	nejctus	_	_	_	_	_	_	_
+3	jaz	jaz	_	_	_	_	_	_	_
+
+# newpar id = 483
+# sent_id = 483.1
+# text = fukati
+1	fukati	fukat	_	_	_	_	_	_	_
+
+# newpar id = 484
+# sent_id = 484.1
+# text = to je zelo čudno.
+1	to	to	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	zelo	zelo	_	_	_	_	_	_	_
+4	čudno	čudno	_	_	_	_	_	_	SpaceAfter=No
+5	.	.	_	_	_	_	_	_	_
+
+# newpar id = 485
+# sent_id = 485.1
+# text = Haha
+1	Haha	Hah	_	_	_	_	_	_	_
+
+# newpar id = 486
+# sent_id = 486.1
+# text = piši pravilno prosim!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+1	piši	pis	_	_	_	_	_	_	_
+2	pravilno	pravilen	_	_	_	_	_	_	_
+3	prosim	pros	_	_	_	_	_	_	SpaceAfter=No
+4	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!	_	_	_	_	_	_	_
+
+# newpar id = 487
+# sent_id = 487.1
+# text = kva
+1	kva	kaj	_	_	_	_	_	_	_
+
+# newpar id = 488
+# sent_id = 488.1
+# text = Odpiši že alojzija8
+1	Odpiši	Odpiš	_	_	_	_	_	_	_
+2	že	že	_	_	_	_	_	_	_
+3	alojzija8	alojzija8	_	_	_	_	_	_	_
+
+# newpar id = 489
+# sent_id = 489.1
+# text = ok
+1	ok	ok	_	_	_	_	_	_	_
+
+# newpar id = 490
+# sent_id = 490.1
+# text = Lahko bi se naucil da mora biti samozavesten
+1	Lahko	lahko	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	se	se	_	_	_	_	_	_	_
+4	naucil	naucil	_	_	_	_	_	_	_
+5	da	da	_	_	_	_	_	_	_
+6	mora	mor	_	_	_	_	_	_	_
+7	biti	biti	_	_	_	_	_	_	_
+8	samozavesten	samozavesten	_	_	_	_	_	_	_
+
+# newpar id = 491
+# sent_id = 491.1
+# text = kaj
+1	kaj	kaj	_	_	_	_	_	_	_
+
+# newpar id = 492
+# sent_id = 492.1
+# text = cudna je
+1	cudna	cuden	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+
+# newpar id = 493
+# sent_id = 493.1
+# text = ne gacha live
+1	ne	ni	_	_	_	_	_	_	_
+2	gacha	gach	_	_	_	_	_	_	_
+3	live	liv	_	_	_	_	_	_	_
+
+# newpar id = 494
+# sent_id = 494.1
+# text = llllllllllllllllllllllllllllllllllllllllllllllllooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooojjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+1	llllllllllllllllllllllllllllllllllllllllllllllllooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooojjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj	llllllllllllllllllllllllllllllllllllllllllllllllooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooojjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj	_	_	_	_	_	_	SpaceAfter=No
+2	<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<	<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<	_	_	_	_	_	_	_
+
+# newpar id = 495
+# sent_id = 495.1
+# text = kaj pa praviš nasmučarske skoke
+1	kaj	kaj	_	_	_	_	_	_	_
+2	pa	pa	_	_	_	_	_	_	_
+3	praviš	praviš	_	_	_	_	_	_	_
+4	nasmučarske	nasmučarski	_	_	_	_	_	_	_
+5	skoke	skok	_	_	_	_	_	_	_
+
+# newpar id = 496
+# sent_id = 496.1
+# text = zato ker bo tudi sonce enkrat ugasnilo in planeti bodo uničeni
+1	zato	zato	_	_	_	_	_	_	_
+2	ker	kar	_	_	_	_	_	_	_
+3	bo	bo	_	_	_	_	_	_	_
+4	tudi	tudi	_	_	_	_	_	_	_
+5	sonce	sonce	_	_	_	_	_	_	_
+6	enkrat	enkrat	_	_	_	_	_	_	_
+7	ugasnilo	ugasnit	_	_	_	_	_	_	_
+8	in	in	_	_	_	_	_	_	_
+9	planeti	planet	_	_	_	_	_	_	_
+10	bodo	biti	_	_	_	_	_	_	_
+11	uničeni	uničen	_	_	_	_	_	_	_
+
+# newpar id = 497
+# sent_id = 497.1
+# text = bila bi zelo žalostna pogrešala bi domače
+1	bila	biti	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	zelo	zelo	_	_	_	_	_	_	_
+4	žalostna	žalosten	_	_	_	_	_	_	_
+5	pogrešala	pogrešati	_	_	_	_	_	_	_
+6	bi	bi	_	_	_	_	_	_	_
+7	domače	domače	_	_	_	_	_	_	_
+
+# newpar id = 498
+# sent_id = 498.1
+# text = Kdo je mumac25 8
+1	Kdo	kdo	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	mumac25	mumac25	_	_	_	_	_	_	_
+4	8	8	_	_	_	_	_	_	_
+
+# newpar id = 499
+# sent_id = 499.1
+# text = Halo
+1	Halo	halo	_	_	_	_	_	_	_
+
+# newpar id = 500
+# sent_id = 500.1
+# text = kahkobi se naucil plezati plavati delati salte
+1	kahkobi	kahkobi	_	_	_	_	_	_	_
+2	se	se	_	_	_	_	_	_	_
+3	naucil	naucil	_	_	_	_	_	_	_
+4	plezati	plezat	_	_	_	_	_	_	_
+5	plavati	plavat	_	_	_	_	_	_	_
+6	delati	delat	_	_	_	_	_	_	_
+7	salte	salte	_	_	_	_	_	_	_
+
+# newpar id = 501
+# sent_id = 501.1
+# text = lahko bi metal veje in potem mu bi kdo povedal koliko je vrgel
+1	lahko	lahko	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	metal	metati	_	_	_	_	_	_	_
+4	veje	veti	_	_	_	_	_	_	_
+5	in	in	_	_	_	_	_	_	_
+6	potem	potem	_	_	_	_	_	_	_
+7	mu	mu	_	_	_	_	_	_	_
+8	bi	bi	_	_	_	_	_	_	_
+9	kdo	kdo	_	_	_	_	_	_	_
+10	povedal	povedati	_	_	_	_	_	_	_
+11	koliko	kolik	_	_	_	_	_	_	_
+12	je	je	_	_	_	_	_	_	_
+13	vrgel	vrgel	_	_	_	_	_	_	_
+
+# newpar id = 502
+# sent_id = 502.1
+# text = Ne resno, kdo si FuzineC15
+1	Ne	Ni	_	_	_	_	_	_	_
+2	resno	resen	_	_	_	_	_	_	SpaceAfter=No
+3	,	,	_	_	_	_	_	_	_
+4	kdo	kdo	_	_	_	_	_	_	_
+5	si	si	_	_	_	_	_	_	_
+6	FuzineC15	Fuzinec15	_	_	_	_	_	_	_
+
+# newpar id = 503
+# sent_id = 503.1
+# text = kaj
+1	kaj	kaj	_	_	_	_	_	_	_
+
+# newpar id = 504
+# sent_id = 504.1
+# text = pa ti
+1	pa	pa	_	_	_	_	_	_	_
+2	ti	ti	_	_	_	_	_	_	_
+
+# newpar id = 505
+# sent_id = 505.1
+# text = ne nisi
+1	ne	ni	_	_	_	_	_	_	_
+2	nisi	nis	_	_	_	_	_	_	_
+
+# newpar id = 506
+# sent_id = 506.1
+# text = Jaz bi jim pomagala in jih lepo sprejela
+1	Jaz	jaz	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	jim	jim	_	_	_	_	_	_	_
+4	pomagala	pomagati	_	_	_	_	_	_	_
+5	in	in	_	_	_	_	_	_	_
+6	jih	jih	_	_	_	_	_	_	_
+7	lepo	lep	_	_	_	_	_	_	_
+8	sprejela	sprejel	_	_	_	_	_	_	_
+
+# newpar id = 507
+# sent_id = 507.1
+# text = jayt aliska pipiska
+1	jayt	jayt	_	_	_	_	_	_	_
+2	aliska	aliskati	_	_	_	_	_	_	_
+3	pipiska	pipiski	_	_	_	_	_	_	_
+
+# newpar id = 508
+# sent_id = 508.1
+# text = moje mnenje o knjigi je da je hotela pokazati da moras biti prijazen
+1	moje	moj	_	_	_	_	_	_	_
+2	mnenje	mnenje	_	_	_	_	_	_	_
+3	o	o	_	_	_	_	_	_	_
+4	knjigi	knjig	_	_	_	_	_	_	_
+5	je	je	_	_	_	_	_	_	_
+6	da	da	_	_	_	_	_	_	_
+7	je	je	_	_	_	_	_	_	_
+8	hotela	hotel	_	_	_	_	_	_	_
+9	pokazati	pokazati	_	_	_	_	_	_	_
+10	da	da	_	_	_	_	_	_	_
+11	moras	moras	_	_	_	_	_	_	_
+12	biti	biti	_	_	_	_	_	_	_
+13	prijazen	prijazen	_	_	_	_	_	_	_
+
+# newpar id = 509
+# sent_id = 509.1
+# text = debil si
+1	debil	debil	_	_	_	_	_	_	_
+2	si	si	_	_	_	_	_	_	_
+
+# newpar id = 510
+# sent_id = 510.1
+# text = jg
+1	jg	jg	_	_	_	_	_	_	_
+
+# newpar id = 511
+# sent_id = 511.1
+# text = ja dej nehi
+1	ja	ja	_	_	_	_	_	_	_
+2	dej	dej	_	_	_	_	_	_	_
+3	nehi	neh	_	_	_	_	_	_	_
+
+# newpar id = 512
+# sent_id = 512.1
+# text = kaj bi se lahko nauču
+1	kaj	kaj	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	se	se	_	_	_	_	_	_	_
+4	lahko	lahko	_	_	_	_	_	_	_
+5	nauču	nauč	_	_	_	_	_	_	_
+
+# newpar id = 513
+# sent_id = 513.1
+# text = Jp
+1	Jp	jp	_	_	_	_	_	_	_
+
+# newpar id = 514
+# sent_id = 514.1
+# text = hej js sm miro
+1	hej	hej	_	_	_	_	_	_	_
+2	js	js	_	_	_	_	_	_	_
+3	sm	sm	_	_	_	_	_	_	_
+4	miro	miro	_	_	_	_	_	_	_
+
+# newpar id = 515
+# sent_id = 515.1
+# text = ki je to uprašal
+1	ki	ki	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	to	to	_	_	_	_	_	_	_
+4	uprašal	uprašati	_	_	_	_	_	_	_
+
+# newpar id = 516
+# sent_id = 516.1
+# text = a je še kdo tuki
+1	a	on	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	še	še	_	_	_	_	_	_	_
+4	kdo	kdo	_	_	_	_	_	_	_
+5	tuki	tuk	_	_	_	_	_	_	_
+
+# newpar id = 517
+# sent_id = 517.1
+# text = Tukaj vaša učiteljica Matejua.
+1	Tukaj	tukaj	_	_	_	_	_	_	_
+2	vaša	vaš	_	_	_	_	_	_	_
+3	učiteljica	učiteljic	_	_	_	_	_	_	_
+4	Matejua	Mateju	_	_	_	_	_	_	SpaceAfter=No
+5	.	.	_	_	_	_	_	_	_
+
+# newpar id = 518
+# sent_id = 518.1
+# text = kdo je 8
+1	kdo	kdo	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	8	8	_	_	_	_	_	_	_
+
+# newpar id = 519
+# sent_id = 519.1
+# text = hihi
+1	hihi	hih	_	_	_	_	_	_	_
+
+# newpar id = 520
+# sent_id = 520.1
+# text = Evo ti hewc.
+1	Evo	Evo	_	_	_	_	_	_	_
+2	ti	ti	_	_	_	_	_	_	_
+3	hewc	hewc	_	_	_	_	_	_	SpaceAfter=No
+4	.	.	_	_	_	_	_	_	_
+
+# newpar id = 521
+# sent_id = 521.1
+# text = ヽ༼ ຈل͜ຈ༼ ▀̿̿Ĺ̯̿̿▀̿ ̿༽Ɵ͆ل͜Ɵ͆ ༽ﾉ
+1	ヽ	ヽ	_	_	_	_	_	_	SpaceAfter=No
+2	༼	༼	_	_	_	_	_	_	_
+3	ຈل	ຈل	_	_	_	_	_	_	SpaceAfter=No
+4	͜	͜	_	_	_	_	_	_	SpaceAfter=No
+5	ຈ	ຈ	_	_	_	_	_	_	SpaceAfter=No
+6	༼	༼	_	_	_	_	_	_	_
+7	▀	▀	_	_	_	_	_	_	SpaceAfter=No
+8	̿̿	̿̿	_	_	_	_	_	_	SpaceAfter=No
+9	Ĺ	Ĺ	_	_	_	_	_	_	SpaceAfter=No
+10	̯	̯	_	_	_	_	_	_	SpaceAfter=No
+11	̿̿	̿̿	_	_	_	_	_	_	SpaceAfter=No
+12	▀	▀	_	_	_	_	_	_	SpaceAfter=No
+13	̿	̿	_	_	_	_	_	_	_
+14	̿	̿	_	_	_	_	_	_	SpaceAfter=No
+15	༽	༽	_	_	_	_	_	_	SpaceAfter=No
+16	Ɵ	Ɵ	_	_	_	_	_	_	SpaceAfter=No
+17	͆	͆	_	_	_	_	_	_	SpaceAfter=No
+18	ل	ل	_	_	_	_	_	_	SpaceAfter=No
+19	͜	͜	_	_	_	_	_	_	SpaceAfter=No
+20	Ɵ	Ɵ	_	_	_	_	_	_	SpaceAfter=No
+21	͆	͆	_	_	_	_	_	_	_
+22	༽	༽	_	_	_	_	_	_	SpaceAfter=No
+23	ﾉ	ﾉ	_	_	_	_	_	_	_
+
+# newpar id = 522
+# sent_id = 522.1
+# text = gremo se pogovarjati
+1	gremo	gremo	_	_	_	_	_	_	_
+2	se	se	_	_	_	_	_	_	_
+3	pogovarjati	pogovarjati	_	_	_	_	_	_	_
+
+# newpar id = 523
+# sent_id = 523.1
+# text = Da bi lahko bil pametnejši
+1	Da	da	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	lahko	lahko	_	_	_	_	_	_	_
+4	bil	bil	_	_	_	_	_	_	_
+5	pametnejši	pameten	_	_	_	_	_	_	_
+
+# newpar id = 524
+# sent_id = 524.1
+# text = dala jim bi svoje obleke ki so mi premajhne
+1	dala	dal	_	_	_	_	_	_	_
+2	jim	jim	_	_	_	_	_	_	_
+3	bi	bi	_	_	_	_	_	_	_
+4	svoje	svoj	_	_	_	_	_	_	_
+5	obleke	oblek	_	_	_	_	_	_	_
+6	ki	ki	_	_	_	_	_	_	_
+7	so	so	_	_	_	_	_	_	_
+8	mi	mi	_	_	_	_	_	_	_
+9	premajhne	premajhne	_	_	_	_	_	_	_
+
+# newpar id = 525
+# sent_id = 525.1
+# text = Kapa če te bi butalci ustrelil?????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+1	Kapa	kap	_	_	_	_	_	_	_
+2	če	če	_	_	_	_	_	_	_
+3	te	ti	_	_	_	_	_	_	_
+4	bi	bi	_	_	_	_	_	_	_
+5	butalci	butalec	_	_	_	_	_	_	_
+6	ustrelil	ustreliti	_	_	_	_	_	_	SpaceAfter=No
+7	?????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????	?????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 525.2
+# text = $$#!
+1	$$	$$	_	_	_	_	_	_	SpaceAfter=No
+2	#	#	_	_	_	_	_	_	SpaceAfter=No
+3	!	!	_	_	_	_	_	_	_
+
+# newpar id = 526
+# sent_id = 526.1
+# text = Ok dijo vsi c:
+1	Ok	ok	_	_	_	_	_	_	_
+2	dijo	diti	_	_	_	_	_	_	_
+3	vsi	vsi	_	_	_	_	_	_	_
+4	c	c	_	_	_	_	_	_	SpaceAfter=No
+5	:	biti	_	_	_	_	_	_	_
+
+# newpar id = 527
+# sent_id = 527.1
+# text = POGLEJ MENE PA SEBE
+1	POGLEJ	poglej	_	_	_	_	_	_	_
+2	MENE	men	_	_	_	_	_	_	_
+3	PA	PA	_	_	_	_	_	_	_
+4	SEBE	seb	_	_	_	_	_	_	_
+
+# newpar id = 528
+# sent_id = 528.1
+# text = zacnimo
+1	zacnimo	zacnimo	_	_	_	_	_	_	_
+
+# newpar id = 529
+# sent_id = 529.1
+# text = računanje že zna
+1	računanje	računanje	_	_	_	_	_	_	_
+2	že	že	_	_	_	_	_	_	_
+3	zna	zni	_	_	_	_	_	_	_
+
+# newpar id = 530
+# sent_id = 530.1
+# text = adijo
+1	adijo	adij	_	_	_	_	_	_	_
+
+# newpar id = 531
+# sent_id = 531.1
+# text = Kaj mano pol pot tej uri
+1	Kaj	kaj	_	_	_	_	_	_	_
+2	mano	mano	_	_	_	_	_	_	_
+3	pol	pol	_	_	_	_	_	_	_
+4	pot	pot	_	_	_	_	_	_	_
+5	tej	ta	_	_	_	_	_	_	_
+6	uri	uri	_	_	_	_	_	_	_
+
+# newpar id = 532
+# sent_id = 532.1
+# text = kaj te briga
+1	kaj	kaj	_	_	_	_	_	_	_
+2	te	ti	_	_	_	_	_	_	_
+3	briga	brig	_	_	_	_	_	_	_
+
+# newpar id = 533
+# sent_id = 533.1
+# text = hfgetrdf46465757565hvbvmfdudhvsfhffbsslhsghkgsfsehdfnsfsfjlkakgkkfgkfsfsfjsffkggjshjhjsfsgffgf
+1	hfgetrdf46465757565hvbvmfdudhvsfhffbsslhsghkgsfsehdfnsfsfjlkakgkkfgkfsfsfjsffkggjshjhjsfsgffgf	hfgetrdfdfhfudhfdhdudhfdhduddfduddfduddfdhd0fd	_	_	_	_	_	_	_
+
+# newpar id = 534
+# sent_id = 534.1
+# text = zato,ker je to knjiga
+1	zato	zato	_	_	_	_	_	_	SpaceAfter=No
+2	,	,	_	_	_	_	_	_	SpaceAfter=No
+3	ker	kar	_	_	_	_	_	_	_
+4	je	je	_	_	_	_	_	_	_
+5	to	to	_	_	_	_	_	_	_
+6	knjiga	knjig	_	_	_	_	_	_	_
+
+# newpar id = 535
+# sent_id = 535.1
+# text = lahko bi mu pobegnil, ko bi  bil pred vrati in ga se nebi opazil
+1	lahko	lahko	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	mu	mu	_	_	_	_	_	_	_
+4	pobegnil	pobegniti	_	_	_	_	_	_	SpaceAfter=No
+5	,	,	_	_	_	_	_	_	_
+6	ko	koj	_	_	_	_	_	_	_
+7	bi	bi	_	_	_	_	_	_	_
+8	bil	bil	_	_	_	_	_	_	_
+9	pred	pred	_	_	_	_	_	_	_
+10	vrati	vrat	_	_	_	_	_	_	_
+11	in	in	_	_	_	_	_	_	_
+12	ga	ga	_	_	_	_	_	_	_
+13	se	se	_	_	_	_	_	_	_
+14	nebi	neb	_	_	_	_	_	_	_
+15	opazil	opazil	_	_	_	_	_	_	_
+
+# newpar id = 536
+# sent_id = 536.1
+# text = kaj
+1	kaj	kaj	_	_	_	_	_	_	_
+
+# newpar id = 537
+# sent_id = 537.1
+# text = 😜
+1	😜	😜	_	_	_	_	_	_	_
+
+# newpar id = 538
+# sent_id = 538.1
+# text = Lahko bi se pridružil CIA
+1	Lahko	lahko	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	se	se	_	_	_	_	_	_	_
+4	pridružil	pridružiti	_	_	_	_	_	_	_
+5	CIA	cio	_	_	_	_	_	_	_
+
+# newpar id = 539
+# sent_id = 539.1
+# text = kdo je še zraven
+1	kdo	kdo	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	še	še	_	_	_	_	_	_	_
+4	zraven	zraven	_	_	_	_	_	_	_
+
+# newpar id = 540
+# sent_id = 540.1
+# text = jaz ne povem :p
+1	jaz	jaz	_	_	_	_	_	_	_
+2	ne	ni	_	_	_	_	_	_	_
+3	povem	poveda	_	_	_	_	_	_	_
+4	:p	:p	_	_	_	_	_	_	_
+
+# newpar id = 541
+# sent_id = 541.1
+# text = eder
+1	eder	eder	_	_	_	_	_	_	_
+
+# newpar id = 542
+# sent_id = 542.1
+# text = Ja lahko!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+1	Ja	on	_	_	_	_	_	_	_
+2	lahko	lahko	_	_	_	_	_	_	SpaceAfter=No
+3	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!	_	_	_	_	_	_	_
+
+# newpar id = 543
+# sent_id = 543.1
+# text = Lahko bi mu stopil mu stopil na noge in ko bi cvilil bi ga primel in ga odpeliu v zapor v najtrdnejĹˇo sobo ki jo imajo.
+1	Lahko	lahko	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	mu	mu	_	_	_	_	_	_	_
+4	stopil	stopiti	_	_	_	_	_	_	_
+5	mu	mu	_	_	_	_	_	_	_
+6	stopil	stopiti	_	_	_	_	_	_	_
+7	na	ni	_	_	_	_	_	_	_
+8	noge	noge	_	_	_	_	_	_	_
+9	in	in	_	_	_	_	_	_	_
+10	ko	koj	_	_	_	_	_	_	_
+11	bi	bi	_	_	_	_	_	_	_
+12	cvilil	cvilil	_	_	_	_	_	_	_
+13	bi	bi	_	_	_	_	_	_	_
+14	ga	ga	_	_	_	_	_	_	_
+15	primel	primel	_	_	_	_	_	_	_
+16	in	in	_	_	_	_	_	_	_
+17	ga	ga	_	_	_	_	_	_	_
+18	odpeliu	odpel	_	_	_	_	_	_	_
+19	v	v	_	_	_	_	_	_	_
+20	zapor	zapor	_	_	_	_	_	_	_
+21	v	v	_	_	_	_	_	_	_
+22	najtrdnejĹˇo	najtrdnejen	_	_	_	_	_	_	_
+23	sobo	sob	_	_	_	_	_	_	_
+24	ki	ki	_	_	_	_	_	_	_
+25	jo	jo	_	_	_	_	_	_	_
+26	imajo	imeti	_	_	_	_	_	_	SpaceAfter=No
+27	.	.	_	_	_	_	_	_	_
+
+# newpar id = 544
+# sent_id = 544.1
+# text = TO JE EMA
+1	TO	ta	_	_	_	_	_	_	_
+2	JE	on	_	_	_	_	_	_	_
+3	EMA	EMA	_	_	_	_	_	_	_
+
+# newpar id = 545
+# sent_id = 545.1
+# text = Grozno.
+1	Grozno	grozen	_	_	_	_	_	_	SpaceAfter=No
+2	.	.	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 545.2
+# text = Tudi jaz
+1	Tudi	tud	_	_	_	_	_	_	_
+2	jaz	jaz	_	_	_	_	_	_	_
+
+# newpar id = 546
+# sent_id = 546.1
+# text = Ela, ce potrebujes pomoc, dvigni roko.
+1	Ela	el	_	_	_	_	_	_	SpaceAfter=No
+2	,	,	_	_	_	_	_	_	_
+3	ce	ci	_	_	_	_	_	_	_
+4	potrebujes	potrebujes	_	_	_	_	_	_	_
+5	pomoc	pomoc	_	_	_	_	_	_	SpaceAfter=No
+6	,	,	_	_	_	_	_	_	_
+7	dvigni	dvigen	_	_	_	_	_	_	_
+8	roko	rok	_	_	_	_	_	_	SpaceAfter=No
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = 546.2
+# text = :)
+1	:)	:)	_	_	_	_	_	_	_
+
+# newpar id = 547
+# sent_id = 547.1
+# text = kako ga zamenjam
+1	kako	kak	_	_	_	_	_	_	_
+2	ga	ga	_	_	_	_	_	_	_
+3	zamenjam	zamenja	_	_	_	_	_	_	_
+
+# newpar id = 548
+# sent_id = 548.1
+# text = JA SEVEDA PA MAFINE IN VAFLE
+1	JA	ja	_	_	_	_	_	_	_
+2	SEVEDA	seved	_	_	_	_	_	_	_
+3	PA	PA	_	_	_	_	_	_	_
+4	MAFINE	mafin	_	_	_	_	_	_	_
+5	IN	in	_	_	_	_	_	_	_
+6	VAFLE	vafle	_	_	_	_	_	_	_
+
+# newpar id = 549
+# sent_id = 549.1
+# text = Jaz vem sam zakaj ne razmišlaš logično in mal pomislš!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+1	Jaz	jaz	_	_	_	_	_	_	_
+2	vem	vem	_	_	_	_	_	_	_
+3	sam	samo	_	_	_	_	_	_	_
+4	zakaj	zakaj	_	_	_	_	_	_	_
+5	ne	ni	_	_	_	_	_	_	_
+6	razmišlaš	razmišlati	_	_	_	_	_	_	_
+7	logično	logičen	_	_	_	_	_	_	_
+8	in	in	_	_	_	_	_	_	_
+9	mal	mal	_	_	_	_	_	_	_
+10	pomislš	pomisel	_	_	_	_	_	_	SpaceAfter=No
+11	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!	_	_	_	_	_	_	_
+
+# sent_id = 549.2
+# text = KO
+1	KO	ko	_	_	_	_	_	_	_
+
+# newpar id = 550
+# sent_id = 550.1
+# text = Tako, da ga bi prestrašil in zbežal in se nebi vrnil.
+1	Tako	tako	_	_	_	_	_	_	SpaceAfter=No
+2	,	,	_	_	_	_	_	_	_
+3	da	da	_	_	_	_	_	_	_
+4	ga	ga	_	_	_	_	_	_	_
+5	bi	bi	_	_	_	_	_	_	_
+6	prestrašil	prestrašiti	_	_	_	_	_	_	_
+7	in	in	_	_	_	_	_	_	_
+8	zbežal	zbežati	_	_	_	_	_	_	_
+9	in	in	_	_	_	_	_	_	_
+10	se	se	_	_	_	_	_	_	_
+11	nebi	neb	_	_	_	_	_	_	_
+12	vrnil	vrniti	_	_	_	_	_	_	SpaceAfter=No
+13	.	.	_	_	_	_	_	_	_
+
+# newpar id = 551
+# sent_id = 551.1
+# text = pa ja verjetno če bi bli sosedi ful zabiti
+1	pa	pa	_	_	_	_	_	_	_
+2	ja	ja	_	_	_	_	_	_	_
+3	verjetno	verjetno	_	_	_	_	_	_	_
+4	če	če	_	_	_	_	_	_	_
+5	bi	bi	_	_	_	_	_	_	_
+6	bli	biti	_	_	_	_	_	_	_
+7	sosedi	sosedi	_	_	_	_	_	_	_
+8	ful	ful	_	_	_	_	_	_	_
+9	zabiti	zabit	_	_	_	_	_	_	_
+
+# newpar id = 552
+# sent_id = 552.1
+# text = jaz ji bi prinesel moje premajhne obleke
+1	jaz	jaz	_	_	_	_	_	_	_
+2	ji	ji	_	_	_	_	_	_	_
+3	bi	bi	_	_	_	_	_	_	_
+4	prinesel	prinesel	_	_	_	_	_	_	_
+5	moje	moj	_	_	_	_	_	_	_
+6	premajhne	premajhne	_	_	_	_	_	_	_
+7	obleke	oblek	_	_	_	_	_	_	_
+
+# newpar id = 553
+# sent_id = 553.1
+# text = Da bi jim dala kakšno mojo obleko
+1	Da	da	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	jim	jim	_	_	_	_	_	_	_
+4	dala	dal	_	_	_	_	_	_	_
+5	kakšno	kakšen	_	_	_	_	_	_	_
+6	mojo	moj	_	_	_	_	_	_	_
+7	obleko	oblek	_	_	_	_	_	_	_
+
+# newpar id = 554
+# sent_id = 554.1
+# text = ok pomen pk
+1	ok	ok	_	_	_	_	_	_	_
+2	pomen	pomen	_	_	_	_	_	_	_
+3	pk	pk	_	_	_	_	_	_	_
+
+# newpar id = 555
+# sent_id = 555.1
+# text = ej digen
+1	ej	ej	_	_	_	_	_	_	_
+2	digen	digen	_	_	_	_	_	_	_
+
+# newpar id = 556
+# sent_id = 556.1
+# text = Kako rasti?
+1	Kako	kak	_	_	_	_	_	_	_
+2	rasti	rasti	_	_	_	_	_	_	SpaceAfter=No
+3	?	?	_	_	_	_	_	_	_
+
+# newpar id = 557
+# sent_id = 557.1
+# text = Se dobro, da zna uciteljica dobro ocenjevati taksne odgovore.
+1	Se	biti	_	_	_	_	_	_	_
+2	dobro	dobro	_	_	_	_	_	_	SpaceAfter=No
+3	,	,	_	_	_	_	_	_	_
+4	da	da	_	_	_	_	_	_	_
+5	zna	zni	_	_	_	_	_	_	_
+6	uciteljica	uciteljic	_	_	_	_	_	_	_
+7	dobro	dobro	_	_	_	_	_	_	_
+8	ocenjevati	ocenjevati	_	_	_	_	_	_	_
+9	taksne	taksen	_	_	_	_	_	_	_
+10	odgovore	odgovor	_	_	_	_	_	_	SpaceAfter=No
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = 557.2
+# text = Nadaljujmo z odgovori na vprasanje.
+1	Nadaljujmo	Nadaljujem	_	_	_	_	_	_	_
+2	z	z	_	_	_	_	_	_	_
+3	odgovori	odgovor	_	_	_	_	_	_	_
+4	na	ni	_	_	_	_	_	_	_
+5	vprasanje	vprasanji	_	_	_	_	_	_	SpaceAfter=No
+6	.	.	_	_	_	_	_	_	_
+
+# newpar id = 558
+# sent_id = 558.1
+# text = SmartnoB12, kaj pa ti misliš?
+1	SmartnoB12	Smartnob12	_	_	_	_	_	_	SpaceAfter=No
+2	,	,	_	_	_	_	_	_	_
+3	kaj	kaj	_	_	_	_	_	_	_
+4	pa	pa	_	_	_	_	_	_	_
+5	ti	ti	_	_	_	_	_	_	_
+6	misliš	misel	_	_	_	_	_	_	SpaceAfter=No
+7	?	?	_	_	_	_	_	_	_
+
+# sent_id = 558.2
+# text = Kakšen bi bil pa tvoj odgovor na vprašanje?
+1	Kakšen	kakšen	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	bil	bil	_	_	_	_	_	_	_
+4	pa	pa	_	_	_	_	_	_	_
+5	tvoj	tvoj	_	_	_	_	_	_	_
+6	odgovor	odgovor	_	_	_	_	_	_	_
+7	na	ni	_	_	_	_	_	_	_
+8	vprašanje	vprašanji	_	_	_	_	_	_	SpaceAfter=No
+9	?	?	_	_	_	_	_	_	_
+
+# newpar id = 559
+# sent_id = 559.1
+# text = ddaddadadada
+1	ddaddadadada	ddaddadadad	_	_	_	_	_	_	_
+
+# newpar id = 560
+# sent_id = 560.1
+# text = Koko ste
+1	Koko	kok	_	_	_	_	_	_	_
+2	ste	ste	_	_	_	_	_	_	_
+
+# newpar id = 561
+# sent_id = 561.1
+# text = A vidva tut?
+1	A	A	_	_	_	_	_	_	_
+2	vidva	videv	_	_	_	_	_	_	_
+3	tut	tut	_	_	_	_	_	_	SpaceAfter=No
+4	?	?	_	_	_	_	_	_	_
+
+# newpar id = 562
+# sent_id = 562.1
+# text = jaz bi jim pomagala
+1	jaz	jaz	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	jim	jim	_	_	_	_	_	_	_
+4	pomagala	pomagati	_	_	_	_	_	_	_
+
+# newpar id = 563
+# sent_id = 563.1
+# text = ✌✌✌✌🙌
+1	✌✌✌✌	✌✌✌✌	_	_	_	_	_	_	SpaceAfter=No
+2	🙌	🙌	_	_	_	_	_	_	_
+
+# newpar id = 564
+# sent_id = 564.1
+# text = tiiiiiiiiiiii smartno 9
+1	tiiiiiiiiiiii	tiiiiiiiiiii	_	_	_	_	_	_	_
+2	smartno	smarten	_	_	_	_	_	_	_
+3	9	9	_	_	_	_	_	_	_
+
+# newpar id = 565
+# sent_id = 565.1
+# text = Kaj se bomo igrali na igriscu Ambroz?
+1	Kaj	kaj	_	_	_	_	_	_	_
+2	se	se	_	_	_	_	_	_	_
+3	bomo	bomo	_	_	_	_	_	_	_
+4	igrali	igral	_	_	_	_	_	_	_
+5	na	ni	_	_	_	_	_	_	_
+6	igriscu	igrisci	_	_	_	_	_	_	_
+7	Ambroz	ambroz	_	_	_	_	_	_	SpaceAfter=No
+8	?	?	_	_	_	_	_	_	_
+
+# newpar id = 566
+# sent_id = 566.1
+# text = fhjkhj
+1	fhjkhj	fhjkhj	_	_	_	_	_	_	_
+
+# newpar id = 567
+# sent_id = 567.1
+# text = Jaz sem NataĹˇa
+1	Jaz	jaz	_	_	_	_	_	_	_
+2	sem	samo	_	_	_	_	_	_	_
+3	NataĹˇa	nataj	_	_	_	_	_	_	_
+
+# newpar id = 568
+# sent_id = 568.1
+# text = si ti
+1	si	si	_	_	_	_	_	_	_
+2	ti	ti	_	_	_	_	_	_	_
+
+# newpar id = 569
+# sent_id = 569.1
+# text = Lahko ampak ni
+1	Lahko	lahko	_	_	_	_	_	_	_
+2	ampak	ampak	_	_	_	_	_	_	_
+3	ni	ni	_	_	_	_	_	_	_
+
+# newpar id = 570
+# sent_id = 570.1
+# text = tekanja in skakanja
+1	tekanja	tekanji	_	_	_	_	_	_	_
+2	in	in	_	_	_	_	_	_	_
+3	skakanja	skakanji	_	_	_	_	_	_	_
+
+# newpar id = 571
+# sent_id = 571.1
+# text = grozno
+1	grozno	grozen	_	_	_	_	_	_	_
+
+# newpar id = 572
+# sent_id = 572.1
+# text = Ne, ker bi se je ustrašila.
+1	Ne	Ni	_	_	_	_	_	_	SpaceAfter=No
+2	,	,	_	_	_	_	_	_	_
+3	ker	kar	_	_	_	_	_	_	_
+4	bi	bi	_	_	_	_	_	_	_
+5	se	se	_	_	_	_	_	_	_
+6	je	je	_	_	_	_	_	_	_
+7	ustrašila	ustrašiti	_	_	_	_	_	_	SpaceAfter=No
+8	.	.	_	_	_	_	_	_	_
+
+# newpar id = 573
+# sent_id = 573.1
+# text = Kdo je vodnika 4
+1	Kdo	kdo	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	vodnika	vodnik	_	_	_	_	_	_	_
+4	4	4	_	_	_	_	_	_	_
+
+# newpar id = 574
+# sent_id = 574.1
+# text = kaj pomen pk razumm
+1	kaj	kaj	_	_	_	_	_	_	_
+2	pomen	pomen	_	_	_	_	_	_	_
+3	pk	pk	_	_	_	_	_	_	_
+4	razumm	razumm	_	_	_	_	_	_	_
+
+# newpar id = 575
+# sent_id = 575.1
+# text = sram naj te modi
+1	sram	sram	_	_	_	_	_	_	_
+2	naj	naj	_	_	_	_	_	_	_
+3	te	ti	_	_	_	_	_	_	_
+4	modi	modi	_	_	_	_	_	_	_
+
+# newpar id = 576
+# sent_id = 576.1
+# text = aa
+1	aa	ai	_	_	_	_	_	_	_
+
+# newpar id = 577
+# sent_id = 577.1
+# text = Ker ko se je rodil copko z okvarjeno nogo ni mogel plezati zato se je ucil druge stvari in postal najpametnejši.
+1	Ker	Ker	_	_	_	_	_	_	_
+2	ko	koj	_	_	_	_	_	_	_
+3	se	se	_	_	_	_	_	_	_
+4	je	je	_	_	_	_	_	_	_
+5	rodil	roditi	_	_	_	_	_	_	_
+6	copko	copki	_	_	_	_	_	_	_
+7	z	z	_	_	_	_	_	_	_
+8	okvarjeno	okvarjen	_	_	_	_	_	_	_
+9	nogo	nogo	_	_	_	_	_	_	_
+10	ni	ni	_	_	_	_	_	_	_
+11	mogel	mogel	_	_	_	_	_	_	_
+12	plezati	plezat	_	_	_	_	_	_	_
+13	zato	zato	_	_	_	_	_	_	_
+14	se	se	_	_	_	_	_	_	_
+15	je	je	_	_	_	_	_	_	_
+16	ucil	ucil	_	_	_	_	_	_	_
+17	druge	druge	_	_	_	_	_	_	_
+18	stvari	stvar	_	_	_	_	_	_	_
+19	in	in	_	_	_	_	_	_	_
+20	postal	postal	_	_	_	_	_	_	_
+21	najpametnejši	pometen	_	_	_	_	_	_	SpaceAfter=No
+22	.	.	_	_	_	_	_	_	_
+
+# newpar id = 578
+# sent_id = 578.1
+# text = smartno14     pošli  mi   odgovor
+1	smartno14	smartno14	_	_	_	_	_	_	_
+2	pošli	pošel	_	_	_	_	_	_	_
+3	mi	mi	_	_	_	_	_	_	_
+4	odgovor	odgovor	_	_	_	_	_	_	_
+
+# newpar id = 579
+# sent_id = 579.1
+# text = jaz bi bil rožle
+1	jaz	jaz	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	bil	bil	_	_	_	_	_	_	_
+4	rožle	rožle	_	_	_	_	_	_	_
+
+# newpar id = 580
+# sent_id = 580.1
+# text = Ne!!!
+1	Ne	Ni	_	_	_	_	_	_	SpaceAfter=No
+2	!!!	!!!	_	_	_	_	_	_	_
+
+# newpar id = 581
+# sent_id = 581.1
+# text = nevem
+1	nevem	nev	_	_	_	_	_	_	_
+
+# newpar id = 582
+# sent_id = 582.1
+# text = zakaj
+1	zakaj	zakaj	_	_	_	_	_	_	_
+
+# newpar id = 583
+# sent_id = 583.1
+# text = Hmmmmm
+1	Hmmmmm	hmmmm	_	_	_	_	_	_	_
+
+# newpar id = 584
+# sent_id = 584.1
+# text = milan znami je tamara
+1	milan	milan	_	_	_	_	_	_	_
+2	znami	znami	_	_	_	_	_	_	_
+3	je	je	_	_	_	_	_	_	_
+4	tamara	tamar	_	_	_	_	_	_	_
+
+# newpar id = 585
+# sent_id = 585.1
+# text = umerati
+1	umerati	umerat	_	_	_	_	_	_	_
+
+# newpar id = 586
+# sent_id = 586.1
+# text = a si mel pri veveričku vse prav
+1	a	on	_	_	_	_	_	_	_
+2	si	si	_	_	_	_	_	_	_
+3	mel	mel	_	_	_	_	_	_	_
+4	pri	pri	_	_	_	_	_	_	_
+5	veveričku	veverički	_	_	_	_	_	_	_
+6	vse	vse	_	_	_	_	_	_	_
+7	prav	prav	_	_	_	_	_	_	_
+
+# newpar id = 587
+# sent_id = 587.1
+# text = halo
+1	halo	halo	_	_	_	_	_	_	_
+
+# newpar id = 588
+# sent_id = 588.1
+# text = da
+1	da	da	_	_	_	_	_	_	_
+
+# newpar id = 589
+# sent_id = 589.1
+# text = Se naučil kaj je užitno in kaj ne
+1	Se	biti	_	_	_	_	_	_	_
+2	naučil	naučil	_	_	_	_	_	_	_
+3	kaj	kaj	_	_	_	_	_	_	_
+4	je	je	_	_	_	_	_	_	_
+5	užitno	užiten	_	_	_	_	_	_	_
+6	in	in	_	_	_	_	_	_	_
+7	kaj	kaj	_	_	_	_	_	_	_
+8	ne	ni	_	_	_	_	_	_	_
+
+# newpar id = 590
+# sent_id = 590.1
+# text = haloooooooooooooooooooo.
+1	haloooooooooooooooooooo	haloooooooooooooooooo	_	_	_	_	_	_	SpaceAfter=No
+2	.	.	_	_	_	_	_	_	_
+
+# sent_id = 590.2
+# text = kok je to bedno!
+1	kok	kok	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	to	to	_	_	_	_	_	_	_
+4	bedno	beden	_	_	_	_	_	_	SpaceAfter=No
+5	!	!	_	_	_	_	_	_	_
+
+# newpar id = 591
+# sent_id = 591.1
+# text = da bi tekel stran
+1	da	da	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	tekel	tekel	_	_	_	_	_	_	_
+4	stran	stran	_	_	_	_	_	_	_
+
+# newpar id = 592
+# sent_id = 592.1
+# text = kdo je to
+1	kdo	kdo	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	to	to	_	_	_	_	_	_	_
+
+# newpar id = 593
+# sent_id = 593.1
+# text = malik
+1	malik	malik	_	_	_	_	_	_	_
+
+# newpar id = 594
+# sent_id = 594.1
+# text = aaaaaaaa
+1	aaaaaaaa	aaaaaaa	_	_	_	_	_	_	_
+
+# newpar id = 595
+# sent_id = 595.1
+# text = howdy
+1	howdy	howdy	_	_	_	_	_	_	_
+
+# newpar id = 596
+# sent_id = 596.1
+# text = lol
+1	lol	lol	_	_	_	_	_	_	_
+
+# newpar id = 597
+# sent_id = 597.1
+# text = DA BI SE MI LEPŠE OBNAŠALI
+1	DA	da	_	_	_	_	_	_	_
+2	BI	biti	_	_	_	_	_	_	_
+3	SE	biti	_	_	_	_	_	_	_
+4	MI	jaz	_	_	_	_	_	_	_
+5	LEPŠE	lepše	_	_	_	_	_	_	_
+6	OBNAŠALI	Obnašal	_	_	_	_	_	_	_
+
+# newpar id = 598
+# sent_id = 598.1
+# text = a super ti pridem pomagat ok?
+1	a	on	_	_	_	_	_	_	_
+2	super	super	_	_	_	_	_	_	_
+3	ti	ti	_	_	_	_	_	_	_
+4	pridem	priti	_	_	_	_	_	_	_
+5	pomagat	pomagat	_	_	_	_	_	_	_
+6	ok	ok	_	_	_	_	_	_	SpaceAfter=No
+7	?	?	_	_	_	_	_	_	_
+
+# newpar id = 599
+# sent_id = 599.1
+# text = ha
+1	ha	ha	_	_	_	_	_	_	_
+
+# newpar id = 600
+# sent_id = 600.1
+# text = l
+1	l	l	_	_	_	_	_	_	_
+
+# newpar id = 601
+# sent_id = 601.1
+# text = nisi
+1	nisi	nis	_	_	_	_	_	_	_
+
+# newpar id = 602
+# sent_id = 602.1
+# text = Tale čokpo je bil kot List med listi
+1	Tale	tale	_	_	_	_	_	_	_
+2	čokpo	čokpo	_	_	_	_	_	_	_
+3	je	je	_	_	_	_	_	_	_
+4	bil	bil	_	_	_	_	_	_	_
+5	kot	kot	_	_	_	_	_	_	_
+6	List	List	_	_	_	_	_	_	_
+7	med	med	_	_	_	_	_	_	_
+8	listi	listi	_	_	_	_	_	_	_
+
+# newpar id = 603
+# sent_id = 603.1
+# text = hej
+1	hej	hej	_	_	_	_	_	_	_
+
+# newpar id = 604
+# sent_id = 604.1
+# text = in da ne govorimo drugim, da necesa ne znajo
+1	in	in	_	_	_	_	_	_	_
+2	da	da	_	_	_	_	_	_	_
+3	ne	ni	_	_	_	_	_	_	_
+4	govorimo	govorim	_	_	_	_	_	_	_
+5	drugim	drug	_	_	_	_	_	_	SpaceAfter=No
+6	,	,	_	_	_	_	_	_	_
+7	da	da	_	_	_	_	_	_	_
+8	necesa	neces	_	_	_	_	_	_	_
+9	ne	ni	_	_	_	_	_	_	_
+10	znajo	znaj	_	_	_	_	_	_	_
+
+# newpar id = 605
+# sent_id = 605.1
+# text = igrati ristanec
+1	igrati	igrat	_	_	_	_	_	_	_
+2	ristanec	ristanec	_	_	_	_	_	_	_
+
+# newpar id = 606
+# sent_id = 606.1
+# text = hihihihihihihihihihihihihihihihihihiihhihiihihhihjiihihhiihhiihhihiihihihihihih
+1	hihihihihihihihihihihihihihihihihihiihhihiihihhihjiihihhiihhiihhihiihihihihihih	hihihihihihiihiihiihihiihihiihihihihihi	_	_	_	_	_	_	_
+
+# newpar id = 607
+# sent_id = 607.1
+# text = No lahko ga bi zadusil tako kot druge
+1	No	no	_	_	_	_	_	_	_
+2	lahko	lahko	_	_	_	_	_	_	_
+3	ga	ga	_	_	_	_	_	_	_
+4	bi	bi	_	_	_	_	_	_	_
+5	zadusil	zadusil	_	_	_	_	_	_	_
+6	tako	tako	_	_	_	_	_	_	_
+7	kot	kot	_	_	_	_	_	_	_
+8	druge	druge	_	_	_	_	_	_	_
+
+# newpar id = 608
+# sent_id = 608.1
+# text = Lahko bi rekel lažno skrivališče od Mojce in ona bi šla tja kekec bi se pa izmuznil po zdravilo in pobegnil.
+1	Lahko	lahko	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	rekel	rekel	_	_	_	_	_	_	_
+4	lažno	lažen	_	_	_	_	_	_	_
+5	skrivališče	skrivališče	_	_	_	_	_	_	_
+6	od	od	_	_	_	_	_	_	_
+7	Mojce	mojce	_	_	_	_	_	_	_
+8	in	in	_	_	_	_	_	_	_
+9	ona	oni	_	_	_	_	_	_	_
+10	bi	bi	_	_	_	_	_	_	_
+11	šla	iti	_	_	_	_	_	_	_
+12	tja	ti	_	_	_	_	_	_	_
+13	kekec	kakoc	_	_	_	_	_	_	_
+14	bi	bi	_	_	_	_	_	_	_
+15	se	se	_	_	_	_	_	_	_
+16	pa	pa	_	_	_	_	_	_	_
+17	izmuznil	izmuzniti	_	_	_	_	_	_	_
+18	po	po	_	_	_	_	_	_	_
+19	zdravilo	zdravil	_	_	_	_	_	_	_
+20	in	in	_	_	_	_	_	_	_
+21	pobegnil	pobegniti	_	_	_	_	_	_	SpaceAfter=No
+22	.	.	_	_	_	_	_	_	_
+
+# newpar id = 609
+# sent_id = 609.1
+# text = Da nebi več prihajal v butale ampak bi se skril.
+1	Da	da	_	_	_	_	_	_	_
+2	nebi	neb	_	_	_	_	_	_	_
+3	več	več	_	_	_	_	_	_	_
+4	prihajal	prihajati	_	_	_	_	_	_	_
+5	v	v	_	_	_	_	_	_	_
+6	butale	butale	_	_	_	_	_	_	_
+7	ampak	ampak	_	_	_	_	_	_	_
+8	bi	bi	_	_	_	_	_	_	_
+9	se	se	_	_	_	_	_	_	_
+10	skril	skril	_	_	_	_	_	_	SpaceAfter=No
+11	.	.	_	_	_	_	_	_	_
+
+# newpar id = 610
+# sent_id = 610.1
+# text = hjvjg
+1	hjvjg	hjvji	_	_	_	_	_	_	_
+
+# newpar id = 611
+# sent_id = 611.1
+# text = Jaz pa Eva.
+1	Jaz	jaz	_	_	_	_	_	_	_
+2	pa	pa	_	_	_	_	_	_	_
+3	Eva	eva	_	_	_	_	_	_	SpaceAfter=No
+4	.	.	_	_	_	_	_	_	_
+
+# newpar id = 612
+# sent_id = 612.1
+# text = ja pa res
+1	ja	ja	_	_	_	_	_	_	_
+2	pa	pa	_	_	_	_	_	_	_
+3	res	res	_	_	_	_	_	_	_
+
+# newpar id = 613
+# sent_id = 613.1
+# text = pa kdo ste ljudje drugače pa dobre ideje
+1	pa	pa	_	_	_	_	_	_	_
+2	kdo	kdo	_	_	_	_	_	_	_
+3	ste	ste	_	_	_	_	_	_	_
+4	ljudje	ljud	_	_	_	_	_	_	_
+5	drugače	drugače	_	_	_	_	_	_	_
+6	pa	pa	_	_	_	_	_	_	_
+7	dobre	dobre	_	_	_	_	_	_	_
+8	ideje	idej	_	_	_	_	_	_	_
+
+# newpar id = 614
+# sent_id = 614.1
+# text = Jakob, kaj pomeni razdal?
+1	Jakob	Jakob	_	_	_	_	_	_	SpaceAfter=No
+2	,	,	_	_	_	_	_	_	_
+3	kaj	kaj	_	_	_	_	_	_	_
+4	pomeni	pomeni	_	_	_	_	_	_	_
+5	razdal	razdal	_	_	_	_	_	_	SpaceAfter=No
+6	?	?	_	_	_	_	_	_	_
+
+# sent_id = 614.2
+# text = Nadaljuj z branjem, prosim.
+1	Nadaljuj	nadaljuj	_	_	_	_	_	_	_
+2	z	z	_	_	_	_	_	_	_
+3	branjem	branji	_	_	_	_	_	_	SpaceAfter=No
+4	,	,	_	_	_	_	_	_	_
+5	prosim	pros	_	_	_	_	_	_	SpaceAfter=No
+6	.	.	_	_	_	_	_	_	_
+
+# newpar id = 615
+# sent_id = 615.1
+# text = Can,djf
+1	Can	Can	_	_	_	_	_	_	SpaceAfter=No
+2	,	,	_	_	_	_	_	_	SpaceAfter=No
+3	djf	djf	_	_	_	_	_	_	_
+
+# newpar id = 616
+# sent_id = 616.1
+# text = Prispevala bi  obleke za tiste, ki jih potrebujejo
+1	Prispevala	Prispeval	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	obleke	oblek	_	_	_	_	_	_	_
+4	za	za	_	_	_	_	_	_	_
+5	tiste	tiste	_	_	_	_	_	_	SpaceAfter=No
+6	,	,	_	_	_	_	_	_	_
+7	ki	ki	_	_	_	_	_	_	_
+8	jih	jih	_	_	_	_	_	_	_
+9	potrebujejo	potrebovati	_	_	_	_	_	_	_
+
+# newpar id = 617
+# sent_id = 617.1
+# text = pravopisna slovenščina
+1	pravopisna	pravopisen	_	_	_	_	_	_	_
+2	slovenščina	slovenščin	_	_	_	_	_	_	_
+
+# newpar id = 618
+# sent_id = 618.1
+# text = JA
+1	JA	ja	_	_	_	_	_	_	_
+
+# newpar id = 619
+# sent_id = 619.1
+# text = Kakati
+1	Kakati	kakat	_	_	_	_	_	_	_
+
+# newpar id = 620
+# sent_id = 620.1
+# text = da
+1	da	da	_	_	_	_	_	_	_
+
+# newpar id = 621
+# sent_id = 621.1
+# text = Pišite pravopisno PROSIM.
+1	Pišite	pišit	_	_	_	_	_	_	_
+2	pravopisno	pravopisen	_	_	_	_	_	_	_
+3	PROSIM	pros	_	_	_	_	_	_	SpaceAfter=No
+4	.	.	_	_	_	_	_	_	_
+
+# newpar id = 622
+# sent_id = 622.1
+# text = pravilno
+1	pravilno	pravilen	_	_	_	_	_	_	_
+
+# newpar id = 623
+# sent_id = 623.1
+# text = By Franciji!
+1	By	by	_	_	_	_	_	_	_
+2	Franciji	Francij	_	_	_	_	_	_	SpaceAfter=No
+3	!	!	_	_	_	_	_	_	_
+
+# newpar id = 624
+# sent_id = 624.1
+# text = ja zelo si nasilna
+1	ja	ja	_	_	_	_	_	_	_
+2	zelo	zelo	_	_	_	_	_	_	_
+3	si	si	_	_	_	_	_	_	_
+4	nasilna	nasilen	_	_	_	_	_	_	_
+
+# newpar id = 625
+# sent_id = 625.1
+# text = Pa misliš, da veveriček ima računalnik?
+1	Pa	pa	_	_	_	_	_	_	_
+2	misliš	misel	_	_	_	_	_	_	SpaceAfter=No
+3	,	,	_	_	_	_	_	_	_
+4	da	da	_	_	_	_	_	_	_
+5	veveriček	veveriček	_	_	_	_	_	_	_
+6	ima	imeti	_	_	_	_	_	_	_
+7	računalnik	računalnik	_	_	_	_	_	_	SpaceAfter=No
+8	?	?	_	_	_	_	_	_	_
+
+# newpar id = 626
+# sent_id = 626.1
+# text = kaj
+1	kaj	kaj	_	_	_	_	_	_	_
+
+# newpar id = 627
+# sent_id = 627.1
+# text = Nejc je tuule se greva pogovarjati ?
+1	Nejc	Nejc	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	tuule	tuule	_	_	_	_	_	_	_
+4	se	se	_	_	_	_	_	_	_
+5	greva	grev	_	_	_	_	_	_	_
+6	pogovarjati	pogovarjati	_	_	_	_	_	_	_
+7	?	?	_	_	_	_	_	_	_
+
+# newpar id = 628
+# sent_id = 628.1
+# text = Da bi znal igrat med dvema ognjema.
+1	Da	da	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	znal	znal	_	_	_	_	_	_	_
+4	igrat	igrat	_	_	_	_	_	_	_
+5	med	med	_	_	_	_	_	_	_
+6	dvema	dva	_	_	_	_	_	_	_
+7	ognjema	ognji	_	_	_	_	_	_	SpaceAfter=No
+8	.	.	_	_	_	_	_	_	_
+
+# newpar id = 629
+# sent_id = 629.1
+# text = Še malo premislita in potem nadaljujta z branjem, če še nista ...
+1	Še	Še	_	_	_	_	_	_	_
+2	malo	malo	_	_	_	_	_	_	_
+3	premislita	premislit	_	_	_	_	_	_	_
+4	in	in	_	_	_	_	_	_	_
+5	potem	potem	_	_	_	_	_	_	_
+6	nadaljujta	nadaljevati	_	_	_	_	_	_	_
+7	z	z	_	_	_	_	_	_	_
+8	branjem	branji	_	_	_	_	_	_	SpaceAfter=No
+9	,	,	_	_	_	_	_	_	_
+10	če	če	_	_	_	_	_	_	_
+11	še	še	_	_	_	_	_	_	_
+12	nista	nisti	_	_	_	_	_	_	_
+13	...	...	_	_	_	_	_	_	_
+
+# newpar id = 630
+# sent_id = 630.1
+# text = Ok 😖
+1	Ok	ok	_	_	_	_	_	_	_
+2	😖	😖	_	_	_	_	_	_	_
+
+# newpar id = 631
+# sent_id = 631.1
+# text = bi mu slekel hlače
+1	bi	bi	_	_	_	_	_	_	_
+2	mu	mu	_	_	_	_	_	_	_
+3	slekel	slekel	_	_	_	_	_	_	_
+4	hlače	hlače	_	_	_	_	_	_	_
+
+# newpar id = 632
+# sent_id = 632.1
+# text = Ups.
+1	Ups	Ups	_	_	_	_	_	_	SpaceAfter=No
+2	.	.	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 632.2
+# text = Mislila sem kdo jst.
+1	Mislila	Mislil	_	_	_	_	_	_	_
+2	sem	samo	_	_	_	_	_	_	_
+3	kdo	kdo	_	_	_	_	_	_	_
+4	jst	jst	_	_	_	_	_	_	SpaceAfter=No
+5	.	.	_	_	_	_	_	_	_
+
+# newpar id = 633
+# sent_id = 633.1
+# text = Avtorica daje planetom
+1	Avtorica	Avtoric	_	_	_	_	_	_	_
+2	daje	daj	_	_	_	_	_	_	_
+3	planetom	planet	_	_	_	_	_	_	_
+
+# newpar id = 634
+# sent_id = 634.1
+# text = kera kniga vam je najbolsa
+1	kera	kar	_	_	_	_	_	_	_
+2	kniga	knig	_	_	_	_	_	_	_
+3	vam	ti	_	_	_	_	_	_	_
+4	je	je	_	_	_	_	_	_	_
+5	najbolsa	najbols	_	_	_	_	_	_	_
+
+# newpar id = 635
+# sent_id = 635.1
+# text = ne
+1	ne	ni	_	_	_	_	_	_	_
+
+# newpar id = 636
+# sent_id = 636.1
+# text = Strmogljavljkati.
+1	Strmogljavljkati	Strmogljavljkat	_	_	_	_	_	_	SpaceAfter=No
+2	.	.	_	_	_	_	_	_	_
+
+# newpar id = 637
+# sent_id = 637.1
+# text = Zivjo Videc9!!!!!
+1	Zivjo	zivji	_	_	_	_	_	_	_
+2	Videc9	Videc9	_	_	_	_	_	_	SpaceAfter=No
+3	!!!!!	!!!!!	_	_	_	_	_	_	_
+
+# newpar id = 638
+# sent_id = 638.1
+# text = A je to gregor
+1	A	A	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	to	to	_	_	_	_	_	_	_
+4	gregor	gregor	_	_	_	_	_	_	_
+
+# newpar id = 639
+# sent_id = 639.1
+# text = Čopko bi loh znov vse
+1	Čopko	čopek	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	loh	lih	_	_	_	_	_	_	_
+4	znov	znov	_	_	_	_	_	_	_
+5	vse	vse	_	_	_	_	_	_	_
+
+# newpar id = 640
+# sent_id = 640.1
+# text = ne
+1	ne	ni	_	_	_	_	_	_	_
+
+# newpar id = 641
+# sent_id = 641.1
+# text = kaj je stela oboje
+1	kaj	kaj	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	stela	stel	_	_	_	_	_	_	_
+4	oboje	oboj	_	_	_	_	_	_	_
+
+# newpar id = 642
+# sent_id = 642.1
+# text = ja
+1	ja	ja	_	_	_	_	_	_	_
+
+# newpar id = 643
+# sent_id = 643.1
+# text = joj nevem  no ja ubistvu vem
+1	joj	joj	_	_	_	_	_	_	_
+2	nevem	nev	_	_	_	_	_	_	_
+3	no	no	_	_	_	_	_	_	_
+4	ja	ja	_	_	_	_	_	_	_
+5	ubistvu	ubistvo	_	_	_	_	_	_	_
+6	vem	vem	_	_	_	_	_	_	_
+
+# newpar id = 644
+# sent_id = 644.1
+# text = wtf
+1	wtf	wtf	_	_	_	_	_	_	_
+
+# newpar id = 645
+# sent_id = 645.1
+# text = .
+1	.	.	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 645.2
+# text = -.
+1	-	-	_	_	_	_	_	_	SpaceAfter=No
+2	.	.	_	_	_	_	_	_	_
+
+# newpar id = 646
+# sent_id = 646.1
+# text = da bi se skril v gozd
+1	da	da	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	se	se	_	_	_	_	_	_	_
+4	skril	skril	_	_	_	_	_	_	_
+5	v	v	_	_	_	_	_	_	_
+6	gozd	gozd	_	_	_	_	_	_	_
+
+# newpar id = 647
+# sent_id = 647.1
+# text = hjk
+1	hjk	hjk	_	_	_	_	_	_	_
+
+# newpar id = 648
+# sent_id = 648.1
+# text = hey
+1	hey	hey	_	_	_	_	_	_	_
+
+# newpar id = 649
+# sent_id = 649.1
+# text = zivji
+1	zivji	zivji	_	_	_	_	_	_	_
+
+# newpar id = 650
+# sent_id = 650.1
+# text = Brina a si ti?
+1	Brina	brin	_	_	_	_	_	_	_
+2	a	on	_	_	_	_	_	_	_
+3	si	si	_	_	_	_	_	_	_
+4	ti	ti	_	_	_	_	_	_	SpaceAfter=No
+5	?	?	_	_	_	_	_	_	_
+
+# newpar id = 651
+# sent_id = 651.1
+# text = Gdo si TI!
+1	Gdo	gdo	_	_	_	_	_	_	_
+2	si	si	_	_	_	_	_	_	_
+3	TI	ti	_	_	_	_	_	_	SpaceAfter=No
+4	!	!	_	_	_	_	_	_	_
+
+# newpar id = 652
+# sent_id = 652.1
+# text = lololololololol
+1	lololololololol	lololololololol	_	_	_	_	_	_	_
+
+# newpar id = 653
+# sent_id = 653.1
+# text = igral v filmu
+1	igral	igral	_	_	_	_	_	_	_
+2	v	v	_	_	_	_	_	_	_
+3	filmu	film	_	_	_	_	_	_	_
+
+# newpar id = 654
+# sent_id = 654.1
+# text = lahko bi se naučil brcati žogo, igrati košarko, peljati z motorjem, pisati knjige in pesmi,urejal knjige ...
+1	lahko	lahko	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	se	se	_	_	_	_	_	_	_
+4	naučil	naučil	_	_	_	_	_	_	_
+5	brcati	brcat	_	_	_	_	_	_	_
+6	žogo	žogo	_	_	_	_	_	_	SpaceAfter=No
+7	,	,	_	_	_	_	_	_	_
+8	igrati	igrat	_	_	_	_	_	_	_
+9	košarko	košarko	_	_	_	_	_	_	SpaceAfter=No
+10	,	,	_	_	_	_	_	_	_
+11	peljati	peljat	_	_	_	_	_	_	_
+12	z	z	_	_	_	_	_	_	_
+13	motorjem	motor	_	_	_	_	_	_	SpaceAfter=No
+14	,	,	_	_	_	_	_	_	_
+15	pisati	pisati	_	_	_	_	_	_	_
+16	knjige	knjig	_	_	_	_	_	_	_
+17	in	in	_	_	_	_	_	_	_
+18	pesmi	pesem	_	_	_	_	_	_	SpaceAfter=No
+19	,	,	_	_	_	_	_	_	SpaceAfter=No
+20	urejal	urejati	_	_	_	_	_	_	_
+21	knjige	knjig	_	_	_	_	_	_	_
+22	...	...	_	_	_	_	_	_	_
+
+# newpar id = 655
+# sent_id = 655.1
+# text = halo a gto govori zmeno
+1	halo	halo	_	_	_	_	_	_	_
+2	a	on	_	_	_	_	_	_	_
+3	gto	gto	_	_	_	_	_	_	_
+4	govori	govor	_	_	_	_	_	_	_
+5	zmeno	zmeno	_	_	_	_	_	_	_
+
+# newpar id = 656
+# sent_id = 656.1
+# text = jaz ne vem ampak mislim da zato ker bo potem bolj zanimiva.
+1	jaz	jaz	_	_	_	_	_	_	_
+2	ne	ni	_	_	_	_	_	_	_
+3	vem	vem	_	_	_	_	_	_	_
+4	ampak	ampak	_	_	_	_	_	_	_
+5	mislim	misel	_	_	_	_	_	_	_
+6	da	da	_	_	_	_	_	_	_
+7	zato	zato	_	_	_	_	_	_	_
+8	ker	kar	_	_	_	_	_	_	_
+9	bo	bo	_	_	_	_	_	_	_
+10	potem	potem	_	_	_	_	_	_	_
+11	bolj	bolj	_	_	_	_	_	_	_
+12	zanimiva	zanimiv	_	_	_	_	_	_	SpaceAfter=No
+13	.	.	_	_	_	_	_	_	_
+
+# newpar id = 657
+# sent_id = 657.1
+# text = KAJ
+1	KAJ	kaj	_	_	_	_	_	_	_
+
+# newpar id = 658
+# sent_id = 658.1
+# text = Ime mi je Lara.
+1	Ime	ime	_	_	_	_	_	_	_
+2	mi	mi	_	_	_	_	_	_	_
+3	je	je	_	_	_	_	_	_	_
+4	Lara	Lar	_	_	_	_	_	_	SpaceAfter=No
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 658.2
+# text = Ampak to sedaj ni pomembno.
+1	Ampak	ampak	_	_	_	_	_	_	_
+2	to	to	_	_	_	_	_	_	_
+3	sedaj	sedaj	_	_	_	_	_	_	_
+4	ni	ni	_	_	_	_	_	_	_
+5	pomembno	pomembno	_	_	_	_	_	_	SpaceAfter=No
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 658.3
+# text = Raje mi povej, kaj bi se lahko naučil.
+1	Raje	Raj	_	_	_	_	_	_	_
+2	mi	mi	_	_	_	_	_	_	_
+3	povej	povej	_	_	_	_	_	_	SpaceAfter=No
+4	,	,	_	_	_	_	_	_	_
+5	kaj	kaj	_	_	_	_	_	_	_
+6	bi	bi	_	_	_	_	_	_	_
+7	se	se	_	_	_	_	_	_	_
+8	lahko	lahko	_	_	_	_	_	_	_
+9	naučil	naučil	_	_	_	_	_	_	SpaceAfter=No
+10	.	.	_	_	_	_	_	_	_
+
+# newpar id = 659
+# sent_id = 659.1
+# text = JES SEM MATIC GDO PA JE "FrancaG25"
+1	JES	JES	_	_	_	_	_	_	_
+2	SEM	biti	_	_	_	_	_	_	_
+3	MATIC	matic	_	_	_	_	_	_	_
+4	GDO	gdo	_	_	_	_	_	_	_
+5	PA	PA	_	_	_	_	_	_	_
+6	JE	on	_	_	_	_	_	_	_
+7	"	"	_	_	_	_	_	_	SpaceAfter=No
+8	FrancaG25	Francag25	_	_	_	_	_	_	SpaceAfter=No
+9	"	"	_	_	_	_	_	_	_
+
+# newpar id = 660
+# sent_id = 660.1
+# text = lahko bi se naucil  piti kakau
+1	lahko	lahko	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	se	se	_	_	_	_	_	_	_
+4	naucil	naucil	_	_	_	_	_	_	_
+5	piti	piti	_	_	_	_	_	_	_
+6	kakau	kaka	_	_	_	_	_	_	_
+
+# newpar id = 661
+# sent_id = 661.1
+# text = mmmm NEVEMM
+1	mmmm	mmmi	_	_	_	_	_	_	_
+2	NEVEMM	nev	_	_	_	_	_	_	_
+
+# newpar id = 662
+# sent_id = 662.1
+# text = NO,A BO
+1	NO	no	_	_	_	_	_	_	SpaceAfter=No
+2	,	,	_	_	_	_	_	_	SpaceAfter=No
+3	A	A	_	_	_	_	_	_	_
+4	BO	biti	_	_	_	_	_	_	_
+
+# newpar id = 663
+# sent_id = 663.1
+# text = kaj pa vi mislite
+1	kaj	kaj	_	_	_	_	_	_	_
+2	pa	pa	_	_	_	_	_	_	_
+3	vi	vi	_	_	_	_	_	_	_
+4	mislite	mislit	_	_	_	_	_	_	_
+
+# newpar id = 664
+# sent_id = 664.1
+# text = kdo je vodnika7
+1	kdo	kdo	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	vodnika7	vodnika7	_	_	_	_	_	_	_
+
+# newpar id = 665
+# sent_id = 665.1
+# text = tr
+1	tr	tr	_	_	_	_	_	_	_
+
+# newpar id = 666
+# sent_id = 666.1
+# text = to si ti
+1	to	to	_	_	_	_	_	_	_
+2	si	si	_	_	_	_	_	_	_
+3	ti	ti	_	_	_	_	_	_	_
+
+# newpar id = 667
+# sent_id = 667.1
+# text = Hvala!
+1	Hvala	hval	_	_	_	_	_	_	SpaceAfter=No
+2	!	!	_	_	_	_	_	_	_
+
+# newpar id = 668
+# sent_id = 668.1
+# text = Lahko bi znal pripovedovati prihodnost
+1	Lahko	lahko	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	znal	znal	_	_	_	_	_	_	_
+4	pripovedovati	pripovedovati	_	_	_	_	_	_	_
+5	prihodnost	prihodnost	_	_	_	_	_	_	_
+
+# newpar id = 669
+# sent_id = 669.1
+# text = lah bi se naučil  razmišlat
+1	lah	lah	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	se	se	_	_	_	_	_	_	_
+4	naučil	naučil	_	_	_	_	_	_	_
+5	razmišlat	razmišlat	_	_	_	_	_	_	_
+
+# newpar id = 670
+# sent_id = 670.1
+# text = l
+1	l	l	_	_	_	_	_	_	_
+
+# newpar id = 671
+# sent_id = 671.1
+# text = VEM APAK SE LAHKO NAUCI
+1	VEM	vem	_	_	_	_	_	_	_
+2	APAK	apak	_	_	_	_	_	_	_
+3	SE	biti	_	_	_	_	_	_	_
+4	LAHKO	lahko	_	_	_	_	_	_	_
+5	NAUCI	nauc	_	_	_	_	_	_	_
+
+# newpar id = 672
+# sent_id = 672.1
+# text = da bi tem otrokom kupila ali sešila nove
+1	da	da	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	tem	ta	_	_	_	_	_	_	_
+4	otrokom	otrok	_	_	_	_	_	_	_
+5	kupila	kupiti	_	_	_	_	_	_	_
+6	ali	ali	_	_	_	_	_	_	_
+7	sešila	sešil	_	_	_	_	_	_	_
+8	nove	nove	_	_	_	_	_	_	_
+
+# newpar id = 673
+# sent_id = 673.1
+# text = VSe kar dela njegova mama.
+1	VSe	VSE	_	_	_	_	_	_	_
+2	kar	kar	_	_	_	_	_	_	_
+3	dela	del	_	_	_	_	_	_	_
+4	njegova	njegov	_	_	_	_	_	_	_
+5	mama	mama	_	_	_	_	_	_	SpaceAfter=No
+6	.	.	_	_	_	_	_	_	_
+
+# newpar id = 674
+# sent_id = 674.1
+# text = ZELO zaustajaš..
+1	ZELO	zelo	_	_	_	_	_	_	_
+2	zaustajaš	zaustajati	_	_	_	_	_	_	SpaceAfter=No
+3	..	..	_	_	_	_	_	_	_
+
+# newpar id = 675
+# sent_id = 675.1
+# text = l
+1	l	l	_	_	_	_	_	_	_
+
+# newpar id = 676
+# sent_id = 676.1
+# text = jzzgush
+1	jzzgush	jzzgush	_	_	_	_	_	_	_
+
+# newpar id = 677
+# sent_id = 677.1
+# text = jA, SEVEDE...
+1	jA	ja	_	_	_	_	_	_	SpaceAfter=No
+2	,	,	_	_	_	_	_	_	_
+3	SEVEDE	sevede	_	_	_	_	_	_	SpaceAfter=No
+4	...	...	_	_	_	_	_	_	_
+
+# newpar id = 678
+# sent_id = 678.1
+# text = da bi spoznali kako bi se pocutili ce bi kdo to nam rekel
+1	da	da	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	spoznali	spoznati	_	_	_	_	_	_	_
+4	kako	kak	_	_	_	_	_	_	_
+5	bi	bi	_	_	_	_	_	_	_
+6	se	se	_	_	_	_	_	_	_
+7	pocutili	pocutiti	_	_	_	_	_	_	_
+8	ce	ci	_	_	_	_	_	_	_
+9	bi	bi	_	_	_	_	_	_	_
+10	kdo	kdo	_	_	_	_	_	_	_
+11	to	to	_	_	_	_	_	_	_
+12	nam	jaz	_	_	_	_	_	_	_
+13	rekel	rekel	_	_	_	_	_	_	_
+
+# newpar id = 679
+# sent_id = 679.1
+# text = sonce je čudno
+1	sonce	sonce	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	čudno	čudno	_	_	_	_	_	_	_
+
+# newpar id = 680
+# sent_id = 680.1
+# text = Šel bi v pekarno in se preoblekel v prodajalca kruha
+1	Šel	Šel	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	v	v	_	_	_	_	_	_	_
+4	pekarno	pekaren	_	_	_	_	_	_	_
+5	in	in	_	_	_	_	_	_	_
+6	se	se	_	_	_	_	_	_	_
+7	preoblekel	preoblekel	_	_	_	_	_	_	_
+8	v	v	_	_	_	_	_	_	_
+9	prodajalca	prodajalec	_	_	_	_	_	_	_
+10	kruha	kruh	_	_	_	_	_	_	_
+
+# newpar id = 681
+# sent_id = 681.1
+# text = halo
+1	halo	halo	_	_	_	_	_	_	_
+
+# newpar id = 682
+# sent_id = 682.1
+# text = jaz mislim da ja ker je bila izgubljena
+1	jaz	jaz	_	_	_	_	_	_	_
+2	mislim	misel	_	_	_	_	_	_	_
+3	da	da	_	_	_	_	_	_	_
+4	ja	ja	_	_	_	_	_	_	_
+5	ker	kar	_	_	_	_	_	_	_
+6	je	je	_	_	_	_	_	_	_
+7	bila	biti	_	_	_	_	_	_	_
+8	izgubljena	izgubljen	_	_	_	_	_	_	_
+
+# newpar id = 683
+# sent_id = 683.1
+# text = keri drek
+1	keri	kar	_	_	_	_	_	_	_
+2	drek	drek	_	_	_	_	_	_	_
+
+# newpar id = 684
+# sent_id = 684.1
+# text = vem
+1	vem	vem	_	_	_	_	_	_	_
+
+# newpar id = 685
+# sent_id = 685.1
+# text = kaj nisi
+1	kaj	kaj	_	_	_	_	_	_	_
+2	nisi	nis	_	_	_	_	_	_	_
+
+# newpar id = 686
+# sent_id = 686.1
+# text = hej Lar
+1	hej	hej	_	_	_	_	_	_	_
+2	Lar	lar	_	_	_	_	_	_	_
+
+# newpar id = 687
+# sent_id = 687.1
+# text = kaj je ta igrica k je cudna in zakaj sm stabo v pogovoru
+1	kaj	kaj	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	ta	ta	_	_	_	_	_	_	_
+4	igrica	igric	_	_	_	_	_	_	_
+5	k	k	_	_	_	_	_	_	_
+6	je	je	_	_	_	_	_	_	_
+7	cudna	cuden	_	_	_	_	_	_	_
+8	in	in	_	_	_	_	_	_	_
+9	zakaj	zakaj	_	_	_	_	_	_	_
+10	sm	sm	_	_	_	_	_	_	_
+11	stabo	stab	_	_	_	_	_	_	_
+12	v	v	_	_	_	_	_	_	_
+13	pogovoru	pogovor	_	_	_	_	_	_	_
+
+# newpar id = 688
+# sent_id = 688.1
+# text = gdo00
+1	gdo00	gdo00	_	_	_	_	_	_	_
+
+# newpar id = 689
+# sent_id = 689.1
+# text = Slab fejs tevz.
+1	Slab	slab	_	_	_	_	_	_	_
+2	fejs	fejs	_	_	_	_	_	_	_
+3	tevz	tevz	_	_	_	_	_	_	SpaceAfter=No
+4	.	.	_	_	_	_	_	_	_
+
+# newpar id = 690
+# sent_id = 690.1
+# text = Pol pa pojdi Laura.
+1	Pol	Pol	_	_	_	_	_	_	_
+2	pa	pa	_	_	_	_	_	_	_
+3	pojdi	pojd	_	_	_	_	_	_	_
+4	Laura	Laur	_	_	_	_	_	_	SpaceAfter=No
+5	.	.	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 690.2
+# text = Prosim🙏
+1	Prosim	pros	_	_	_	_	_	_	SpaceAfter=No
+2	🙏	🙏	_	_	_	_	_	_	_
+
+# newpar id = 691
+# sent_id = 691.1
+# text = da bi si slekel majico!!!!
+1	da	da	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	si	si	_	_	_	_	_	_	_
+4	slekel	slekel	_	_	_	_	_	_	_
+5	majico	majic	_	_	_	_	_	_	SpaceAfter=No
+6	!!!!	!!!!	_	_	_	_	_	_	_
+
+# newpar id = 692
+# sent_id = 692.1
+# text = Filip, malo bolj se potrudi.
+1	Filip	Filip	_	_	_	_	_	_	SpaceAfter=No
+2	,	,	_	_	_	_	_	_	_
+3	malo	malo	_	_	_	_	_	_	_
+4	bolj	bolj	_	_	_	_	_	_	_
+5	se	se	_	_	_	_	_	_	_
+6	potrudi	potrud	_	_	_	_	_	_	SpaceAfter=No
+7	.	.	_	_	_	_	_	_	_
+
+# newpar id = 693
+# sent_id = 693.1
+# text = qwertzuiopšđžćčlkjhgfdsayxcvbnmm,.
+1	qwertzuiopšđžćčlkjhgfdsayxcvbnmm	qwertzuiopšeyxthayxcgayxcvbnmenm	_	_	_	_	_	_	SpaceAfter=No
+2	,	,	_	_	_	_	_	_	SpaceAfter=No
+3	.	.	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 693.2
+# text = -                                                        odkkwejwjksjeziowzoehwejwweojqojrioj
+1	-	-	_	_	_	_	_	_	_
+2	odkkwejwjksjeziowzoehwejwweojqojrioj	odskwojioehjezkovioeme	_	_	_	_	_	_	_
+
+# newpar id = 694
+# sent_id = 694.1
+# text = Razdeleljeni ste v skupine.
+1	Razdeleljeni	Razdeleljen	_	_	_	_	_	_	_
+2	ste	ste	_	_	_	_	_	_	_
+3	v	v	_	_	_	_	_	_	_
+4	skupine	skupine	_	_	_	_	_	_	SpaceAfter=No
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 694.2
+# text = Tako da se pogovarjamo samo mi, ki smo znotraj te skupine.
+1	Tako	tako	_	_	_	_	_	_	_
+2	da	da	_	_	_	_	_	_	_
+3	se	se	_	_	_	_	_	_	_
+4	pogovarjamo	pogovarjati	_	_	_	_	_	_	_
+5	samo	samo	_	_	_	_	_	_	_
+6	mi	mi	_	_	_	_	_	_	SpaceAfter=No
+7	,	,	_	_	_	_	_	_	_
+8	ki	ki	_	_	_	_	_	_	_
+9	smo	smo	_	_	_	_	_	_	_
+10	znotraj	znotraj	_	_	_	_	_	_	_
+11	te	ti	_	_	_	_	_	_	_
+12	skupine	skupine	_	_	_	_	_	_	SpaceAfter=No
+13	.	.	_	_	_	_	_	_	_
+
+# newpar id = 695
+# sent_id = 695.1
+# text = meni je blo to branje zelo všeč
+1	meni	meni	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	blo	biti	_	_	_	_	_	_	_
+4	to	to	_	_	_	_	_	_	_
+5	branje	branji	_	_	_	_	_	_	_
+6	zelo	zelo	_	_	_	_	_	_	_
+7	všeč	všeč	_	_	_	_	_	_	_
+
+# newpar id = 696
+# sent_id = 696.1
+# text = Da bi snov igrt vojno.
+1	Da	da	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	snov	snov	_	_	_	_	_	_	_
+4	igrt	igrt	_	_	_	_	_	_	_
+5	vojno	vojen	_	_	_	_	_	_	SpaceAfter=No
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 696.2
+# text = :3
+1	:	biti	_	_	_	_	_	_	SpaceAfter=No
+2	3	3	_	_	_	_	_	_	_
+
+# newpar id = 697
+# sent_id = 697.1
+# text = kdo je vizmared13
+1	kdo	kdo	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	vizmared13	vizmared13	_	_	_	_	_	_	_
+
+# newpar id = 698
+# sent_id = 698.1
+# text = veno a pomagaš
+1	veno	veno	_	_	_	_	_	_	_
+2	a	on	_	_	_	_	_	_	_
+3	pomagaš	pomagaš	_	_	_	_	_	_	_
+
+# newpar id = 699
+# sent_id = 699.1
+# text = a ti znaš slovensko abecedo mumac 21 kr tistga kar si prej napisu sigurn ni v njej
+1	a	on	_	_	_	_	_	_	_
+2	ti	ti	_	_	_	_	_	_	_
+3	znaš	znaš	_	_	_	_	_	_	_
+4	slovensko	slovenski	_	_	_	_	_	_	_
+5	abecedo	abeced	_	_	_	_	_	_	_
+6	mumac	mumac	_	_	_	_	_	_	_
+7	21	21	_	_	_	_	_	_	_
+8	kr	kr	_	_	_	_	_	_	_
+9	tistga	tisti	_	_	_	_	_	_	_
+10	kar	kar	_	_	_	_	_	_	_
+11	si	si	_	_	_	_	_	_	_
+12	prej	prej	_	_	_	_	_	_	_
+13	napisu	napis	_	_	_	_	_	_	_
+14	sigurn	sigurn	_	_	_	_	_	_	_
+15	ni	ni	_	_	_	_	_	_	_
+16	v	v	_	_	_	_	_	_	_
+17	njej	on	_	_	_	_	_	_	_
+
+# newpar id = 700
+# sent_id = 700.1
+# text = ali pojesti največ majoneze na svetu
+1	ali	ali	_	_	_	_	_	_	_
+2	pojesti	pojest	_	_	_	_	_	_	_
+3	največ	največ	_	_	_	_	_	_	_
+4	majoneze	majoneze	_	_	_	_	_	_	_
+5	na	ni	_	_	_	_	_	_	_
+6	svetu	svet	_	_	_	_	_	_	_
+
+# newpar id = 701
+# sent_id = 701.1
+# text = Da bi se teti Pehti večkrat vpravičil in ji zdravilo vzel in nekako pobegnil.
+1	Da	da	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	se	se	_	_	_	_	_	_	_
+4	teti	teti	_	_	_	_	_	_	_
+5	Pehti	pehti	_	_	_	_	_	_	_
+6	večkrat	večkrat	_	_	_	_	_	_	_
+7	vpravičil	vpravičiti	_	_	_	_	_	_	_
+8	in	in	_	_	_	_	_	_	_
+9	ji	ji	_	_	_	_	_	_	_
+10	zdravilo	zdravil	_	_	_	_	_	_	_
+11	vzel	vzeti	_	_	_	_	_	_	_
+12	in	in	_	_	_	_	_	_	_
+13	nekako	nekak	_	_	_	_	_	_	_
+14	pobegnil	pobegniti	_	_	_	_	_	_	SpaceAfter=No
+15	.	.	_	_	_	_	_	_	_
+
+# newpar id = 702
+# sent_id = 702.1
+# text = Neeeeeeeehhhhhhhhhhhaaaaaaaaaaajjjjjjjjjjjj
+1	Neeeeeeeehhhhhhhhhhhaaaaaaaaaaajjjjjjjjjjjj	neeeeeeeehhhhhhhhhhhaaaaaaaaaaajjjjjjjjjjjj	_	_	_	_	_	_	_
+
+# newpar id = 703
+# sent_id = 703.1
+# text = Pomoje
+1	Pomoje	pomoj	_	_	_	_	_	_	_
+
+# newpar id = 704
+# sent_id = 704.1
+# text = omg
+1	omg	omg	_	_	_	_	_	_	_
+
+# newpar id = 705
+# sent_id = 705.1
+# text = BABABABAJ
+1	BABABABAJ	babababaj	_	_	_	_	_	_	_
+
+# newpar id = 706
+# sent_id = 706.1
+# text = a res
+1	a	on	_	_	_	_	_	_	_
+2	res	res	_	_	_	_	_	_	_
+
+# newpar id = 707
+# sent_id = 707.1
+# text = Francag14, PLIS zameni si profilko.
+1	Francag14	Francag14	_	_	_	_	_	_	SpaceAfter=No
+2	,	,	_	_	_	_	_	_	_
+3	PLIS	plis	_	_	_	_	_	_	_
+4	zameni	zamen	_	_	_	_	_	_	_
+5	si	si	_	_	_	_	_	_	_
+6	profilko	profilko	_	_	_	_	_	_	SpaceAfter=No
+7	.	.	_	_	_	_	_	_	_
+
+# newpar id = 708
+# sent_id = 708.1
+# text = Adrianđź¤Şđź¤Şđź¤Şđź¤Şđź¤Ş
+1	Adrianđź	Adrianđź	_	_	_	_	_	_	SpaceAfter=No
+2	¤	¤	_	_	_	_	_	_	SpaceAfter=No
+3	Şđź	Şđź	_	_	_	_	_	_	SpaceAfter=No
+4	¤	¤	_	_	_	_	_	_	SpaceAfter=No
+5	Şđź	Şđź	_	_	_	_	_	_	SpaceAfter=No
+6	¤	¤	_	_	_	_	_	_	SpaceAfter=No
+7	Şđź	Şđź	_	_	_	_	_	_	SpaceAfter=No
+8	¤	¤	_	_	_	_	_	_	SpaceAfter=No
+9	Şđź	Şđź	_	_	_	_	_	_	SpaceAfter=No
+10	¤	¤	_	_	_	_	_	_	SpaceAfter=No
+11	Ş	Ş	_	_	_	_	_	_	_
+
+# newpar id = 709
+# sent_id = 709.1
+# text = KDO STE ZDEJ VI
+1	KDO	kdo	_	_	_	_	_	_	_
+2	STE	biti	_	_	_	_	_	_	_
+3	ZDEJ	zdej	_	_	_	_	_	_	_
+4	VI	vi	_	_	_	_	_	_	_
+
+# newpar id = 710
+# sent_id = 710.1
+# text = jas bi tudi šivala všivalnici
+1	jas	jas	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	tudi	tudi	_	_	_	_	_	_	_
+4	šivala	šival	_	_	_	_	_	_	_
+5	všivalnici	všivalnic	_	_	_	_	_	_	_
+
+# newpar id = 711
+# sent_id = 711.1
+# text = Skakati....
+1	Skakati	skakat	_	_	_	_	_	_	SpaceAfter=No
+2	....	....	_	_	_	_	_	_	_
+
+# newpar id = 712
+# sent_id = 712.1
+# text = !!!!!!
+1	!!!!!!	!!!!!!	_	_	_	_	_	_	_
+
+# newpar id = 713
+# sent_id = 713.1
+# text = ker je to boljša igrca
+1	ker	kar	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	to	to	_	_	_	_	_	_	_
+4	boljša	dober	_	_	_	_	_	_	_
+5	igrca	igrec	_	_	_	_	_	_	_
+
+# newpar id = 714
+# sent_id = 714.1
+# text = Da
+1	Da	da	_	_	_	_	_	_	_
+
+# newpar id = 715
+# sent_id = 715.1
+# text = đź’© filip
+1	đź	đź	_	_	_	_	_	_	SpaceAfter=No
+2	’	’	_	_	_	_	_	_	SpaceAfter=No
+3	©	©	_	_	_	_	_	_	_
+4	filip	filip	_	_	_	_	_	_	_
+
+# newpar id = 716
+# sent_id = 716.1
+# text = Stela
+1	Stela	stel	_	_	_	_	_	_	_
+
+# newpar id = 717
+# sent_id = 717.1
+# text = Ne zna delati salt
+1	Ne	Ni	_	_	_	_	_	_	_
+2	zna	zni	_	_	_	_	_	_	_
+3	delati	delat	_	_	_	_	_	_	_
+4	salt	salt	_	_	_	_	_	_	_
+
+# newpar id = 718
+# sent_id = 718.1
+# text = Mogoče pa tudi narediti kolo.
+1	Mogoče	Mogoče	_	_	_	_	_	_	_
+2	pa	pa	_	_	_	_	_	_	_
+3	tudi	tudi	_	_	_	_	_	_	_
+4	narediti	naredit	_	_	_	_	_	_	_
+5	kolo	kati	_	_	_	_	_	_	SpaceAfter=No
+6	.	.	_	_	_	_	_	_	_
+
+# newpar id = 719
+# sent_id = 719.1
+# text = Nimam pojma.
+1	Nimam	imeti	_	_	_	_	_	_	_
+2	pojma	pojem	_	_	_	_	_	_	SpaceAfter=No
+3	.	.	_	_	_	_	_	_	_
+
+# newpar id = 720
+# sent_id = 720.1
+# text = lara nehi
+1	lara	lar	_	_	_	_	_	_	_
+2	nehi	neh	_	_	_	_	_	_	_
+
+# newpar id = 721
+# sent_id = 721.1
+# text = res je
+1	res	res	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+
+# newpar id = 722
+# sent_id = 722.1
+# text = POJMA NIMAM
+1	POJMA	pojma	_	_	_	_	_	_	_
+2	NIMAM	nimeti	_	_	_	_	_	_	_
+
+# newpar id = 723
+# sent_id = 723.1
+# text = Da bi se skril za pekov pult.
+1	Da	da	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	se	se	_	_	_	_	_	_	_
+4	skril	skril	_	_	_	_	_	_	_
+5	za	za	_	_	_	_	_	_	_
+6	pekov	pekov	_	_	_	_	_	_	_
+7	pult	pult	_	_	_	_	_	_	SpaceAfter=No
+8	.	.	_	_	_	_	_	_	_
+
+# newpar id = 724
+# sent_id = 724.1
+# text = Ej fejkaš!
+1	Ej	ej	_	_	_	_	_	_	_
+2	fejkaš	fejkaš	_	_	_	_	_	_	SpaceAfter=No
+3	!	!	_	_	_	_	_	_	_
+
+# newpar id = 725
+# sent_id = 725.1
+# text = vtf
+1	vtf	vtf	_	_	_	_	_	_	_
+
+# newpar id = 726
+# sent_id = 726.1
+# text = lahko bi se naucil asfaltirati
+1	lahko	lahko	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	se	se	_	_	_	_	_	_	_
+4	naucil	naucil	_	_	_	_	_	_	_
+5	asfaltirati	asfaltirat	_	_	_	_	_	_	_
+
+# newpar id = 727
+# sent_id = 727.1
+# text = Da.
+1	Da	da	_	_	_	_	_	_	SpaceAfter=No
+2	.	.	_	_	_	_	_	_	_
+
+# newpar id = 728
+# sent_id = 728.1
+# text = Mogoče pa res.
+1	Mogoče	Mogoče	_	_	_	_	_	_	_
+2	pa	pa	_	_	_	_	_	_	_
+3	res	res	_	_	_	_	_	_	SpaceAfter=No
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = 728.2
+# text = Pa misliš, da je možno, da nekdo vse zna?
+1	Pa	pa	_	_	_	_	_	_	_
+2	misliš	misel	_	_	_	_	_	_	SpaceAfter=No
+3	,	,	_	_	_	_	_	_	_
+4	da	da	_	_	_	_	_	_	_
+5	je	je	_	_	_	_	_	_	_
+6	možno	možen	_	_	_	_	_	_	SpaceAfter=No
+7	,	,	_	_	_	_	_	_	_
+8	da	da	_	_	_	_	_	_	_
+9	nekdo	nekdo	_	_	_	_	_	_	_
+10	vse	vse	_	_	_	_	_	_	_
+11	zna	zni	_	_	_	_	_	_	SpaceAfter=No
+12	?	?	_	_	_	_	_	_	_
+
+# newpar id = 729
+# sent_id = 729.1
+# text = Vem
+1	Vem	vem	_	_	_	_	_	_	_
+
+# newpar id = 730
+# sent_id = 730.1
+# text = Kdo je na vezi?
+1	Kdo	kdo	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	na	ni	_	_	_	_	_	_	_
+4	vezi	vez	_	_	_	_	_	_	SpaceAfter=No
+5	?	?	_	_	_	_	_	_	_
+
+# newpar id = 731
+# sent_id = 731.1
+# text = kosarka
+1	kosarka	kosarek	_	_	_	_	_	_	_
+
+# newpar id = 732
+# sent_id = 732.1
+# text = zgodba pa mojem
+1	zgodba	zgodba	_	_	_	_	_	_	_
+2	pa	pa	_	_	_	_	_	_	_
+3	mojem	moj	_	_	_	_	_	_	_
+
+# newpar id = 733
+# sent_id = 733.1
+# text = ok razumem
+1	ok	ok	_	_	_	_	_	_	_
+2	razumem	razumem	_	_	_	_	_	_	_
+
+# newpar id = 734
+# sent_id = 734.1
+# text = govoriti
+1	govoriti	govorit	_	_	_	_	_	_	_
+
+# newpar id = 735
+# sent_id = 735.1
+# text = AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+1	AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO	aaaaaaaaaaaaaaaaaadjdoaadadaodoodooadadadoo	_	_	_	_	_	_	_
+
+# newpar id = 736
+# sent_id = 736.1
+# text = KLIKNEŠ
+1	KLIKNEŠ	kliken	_	_	_	_	_	_	_
+
+# newpar id = 737
+# sent_id = 737.1
+# text = da bi se lahko naucil plezati in
+1	da	da	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	se	se	_	_	_	_	_	_	_
+4	lahko	lahko	_	_	_	_	_	_	_
+5	naucil	naucil	_	_	_	_	_	_	_
+6	plezati	plezat	_	_	_	_	_	_	_
+7	in	in	_	_	_	_	_	_	_
+
+# newpar id = 738
+# sent_id = 738.1
+# text = jaz se bi počuz
+1	jaz	jaz	_	_	_	_	_	_	_
+2	se	se	_	_	_	_	_	_	_
+3	bi	bi	_	_	_	_	_	_	_
+4	počuz	počuz	_	_	_	_	_	_	_
+
+# newpar id = 739
+# sent_id = 739.1
+# text = Nekdo, ki vse vidi in vse bere!
+1	Nekdo	nekdo	_	_	_	_	_	_	SpaceAfter=No
+2	,	,	_	_	_	_	_	_	_
+3	ki	ki	_	_	_	_	_	_	_
+4	vse	vse	_	_	_	_	_	_	_
+5	vidi	videti	_	_	_	_	_	_	_
+6	in	in	_	_	_	_	_	_	_
+7	vse	vse	_	_	_	_	_	_	_
+8	bere	bere	_	_	_	_	_	_	SpaceAfter=No
+9	!	!	_	_	_	_	_	_	_
+
+# sent_id = 739.2
+# text = Tako da hitro odgovori na vprašanje!
+1	Tako	tako	_	_	_	_	_	_	_
+2	da	da	_	_	_	_	_	_	_
+3	hitro	hitro	_	_	_	_	_	_	_
+4	odgovori	odgovor	_	_	_	_	_	_	_
+5	na	ni	_	_	_	_	_	_	_
+6	vprašanje	vprašanji	_	_	_	_	_	_	SpaceAfter=No
+7	!	!	_	_	_	_	_	_	_
+
+# newpar id = 740
+# sent_id = 740.1
+# text = kva
+1	kva	kaj	_	_	_	_	_	_	_
+
+# newpar id = 741
+# sent_id = 741.1
+# text = čopko bi se lahko naučil skakat
+1	čopko	čopek	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	se	se	_	_	_	_	_	_	_
+4	lahko	lahko	_	_	_	_	_	_	_
+5	naučil	naučil	_	_	_	_	_	_	_
+6	skakat	skakat	_	_	_	_	_	_	_
+
+# newpar id = 742
+# sent_id = 742.1
+# text = Kaj misliš ,kdo je napadel Kekca.
+1	Kaj	kaj	_	_	_	_	_	_	_
+2	misliš	misel	_	_	_	_	_	_	_
+3	,	,	_	_	_	_	_	_	SpaceAfter=No
+4	kdo	kdo	_	_	_	_	_	_	_
+5	je	je	_	_	_	_	_	_	_
+6	napadel	napadel	_	_	_	_	_	_	_
+7	Kekca	kekec	_	_	_	_	_	_	SpaceAfter=No
+8	.	.	_	_	_	_	_	_	_
+
+# newpar id = 743
+# sent_id = 743.1
+# text = tako da bi se preoblekv v kakšen kostum da bi predstavljal drugo osebo.
+1	tako	tako	_	_	_	_	_	_	_
+2	da	da	_	_	_	_	_	_	_
+3	bi	bi	_	_	_	_	_	_	_
+4	se	se	_	_	_	_	_	_	_
+5	preoblekv	preoblekv	_	_	_	_	_	_	_
+6	v	v	_	_	_	_	_	_	_
+7	kakšen	kakšen	_	_	_	_	_	_	_
+8	kostum	kostu	_	_	_	_	_	_	_
+9	da	da	_	_	_	_	_	_	_
+10	bi	bi	_	_	_	_	_	_	_
+11	predstavljal	predstavljati	_	_	_	_	_	_	_
+12	drugo	drug	_	_	_	_	_	_	_
+13	osebo	oseb	_	_	_	_	_	_	SpaceAfter=No
+14	.	.	_	_	_	_	_	_	_
+
+# newpar id = 744
+# sent_id = 744.1
+# text = Se strinjam!
+1	Se	biti	_	_	_	_	_	_	_
+2	strinjam	strinja	_	_	_	_	_	_	SpaceAfter=No
+3	!	!	_	_	_	_	_	_	_
+
+# newpar id = 745
+# sent_id = 745.1
+# text = hej
+1	hej	hej	_	_	_	_	_	_	_
+
+# newpar id = 746
+# sent_id = 746.1
+# text = konec
+1	konec	konec	_	_	_	_	_	_	_
+
+# newpar id = 747
+# sent_id = 747.1
+# text = hahaha
+1	hahaha	hahah	_	_	_	_	_	_	_
+
+# newpar id = 748
+# sent_id = 748.1
+# text = Zato ker ni nujno da veverice samo skačejo.
+1	Zato	zato	_	_	_	_	_	_	_
+2	ker	kar	_	_	_	_	_	_	_
+3	ni	ni	_	_	_	_	_	_	_
+4	nujno	nujen	_	_	_	_	_	_	_
+5	da	da	_	_	_	_	_	_	_
+6	veverice	veverice	_	_	_	_	_	_	_
+7	samo	samo	_	_	_	_	_	_	_
+8	skačejo	skakati	_	_	_	_	_	_	SpaceAfter=No
+9	.	.	_	_	_	_	_	_	_
+
+# newpar id = 749
+# sent_id = 749.1
+# text = NO,KAJ MISLITE ,KAJ BI SE LAHKO NAUČIL ČOPKO
+1	NO	no	_	_	_	_	_	_	SpaceAfter=No
+2	,	,	_	_	_	_	_	_	SpaceAfter=No
+3	KAJ	kaj	_	_	_	_	_	_	_
+4	MISLITE	mislit	_	_	_	_	_	_	_
+5	,	,	_	_	_	_	_	_	SpaceAfter=No
+6	KAJ	kaj	_	_	_	_	_	_	_
+7	BI	biti	_	_	_	_	_	_	_
+8	SE	biti	_	_	_	_	_	_	_
+9	LAHKO	lahko	_	_	_	_	_	_	_
+10	NAUČIL	naučiti	_	_	_	_	_	_	_
+11	ČOPKO	čopek	_	_	_	_	_	_	_
+
+# newpar id = 750
+# sent_id = 750.1
+# text = lahko skače
+1	lahko	lahko	_	_	_	_	_	_	_
+2	skače	skače	_	_	_	_	_	_	_
+
+# newpar id = 751
+# sent_id = 751.1
+# text = ne dojamem vprasanja ,
+1	ne	ni	_	_	_	_	_	_	_
+2	dojamem	dojam	_	_	_	_	_	_	_
+3	vprasanja	vprasanji	_	_	_	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+
+# newpar id = 752
+# sent_id = 752.1
+# text = ela a si kpo
+1	ela	el	_	_	_	_	_	_	_
+2	a	on	_	_	_	_	_	_	_
+3	si	si	_	_	_	_	_	_	_
+4	kpo	kpo	_	_	_	_	_	_	_
+
+# newpar id = 753
+# sent_id = 753.1
+# text = ne gregi je
+1	ne	ni	_	_	_	_	_	_	_
+2	gregi	greg	_	_	_	_	_	_	_
+3	je	je	_	_	_	_	_	_	_
+
+# newpar id = 754
+# sent_id = 754.1
+# text = Ne napacn
+1	Ne	Ni	_	_	_	_	_	_	_
+2	napacn	napacn	_	_	_	_	_	_	_
+
+# newpar id = 755
+# sent_id = 755.1
+# text = verjetno bi povsod bil najboljši,saj je tako pameten, da bi vse izračunal
+1	verjetno	verjetno	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	povsod	povsod	_	_	_	_	_	_	_
+4	bil	bil	_	_	_	_	_	_	_
+5	najboljši	dober	_	_	_	_	_	_	SpaceAfter=No
+6	,	,	_	_	_	_	_	_	SpaceAfter=No
+7	saj	saj	_	_	_	_	_	_	_
+8	je	je	_	_	_	_	_	_	_
+9	tako	tako	_	_	_	_	_	_	_
+10	pameten	pameten	_	_	_	_	_	_	SpaceAfter=No
+11	,	,	_	_	_	_	_	_	_
+12	da	da	_	_	_	_	_	_	_
+13	bi	bi	_	_	_	_	_	_	_
+14	vse	vse	_	_	_	_	_	_	_
+15	izračunal	izračunal	_	_	_	_	_	_	_
+
+# newpar id = 756
+# sent_id = 756.1
+# text = Mislim, da bi se lahko naučil igrati.
+1	Mislim	misel	_	_	_	_	_	_	SpaceAfter=No
+2	,	,	_	_	_	_	_	_	_
+3	da	da	_	_	_	_	_	_	_
+4	bi	bi	_	_	_	_	_	_	_
+5	se	se	_	_	_	_	_	_	_
+6	lahko	lahko	_	_	_	_	_	_	_
+7	naučil	naučil	_	_	_	_	_	_	_
+8	igrati	igrat	_	_	_	_	_	_	SpaceAfter=No
+9	.	.	_	_	_	_	_	_	_
+
+# newpar id = 757
+# sent_id = 757.1
+# text = zakaj pa nasa naloga je da odgovarjamo na vprasanje
+1	zakaj	zakaj	_	_	_	_	_	_	_
+2	pa	pa	_	_	_	_	_	_	_
+3	nasa	nas	_	_	_	_	_	_	_
+4	naloga	nalog	_	_	_	_	_	_	_
+5	je	je	_	_	_	_	_	_	_
+6	da	da	_	_	_	_	_	_	_
+7	odgovarjamo	odgovarjati	_	_	_	_	_	_	_
+8	na	ni	_	_	_	_	_	_	_
+9	vprasanje	vprasanji	_	_	_	_	_	_	_
+
+# newpar id = 758
+# sent_id = 758.1
+# text = zaradi
+1	zaradi	zarad	_	_	_	_	_	_	_
+
+# newpar id = 759
+# sent_id = 759.1
+# text = nic
+1	nic	nic	_	_	_	_	_	_	_
+
+# newpar id = 760
+# sent_id = 760.1
+# text = lahko bi se naučil skakat iz veje
+1	lahko	lahko	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	se	se	_	_	_	_	_	_	_
+4	naučil	naučil	_	_	_	_	_	_	_
+5	skakat	skakat	_	_	_	_	_	_	_
+6	iz	iz	_	_	_	_	_	_	_
+7	veje	veti	_	_	_	_	_	_	_
+
+# newpar id = 761
+# sent_id = 761.1
+# text = Hi hi hi!
+1	Hi	hi	_	_	_	_	_	_	_
+2	hi	hi	_	_	_	_	_	_	_
+3	hi	hi	_	_	_	_	_	_	SpaceAfter=No
+4	!	!	_	_	_	_	_	_	_
+
+# sent_id = 761.2
+# text = Igrati poker!
+1	Igrati	Igrat	_	_	_	_	_	_	_
+2	poker	poker	_	_	_	_	_	_	SpaceAfter=No
+3	!	!	_	_	_	_	_	_	_
+
+# sent_id = 761.3
+# text = Ta je pa dobra!
+1	Ta	ta	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	pa	pa	_	_	_	_	_	_	_
+4	dobra	dober	_	_	_	_	_	_	SpaceAfter=No
+5	!	!	_	_	_	_	_	_	_
+
+# newpar id = 762
+# sent_id = 762.1
+# text = Mogoče najpametnejsa žival na svetu
+1	Mogoče	Mogoče	_	_	_	_	_	_	_
+2	najpametnejsa	zameten	_	_	_	_	_	_	_
+3	žival	žival	_	_	_	_	_	_	_
+4	na	ni	_	_	_	_	_	_	_
+5	svetu	svet	_	_	_	_	_	_	_
+
+# newpar id = 763
+# sent_id = 763.1
+# text = ful je cut
+1	ful	ful	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	cut	cut	_	_	_	_	_	_	_
+
+# newpar id = 764
+# sent_id = 764.1
+# text = Bye vsi Francag-i
+1	Bye	Bye	_	_	_	_	_	_	_
+2	vsi	vsi	_	_	_	_	_	_	_
+3	Francag-i	Francagen	_	_	_	_	_	_	_
+
+# newpar id = 765
+# sent_id = 765.1
+# text = nekdo
+1	nekdo	nekdo	_	_	_	_	_	_	_
+
+# newpar id = 766
+# sent_id = 766.1
+# text = 🍔🍔🍔🍔🍔evo jej
+1	🍔🍔🍔🍔🍔	🍔🍔🍔🍔🍔	_	_	_	_	_	_	SpaceAfter=No
+2	evo	evo	_	_	_	_	_	_	_
+3	jej	jej	_	_	_	_	_	_	_
+
+# newpar id = 767
+# sent_id = 767.1
+# text = Okej
+1	Okej	okej	_	_	_	_	_	_	_
+
+# newpar id = 768
+# sent_id = 768.1
+# text = Skakati.
+1	Skakati	skakat	_	_	_	_	_	_	SpaceAfter=No
+2	.	.	_	_	_	_	_	_	_
+
+# newpar id = 769
+# sent_id = 769.1
+# text = KDO SI ZDEJ TI
+1	KDO	kdo	_	_	_	_	_	_	_
+2	SI	SI	_	_	_	_	_	_	_
+3	ZDEJ	zdej	_	_	_	_	_	_	_
+4	TI	ti	_	_	_	_	_	_	_
+
+# newpar id = 770
+# sent_id = 770.1
+# text = lahko se bi naučil skakati na tleh
+1	lahko	lahko	_	_	_	_	_	_	_
+2	se	se	_	_	_	_	_	_	_
+3	bi	bi	_	_	_	_	_	_	_
+4	naučil	naučil	_	_	_	_	_	_	_
+5	skakati	skakat	_	_	_	_	_	_	_
+6	na	ni	_	_	_	_	_	_	_
+7	tleh	tu	_	_	_	_	_	_	_
+
+# newpar id = 771
+# sent_id = 771.1
+# text = Zato ker jih je vpisala v zgodbi
+1	Zato	zato	_	_	_	_	_	_	_
+2	ker	kar	_	_	_	_	_	_	_
+3	jih	jih	_	_	_	_	_	_	_
+4	je	je	_	_	_	_	_	_	_
+5	vpisala	vpisati	_	_	_	_	_	_	_
+6	v	v	_	_	_	_	_	_	_
+7	zgodbi	zgodbi	_	_	_	_	_	_	_
+
+# newpar id = 772
+# sent_id = 772.1
+# text = navem...
+1	navem	nav	_	_	_	_	_	_	SpaceAfter=No
+2	...	...	_	_	_	_	_	_	_
+
+# newpar id = 773
+# sent_id = 773.1
+# text = Oprosti, alojzij23
+1	Oprosti	oprost	_	_	_	_	_	_	SpaceAfter=No
+2	,	,	_	_	_	_	_	_	_
+3	alojzij23	alojzij23	_	_	_	_	_	_	_
+
+# newpar id = 774
+# sent_id = 774.1
+# text = to je čisto res
+1	to	to	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	čisto	čist	_	_	_	_	_	_	_
+4	res	res	_	_	_	_	_	_	_
+
+# newpar id = 775
+# sent_id = 775.1
+# text = Kdo si pa ti?
+1	Kdo	kdo	_	_	_	_	_	_	_
+2	si	si	_	_	_	_	_	_	_
+3	pa	pa	_	_	_	_	_	_	_
+4	ti	ti	_	_	_	_	_	_	SpaceAfter=No
+5	?	?	_	_	_	_	_	_	_
+
+# newpar id = 776
+# sent_id = 776.1
+# text = nevem.
+1	nevem	nev	_	_	_	_	_	_	SpaceAfter=No
+2	.	.	_	_	_	_	_	_	_
+
+# newpar id = 777
+# sent_id = 777.1
+# text = Mojca nebi odšla s Pehto, ker ve gdo je.
+1	Mojca	mojec	_	_	_	_	_	_	_
+2	nebi	neb	_	_	_	_	_	_	_
+3	odšla	odšl	_	_	_	_	_	_	_
+4	s	s	_	_	_	_	_	_	_
+5	Pehto	pehto	_	_	_	_	_	_	SpaceAfter=No
+6	,	,	_	_	_	_	_	_	_
+7	ker	kar	_	_	_	_	_	_	_
+8	ve	ve	_	_	_	_	_	_	_
+9	gdo	gdo	_	_	_	_	_	_	_
+10	je	je	_	_	_	_	_	_	SpaceAfter=No
+11	.	.	_	_	_	_	_	_	_
+
+# newpar id = 778
+# sent_id = 778.1
+# text = slika
+1	slika	slik	_	_	_	_	_	_	_
+
+# newpar id = 779
+# sent_id = 779.1
+# text = cucucu po cesti gremo naokrog
+1	cucucu	cucuc	_	_	_	_	_	_	_
+2	po	po	_	_	_	_	_	_	_
+3	cesti	cesti	_	_	_	_	_	_	_
+4	gremo	gremo	_	_	_	_	_	_	_
+5	naokrog	naokrog	_	_	_	_	_	_	_
+
+# newpar id = 780
+# sent_id = 780.1
+# text = lahko bi se naucil jesti jabolko
+1	lahko	lahko	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	se	se	_	_	_	_	_	_	_
+4	naucil	naucil	_	_	_	_	_	_	_
+5	jesti	jesti	_	_	_	_	_	_	_
+6	jabolko	jabolek	_	_	_	_	_	_	_
+
+# newpar id = 781
+# sent_id = 781.1
+# text = lllllllll
+1	lllllllll	lllllllel	_	_	_	_	_	_	_
+
+# newpar id = 782
+# sent_id = 782.1
+# text = JA, TELI ROPARJI SO ZELO ZVITI!!!!!!!!!!!!!!!!!!!!!!!!!
+1	JA	ja	_	_	_	_	_	_	SpaceAfter=No
+2	,	,	_	_	_	_	_	_	_
+3	TELI	tel	_	_	_	_	_	_	_
+4	ROPARJI	roparji	_	_	_	_	_	_	_
+5	SO	SO	_	_	_	_	_	_	_
+6	ZELO	zelo	_	_	_	_	_	_	_
+7	ZVITI	zviti	_	_	_	_	_	_	SpaceAfter=No
+8	!!!!!!!!!!!!!!!!!!!!!!!!!	!!!!!!!!!!!!!!!!!!!!!!!!!	_	_	_	_	_	_	_
+
+# sent_id = 782.2
+# text = KAMORKOLI JE LAHKO ŠEL!!!!!!!!!!!!!!!!!!!!!!
+1	KAMORKOLI	kamorkoli	_	_	_	_	_	_	_
+2	JE	on	_	_	_	_	_	_	_
+3	LAHKO	lahko	_	_	_	_	_	_	_
+4	ŠEL	šel	_	_	_	_	_	_	SpaceAfter=No
+5	!!!!!!!!!!!!!!!!!!!!!!	!!!!!!!!!!!!!!!!!!!!!!	_	_	_	_	_	_	_
+
+# newpar id = 783
+# sent_id = 783.1
+# text = ja
+1	ja	ja	_	_	_	_	_	_	_
+
+# newpar id = 784
+# sent_id = 784.1
+# text = da
+1	da	da	_	_	_	_	_	_	_
+
+# newpar id = 785
+# sent_id = 785.1
+# text = Kaj si pa ti??????????????
+1	Kaj	kaj	_	_	_	_	_	_	_
+2	si	si	_	_	_	_	_	_	_
+3	pa	pa	_	_	_	_	_	_	_
+4	ti	ti	_	_	_	_	_	_	SpaceAfter=No
+5	??????????????	??????????????	_	_	_	_	_	_	_
+
+# newpar id = 786
+# sent_id = 786.1
+# text = ali misliš da bi se čopko lahko naučil skakati
+1	ali	ali	_	_	_	_	_	_	_
+2	misliš	misel	_	_	_	_	_	_	_
+3	da	da	_	_	_	_	_	_	_
+4	bi	bi	_	_	_	_	_	_	_
+5	se	se	_	_	_	_	_	_	_
+6	čopko	čopek	_	_	_	_	_	_	_
+7	lahko	lahko	_	_	_	_	_	_	_
+8	naučil	naučil	_	_	_	_	_	_	_
+9	skakati	skakat	_	_	_	_	_	_	_
+
+# newpar id = 787
+# sent_id = 787.1
+# text = pogrešala bi da me bi zvečer nekdo ubjeu
+1	pogrešala	pogrešati	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	da	da	_	_	_	_	_	_	_
+4	me	me	_	_	_	_	_	_	_
+5	bi	bi	_	_	_	_	_	_	_
+6	zvečer	zvečer	_	_	_	_	_	_	_
+7	nekdo	nekdo	_	_	_	_	_	_	_
+8	ubjeu	ubji	_	_	_	_	_	_	_
+
+# newpar id = 788
+# sent_id = 788.1
+# text = nič
+1	nič	nič	_	_	_	_	_	_	_
+
+# newpar id = 789
+# sent_id = 789.1
+# text = hey punčki
+1	hey	hey	_	_	_	_	_	_	_
+2	punčki	punčki	_	_	_	_	_	_	_
+
+# newpar id = 790
+# sent_id = 790.1
+# text = ne jas ne
+1	ne	ni	_	_	_	_	_	_	_
+2	jas	jas	_	_	_	_	_	_	_
+3	ne	ni	_	_	_	_	_	_	_
+
+# newpar id = 791
+# sent_id = 791.1
+# text = y<asqwe qaaaaa
+1	y	y	_	_	_	_	_	_	SpaceAfter=No
+2	<	<	_	_	_	_	_	_	SpaceAfter=No
+3	asqwe	asqwe	_	_	_	_	_	_	_
+4	qaaaaa	qaaaa	_	_	_	_	_	_	_
+
+# newpar id = 792
+# sent_id = 792.1
+# text = mogoče
+1	mogoče	mogoče	_	_	_	_	_	_	_
+
+# newpar id = 793
+# sent_id = 793.1
+# text = naj
+1	naj	naj	_	_	_	_	_	_	_
+
+# newpar id = 794
+# sent_id = 794.1
+# text = ja lahko bi dala zdravilo staršem
+1	ja	ja	_	_	_	_	_	_	_
+2	lahko	lahko	_	_	_	_	_	_	_
+3	bi	bi	_	_	_	_	_	_	_
+4	dala	dal	_	_	_	_	_	_	_
+5	zdravilo	zdravil	_	_	_	_	_	_	_
+6	staršem	starš	_	_	_	_	_	_	_
+
+# newpar id = 795
+# sent_id = 795.1
+# text = toni napisala tebi
+1	toni	toni	_	_	_	_	_	_	_
+2	napisala	napisati	_	_	_	_	_	_	_
+3	tebi	tebi	_	_	_	_	_	_	_
+
+# newpar id = 796
+# sent_id = 796.1
+# text = zato ker je ta občutek potreben za življenje
+1	zato	zato	_	_	_	_	_	_	_
+2	ker	kar	_	_	_	_	_	_	_
+3	je	je	_	_	_	_	_	_	_
+4	ta	ta	_	_	_	_	_	_	_
+5	občutek	občutek	_	_	_	_	_	_	_
+6	potreben	potreben	_	_	_	_	_	_	_
+7	za	za	_	_	_	_	_	_	_
+8	življenje	življenje	_	_	_	_	_	_	_
+
+# newpar id = 797
+# sent_id = 797.1
+# text = kdo si ti
+1	kdo	kdo	_	_	_	_	_	_	_
+2	si	si	_	_	_	_	_	_	_
+3	ti	ti	_	_	_	_	_	_	_
+
+# newpar id = 798
+# sent_id = 798.1
+# text = Ni pomembno, kdo se skriva za katerim imenom.
+1	Ni	Ni	_	_	_	_	_	_	_
+2	pomembno	pomembno	_	_	_	_	_	_	SpaceAfter=No
+3	,	,	_	_	_	_	_	_	_
+4	kdo	kdo	_	_	_	_	_	_	_
+5	se	se	_	_	_	_	_	_	_
+6	skriva	skriv	_	_	_	_	_	_	_
+7	za	za	_	_	_	_	_	_	_
+8	katerim	kateri	_	_	_	_	_	_	_
+9	imenom	imen	_	_	_	_	_	_	SpaceAfter=No
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = 798.2
+# text = Pomembni so le odgovori.
+1	Pomembni	pomemben	_	_	_	_	_	_	_
+2	so	so	_	_	_	_	_	_	_
+3	le	le	_	_	_	_	_	_	_
+4	odgovori	odgovor	_	_	_	_	_	_	SpaceAfter=No
+5	.	.	_	_	_	_	_	_	_
+
+# newpar id = 799
+# sent_id = 799.1
+# text = čopko je zelo priljubljen
+1	čopko	čopek	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	zelo	zelo	_	_	_	_	_	_	_
+4	priljubljen	priljubljen	_	_	_	_	_	_	_
+
+# newpar id = 800
+# sent_id = 800.1
+# text = Igrati poker.
+1	Igrati	Igrat	_	_	_	_	_	_	_
+2	poker	poker	_	_	_	_	_	_	SpaceAfter=No
+3	.	.	_	_	_	_	_	_	_
+
+# newpar id = 801
+# sent_id = 801.1
+# text = JJJJJJJJJJJAAAAAAAAAA
+1	JJJJJJJJJJJAAAAAAAAAA	jjjjjjjjaaaaaaaaaaaa	_	_	_	_	_	_	_
+
+# newpar id = 802
+# sent_id = 802.1
+# text = vesela bi bila da bi spoznala nove prijatelje
+1	vesela	vesel	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	bila	biti	_	_	_	_	_	_	_
+4	da	da	_	_	_	_	_	_	_
+5	bi	bi	_	_	_	_	_	_	_
+6	spoznala	spoznati	_	_	_	_	_	_	_
+7	nove	nove	_	_	_	_	_	_	_
+8	prijatelje	prijatelj	_	_	_	_	_	_	_
+
+# newpar id = 803
+# sent_id = 803.1
+# text = ja
+1	ja	ja	_	_	_	_	_	_	_
+
+# newpar id = 804
+# sent_id = 804.1
+# text = no pozabi
+1	no	no	_	_	_	_	_	_	_
+2	pozabi	pozab	_	_	_	_	_	_	_
+
+# newpar id = 805
+# sent_id = 805.1
+# text = Haha Vizmarjec8
+1	Haha	Hah	_	_	_	_	_	_	_
+2	Vizmarjec8	Vizmarjecec	_	_	_	_	_	_	_
+
+# newpar id = 806
+# sent_id = 806.1
+# text = cefizelj bi lahko pobegnil policaju tako da bi izkopal tunel pod pekarno
+1	cefizelj	cefizelj	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	lahko	lahko	_	_	_	_	_	_	_
+4	pobegnil	pobegniti	_	_	_	_	_	_	_
+5	policaju	policaj	_	_	_	_	_	_	_
+6	tako	tako	_	_	_	_	_	_	_
+7	da	da	_	_	_	_	_	_	_
+8	bi	bi	_	_	_	_	_	_	_
+9	izkopal	izkopal	_	_	_	_	_	_	_
+10	tunel	tunel	_	_	_	_	_	_	_
+11	pod	pod	_	_	_	_	_	_	_
+12	pekarno	pekaren	_	_	_	_	_	_	_
+
+# newpar id = 807
+# sent_id = 807.1
+# text = Še kokoši pišejo hitreje k ti.
+1	Še	Še	_	_	_	_	_	_	_
+2	kokoši	kokoš	_	_	_	_	_	_	_
+3	pišejo	pisati	_	_	_	_	_	_	_
+4	hitreje	hitreje	_	_	_	_	_	_	_
+5	k	k	_	_	_	_	_	_	_
+6	ti	ti	_	_	_	_	_	_	SpaceAfter=No
+7	.	.	_	_	_	_	_	_	_
+
+# newpar id = 808
+# sent_id = 808.1
+# text = Še dobr
+1	Še	Še	_	_	_	_	_	_	_
+2	dobr	dober	_	_	_	_	_	_	_
+
+# newpar id = 809
+# sent_id = 809.1
+# text = albin
+1	albin	albin	_	_	_	_	_	_	_
+
+# newpar id = 810
+# sent_id = 810.1
+# text = D6 zelo slabo poznas abecedo
+1	D6	d6	_	_	_	_	_	_	_
+2	zelo	zelo	_	_	_	_	_	_	_
+3	slabo	slabo	_	_	_	_	_	_	_
+4	poznas	poznas	_	_	_	_	_	_	_
+5	abecedo	abeced	_	_	_	_	_	_	_
+
+# newpar id = 811
+# sent_id = 811.1
+# text = Če so to lasje...
+1	Če	če	_	_	_	_	_	_	_
+2	so	so	_	_	_	_	_	_	_
+3	to	to	_	_	_	_	_	_	_
+4	lasje	lasje	_	_	_	_	_	_	SpaceAfter=No
+5	...	...	_	_	_	_	_	_	_
+
+# newpar id = 812
+# sent_id = 812.1
+# text = adijos
+1	adijos	adijos	_	_	_	_	_	_	_
+
+# newpar id = 813
+# sent_id = 813.1
+# text = jaz sem  v knjigi
+1	jaz	jaz	_	_	_	_	_	_	_
+2	sem	samo	_	_	_	_	_	_	_
+3	v	v	_	_	_	_	_	_	_
+4	knjigi	knjig	_	_	_	_	_	_	_
+
+# newpar id = 814
+# sent_id = 814.1
+# text = you are bedak jakob
+1	you	you	_	_	_	_	_	_	_
+2	are	are	_	_	_	_	_	_	_
+3	bedak	bedak	_	_	_	_	_	_	_
+4	jakob	jakob	_	_	_	_	_	_	_
+
+# newpar id = 815
+# sent_id = 815.1
+# text = natalia vem da si ti
+1	natalia	natali	_	_	_	_	_	_	_
+2	vem	vem	_	_	_	_	_	_	_
+3	da	da	_	_	_	_	_	_	_
+4	si	si	_	_	_	_	_	_	_
+5	ti	ti	_	_	_	_	_	_	_
+
+# newpar id = 816
+# sent_id = 816.1
+# text = Zakaj so bili uni štrje planeti tolk nesramni
+1	Zakaj	zakaj	_	_	_	_	_	_	_
+2	so	so	_	_	_	_	_	_	_
+3	bili	biti	_	_	_	_	_	_	_
+4	uni	uni	_	_	_	_	_	_	_
+5	štrje	štrje	_	_	_	_	_	_	_
+6	planeti	planet	_	_	_	_	_	_	_
+7	tolk	tolk	_	_	_	_	_	_	_
+8	nesramni	nesramen	_	_	_	_	_	_	_
+
+# newpar id = 817
+# sent_id = 817.1
+# text = Emil a si to ti
+1	Emil	Emil	_	_	_	_	_	_	_
+2	a	on	_	_	_	_	_	_	_
+3	si	si	_	_	_	_	_	_	_
+4	to	to	_	_	_	_	_	_	_
+5	ti	ti	_	_	_	_	_	_	_
+
+# newpar id = 818
+# sent_id = 818.1
+# text = To je pravljica
+1	To	ta	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	pravljica	pravljic	_	_	_	_	_	_	_
+
+# newpar id = 819
+# sent_id = 819.1
+# text = HEJ NANA
+1	HEJ	hej	_	_	_	_	_	_	_
+2	NANA	nan	_	_	_	_	_	_	_
+
+# newpar id = 820
+# sent_id = 820.1
+# text = Ker je skakanje kdaj tudi nevarno.
+1	Ker	Ker	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	skakanje	skakanji	_	_	_	_	_	_	_
+4	kdaj	kdaj	_	_	_	_	_	_	_
+5	tudi	tudi	_	_	_	_	_	_	_
+6	nevarno	nevaren	_	_	_	_	_	_	SpaceAfter=No
+7	.	.	_	_	_	_	_	_	_
+
+# newpar id = 821
+# sent_id = 821.1
+# text = ne
+1	ne	ni	_	_	_	_	_	_	_
+
+# newpar id = 822
+# sent_id = 822.1
+# text = tadeja kaj misliš kaj bi se lahko še Čopko naučil
+1	tadeja	tade	_	_	_	_	_	_	_
+2	kaj	kaj	_	_	_	_	_	_	_
+3	misliš	misel	_	_	_	_	_	_	_
+4	kaj	kaj	_	_	_	_	_	_	_
+5	bi	bi	_	_	_	_	_	_	_
+6	se	se	_	_	_	_	_	_	_
+7	lahko	lahko	_	_	_	_	_	_	_
+8	še	še	_	_	_	_	_	_	_
+9	Čopko	čopek	_	_	_	_	_	_	_
+10	naučil	naučil	_	_	_	_	_	_	_
+
+# newpar id = 823
+# sent_id = 823.1
+# text = a je gdo kle nej odgovori
+1	a	on	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	gdo	gdo	_	_	_	_	_	_	_
+4	kle	kiti	_	_	_	_	_	_	_
+5	nej	naj	_	_	_	_	_	_	_
+6	odgovori	odgovor	_	_	_	_	_	_	_
+
+# newpar id = 824
+# sent_id = 824.1
+# text = Veveriček bi lahko bil umetnik!
+1	Veveriček	veveriček	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	lahko	lahko	_	_	_	_	_	_	_
+4	bil	bil	_	_	_	_	_	_	_
+5	umetnik	umetnik	_	_	_	_	_	_	SpaceAfter=No
+6	!	!	_	_	_	_	_	_	_
+
+# sent_id = 824.2
+# text = Ampak, kaj pa bi ustvarjal?
+1	Ampak	ampak	_	_	_	_	_	_	SpaceAfter=No
+2	,	,	_	_	_	_	_	_	_
+3	kaj	kaj	_	_	_	_	_	_	_
+4	pa	pa	_	_	_	_	_	_	_
+5	bi	bi	_	_	_	_	_	_	_
+6	ustvarjal	ustvarjati	_	_	_	_	_	_	SpaceAfter=No
+7	?	?	_	_	_	_	_	_	_
+
+# newpar id = 825
+# sent_id = 825.1
+# text = kaj j?
+1	kaj	kaj	_	_	_	_	_	_	_
+2	j	j	_	_	_	_	_	_	SpaceAfter=No
+3	?	?	_	_	_	_	_	_	_
+
+# newpar id = 826
+# sent_id = 826.1
+# text = dej gremo ven
+1	dej	dej	_	_	_	_	_	_	_
+2	gremo	gremo	_	_	_	_	_	_	_
+3	ven	ven	_	_	_	_	_	_	_
+
+# newpar id = 827
+# sent_id = 827.1
+# text = nevem kaj pa ti.
+1	nevem	nev	_	_	_	_	_	_	_
+2	kaj	kaj	_	_	_	_	_	_	_
+3	pa	pa	_	_	_	_	_	_	_
+4	ti	ti	_	_	_	_	_	_	SpaceAfter=No
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 827.2
+# text = NEJA
+1	NEJA	naj	_	_	_	_	_	_	_
+
+# newpar id = 828
+# sent_id = 828.1
+# text = lahko bi pel opero
+1	lahko	lahko	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	pel	peti	_	_	_	_	_	_	_
+4	opero	oper	_	_	_	_	_	_	_
+
+# newpar id = 829
+# sent_id = 829.1
+# text = ja
+1	ja	ja	_	_	_	_	_	_	_
+
+# newpar id = 830
+# sent_id = 830.1
+# text = Jz sem že prebral to pravlco
+1	Jz	jz	_	_	_	_	_	_	_
+2	sem	samo	_	_	_	_	_	_	_
+3	že	že	_	_	_	_	_	_	_
+4	prebral	prebral	_	_	_	_	_	_	_
+5	to	to	_	_	_	_	_	_	_
+6	pravlco	pravlji	_	_	_	_	_	_	_
+
+# newpar id = 831
+# sent_id = 831.1
+# text = delal bi salte premete v zraku
+1	delal	delal	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	salte	salte	_	_	_	_	_	_	_
+4	premete	premete	_	_	_	_	_	_	_
+5	v	v	_	_	_	_	_	_	_
+6	zraku	zrak	_	_	_	_	_	_	_
+
+# newpar id = 832
+# sent_id = 832.1
+# text = Tko da bi se preobleku v peka
+1	Tko	tiko	_	_	_	_	_	_	_
+2	da	da	_	_	_	_	_	_	_
+3	bi	bi	_	_	_	_	_	_	_
+4	se	se	_	_	_	_	_	_	_
+5	preobleku	preoblek	_	_	_	_	_	_	_
+6	v	v	_	_	_	_	_	_	_
+7	peka	pekaj	_	_	_	_	_	_	_
+
+# newpar id = 833
+# sent_id = 833.1
+# text = LAHKO GA NAUČI BRATEC
+1	LAHKO	lahko	_	_	_	_	_	_	_
+2	GA	ga	_	_	_	_	_	_	_
+3	NAUČI	nauč	_	_	_	_	_	_	_
+4	BRATEC	bratec	_	_	_	_	_	_	_
+
+# newpar id = 834
+# sent_id = 834.1
+# text = Zato ker
+1	Zato	zato	_	_	_	_	_	_	_
+2	ker	kar	_	_	_	_	_	_	_
+
+# newpar id = 835
+# sent_id = 835.1
+# text = jgnggfjnblfvfnhkljkbdoskhmkvrgjoewrtihhr
+1	jgnggfjnblfvfnhkljkbdoskhmkvrgjoewrtihhr	jgnggfjnblfoskoewhlfosjosjosjoskihhrjer	_	_	_	_	_	_	_
+
+# newpar id = 836
+# sent_id = 836.1
+# text = 🤣
+1	🤣	🤣	_	_	_	_	_	_	_
+
+# newpar id = 837
+# sent_id = 837.1
+# text = Kako to mislis
+1	Kako	kak	_	_	_	_	_	_	_
+2	to	to	_	_	_	_	_	_	_
+3	mislis	mislis	_	_	_	_	_	_	_
+
+# newpar id = 838
+# sent_id = 838.1
+# text = NataĹˇa
+1	NataĹˇa	nataj	_	_	_	_	_	_	_
+
+# newpar id = 839
+# sent_id = 839.1
+# text = RAZDAL
+1	RAZDAL	razdal	_	_	_	_	_	_	_
+
+# newpar id = 840
+# sent_id = 840.1
+# text = DEJ MI JO TI
+1	DEJ	dej	_	_	_	_	_	_	_
+2	MI	jaz	_	_	_	_	_	_	_
+3	JO	joj	_	_	_	_	_	_	_
+4	TI	ti	_	_	_	_	_	_	_
+
+# newpar id = 841
+# sent_id = 841.1
+# text = KAJJ
+1	KAJJ	kajj	_	_	_	_	_	_	_
+
+# newpar id = 842
+# sent_id = 842.1
+# text = Ali pa bi z nami hodil v šolo in bi se učil računanja.
+1	Ali	Ali	_	_	_	_	_	_	_
+2	pa	pa	_	_	_	_	_	_	_
+3	bi	bi	_	_	_	_	_	_	_
+4	z	z	_	_	_	_	_	_	_
+5	nami	nam	_	_	_	_	_	_	_
+6	hodil	hodil	_	_	_	_	_	_	_
+7	v	v	_	_	_	_	_	_	_
+8	šolo	šol	_	_	_	_	_	_	_
+9	in	in	_	_	_	_	_	_	_
+10	bi	bi	_	_	_	_	_	_	_
+11	se	se	_	_	_	_	_	_	_
+12	učil	učil	_	_	_	_	_	_	_
+13	računanja	računanji	_	_	_	_	_	_	SpaceAfter=No
+14	.	.	_	_	_	_	_	_	_
+
+# newpar id = 843
+# sent_id = 843.1
+# text = ❤️❤️❤️❤️❤️❤️❤️❤️💕❤️❤️💕❤️💕❤️💕❤️💕❤️💕❤️💕❤️💕
+1	❤	❤	_	_	_	_	_	_	SpaceAfter=No
+2	️	️	_	_	_	_	_	_	SpaceAfter=No
+3	❤	❤	_	_	_	_	_	_	SpaceAfter=No
+4	️	️	_	_	_	_	_	_	SpaceAfter=No
+5	❤	❤	_	_	_	_	_	_	SpaceAfter=No
+6	️	️	_	_	_	_	_	_	SpaceAfter=No
+7	❤	❤	_	_	_	_	_	_	SpaceAfter=No
+8	️	️	_	_	_	_	_	_	SpaceAfter=No
+9	❤	❤	_	_	_	_	_	_	SpaceAfter=No
+10	️	️	_	_	_	_	_	_	SpaceAfter=No
+11	❤	❤	_	_	_	_	_	_	SpaceAfter=No
+12	️	️	_	_	_	_	_	_	SpaceAfter=No
+13	❤	❤	_	_	_	_	_	_	SpaceAfter=No
+14	️	️	_	_	_	_	_	_	SpaceAfter=No
+15	❤	❤	_	_	_	_	_	_	SpaceAfter=No
+16	️	️	_	_	_	_	_	_	SpaceAfter=No
+17	💕	💕	_	_	_	_	_	_	SpaceAfter=No
+18	❤	❤	_	_	_	_	_	_	SpaceAfter=No
+19	️	️	_	_	_	_	_	_	SpaceAfter=No
+20	❤	❤	_	_	_	_	_	_	SpaceAfter=No
+21	️	️	_	_	_	_	_	_	SpaceAfter=No
+22	💕	💕	_	_	_	_	_	_	SpaceAfter=No
+23	❤	❤	_	_	_	_	_	_	SpaceAfter=No
+24	️	️	_	_	_	_	_	_	SpaceAfter=No
+25	💕	💕	_	_	_	_	_	_	SpaceAfter=No
+26	❤	❤	_	_	_	_	_	_	SpaceAfter=No
+27	️	️	_	_	_	_	_	_	SpaceAfter=No
+28	💕	💕	_	_	_	_	_	_	SpaceAfter=No
+29	❤	❤	_	_	_	_	_	_	SpaceAfter=No
+30	️	️	_	_	_	_	_	_	SpaceAfter=No
+31	💕	💕	_	_	_	_	_	_	SpaceAfter=No
+32	❤	❤	_	_	_	_	_	_	SpaceAfter=No
+33	️	️	_	_	_	_	_	_	SpaceAfter=No
+34	💕	💕	_	_	_	_	_	_	SpaceAfter=No
+35	❤	❤	_	_	_	_	_	_	SpaceAfter=No
+36	️	️	_	_	_	_	_	_	SpaceAfter=No
+37	💕	💕	_	_	_	_	_	_	SpaceAfter=No
+38	❤	❤	_	_	_	_	_	_	SpaceAfter=No
+39	️	️	_	_	_	_	_	_	SpaceAfter=No
+40	💕	💕	_	_	_	_	_	_	_
+
+# newpar id = 844
+# sent_id = 844.1
+# text = jap
+1	jap	jap	_	_	_	_	_	_	_
+
+# newpar id = 845
+# sent_id = 845.1
+# text = lara
+1	lara	lar	_	_	_	_	_	_	_
+
+# newpar id = 846
+# sent_id = 846.1
+# text = SAM RES
+1	SAM	SAM	_	_	_	_	_	_	_
+2	RES	res	_	_	_	_	_	_	_
+
+# newpar id = 847
+# sent_id = 847.1
+# text = nejc
+1	nejc	nejce	_	_	_	_	_	_	_
+
+# newpar id = 848
+# sent_id = 848.1
+# text = uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+1	uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu	uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu	_	_	_	_	_	_	_
+
+# newpar id = 849
+# sent_id = 849.1
+# text = čopko bi se res lahko naučil skakati
+1	čopko	čopek	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	se	se	_	_	_	_	_	_	_
+4	res	res	_	_	_	_	_	_	_
+5	lahko	lahko	_	_	_	_	_	_	_
+6	naučil	naučil	_	_	_	_	_	_	_
+7	skakati	skakat	_	_	_	_	_	_	_
+
+# newpar id = 850
+# sent_id = 850.1
+# text = um
+1	um	um	_	_	_	_	_	_	_
+
+# newpar id = 851
+# sent_id = 851.1
+# text = ne
+1	ne	ni	_	_	_	_	_	_	_
+
+# newpar id = 852
+# sent_id = 852.1
+# text = omg
+1	omg	omg	_	_	_	_	_	_	_
+
+# newpar id = 853
+# sent_id = 853.1
+# text = h
+1	h	h	_	_	_	_	_	_	_
+
+# newpar id = 854
+# sent_id = 854.1
+# text = Ben,f
+1	Ben	Ben	_	_	_	_	_	_	SpaceAfter=No
+2	,	,	_	_	_	_	_	_	SpaceAfter=No
+3	f	f	_	_	_	_	_	_	_
+
+# newpar id = 855
+# sent_id = 855.1
+# text = inSoncu
+1	inSoncu	insonec	_	_	_	_	_	_	_
+
+# newpar id = 856
+# sent_id = 856.1
+# text = Napovedovati vreme.
+1	Napovedovati	Napovedovat	_	_	_	_	_	_	_
+2	vreme	vreme	_	_	_	_	_	_	SpaceAfter=No
+3	.	.	_	_	_	_	_	_	_
+
+# newpar id = 857
+# sent_id = 857.1
+# text = dej nam mir
+1	dej	dej	_	_	_	_	_	_	_
+2	nam	jaz	_	_	_	_	_	_	_
+3	mir	mira	_	_	_	_	_	_	_
+
+# newpar id = 858
+# sent_id = 858.1
+# text = jaz tudi
+1	jaz	jaz	_	_	_	_	_	_	_
+2	tudi	tudi	_	_	_	_	_	_	_
+
+# newpar id = 859
+# sent_id = 859.1
+# text = Kaj
+1	Kaj	kaj	_	_	_	_	_	_	_
+
+# newpar id = 860
+# sent_id = 860.1
+# text = ne pa ne
+1	ne	ni	_	_	_	_	_	_	_
+2	pa	pa	_	_	_	_	_	_	_
+3	ne	ni	_	_	_	_	_	_	_
+
+# newpar id = 861
+# sent_id = 861.1
+# text = Ti povej gdo si
+1	Ti	ti	_	_	_	_	_	_	_
+2	povej	povej	_	_	_	_	_	_	_
+3	gdo	gdo	_	_	_	_	_	_	_
+4	si	si	_	_	_	_	_	_	_
+
+# newpar id = 862
+# sent_id = 862.1
+# text = ker ima samo ona to zdravilo
+1	ker	kar	_	_	_	_	_	_	_
+2	ima	imeti	_	_	_	_	_	_	_
+3	samo	samo	_	_	_	_	_	_	_
+4	ona	oni	_	_	_	_	_	_	_
+5	to	to	_	_	_	_	_	_	_
+6	zdravilo	zdravil	_	_	_	_	_	_	_
+
+# newpar id = 863
+# sent_id = 863.1
+# text = v bistvu pehta ni zlobna
+1	v	v	_	_	_	_	_	_	_
+2	bistvu	bistev	_	_	_	_	_	_	_
+3	pehta	peht	_	_	_	_	_	_	_
+4	ni	ni	_	_	_	_	_	_	_
+5	zlobna	zloben	_	_	_	_	_	_	_
+
+# newpar id = 864
+# sent_id = 864.1
+# text = to si ti
+1	to	to	_	_	_	_	_	_	_
+2	si	si	_	_	_	_	_	_	_
+3	ti	ti	_	_	_	_	_	_	_
+
+# newpar id = 865
+# sent_id = 865.1
+# text = naučil bi se kakati
+1	naučil	naučil	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	se	se	_	_	_	_	_	_	_
+4	kakati	kakat	_	_	_	_	_	_	_
+
+# newpar id = 866
+# sent_id = 866.1
+# text = nevem
+1	nevem	nev	_	_	_	_	_	_	_
+
+# newpar id = 867
+# sent_id = 867.1
+# text = slabo in žalostno
+1	slabo	slabo	_	_	_	_	_	_	_
+2	in	in	_	_	_	_	_	_	_
+3	žalostno	žalosten	_	_	_	_	_	_	_
+
+# newpar id = 868
+# sent_id = 868.1
+# text = Kako je lahko sonce prenašalo te štiri planete
+1	Kako	kak	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	lahko	lahko	_	_	_	_	_	_	_
+4	sonce	sonce	_	_	_	_	_	_	_
+5	prenašalo	prenašati	_	_	_	_	_	_	_
+6	te	ti	_	_	_	_	_	_	_
+7	štiri	štirje	_	_	_	_	_	_	_
+8	planete	planet	_	_	_	_	_	_	_
+
+# newpar id = 869
+# sent_id = 869.1
+# text = lahko bi ga prenteltal in bi rekel poglej letalo in ko bi se obrnil bi stekel stran
+1	lahko	lahko	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	ga	ga	_	_	_	_	_	_	_
+4	prenteltal	prenteltal	_	_	_	_	_	_	_
+5	in	in	_	_	_	_	_	_	_
+6	bi	bi	_	_	_	_	_	_	_
+7	rekel	rekel	_	_	_	_	_	_	_
+8	poglej	pogled	_	_	_	_	_	_	_
+9	letalo	letati	_	_	_	_	_	_	_
+10	in	in	_	_	_	_	_	_	_
+11	ko	koj	_	_	_	_	_	_	_
+12	bi	bi	_	_	_	_	_	_	_
+13	se	se	_	_	_	_	_	_	_
+14	obrnil	obrniti	_	_	_	_	_	_	_
+15	bi	bi	_	_	_	_	_	_	_
+16	stekel	stekel	_	_	_	_	_	_	_
+17	stran	stran	_	_	_	_	_	_	_
+
+# newpar id = 870
+# sent_id = 870.1
+# text = IN A SI IZ OS  NOVE FUŽINE
+1	IN	in	_	_	_	_	_	_	_
+2	A	A	_	_	_	_	_	_	_
+3	SI	SI	_	_	_	_	_	_	_
+4	IZ	IZ	_	_	_	_	_	_	_
+5	OS	OS	_	_	_	_	_	_	_
+6	NOVE	nove	_	_	_	_	_	_	_
+7	FUŽINE	fužin	_	_	_	_	_	_	_
+
+# newpar id = 871
+# sent_id = 871.1
+# text = kako zamenas človečka
+1	kako	kak	_	_	_	_	_	_	_
+2	zamenas	zamenas	_	_	_	_	_	_	_
+3	človečka	človečki	_	_	_	_	_	_	_
+
+# newpar id = 872
+# sent_id = 872.1
+# text = you
+1	you	you	_	_	_	_	_	_	_
+
+# newpar id = 873
+# sent_id = 873.1
+# text = SEM
+1	SEM	biti	_	_	_	_	_	_	_
+
+# newpar id = 874
+# sent_id = 874.1
+# text = nevem
+1	nevem	nev	_	_	_	_	_	_	_
+
+# newpar id = 875
+# sent_id = 875.1
+# text = Lahko bi šel na stranišče in tam počakal,da ga gre policaj iskat drugam.
+1	Lahko	lahko	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	šel	šel	_	_	_	_	_	_	_
+4	na	ni	_	_	_	_	_	_	_
+5	stranišče	stranišče	_	_	_	_	_	_	_
+6	in	in	_	_	_	_	_	_	_
+7	tam	ti	_	_	_	_	_	_	_
+8	počakal	počakati	_	_	_	_	_	_	SpaceAfter=No
+9	,	,	_	_	_	_	_	_	SpaceAfter=No
+10	da	da	_	_	_	_	_	_	_
+11	ga	ga	_	_	_	_	_	_	_
+12	gre	gre	_	_	_	_	_	_	_
+13	policaj	policaj	_	_	_	_	_	_	_
+14	iskat	iskat	_	_	_	_	_	_	_
+15	drugam	druga	_	_	_	_	_	_	SpaceAfter=No
+16	.	.	_	_	_	_	_	_	_
+
+# newpar id = 876
+# sent_id = 876.1
+# text = JAZ SEM DANI
+1	JAZ	jaz	_	_	_	_	_	_	_
+2	SEM	biti	_	_	_	_	_	_	_
+3	DANI	dani	_	_	_	_	_	_	_
+
+# newpar id = 877
+# sent_id = 877.1
+# text = da bi si izmislil da mora na stranišče
+1	da	da	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	si	si	_	_	_	_	_	_	_
+4	izmislil	izmisliti	_	_	_	_	_	_	_
+5	da	da	_	_	_	_	_	_	_
+6	mora	mor	_	_	_	_	_	_	_
+7	na	ni	_	_	_	_	_	_	_
+8	stranišče	stranišče	_	_	_	_	_	_	_
+
+# newpar id = 878
+# sent_id = 878.1
+# text = Behind
+1	Behind	Behind	_	_	_	_	_	_	_
+
+# newpar id = 879
+# sent_id = 879.1
+# text = lahko bi pa policaja zadušil
+1	lahko	lahko	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	pa	pa	_	_	_	_	_	_	_
+4	policaja	policaj	_	_	_	_	_	_	_
+5	zadušil	zadušiti	_	_	_	_	_	_	_
+
+# newpar id = 880
+# sent_id = 880.1
+# text = Postal bi policist .
+1	Postal	postal	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	policist	policist	_	_	_	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# newpar id = 881
+# sent_id = 881.1
+# text = Prav imaš, vse se da, če se potrudiš.
+1	Prav	prav	_	_	_	_	_	_	_
+2	imaš	imeti	_	_	_	_	_	_	SpaceAfter=No
+3	,	,	_	_	_	_	_	_	_
+4	vse	vse	_	_	_	_	_	_	_
+5	se	se	_	_	_	_	_	_	_
+6	da	da	_	_	_	_	_	_	SpaceAfter=No
+7	,	,	_	_	_	_	_	_	_
+8	če	če	_	_	_	_	_	_	_
+9	se	se	_	_	_	_	_	_	_
+10	potrudiš	potrud	_	_	_	_	_	_	SpaceAfter=No
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = 881.2
+# text = Nadaljuj z branjem ...
+1	Nadaljuj	nadaljuj	_	_	_	_	_	_	_
+2	z	z	_	_	_	_	_	_	_
+3	branjem	branji	_	_	_	_	_	_	_
+4	...	...	_	_	_	_	_	_	_
+
+# newpar id = 882
+# sent_id = 882.1
+# text = Ja
+1	Ja	on	_	_	_	_	_	_	_
+
+# newpar id = 883
+# sent_id = 883.1
+# text = on bi lahko znav skakati po kolebnici
+1	on	on	_	_	_	_	_	_	_
+2	bi	bi	_	_	_	_	_	_	_
+3	lahko	lahko	_	_	_	_	_	_	_
+4	znav	znav	_	_	_	_	_	_	_
+5	skakati	skakat	_	_	_	_	_	_	_
+6	po	po	_	_	_	_	_	_	_
+7	kolebnici	kolebnic	_	_	_	_	_	_	_
+
+# newpar id = 884
+# sent_id = 884.1
+# text = A sem vm bl vsec tak?
+1	A	A	_	_	_	_	_	_	_
+2	sem	samo	_	_	_	_	_	_	_
+3	vm	vm	_	_	_	_	_	_	_
+4	bl	bl	_	_	_	_	_	_	_
+5	vsec	vsec	_	_	_	_	_	_	_
+6	tak	tak	_	_	_	_	_	_	SpaceAfter=No
+7	?	?	_	_	_	_	_	_	_
+
+# newpar id = 885
+# sent_id = 885.1
+# text = gdo je to
+1	gdo	gdo	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	to	to	_	_	_	_	_	_	_
+

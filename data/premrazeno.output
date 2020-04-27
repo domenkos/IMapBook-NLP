@@ -1,0 +1,1081 @@
+# newpar id = 1
+# sent_id = 1.1
+# text = ﻿Premraženo Sonce, Svetlana Makarovič,
+1	﻿	﻿	_	_	_	_	_	_	SpaceAfter=No
+2	Premraženo	premražen	_	_	_	_	_	_	_
+3	Sonce	sonce	_	_	_	_	_	_	SpaceAfter=No
+4	,	,	_	_	_	_	_	_	_
+5	Svetlana	Svetlan	_	_	_	_	_	_	_
+6	Makarovič	Makarovič	_	_	_	_	_	_	SpaceAfter=No
+7	,	,	_	_	_	_	_	_	_
+
+# newpar id = 2
+# sent_id = 2.1
+# text = »Kako svetle so zvezde nocoj!
+1	»	»	_	_	_	_	_	_	SpaceAfter=No
+2	Kako	kak	_	_	_	_	_	_	_
+3	svetle	svetle	_	_	_	_	_	_	_
+4	so	so	_	_	_	_	_	_	_
+5	zvezde	zvezde	_	_	_	_	_	_	_
+6	nocoj	nocoj	_	_	_	_	_	_	SpaceAfter=No
+7	!	!	_	_	_	_	_	_	_
+
+# sent_id = 2.2
+# text = « je neke jasne jesenske noči vzkliknila veverica, ki ni mogla spati.
+1	«	«	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	neke	nek	_	_	_	_	_	_	_
+4	jasne	jasne	_	_	_	_	_	_	_
+5	jesenske	jesenski	_	_	_	_	_	_	_
+6	noči	noč	_	_	_	_	_	_	_
+7	vzkliknila	vzkliknit	_	_	_	_	_	_	_
+8	veverica	veverica	_	_	_	_	_	_	SpaceAfter=No
+9	,	,	_	_	_	_	_	_	_
+10	ki	ki	_	_	_	_	_	_	_
+11	ni	ni	_	_	_	_	_	_	_
+12	mogla	moči	_	_	_	_	_	_	_
+13	spati	spat	_	_	_	_	_	_	SpaceAfter=No
+14	.	.	_	_	_	_	_	_	_
+
+# newpar id = 3
+# sent_id = 3.1
+# text = »In koliko jih je...
+1	»	»	_	_	_	_	_	_	SpaceAfter=No
+2	In	In	_	_	_	_	_	_	_
+3	koliko	kolik	_	_	_	_	_	_	_
+4	jih	jih	_	_	_	_	_	_	_
+5	je	je	_	_	_	_	_	_	SpaceAfter=No
+6	...	...	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 3.2
+# text = « je sanjavo rekla njena sestrična, ki tudi ni mogla spati.
+1	«	«	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	sanjavo	sanjav	_	_	_	_	_	_	_
+4	rekla	rekel	_	_	_	_	_	_	_
+5	njena	njen	_	_	_	_	_	_	_
+6	sestrična	sestrična	_	_	_	_	_	_	SpaceAfter=No
+7	,	,	_	_	_	_	_	_	_
+8	ki	ki	_	_	_	_	_	_	_
+9	tudi	tudi	_	_	_	_	_	_	_
+10	ni	ni	_	_	_	_	_	_	_
+11	mogla	moči	_	_	_	_	_	_	_
+12	spati	spat	_	_	_	_	_	_	SpaceAfter=No
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = 3.3
+# text = »Poglej tisto svetlo zvezdo tamle nad smreko!
+1	»	»	_	_	_	_	_	_	SpaceAfter=No
+2	Poglej	poglej	_	_	_	_	_	_	_
+3	tisto	tisti	_	_	_	_	_	_	_
+4	svetlo	svetel	_	_	_	_	_	_	_
+5	zvezdo	zvezdo	_	_	_	_	_	_	_
+6	tamle	tamle	_	_	_	_	_	_	_
+7	nad	nad	_	_	_	_	_	_	_
+8	smreko	smrek	_	_	_	_	_	_	SpaceAfter=No
+9	!	!	_	_	_	_	_	_	_
+
+# sent_id = 3.4
+# text = Tako veselo nama mežika!
+1	Tako	tako	_	_	_	_	_	_	_
+2	veselo	vesel	_	_	_	_	_	_	_
+3	nama	jaz	_	_	_	_	_	_	_
+4	mežika	mežik	_	_	_	_	_	_	SpaceAfter=No
+5	!	!	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 3.5
+# text = «
+1	«	«	_	_	_	_	_	_	_
+
+# newpar id = 4
+# sent_id = 4.1
+# text = Mežikajoča zvezda tam daleč v neznansko velikem vesolju pa je bila majhno sončece, okoli katerega je počasi krožilo pet majhnih zelenih planetov.
+1	Mežikajoča	Mežikajoč	_	_	_	_	_	_	_
+2	zvezda	zvezda	_	_	_	_	_	_	_
+3	tam	ti	_	_	_	_	_	_	_
+4	daleč	daleč	_	_	_	_	_	_	_
+5	v	v	_	_	_	_	_	_	_
+6	neznansko	neznanski	_	_	_	_	_	_	_
+7	velikem	velik	_	_	_	_	_	_	_
+8	vesolju	vesolj	_	_	_	_	_	_	_
+9	pa	pa	_	_	_	_	_	_	_
+10	je	je	_	_	_	_	_	_	_
+11	bila	biti	_	_	_	_	_	_	_
+12	majhno	majhen	_	_	_	_	_	_	_
+13	sončece	sončece	_	_	_	_	_	_	SpaceAfter=No
+14	,	,	_	_	_	_	_	_	_
+15	okoli	okol	_	_	_	_	_	_	_
+16	katerega	kateri	_	_	_	_	_	_	_
+17	je	je	_	_	_	_	_	_	_
+18	počasi	počasi	_	_	_	_	_	_	_
+19	krožilo	krožiti	_	_	_	_	_	_	_
+20	pet	pet	_	_	_	_	_	_	_
+21	majhnih	majhen	_	_	_	_	_	_	_
+22	zelenih	zelen	_	_	_	_	_	_	_
+23	planetov	planetov	_	_	_	_	_	_	SpaceAfter=No
+24	.	.	_	_	_	_	_	_	_
+
+# newpar id = 5
+# sent_id = 5.1
+# text = »Ali ne bi moglo sijati malo svetleje?
+1	»	»	_	_	_	_	_	_	SpaceAfter=No
+2	Ali	Ali	_	_	_	_	_	_	_
+3	ne	ni	_	_	_	_	_	_	_
+4	bi	bi	_	_	_	_	_	_	_
+5	moglo	moči	_	_	_	_	_	_	_
+6	sijati	sijat	_	_	_	_	_	_	_
+7	malo	malo	_	_	_	_	_	_	_
+8	svetleje	svetlej	_	_	_	_	_	_	SpaceAfter=No
+9	?	?	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 5.2
+# text = « je zagodrnjal največji planet.
+1	«	«	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	zagodrnjal	zagodrnjati	_	_	_	_	_	_	_
+4	največji	velik	_	_	_	_	_	_	_
+5	planet	planet	_	_	_	_	_	_	SpaceAfter=No
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 5.3
+# text = »Saj komaj vidim, kod moram krožiti.
+1	»	»	_	_	_	_	_	_	SpaceAfter=No
+2	Saj	saj	_	_	_	_	_	_	_
+3	komaj	komaj	_	_	_	_	_	_	_
+4	vidim	vid	_	_	_	_	_	_	SpaceAfter=No
+5	,	,	_	_	_	_	_	_	_
+6	kod	kod	_	_	_	_	_	_	_
+7	moram	mora	_	_	_	_	_	_	_
+8	krožiti	krožit	_	_	_	_	_	_	SpaceAfter=No
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = 5.4
+# text = Ali pa mogoče hočeš, da bi zašel s poti in se izgubil v vesolju samo zato, ker si ti zaspano?
+1	Ali	Ali	_	_	_	_	_	_	_
+2	pa	pa	_	_	_	_	_	_	_
+3	mogoče	mogoče	_	_	_	_	_	_	_
+4	hočeš	hoteš	_	_	_	_	_	_	SpaceAfter=No
+5	,	,	_	_	_	_	_	_	_
+6	da	da	_	_	_	_	_	_	_
+7	bi	bi	_	_	_	_	_	_	_
+8	zašel	zašel	_	_	_	_	_	_	_
+9	s	s	_	_	_	_	_	_	_
+10	poti	poti	_	_	_	_	_	_	_
+11	in	in	_	_	_	_	_	_	_
+12	se	se	_	_	_	_	_	_	_
+13	izgubil	izgubiti	_	_	_	_	_	_	_
+14	v	v	_	_	_	_	_	_	_
+15	vesolju	vesolj	_	_	_	_	_	_	_
+16	samo	samo	_	_	_	_	_	_	_
+17	zato	zato	_	_	_	_	_	_	SpaceAfter=No
+18	,	,	_	_	_	_	_	_	_
+19	ker	kar	_	_	_	_	_	_	_
+20	si	si	_	_	_	_	_	_	_
+21	ti	ti	_	_	_	_	_	_	_
+22	zaspano	zaspan	_	_	_	_	_	_	SpaceAfter=No
+23	?	?	_	_	_	_	_	_	_
+
+# sent_id = 5.5
+# text = «
+1	«	«	_	_	_	_	_	_	_
+
+# newpar id = 6
+# sent_id = 6.1
+# text = »Res — kakšno sonce pa si?
+1	»	»	_	_	_	_	_	_	SpaceAfter=No
+2	Res	Res	_	_	_	_	_	_	_
+3	—	—	_	_	_	_	_	_	_
+4	kakšno	kakšen	_	_	_	_	_	_	_
+5	sonce	sonce	_	_	_	_	_	_	_
+6	pa	pa	_	_	_	_	_	_	_
+7	si	si	_	_	_	_	_	_	SpaceAfter=No
+8	?	?	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 6.2
+# text = « se je razburjal drugi planet.
+1	«	«	_	_	_	_	_	_	_
+2	se	se	_	_	_	_	_	_	_
+3	je	je	_	_	_	_	_	_	_
+4	razburjal	razburjati	_	_	_	_	_	_	_
+5	drugi	drugi	_	_	_	_	_	_	_
+6	planet	planet	_	_	_	_	_	_	SpaceAfter=No
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 6.3
+# text = »Na meni je že pošteno hladno.
+1	»	»	_	_	_	_	_	_	SpaceAfter=No
+2	Na	na	_	_	_	_	_	_	_
+3	meni	meni	_	_	_	_	_	_	_
+4	je	je	_	_	_	_	_	_	_
+5	že	že	_	_	_	_	_	_	_
+6	pošteno	pošten	_	_	_	_	_	_	_
+7	hladno	hladen	_	_	_	_	_	_	SpaceAfter=No
+8	.	.	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 6.4
+# text = «
+1	«	«	_	_	_	_	_	_	_
+
+# newpar id = 7
+# sent_id = 7.1
+# text = »Sij malo topleje, prosim,« je rekel tretji planet, »Ali pa bom odšel in si poiskal pošteno veliko sonce, ki ne bo samo brlelo tako kot ti, ampak pošteno svetilo in grelo.
+1	»	»	_	_	_	_	_	_	SpaceAfter=No
+2	Sij	sij	_	_	_	_	_	_	_
+3	malo	malo	_	_	_	_	_	_	_
+4	topleje	topel	_	_	_	_	_	_	SpaceAfter=No
+5	,	,	_	_	_	_	_	_	_
+6	prosim	pros	_	_	_	_	_	_	SpaceAfter=No
+7	,	,	_	_	_	_	_	_	SpaceAfter=No
+8	«	«	_	_	_	_	_	_	_
+9	je	je	_	_	_	_	_	_	_
+10	rekel	rekel	_	_	_	_	_	_	_
+11	tretji	tretji	_	_	_	_	_	_	_
+12	planet	planet	_	_	_	_	_	_	SpaceAfter=No
+13	,	,	_	_	_	_	_	_	_
+14	»	»	_	_	_	_	_	_	SpaceAfter=No
+15	Ali	Ali	_	_	_	_	_	_	_
+16	pa	pa	_	_	_	_	_	_	_
+17	bom	bom	_	_	_	_	_	_	_
+18	odšel	odšel	_	_	_	_	_	_	_
+19	in	in	_	_	_	_	_	_	_
+20	si	si	_	_	_	_	_	_	_
+21	poiskal	poiskati	_	_	_	_	_	_	_
+22	pošteno	pošten	_	_	_	_	_	_	_
+23	veliko	velik	_	_	_	_	_	_	_
+24	sonce	sonce	_	_	_	_	_	_	SpaceAfter=No
+25	,	,	_	_	_	_	_	_	_
+26	ki	ki	_	_	_	_	_	_	_
+27	ne	ni	_	_	_	_	_	_	_
+28	bo	bo	_	_	_	_	_	_	_
+29	samo	samo	_	_	_	_	_	_	_
+30	brlelo	brlel	_	_	_	_	_	_	_
+31	tako	tako	_	_	_	_	_	_	_
+32	kot	kot	_	_	_	_	_	_	_
+33	ti	ti	_	_	_	_	_	_	SpaceAfter=No
+34	,	,	_	_	_	_	_	_	_
+35	ampak	ampak	_	_	_	_	_	_	_
+36	pošteno	pošten	_	_	_	_	_	_	_
+37	svetilo	svetiti	_	_	_	_	_	_	_
+38	in	in	_	_	_	_	_	_	_
+39	grelo	grel	_	_	_	_	_	_	SpaceAfter=No
+40	.	.	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 7.2
+# text = «
+1	«	«	_	_	_	_	_	_	_
+
+# newpar id = 8
+# sent_id = 8.1
+# text = »Da moramo imeti ravno mi tako klavrno sonce,« se je jezil četrti planet.
+1	»	»	_	_	_	_	_	_	SpaceAfter=No
+2	Da	da	_	_	_	_	_	_	_
+3	moramo	moram	_	_	_	_	_	_	_
+4	imeti	imeti	_	_	_	_	_	_	_
+5	ravno	raven	_	_	_	_	_	_	_
+6	mi	mi	_	_	_	_	_	_	_
+7	tako	tako	_	_	_	_	_	_	_
+8	klavrno	klavrn	_	_	_	_	_	_	_
+9	sonce	sonce	_	_	_	_	_	_	SpaceAfter=No
+10	,	,	_	_	_	_	_	_	SpaceAfter=No
+11	«	«	_	_	_	_	_	_	_
+12	se	se	_	_	_	_	_	_	_
+13	je	je	_	_	_	_	_	_	_
+14	jezil	jezil	_	_	_	_	_	_	_
+15	četrti	četrti	_	_	_	_	_	_	_
+16	planet	planet	_	_	_	_	_	_	SpaceAfter=No
+17	.	.	_	_	_	_	_	_	_
+
+# newpar id = 9
+# sent_id = 9.1
+# text = Peti, najmanjši planetek pa je na svojem kroženju poskakoval, da bi se ogrel.
+1	Peti	peti	_	_	_	_	_	_	SpaceAfter=No
+2	,	,	_	_	_	_	_	_	_
+3	najmanjši	majhen	_	_	_	_	_	_	_
+4	planetek	planetek	_	_	_	_	_	_	_
+5	pa	pa	_	_	_	_	_	_	_
+6	je	je	_	_	_	_	_	_	_
+7	na	ni	_	_	_	_	_	_	_
+8	svojem	svoj	_	_	_	_	_	_	_
+9	kroženju	kroženje	_	_	_	_	_	_	_
+10	poskakoval	poskakovati	_	_	_	_	_	_	SpaceAfter=No
+11	,	,	_	_	_	_	_	_	_
+12	da	da	_	_	_	_	_	_	_
+13	bi	bi	_	_	_	_	_	_	_
+14	se	se	_	_	_	_	_	_	_
+15	ogrel	ogrel	_	_	_	_	_	_	SpaceAfter=No
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = 9.2
+# text = Ko je slišal godrnjanje svojih bratov, je pomežiknil soncu in rekel:
+1	Ko	ko	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	slišal	slišal	_	_	_	_	_	_	_
+4	godrnjanje	godrnjanje	_	_	_	_	_	_	_
+5	svojih	svoj	_	_	_	_	_	_	_
+6	bratov	bratov	_	_	_	_	_	_	SpaceAfter=No
+7	,	,	_	_	_	_	_	_	_
+8	je	je	_	_	_	_	_	_	_
+9	pomežiknil	pomežikniti	_	_	_	_	_	_	_
+10	soncu	sonec	_	_	_	_	_	_	_
+11	in	in	_	_	_	_	_	_	_
+12	rekel	rekel	_	_	_	_	_	_	SpaceAfter=No
+13	:	biti	_	_	_	_	_	_	_
+
+# newpar id = 10
+# sent_id = 10.1
+# text = »Kar dober si, sonček!
+1	»	»	_	_	_	_	_	_	SpaceAfter=No
+2	Kar	Kar	_	_	_	_	_	_	_
+3	dober	dober	_	_	_	_	_	_	_
+4	si	si	_	_	_	_	_	_	SpaceAfter=No
+5	,	,	_	_	_	_	_	_	_
+6	sonček	sonček	_	_	_	_	_	_	SpaceAfter=No
+7	!	!	_	_	_	_	_	_	_
+
+# sent_id = 10.2
+# text = Nikar jih ne poslušaj!
+1	Nikar	Nikar	_	_	_	_	_	_	_
+2	jih	jih	_	_	_	_	_	_	_
+3	ne	ni	_	_	_	_	_	_	_
+4	poslušaj	poslušaj	_	_	_	_	_	_	SpaceAfter=No
+5	!	!	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 10.3
+# text = «
+1	«	«	_	_	_	_	_	_	_
+
+# newpar id = 11
+# sent_id = 11.1
+# text = Malo sonce je globoko vzdihnilo in reklo:
+1	Malo	malo	_	_	_	_	_	_	_
+2	sonce	sonce	_	_	_	_	_	_	_
+3	je	je	_	_	_	_	_	_	_
+4	globoko	globok	_	_	_	_	_	_	_
+5	vzdihnilo	vzdihnit	_	_	_	_	_	_	_
+6	in	in	_	_	_	_	_	_	_
+7	reklo	reklo	_	_	_	_	_	_	SpaceAfter=No
+8	:	biti	_	_	_	_	_	_	_
+
+# newpar id = 12
+# sent_id = 12.1
+# text = »Tako rado bi svetilo in grelo močno kar se le da — ampak tukaj notri me tako zebe, da kar trepečem.
+1	»	»	_	_	_	_	_	_	SpaceAfter=No
+2	Tako	tako	_	_	_	_	_	_	_
+3	rado	rad	_	_	_	_	_	_	_
+4	bi	bi	_	_	_	_	_	_	_
+5	svetilo	svetiti	_	_	_	_	_	_	_
+6	in	in	_	_	_	_	_	_	_
+7	grelo	grel	_	_	_	_	_	_	_
+8	močno	močen	_	_	_	_	_	_	_
+9	kar	kar	_	_	_	_	_	_	_
+10	se	se	_	_	_	_	_	_	_
+11	le	le	_	_	_	_	_	_	_
+12	da	da	_	_	_	_	_	_	_
+13	—	—	_	_	_	_	_	_	_
+14	ampak	ampak	_	_	_	_	_	_	_
+15	tukaj	tukaj	_	_	_	_	_	_	_
+16	notri	noter	_	_	_	_	_	_	_
+17	me	me	_	_	_	_	_	_	_
+18	tako	tako	_	_	_	_	_	_	_
+19	zebe	zebe	_	_	_	_	_	_	SpaceAfter=No
+20	,	,	_	_	_	_	_	_	_
+21	da	da	_	_	_	_	_	_	_
+22	kar	kar	_	_	_	_	_	_	_
+23	trepečem	trepeč	_	_	_	_	_	_	SpaceAfter=No
+24	.	.	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 12.2
+# text = «
+1	«	«	_	_	_	_	_	_	_
+
+# newpar id = 13
+# sent_id = 13.1
+# text = »Neumnost,« je zarohnel prvi planet.
+1	»	»	_	_	_	_	_	_	SpaceAfter=No
+2	Neumnost	Neumnost	_	_	_	_	_	_	SpaceAfter=No
+3	,	,	_	_	_	_	_	_	SpaceAfter=No
+4	«	«	_	_	_	_	_	_	_
+5	je	je	_	_	_	_	_	_	_
+6	zarohnel	zarohnel	_	_	_	_	_	_	_
+7	prvi	prvi	_	_	_	_	_	_	_
+8	planet	planet	_	_	_	_	_	_	SpaceAfter=No
+9	.	.	_	_	_	_	_	_	_
+
+# newpar id = 14
+# sent_id = 14.1
+# text = »Še nikoli nisem slišal česa takega,« je rekel drugi planet.
+1	»	»	_	_	_	_	_	_	SpaceAfter=No
+2	Še	Še	_	_	_	_	_	_	_
+3	nikoli	nihče	_	_	_	_	_	_	_
+4	nisem	nis	_	_	_	_	_	_	_
+5	slišal	slišal	_	_	_	_	_	_	_
+6	česa	čes	_	_	_	_	_	_	_
+7	takega	tak	_	_	_	_	_	_	SpaceAfter=No
+8	,	,	_	_	_	_	_	_	SpaceAfter=No
+9	«	«	_	_	_	_	_	_	_
+10	je	je	_	_	_	_	_	_	_
+11	rekel	rekel	_	_	_	_	_	_	_
+12	drugi	drugi	_	_	_	_	_	_	_
+13	planet	planet	_	_	_	_	_	_	SpaceAfter=No
+14	.	.	_	_	_	_	_	_	_
+
+# newpar id = 15
+# sent_id = 15.1
+# text = »Sonca vendar ne more zebsti,« se je razhudil tretji.
+1	»	»	_	_	_	_	_	_	SpaceAfter=No
+2	Sonca	sonec	_	_	_	_	_	_	_
+3	vendar	vendar	_	_	_	_	_	_	_
+4	ne	ni	_	_	_	_	_	_	_
+5	more	more	_	_	_	_	_	_	_
+6	zebsti	zebsti	_	_	_	_	_	_	SpaceAfter=No
+7	,	,	_	_	_	_	_	_	SpaceAfter=No
+8	«	«	_	_	_	_	_	_	_
+9	se	se	_	_	_	_	_	_	_
+10	je	je	_	_	_	_	_	_	_
+11	razhudil	razhuditi	_	_	_	_	_	_	_
+12	tretji	tretji	_	_	_	_	_	_	SpaceAfter=No
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = 15.2
+# text = »Najbrž se norčuješ iz nas.
+1	»	»	_	_	_	_	_	_	SpaceAfter=No
+2	Najbrž	drajb	_	_	_	_	_	_	_
+3	se	se	_	_	_	_	_	_	_
+4	norčuješ	norčuješ	_	_	_	_	_	_	_
+5	iz	iz	_	_	_	_	_	_	_
+6	nas	nas	_	_	_	_	_	_	SpaceAfter=No
+7	.	.	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 15.3
+# text = «
+1	«	«	_	_	_	_	_	_	_
+
+# newpar id = 16
+# sent_id = 16.1
+# text = »Ne norčujem se, « je reklo sončece.
+1	»	»	_	_	_	_	_	_	SpaceAfter=No
+2	Ne	Ni	_	_	_	_	_	_	_
+3	norčujem	norčev	_	_	_	_	_	_	_
+4	se	se	_	_	_	_	_	_	SpaceAfter=No
+5	,	,	_	_	_	_	_	_	_
+6	«	«	_	_	_	_	_	_	_
+7	je	je	_	_	_	_	_	_	_
+8	reklo	reklo	_	_	_	_	_	_	_
+9	sončece	sončece	_	_	_	_	_	_	SpaceAfter=No
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = 16.2
+# text = »Sijem in grejem kolikor morem.
+1	»	»	_	_	_	_	_	_	SpaceAfter=No
+2	Sijem	sij	_	_	_	_	_	_	_
+3	in	in	_	_	_	_	_	_	_
+4	grejem	grej	_	_	_	_	_	_	_
+5	kolikor	kolikor	_	_	_	_	_	_	_
+6	morem	mori	_	_	_	_	_	_	SpaceAfter=No
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 16.3
+# text = Ampak čimbolj grejem druge, bolj me zebe.
+1	Ampak	ampak	_	_	_	_	_	_	_
+2	čimbolj	čimbolj	_	_	_	_	_	_	_
+3	grejem	grej	_	_	_	_	_	_	_
+4	druge	druge	_	_	_	_	_	_	SpaceAfter=No
+5	,	,	_	_	_	_	_	_	_
+6	bolj	bolj	_	_	_	_	_	_	_
+7	me	me	_	_	_	_	_	_	_
+8	zebe	zebe	_	_	_	_	_	_	SpaceAfter=No
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = 16.4
+# text = Znotraj sem temno in že zdavnaj ohrajeno, veste.
+1	Znotraj	znotraj	_	_	_	_	_	_	_
+2	sem	samo	_	_	_	_	_	_	_
+3	temno	temno	_	_	_	_	_	_	_
+4	in	in	_	_	_	_	_	_	_
+5	že	že	_	_	_	_	_	_	_
+6	zdavnaj	zdavnaj	_	_	_	_	_	_	_
+7	ohrajeno	ohrajen	_	_	_	_	_	_	SpaceAfter=No
+8	,	,	_	_	_	_	_	_	_
+9	veste	veste	_	_	_	_	_	_	SpaceAfter=No
+10	.	.	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 16.5
+# text = «
+1	«	«	_	_	_	_	_	_	_
+
+# newpar id = 17
+# sent_id = 17.1
+# text = »Dober izgovor, tudi če ga komet na repu prinese,« se je smejal četrti planet.
+1	»	»	_	_	_	_	_	_	SpaceAfter=No
+2	Dober	Dober	_	_	_	_	_	_	_
+3	izgovor	izgovor	_	_	_	_	_	_	SpaceAfter=No
+4	,	,	_	_	_	_	_	_	_
+5	tudi	tudi	_	_	_	_	_	_	_
+6	če	če	_	_	_	_	_	_	_
+7	ga	ga	_	_	_	_	_	_	_
+8	komet	komet	_	_	_	_	_	_	_
+9	na	ni	_	_	_	_	_	_	_
+10	repu	rep	_	_	_	_	_	_	_
+11	prinese	prinese	_	_	_	_	_	_	SpaceAfter=No
+12	,	,	_	_	_	_	_	_	SpaceAfter=No
+13	«	«	_	_	_	_	_	_	_
+14	se	se	_	_	_	_	_	_	_
+15	je	je	_	_	_	_	_	_	_
+16	smejal	smejati	_	_	_	_	_	_	_
+17	četrti	četrti	_	_	_	_	_	_	_
+18	planet	planet	_	_	_	_	_	_	SpaceAfter=No
+19	.	.	_	_	_	_	_	_	_
+
+# newpar id = 18
+# sent_id = 18.1
+# text = Mali, peti planet pa se je zares razjezil, tako da se je na njegovi površini odprl vulkan in začel sikati vročo paro.
+1	Mali	Mali	_	_	_	_	_	_	SpaceAfter=No
+2	,	,	_	_	_	_	_	_	_
+3	peti	peti	_	_	_	_	_	_	_
+4	planet	planet	_	_	_	_	_	_	_
+5	pa	pa	_	_	_	_	_	_	_
+6	se	se	_	_	_	_	_	_	_
+7	je	je	_	_	_	_	_	_	_
+8	zares	zares	_	_	_	_	_	_	_
+9	razjezil	razjeziti	_	_	_	_	_	_	SpaceAfter=No
+10	,	,	_	_	_	_	_	_	_
+11	tako	tako	_	_	_	_	_	_	_
+12	da	da	_	_	_	_	_	_	_
+13	se	se	_	_	_	_	_	_	_
+14	je	je	_	_	_	_	_	_	_
+15	na	ni	_	_	_	_	_	_	_
+16	njegovi	njegov	_	_	_	_	_	_	_
+17	površini	površin	_	_	_	_	_	_	_
+18	odprl	odpreti	_	_	_	_	_	_	_
+19	vulkan	vulkan	_	_	_	_	_	_	_
+20	in	in	_	_	_	_	_	_	_
+21	začel	začel	_	_	_	_	_	_	_
+22	sikati	sikat	_	_	_	_	_	_	_
+23	vročo	vroč	_	_	_	_	_	_	_
+24	paro	paro	_	_	_	_	_	_	SpaceAfter=No
+25	.	.	_	_	_	_	_	_	_
+
+# newpar id = 19
+# sent_id = 19.1
+# text = »Nehaj no, to me žgečka,« je ukazal mali planet vulkanu.
+1	»	»	_	_	_	_	_	_	SpaceAfter=No
+2	Nehaj	nehaj	_	_	_	_	_	_	_
+3	no	no	_	_	_	_	_	_	SpaceAfter=No
+4	,	,	_	_	_	_	_	_	_
+5	to	to	_	_	_	_	_	_	_
+6	me	me	_	_	_	_	_	_	_
+7	žgečka	žgečki	_	_	_	_	_	_	SpaceAfter=No
+8	,	,	_	_	_	_	_	_	SpaceAfter=No
+9	«	«	_	_	_	_	_	_	_
+10	je	je	_	_	_	_	_	_	_
+11	ukazal	ukazal	_	_	_	_	_	_	_
+12	mali	mali	_	_	_	_	_	_	_
+13	planet	planet	_	_	_	_	_	_	_
+14	vulkanu	vulkan	_	_	_	_	_	_	SpaceAfter=No
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = 19.2
+# text = Vulkan je še malo zasikal, potem pa se umiril.
+1	Vulkan	Vulkan	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	še	še	_	_	_	_	_	_	_
+4	malo	malo	_	_	_	_	_	_	_
+5	zasikal	zasikati	_	_	_	_	_	_	SpaceAfter=No
+6	,	,	_	_	_	_	_	_	_
+7	potem	potem	_	_	_	_	_	_	_
+8	pa	pa	_	_	_	_	_	_	_
+9	se	se	_	_	_	_	_	_	_
+10	umiril	umiriti	_	_	_	_	_	_	SpaceAfter=No
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = 19.3
+# text = Planetek je za klical svojim bratom:
+1	Planetek	planetek	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	za	za	_	_	_	_	_	_	_
+4	klical	klical	_	_	_	_	_	_	_
+5	svojim	svoj	_	_	_	_	_	_	_
+6	bratom	brat	_	_	_	_	_	_	SpaceAfter=No
+7	:	biti	_	_	_	_	_	_	_
+
+# newpar id = 20
+# sent_id = 20.1
+# text = »Sram naj vas bo!
+1	»	»	_	_	_	_	_	_	SpaceAfter=No
+2	Sram	sram	_	_	_	_	_	_	_
+3	naj	naj	_	_	_	_	_	_	_
+4	vas	vas	_	_	_	_	_	_	_
+5	bo	bo	_	_	_	_	_	_	SpaceAfter=No
+6	!	!	_	_	_	_	_	_	_
+
+# sent_id = 20.2
+# text = Sploh niste vredni niti enega sončnega žarka!
+1	Sploh	sploh	_	_	_	_	_	_	_
+2	niste	nisti	_	_	_	_	_	_	_
+3	vredni	vreden	_	_	_	_	_	_	_
+4	niti	nit	_	_	_	_	_	_	_
+5	enega	en	_	_	_	_	_	_	_
+6	sončnega	sončen	_	_	_	_	_	_	_
+7	žarka	žarka	_	_	_	_	_	_	SpaceAfter=No
+8	!	!	_	_	_	_	_	_	_
+
+# sent_id = 20.3
+# text = Če vam naše sonce ni zadosti dobro, pa pojdite drugam.
+1	Če	če	_	_	_	_	_	_	_
+2	vam	ti	_	_	_	_	_	_	_
+3	naše	naš	_	_	_	_	_	_	_
+4	sonce	sonce	_	_	_	_	_	_	_
+5	ni	ni	_	_	_	_	_	_	_
+6	zadosti	zadost	_	_	_	_	_	_	_
+7	dobro	dobro	_	_	_	_	_	_	SpaceAfter=No
+8	,	,	_	_	_	_	_	_	_
+9	pa	pa	_	_	_	_	_	_	_
+10	pojdite	itdite	_	_	_	_	_	_	_
+11	drugam	druga	_	_	_	_	_	_	SpaceAfter=No
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = 20.4
+# text = Jaz, sonček, sem prav zadovoljen s tabo.
+1	Jaz	jaz	_	_	_	_	_	_	SpaceAfter=No
+2	,	,	_	_	_	_	_	_	_
+3	sonček	sonček	_	_	_	_	_	_	SpaceAfter=No
+4	,	,	_	_	_	_	_	_	_
+5	sem	samo	_	_	_	_	_	_	_
+6	prav	prav	_	_	_	_	_	_	_
+7	zadovoljen	zadovoljen	_	_	_	_	_	_	_
+8	s	s	_	_	_	_	_	_	_
+9	tabo	tabo	_	_	_	_	_	_	SpaceAfter=No
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = 20.5
+# text = Takole malo poskočim, vidiš, pa mi je ravno prav toplo.
+1	Takole	takole	_	_	_	_	_	_	_
+2	malo	malo	_	_	_	_	_	_	_
+3	poskočim	poskoč	_	_	_	_	_	_	SpaceAfter=No
+4	,	,	_	_	_	_	_	_	_
+5	vidiš	vid	_	_	_	_	_	_	SpaceAfter=No
+6	,	,	_	_	_	_	_	_	_
+7	pa	pa	_	_	_	_	_	_	_
+8	mi	mi	_	_	_	_	_	_	_
+9	je	je	_	_	_	_	_	_	_
+10	ravno	raven	_	_	_	_	_	_	_
+11	prav	prav	_	_	_	_	_	_	_
+12	toplo	topel	_	_	_	_	_	_	SpaceAfter=No
+13	.	.	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 20.6
+# text = «
+1	«	«	_	_	_	_	_	_	_
+
+# newpar id = 21
+# sent_id = 21.1
+# text = Te besede so malemu soncu tako dobro dele, da mu je začelo postajati toplo okoli srca.
+1	Te	ta	_	_	_	_	_	_	_
+2	besede	besede	_	_	_	_	_	_	_
+3	so	so	_	_	_	_	_	_	_
+4	malemu	mali	_	_	_	_	_	_	_
+5	soncu	sonec	_	_	_	_	_	_	_
+6	tako	tako	_	_	_	_	_	_	_
+7	dobro	dobro	_	_	_	_	_	_	_
+8	dele	dele	_	_	_	_	_	_	SpaceAfter=No
+9	,	,	_	_	_	_	_	_	_
+10	da	da	_	_	_	_	_	_	_
+11	mu	mu	_	_	_	_	_	_	_
+12	je	je	_	_	_	_	_	_	_
+13	začelo	začel	_	_	_	_	_	_	_
+14	postajati	postajati	_	_	_	_	_	_	_
+15	toplo	topel	_	_	_	_	_	_	_
+16	okoli	okol	_	_	_	_	_	_	_
+17	srca	srci	_	_	_	_	_	_	SpaceAfter=No
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = 21.2
+# text = Kolikor je moglo, je začelo greti in sijati.
+1	Kolikor	kolikor	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	moglo	moči	_	_	_	_	_	_	SpaceAfter=No
+4	,	,	_	_	_	_	_	_	_
+5	je	je	_	_	_	_	_	_	_
+6	začelo	začel	_	_	_	_	_	_	_
+7	greti	greti	_	_	_	_	_	_	_
+8	in	in	_	_	_	_	_	_	_
+9	sijati	sijat	_	_	_	_	_	_	SpaceAfter=No
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = 21.3
+# text = Štirje planeti so se zdaj še bolj razjezili.
+1	Štirje	Štirje	_	_	_	_	_	_	_
+2	planeti	planet	_	_	_	_	_	_	_
+3	so	so	_	_	_	_	_	_	_
+4	se	se	_	_	_	_	_	_	_
+5	zdaj	zdaj	_	_	_	_	_	_	_
+6	še	še	_	_	_	_	_	_	_
+7	bolj	bolj	_	_	_	_	_	_	_
+8	razjezili	razjeziti	_	_	_	_	_	_	SpaceAfter=No
+9	.	.	_	_	_	_	_	_	_
+
+# newpar id = 22
+# sent_id = 22.1
+# text = »No, vidiš, saj lahko bolje siješ, lenoba,« je zarohnel prvi planet.
+1	»	»	_	_	_	_	_	_	SpaceAfter=No
+2	No	no	_	_	_	_	_	_	SpaceAfter=No
+3	,	,	_	_	_	_	_	_	_
+4	vidiš	vid	_	_	_	_	_	_	SpaceAfter=No
+5	,	,	_	_	_	_	_	_	_
+6	saj	saj	_	_	_	_	_	_	_
+7	lahko	lahko	_	_	_	_	_	_	_
+8	bolje	bolje	_	_	_	_	_	_	_
+9	siješ	sij	_	_	_	_	_	_	SpaceAfter=No
+10	,	,	_	_	_	_	_	_	_
+11	lenoba	lenoba	_	_	_	_	_	_	SpaceAfter=No
+12	,	,	_	_	_	_	_	_	SpaceAfter=No
+13	«	«	_	_	_	_	_	_	_
+14	je	je	_	_	_	_	_	_	_
+15	zarohnel	zarohnel	_	_	_	_	_	_	_
+16	prvi	prvi	_	_	_	_	_	_	_
+17	planet	planet	_	_	_	_	_	_	SpaceAfter=No
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = 22.2
+# text = »Še bolj se potrudi, no!
+1	»	»	_	_	_	_	_	_	SpaceAfter=No
+2	Še	Še	_	_	_	_	_	_	_
+3	bolj	bolj	_	_	_	_	_	_	_
+4	se	se	_	_	_	_	_	_	_
+5	potrudi	potrud	_	_	_	_	_	_	SpaceAfter=No
+6	,	,	_	_	_	_	_	_	_
+7	no	no	_	_	_	_	_	_	SpaceAfter=No
+8	!	!	_	_	_	_	_	_	_
+
+# sent_id = 22.3
+# text = No, bo kaj?
+1	No	no	_	_	_	_	_	_	SpaceAfter=No
+2	,	,	_	_	_	_	_	_	_
+3	bo	bo	_	_	_	_	_	_	_
+4	kaj	kaj	_	_	_	_	_	_	SpaceAfter=No
+5	?	?	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 22.4
+# text = «
+1	«	«	_	_	_	_	_	_	_
+
+# newpar id = 23
+# sent_id = 23.1
+# text = Sončece se je spet zmračilo.
+1	Sončece	sončece	_	_	_	_	_	_	_
+2	se	se	_	_	_	_	_	_	_
+3	je	je	_	_	_	_	_	_	_
+4	spet	spet	_	_	_	_	_	_	_
+5	zmračilo	zmračiti	_	_	_	_	_	_	SpaceAfter=No
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 23.2
+# text = Komaj da je še brlelo in spet je trepetalo od mraza.
+1	Komaj	komaj	_	_	_	_	_	_	_
+2	da	da	_	_	_	_	_	_	_
+3	je	je	_	_	_	_	_	_	_
+4	še	še	_	_	_	_	_	_	_
+5	brlelo	brlel	_	_	_	_	_	_	_
+6	in	in	_	_	_	_	_	_	_
+7	spet	spet	_	_	_	_	_	_	_
+8	je	je	_	_	_	_	_	_	_
+9	trepetalo	trepetal	_	_	_	_	_	_	_
+10	od	od	_	_	_	_	_	_	_
+11	mraza	mraz	_	_	_	_	_	_	SpaceAfter=No
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = 23.3
+# text = Najmanjši planetek mu je pel vesele pesmice, a sonce ga ni slišalo.
+1	Najmanjši	majhen	_	_	_	_	_	_	_
+2	planetek	planetek	_	_	_	_	_	_	_
+3	mu	mu	_	_	_	_	_	_	_
+4	je	je	_	_	_	_	_	_	_
+5	pel	peti	_	_	_	_	_	_	_
+6	vesele	vesel	_	_	_	_	_	_	_
+7	pesmice	pesmice	_	_	_	_	_	_	SpaceAfter=No
+8	,	,	_	_	_	_	_	_	_
+9	a	on	_	_	_	_	_	_	_
+10	sonce	sonce	_	_	_	_	_	_	_
+11	ga	ga	_	_	_	_	_	_	_
+12	ni	ni	_	_	_	_	_	_	_
+13	slišalo	slišati	_	_	_	_	_	_	SpaceAfter=No
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = 23.4
+# text = V njegovi notranjosti je začelo nekaj kapljati, tink tonk, tink tonk, so padale solze v srce.
+1	V	V	_	_	_	_	_	_	_
+2	njegovi	njegov	_	_	_	_	_	_	_
+3	notranjosti	notranjost	_	_	_	_	_	_	_
+4	je	je	_	_	_	_	_	_	_
+5	začelo	začel	_	_	_	_	_	_	_
+6	nekaj	nekaj	_	_	_	_	_	_	_
+7	kapljati	kapljat	_	_	_	_	_	_	SpaceAfter=No
+8	,	,	_	_	_	_	_	_	_
+9	tink	tink	_	_	_	_	_	_	_
+10	tonk	tonk	_	_	_	_	_	_	SpaceAfter=No
+11	,	,	_	_	_	_	_	_	_
+12	tink	tink	_	_	_	_	_	_	_
+13	tonk	tonk	_	_	_	_	_	_	SpaceAfter=No
+14	,	,	_	_	_	_	_	_	_
+15	so	so	_	_	_	_	_	_	_
+16	padale	padale	_	_	_	_	_	_	_
+17	solze	solze	_	_	_	_	_	_	_
+18	v	v	_	_	_	_	_	_	_
+19	srce	srce	_	_	_	_	_	_	SpaceAfter=No
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = 23.5
+# text = Sončeva površina je postala zelenkasta, nato modrikasta...
+1	Sončeva	sončev	_	_	_	_	_	_	_
+2	površina	površin	_	_	_	_	_	_	_
+3	je	je	_	_	_	_	_	_	_
+4	postala	postal	_	_	_	_	_	_	_
+5	zelenkasta	zelenkast	_	_	_	_	_	_	SpaceAfter=No
+6	,	,	_	_	_	_	_	_	_
+7	nato	nato	_	_	_	_	_	_	_
+8	modrikasta	modrikast	_	_	_	_	_	_	SpaceAfter=No
+9	...	...	_	_	_	_	_	_	_
+
+# newpar id = 24
+# sent_id = 24.1
+# text = »Ugasnilo bo!
+1	»	»	_	_	_	_	_	_	SpaceAfter=No
+2	Ugasnilo	ugasnil	_	_	_	_	_	_	_
+3	bo	bo	_	_	_	_	_	_	SpaceAfter=No
+4	!	!	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 24.2
+# text = « so zakričali planeti.
+1	«	«	_	_	_	_	_	_	_
+2	so	so	_	_	_	_	_	_	_
+3	zakričali	zakričati	_	_	_	_	_	_	_
+4	planeti	planet	_	_	_	_	_	_	SpaceAfter=No
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 24.3
+# text = In prvi štirje so se v hipu odločili in jo pobrisali kdove kam — mogoče so našli kakšno sonce, mogoče tudi ne — mali planet pa se je primaknil bliže soncu in še sam zajokal.
+1	In	In	_	_	_	_	_	_	_
+2	prvi	prvi	_	_	_	_	_	_	_
+3	štirje	štirje	_	_	_	_	_	_	_
+4	so	so	_	_	_	_	_	_	_
+5	se	se	_	_	_	_	_	_	_
+6	v	v	_	_	_	_	_	_	_
+7	hipu	hip	_	_	_	_	_	_	_
+8	odločili	odločiti	_	_	_	_	_	_	_
+9	in	in	_	_	_	_	_	_	_
+10	jo	jo	_	_	_	_	_	_	_
+11	pobrisali	pobrisati	_	_	_	_	_	_	_
+12	kdove	kdov	_	_	_	_	_	_	_
+13	kam	kaj	_	_	_	_	_	_	_
+14	—	—	_	_	_	_	_	_	_
+15	mogoče	mogoče	_	_	_	_	_	_	_
+16	so	so	_	_	_	_	_	_	_
+17	našli	našti	_	_	_	_	_	_	_
+18	kakšno	kakšen	_	_	_	_	_	_	_
+19	sonce	sonce	_	_	_	_	_	_	SpaceAfter=No
+20	,	,	_	_	_	_	_	_	_
+21	mogoče	mogoče	_	_	_	_	_	_	_
+22	tudi	tudi	_	_	_	_	_	_	_
+23	ne	ni	_	_	_	_	_	_	_
+24	—	—	_	_	_	_	_	_	_
+25	mali	mali	_	_	_	_	_	_	_
+26	planet	planet	_	_	_	_	_	_	_
+27	pa	pa	_	_	_	_	_	_	_
+28	se	se	_	_	_	_	_	_	_
+29	je	je	_	_	_	_	_	_	_
+30	primaknil	primakniti	_	_	_	_	_	_	_
+31	bliže	bliže	_	_	_	_	_	_	_
+32	soncu	sonec	_	_	_	_	_	_	_
+33	in	in	_	_	_	_	_	_	_
+34	še	še	_	_	_	_	_	_	_
+35	sam	samo	_	_	_	_	_	_	_
+36	zajokal	zajokati	_	_	_	_	_	_	SpaceAfter=No
+37	.	.	_	_	_	_	_	_	_
+
+# newpar id = 25
+# sent_id = 25.1
+# text = Sonce je malo prisluhnilo; šele zdaj je, opazilo, da ni čisto samo.
+1	Sonce	sonce	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	malo	malo	_	_	_	_	_	_	_
+4	prisluhnilo	prisluhnit	_	_	_	_	_	_	SpaceAfter=No
+5	;	;	_	_	_	_	_	_	_
+6	šele	šele	_	_	_	_	_	_	_
+7	zdaj	zdaj	_	_	_	_	_	_	_
+8	je	je	_	_	_	_	_	_	SpaceAfter=No
+9	,	,	_	_	_	_	_	_	_
+10	opazilo	opaziti	_	_	_	_	_	_	SpaceAfter=No
+11	,	,	_	_	_	_	_	_	_
+12	da	da	_	_	_	_	_	_	_
+13	ni	ni	_	_	_	_	_	_	_
+14	čisto	čist	_	_	_	_	_	_	_
+15	samo	samo	_	_	_	_	_	_	SpaceAfter=No
+16	.	.	_	_	_	_	_	_	_
+
+# newpar id = 26
+# sent_id = 26.1
+# text = »Ti si še tukaj, mali planetek?
+1	»	»	_	_	_	_	_	_	SpaceAfter=No
+2	Ti	ti	_	_	_	_	_	_	_
+3	si	si	_	_	_	_	_	_	_
+4	še	še	_	_	_	_	_	_	_
+5	tukaj	tukaj	_	_	_	_	_	_	SpaceAfter=No
+6	,	,	_	_	_	_	_	_	_
+7	mali	mali	_	_	_	_	_	_	_
+8	planetek	planetek	_	_	_	_	_	_	SpaceAfter=No
+9	?	?	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 26.2
+# text = « je vprašalo.
+1	«	«	_	_	_	_	_	_	_
+2	je	je	_	_	_	_	_	_	_
+3	vprašalo	vprašati	_	_	_	_	_	_	SpaceAfter=No
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = 26.3
+# text = »In zakaj jočeš?
+1	»	»	_	_	_	_	_	_	SpaceAfter=No
+2	In	In	_	_	_	_	_	_	_
+3	zakaj	zakaj	_	_	_	_	_	_	_
+4	jočeš	jočeš	_	_	_	_	_	_	SpaceAfter=No
+5	?	?	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 26.4
+# text = «
+1	«	«	_	_	_	_	_	_	_
+
+# newpar id = 27
+# sent_id = 27.1
+# text = »Hudo mi je zate, sonček,« je rekel planetek.
+1	»	»	_	_	_	_	_	_	SpaceAfter=No
+2	Hudo	hud	_	_	_	_	_	_	_
+3	mi	mi	_	_	_	_	_	_	_
+4	je	je	_	_	_	_	_	_	_
+5	zate	zate	_	_	_	_	_	_	SpaceAfter=No
+6	,	,	_	_	_	_	_	_	_
+7	sonček	sonček	_	_	_	_	_	_	SpaceAfter=No
+8	,	,	_	_	_	_	_	_	SpaceAfter=No
+9	«	«	_	_	_	_	_	_	_
+10	je	je	_	_	_	_	_	_	_
+11	rekel	rekel	_	_	_	_	_	_	_
+12	planetek	planetek	_	_	_	_	_	_	SpaceAfter=No
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = 27.2
+# text = »In zebe me.
+1	»	»	_	_	_	_	_	_	SpaceAfter=No
+2	In	In	_	_	_	_	_	_	_
+3	zebe	zebe	_	_	_	_	_	_	_
+4	me	me	_	_	_	_	_	_	SpaceAfter=No
+5	.	.	_	_	_	_	_	_	SpaceAfter=No
+
+# sent_id = 27.3
+# text = «
+1	«	«	_	_	_	_	_	_	_
+
+# newpar id = 28
+# sent_id = 28.1
+# text = V hipu je sonce na vso moč zažarelo in obsijalo mali planet s čudovito svetlimi in vročimi žarki.
+1	V	V	_	_	_	_	_	_	_
+2	hipu	hip	_	_	_	_	_	_	_
+3	je	je	_	_	_	_	_	_	_
+4	sonce	sonce	_	_	_	_	_	_	_
+5	na	ni	_	_	_	_	_	_	_
+6	vso	vso	_	_	_	_	_	_	_
+7	moč	moč	_	_	_	_	_	_	_
+8	zažarelo	zažarel	_	_	_	_	_	_	_
+9	in	in	_	_	_	_	_	_	_
+10	obsijalo	obsijati	_	_	_	_	_	_	_
+11	mali	mali	_	_	_	_	_	_	_
+12	planet	planet	_	_	_	_	_	_	_
+13	s	s	_	_	_	_	_	_	_
+14	čudovito	čudovit	_	_	_	_	_	_	_
+15	svetlimi	svetel	_	_	_	_	_	_	_
+16	in	in	_	_	_	_	_	_	_
+17	vročimi	vroč	_	_	_	_	_	_	_
+18	žarki	žarki	_	_	_	_	_	_	SpaceAfter=No
+19	.	.	_	_	_	_	_	_	_
+
+# newpar id = 29
+# sent_id = 29.1
+# text = »Kako sem srečen,« je zaklical mali planet in živo zazelenel.
+1	»	»	_	_	_	_	_	_	SpaceAfter=No
+2	Kako	kak	_	_	_	_	_	_	_
+3	sem	samo	_	_	_	_	_	_	_
+4	srečen	srečen	_	_	_	_	_	_	SpaceAfter=No
+5	,	,	_	_	_	_	_	_	SpaceAfter=No
+6	«	«	_	_	_	_	_	_	_
+7	je	je	_	_	_	_	_	_	_
+8	zaklical	zaklical	_	_	_	_	_	_	_
+9	mali	mali	_	_	_	_	_	_	_
+10	planet	planet	_	_	_	_	_	_	_
+11	in	in	_	_	_	_	_	_	_
+12	živo	živo	_	_	_	_	_	_	_
+13	zazelenel	zazelenel	_	_	_	_	_	_	SpaceAfter=No
+14	.	.	_	_	_	_	_	_	_
+
+# newpar id = 30
+# sent_id = 30.1
+# text = »Kako sem srečen,« je zaklicalo sonce, ki ga ni nikoli več zeblo pri srcu.
+1	»	»	_	_	_	_	_	_	SpaceAfter=No
+2	Kako	kak	_	_	_	_	_	_	_
+3	sem	samo	_	_	_	_	_	_	_
+4	srečen	srečen	_	_	_	_	_	_	SpaceAfter=No
+5	,	,	_	_	_	_	_	_	SpaceAfter=No
+6	«	«	_	_	_	_	_	_	_
+7	je	je	_	_	_	_	_	_	_
+8	zaklicalo	zaklicati	_	_	_	_	_	_	_
+9	sonce	sonce	_	_	_	_	_	_	SpaceAfter=No
+10	,	,	_	_	_	_	_	_	_
+11	ki	ki	_	_	_	_	_	_	_
+12	ga	ga	_	_	_	_	_	_	_
+13	ni	ni	_	_	_	_	_	_	_
+14	nikoli	nihče	_	_	_	_	_	_	_
+15	več	več	_	_	_	_	_	_	_
+16	zeblo	zeblo	_	_	_	_	_	_	_
+17	pri	pri	_	_	_	_	_	_	_
+18	srcu	srcu	_	_	_	_	_	_	SpaceAfter=No
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = 30.2
+# text = In veselo je mežikalo na vse strani.
+1	In	In	_	_	_	_	_	_	_
+2	veselo	vesel	_	_	_	_	_	_	_
+3	je	je	_	_	_	_	_	_	_
+4	mežikalo	mežikati	_	_	_	_	_	_	_
+5	na	ni	_	_	_	_	_	_	_
+6	vse	vse	_	_	_	_	_	_	_
+7	strani	stran	_	_	_	_	_	_	SpaceAfter=No
+8	.	.	_	_	_	_	_	_	_
+
+# newpar id = 31
+# sent_id = 31.1
+# text = Daleč daleč stran, na planetu Zemlja, pa sta se v mrzli jesenski noči stiskali dve drobni veverici stisnili skupaj in strmeli v zvezdnato nebo.
+1	Daleč	Daleč	_	_	_	_	_	_	_
+2	daleč	daleč	_	_	_	_	_	_	_
+3	stran	stran	_	_	_	_	_	_	SpaceAfter=No
+4	,	,	_	_	_	_	_	_	_
+5	na	ni	_	_	_	_	_	_	_
+6	planetu	planet	_	_	_	_	_	_	_
+7	Zemlja	zemelj	_	_	_	_	_	_	SpaceAfter=No
+8	,	,	_	_	_	_	_	_	_
+9	pa	pa	_	_	_	_	_	_	_
+10	sta	sta	_	_	_	_	_	_	_
+11	se	se	_	_	_	_	_	_	_
+12	v	v	_	_	_	_	_	_	_
+13	mrzli	mrzel	_	_	_	_	_	_	_
+14	jesenski	jesenski	_	_	_	_	_	_	_
+15	noči	noč	_	_	_	_	_	_	_
+16	stiskali	stiskal	_	_	_	_	_	_	_
+17	dve	dve	_	_	_	_	_	_	_
+18	drobni	droben	_	_	_	_	_	_	_
+19	veverici	veveric	_	_	_	_	_	_	_
+20	stisnili	stisnil	_	_	_	_	_	_	_
+21	skupaj	skupaj	_	_	_	_	_	_	_
+22	in	in	_	_	_	_	_	_	_
+23	strmeli	strmel	_	_	_	_	_	_	_
+24	v	v	_	_	_	_	_	_	_
+25	zvezdnato	zvezdnat	_	_	_	_	_	_	_
+26	nebo	nebo	_	_	_	_	_	_	SpaceAfter=No
+27	.	.	_	_	_	_	_	_	_
+
