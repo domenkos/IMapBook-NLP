@@ -3,3 +3,7 @@ code/__pycache__/
 code/.ipynb_checkpoints/
 data/.~lock.AllDiscussionDataCODED_USE_THIS_14Feb2020_MH.xls#
 tools/classla-stanfordnlp-master/models/lemma/ssj500k+Sloleks_lemmatizer.pt
+code/distribution.pdf
+code/distributionTest.pdf
+code/distributionTrain.pdf
+code/rocsvm.pdf
