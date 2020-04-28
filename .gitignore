@@ -6,4 +6,3 @@ tools/classla-stanfordnlp-master/models/lemma/ssj500k+Sloleks_lemmatizer.pt
 code/distribution.pdf
 code/distributionTest.pdf
 code/distributionTrain.pdf
-code/rocsvm.pdf
