@@ -83,7 +83,8 @@ TACL-submission anonymization requirements)}
 \begin{document}
 \maketitle
  \begin{abstract}
-   TODO
+In this paper we discuss our various approaches when trying to classify messages from an IMapBook dataset.
+We dive into some of the traditional nature language processing approaches like using Logistic Regression, Support Vector Machine and also adding our own rules along with some more recent ones like the use of reccurent neural networks or transformers.
  \end{abstract}
 
 
@@ -168,13 +169,12 @@ This can be a statement, a question or an answer.
 Here too we drew some conclusions from the data available:
 
 \begin{itemize}
-\item{Answers tend to follow questions.}
+\item{Answers tend to follow questions. So message order is important.}
 \item{Answers are mostly regarded as book relevant and statements are not.}
 \end{itemize}
 
-Determening questions here is rather trivial as only adding a feature that check if the sentence contains a question mark or some sort of question word will give good results.
+Determening questions can be done by adding a feature that checks if the sentence contains a question mark or some sort of question word.
 To determine answers from statements we will most likely have to take into account the order of sentences as well.
-For that CRF could be used.
 
 \subsection{Message category}
 
@@ -182,10 +182,10 @@ Each message can be one of the following:
 \begin{itemize}
 \item{\textbf{chatting}, which doesn't fall into any of the bellow categories;}
 \item{\textbf{switching}, which mostly consists of asking for help;}
-\item{\textbf{discussion}, which again consists of some particular keywords ('lahko', 'bi) and descriptions of activities, objects;}
+\item{\textbf{discussion}, which consists of some particular keywords ('lahko', 'bi) and descriptions of activities, objects;}
 \item{\textbf{moderating}, where the teacher leads the converstation and which we could identify by maybe checking for gramatically correct sentences;}
 \item{\textbf{identity}, where we could check the appearance of question marks or question words or}
-\item{\textbf{other}, where there is mostly gibberish and sentences with only emojis.}
+\item{\textbf{other}, where there is mostly gibberish.}
 \end{itemize}
 
 Some manual features could be added which would be especially efficient for determining the categories \textbf{other} and \textbf{identity}.
@@ -210,13 +210,13 @@ We assume that the reason is that most of the texts are very short and thus afte
 \subsection{Additional features}
 
 With the help of FeatureUnion class in the sklearn library we added our own feature extractor that was combined with a TfidfVectorizer.
-We first added all of the relevant stories to the training set, from which we have removed all of the special characters which greatly improved our results.
+We first added all of the relevant stories to the training set, from which we have removed all of the special characters which improved our results.
 After that we checked the messages and their appropriate tags and came to some conclusions and predictions that we predicted to be of some value.
 We then checked how these features improved the classification results and retained only those that provided good results.
 
 \subsubsection{Book relevance}
 
-For book relevance we checked for some characteristics that mainly seperated chatting from book relevant conversations.
+For book relevance we checked for some characteristics that mainly seperated chat messages from book relevant ones.
 We added three features which were observed to be important when determining book relevance.
 
 When children talked about a book they change their style of writing so that certain words started to appear and they avoided writing gibberish.
@@ -321,7 +321,7 @@ The results we got with this model are in Table~\ref{tab:tab3}.
     \begin{tabular}{ c | c c c c } 
          & Accuracy & Precision & Recall & F1 \\ 
          \hline
-        Relevance & 0.86 & 0.84 & 0.78 & 0.81 \\ 
+        Relevance & 0.86 & 0.84 & 0.79 & 0.81 \\ 
         Categories & 0.74 & / & / & 0.73 \\
     \end{tabular}
     \caption{Evaluation of Support Vector Machine}
@@ -357,6 +357,14 @@ We defined three soft categories ('C','S','M') which also count as relevant.
 If the category was any of those we classified chat as relevant otherwise as non-relevant.
 From the frequency of relevant/non-relevant chats we classified each bach.
 The drift is detected if there is non relevant discussion in 5 consecutive baches.
+
+\section{Future work}
+
+For the future work we will focus on implementing some of the more advanced approaches to text classsification like using recurrent neural networks or transformers.
+We will test some already trained embeddings and possibly train our own.
+We will focus more in depth into the areas of identifying book relevance and message category type.
+
+
 
 % \bibliographystyle{IEEEtran}
 \bibliographystyle{acl_natbib}
