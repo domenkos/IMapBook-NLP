@@ -1,0 +1,10 @@
+- Značilke v tabelo namesto kar v tekstu (Tim)
+- Napiši majority pod 61% v poročilu. Sedaj mislim da ne piše majority. (Domen)
+- Vse 3 pristope v eno tabelo (NB, LR, SVM)
+- Dopiši katere kategorije prepoznamo bolje, katere slabše. Koliko smo ziher v kakšno kategorijo.
+- Accuracy (prečrtan). Le F1 na koncu pusti. .... (Verjetno za opis in kodo tistega zadnjega dela programa, ki uporablja batche).
+- Koliko sporočil predno relevant
+
+- DODELAJ zadnji del kode. Ocenjevanje broad categories prav tako.
+
+MOžna pomoč: Koliko je kakšnih kategorij kolikokrat se pojavi (neke verjetnosti).
