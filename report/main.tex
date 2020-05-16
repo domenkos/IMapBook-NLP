@@ -11,6 +11,8 @@
 \usepackage{url}
 \usepackage[T1]{fontenc}
 \usepackage{graphicx}
+\usepackage{multirow}
+\usepackage{multicol}
 
 %% Package options:
 %% Short version: "hyperref" and "submission" are the defaults.
@@ -267,7 +269,7 @@ The models we used were \textit{Naive Bayes}, \textit{Logistic Regression}, \tex
 Each model was trained on 2653 random examples and tested on the rest 1062.
 The distribution of relevant and non-relevant text is plotted on Figure~\ref{fig:fig1} for training set (left) and testing set (right).
 We evaluated them by calculating the accuracy, recall, precision and F1 score.
-The baseline accuracy of predicting the relevance into the non-relevant class was \textbf{0.619}.
+The majority classification accuracy of predicting the relevance into the non-relevant class was \textbf{0.619}.
 
 \begin{figure}[h]
     \centering
@@ -276,57 +278,87 @@ The baseline accuracy of predicting the relevance into the non-relevant class wa
     \label{fig:fig1}
 \end{figure}
 
+All the results from the models we tried are shown in Figure~\ref{tab:tab1}.
+
 \subsubsection{Naive Bayes}
 The simplest model that we tried was \textit{Naive Bayes} which assumes that words in the sentence are independent.
-The results we obtained are shown in Table~\ref{tab:tab1}.
+% The results we obtained are shown in Table~\ref{tab:tab1}.
 
+% \begin{table}[h]
+%     \centering
+%     \begin{tabular}{ c | c c c c } 
+%          & Accuracy & Precision & Recall & F1 \\ 
+%          \hline
+%          Relevance & 0.84 & 0.79 & 0.79 & 0.79 \\
+%          Categories & 0.70 & 0.67 & 0.68 & 0.68 \\
+%     \end{tabular}
+%     \caption{Evaluation of Naive Bayes}
+%     \label{tab:tab1}
+% \end{table}
+
+
+% First line Relevant
+% Second line Category
+% Third line Type
 \begin{table}[h]
     \centering
-    \begin{tabular}{ c | c c c c } 
+    \begin{tabular}{c | c c c c}
          & Accuracy & Precision & Recall & F1 \\ 
-         \hline
-         Relevance & 0.84 & 0.79 & 0.79 & 0.79 \\
-         Categories & 0.70 & / & / & 0.68 \\
+    \hline
+    \multirow{3}{*}{NB} & 0.84 & 0.79 & 0.79 & 0.79 \\
+                & 0.70 & 0.67 & 0.68 & 0.68 \\
+                & 0.73 & 0.73 & 0.74 & 0.72 \\
+    \hline
+    \multirow{3}{*}{LR} & 0.85 & 0.84 & 0.75 & 0.79 \\
+                & 0.73 & 0.73 & 0.73 & 0.72 \\
+                & 0.76 & 0.77 & 0.76 & 0.76 \\
+    \hline
+    \multirow{3}{*}{SVM} & 0.86 & 0.84 & 0.79 & \textbf{0.81} \\
+                & 0.74 & 0.75 & 0.74 & \textbf{0.73} \\
+                & 0.78 & 0.78 & 0.78 & \textbf{0.78} \\
+    
     \end{tabular}
-    \caption{Evaluation of Naive Bayes}
+    \caption{Evaluation of models}
     \label{tab:tab1}
 \end{table}
+
+
 
 Although the model is naive, the results we got are not that bad.
 The AUC of the model for predicting the relevance of the text is 91\%.
 
 \subsubsection{Logistic Regression}
-The results of Logistic Regression model are in Table~\ref{tab:tab2}.
+% The results of Logistic Regression model are in Table~\ref{tab:tab2}.
 
-\begin{table}[h]
-    \centering
-    \begin{tabular}{ c | c c c c } 
-         & Accuracy & Precision & Recall & F1 \\ 
-         \hline
-         Relevance & 0.85 & 0.84 & 0.75 & 0.79 \\
-         Categories & 0.73 & / & / & 0.72 \\
-    \end{tabular}
-    \caption{Evaluation of Logistic Regression}
-    \label{tab:tab2}
-\end{table}
+% \begin{table}[h]
+%     \centering
+%     \begin{tabular}{ c | c c c c } 
+%          & Accuracy & Precision & Recall & F1 \\ 
+%          \hline
+%          Relevance & 0.85 & 0.84 & 0.75 & 0.79 \\
+%          Categories & 0.73 & 0.73 & 0.73 & 0.72 \\
+%     \end{tabular}
+%     \caption{Evaluation of Logistic Regression}
+%     \label{tab:tab2}
+% \end{table}
 
 The performance is similar to \textit{Naive Bayes}.
 But we go the AUC of 92\% which is the highest of all baseline models.
 
 \subsubsection{Support Vector Machine}
-The results we got with this model are in Table~\ref{tab:tab3}.
+% The results we got with this model are in Table~\ref{tab:tab3}.
 
-\begin{table}[h]
-    \centering
-    \begin{tabular}{ c | c c c c } 
-         & Accuracy & Precision & Recall & F1 \\ 
-         \hline
-        Relevance & 0.86 & 0.84 & 0.79 & 0.81 \\ 
-        Categories & 0.74 & / & / & 0.73 \\
-    \end{tabular}
-    \caption{Evaluation of Support Vector Machine}
-    \label{tab:tab3}
-\end{table}
+% \begin{table}[h]
+%     \centering
+%     \begin{tabular}{ c | c c c c } 
+%          & Accuracy & Precision & Recall & F1 \\ 
+%          \hline
+%         Relevance & 0.86 & 0.84 & 0.79 & 0.81 \\ 
+%         Categories & 0.74 & 0.75 & 0.74 & 0.73 \\
+%     \end{tabular}
+%     \caption{Evaluation of Support Vector Machine}
+%     \label{tab:tab3}
+% \end{table}
 
 Overall SVM performed the best so we will use it in further experiments.
 We also plotted the ROC curve for predicting the relevance of the text which is shown on Figure~\ref{fig:fig2}.
