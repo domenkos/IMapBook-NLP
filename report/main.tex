@@ -254,8 +254,8 @@ Again as already mentioned in subsection 'Book Relevance' this feature should al
 
 \section{Results} 
 
-\subsection{Baseline models}
-Before we used some advanced techniques and algorithms we defined some baseline models.
+\subsection{Models}
+%Before we used some advanced techniques and algorithms we defined some baseline models.
 Initial goal was to detect when the teacher needs to intervene into the discussion.
 To achieve it we defined several classification models.
 First set of models was developed to classify each chat into one of the two classes.
@@ -269,7 +269,7 @@ The models we used were \textit{Naive Bayes}, \textit{Logistic Regression}, \tex
 Each model was trained on 2653 random examples and tested on the rest 1062.
 The distribution of relevant and non-relevant text is plotted on Figure~\ref{fig:fig1} for training set (left) and testing set (right).
 We evaluated them by calculating the accuracy, recall, precision and F1 score.
-The majority classification accuracy of predicting the relevance into the non-relevant class was \textbf{0.619}.
+The majority classification accuracy of predicting the relevance into the non-relevant class was 0.619.
 
 \begin{figure}[h]
     \centering
@@ -297,17 +297,17 @@ The simplest model that we tried was \textit{Naive Bayes} which assumes that wor
 % \end{table}
 
 
-% First line Relevant
-% Second line Category
-% Third line Type
+% 1. Relevant
+% 2. Category
+% 3. Type
 \begin{table}[h]
     \centering
     \begin{tabular}{c | c c c c}
          & Accuracy & Precision & Recall & F1 \\ 
     \hline
-    \multirow{3}{*}{NB} & 0.84 & 0.79 & 0.79 & 0.79 \\
-                & 0.70 & 0.67 & 0.68 & 0.68 \\
-                & 0.73 & 0.73 & 0.74 & 0.72 \\
+    \multirow{3}{*}{NB} & 0.81 & 0.79 & 0.66 & 0.72 \\
+                & 0.50 & 0.70 & 0.50 & 0.56 \\
+                & 0.46 & 0.64 & 0.47 & 0.48 \\
     \hline
     \multirow{3}{*}{LR} & 0.85 & 0.84 & 0.75 & 0.79 \\
                 & 0.73 & 0.73 & 0.73 & 0.72 \\
@@ -370,7 +370,42 @@ We also plotted the ROC curve for predicting the relevance of the text which is 
     \label{fig:fig2}
 \end{figure}
 
-\subsection{Detecting of conversation drift}
+To demonstrate the performance of the SVM model when classifying the \textit{Category} we plotted two confusion matrices where can we can observe the distribution of the testing set into the different categories and how our SVM model predicted them which is shown on Figure~\ref{fig:fig3}.
+On Figure~\ref{fig:fig4} we plotted the same normalized distribution.
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=1.0\columnwidth]{Figures/confusionMatrixCategory.pdf}
+    \caption{Confusion matrix of classifying the Category }
+    \label{fig:fig3}
+\end{figure}
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=1.0\columnwidth]{Figures/confusionMatrixCategoryNormalized.pdf}
+    \caption{Normalized confusion matrix}
+    \label{fig:fig4}
+\end{figure}
+
+From the Figure~\ref{fig:fig4} we can observe that most of the test examples are from category \textit{C (Chatting)} and we are able to correctly classify 83\% of them.
+We can also observe that 10\% of the examples are wrongly classified as category \textit{D (Discussion)}.
+The examples from second category \textit{D} are correctly classified in 78\% of cases.
+In 0.21 of cases the model wrongly classify it as category \textit{C}.
+category \textit{I (Identity)} is correctly classified in 58\% of the cases.
+Most of the wrong classified examples are again putted into the category \textit{C}.
+For the category \textit{M (Moderating} we can correctly predict 56\% of the true examples.
+Almost 30\% are wrongly classified into the category \textit{D} and another 12\% into category \textit{C}.
+In the category \textit{O (Other)} we correctly classify only 49\% of the examples.
+Most of them (42\%) are wrongly classified into the category \textit{C }.
+In the case of category \textit{S (Switching)} we wrongly classify 100\% of the examples into the category \textit{C}.
+From the Figure~\ref{fig:fig3} we can observe that in this case there were only 7 testing examples.
+
+We can assume that our model correctly predicts most of the examples from the category \textit{C}.
+We are also quite sure that the exampls from the category \textit{D} are correctly classified (with probability 0.78\%).
+For other categories the probabilities are lower (around 50\%) except for the \textit{Switching} category which where our model fails completely.
+We can also observe that most of the wrong predicted labels are classified into the category \textit{C}.
+
+\subsection{Detection of conversation drift}
 To detect when the teacher needs to intervene we trained two models.
 They were trained using the lemmatized texts as before.
 But in this case we took sequential texts to train and test our models.
@@ -380,21 +415,40 @@ Both of the models were trained and evaluated using the 5-fold cross validation.
 The accuracy and F1 score of SVM model were 0.83 and 0.82 respectively.
 For the LR model we obtained 0.65 accuracy and 0.67 F1 score.
 
-The last 30\% of conversations we used as to detect the drift.
-We took the baches of 10 sequential messages and for each we predicted the relevance label.
-We counted the number of relevance chats in a bach using the following method.
+The last 30\% of conversations we used to detect the drift.
+The idea was to take batches of sequential messages and for each we predicted the relevance label.
+We counted the number of relevance chats in a batch using the following method.
 If the label was positive ('Yes') we counted it as relevant.
 If the label was negative ('No') we also predicted the category.
-We defined three soft categories ('C','S','M') which also count as relevant.
+We defined some soft categories which also count as relevant.
 If the category was any of those we classified chat as relevant otherwise as non-relevant.
-From the frequency of relevant/non-relevant chats we classified each bach.
-The drift is detected if there is non relevant discussion in 5 consecutive baches.
+From the frequency of relevant/non-relevant chats we classified each batch.
+The drift is detected if there is non relevant discussion in few consecutive batches.
 
-\section{Future work}
+To determine the number of sequential messages and the number of consecutive batches we manually extracted some features from the training set.
+First we calculated how many sequential messages are non relevant before the teacher had to intervene into the conversation.
+We averaged the results over the whole training set and got the average number of 4.8.
+This mean that when there was no relevant discussion between the participants the teacher on average intervene after 5 non relevant messages.
+We were also interested how often are relevant messages and how many non relevant chats are between two relevant messages.
+The number we got was 2.5 but since we are not interested about the consecutive relevant messages we corrected this number.
+We defined that if we observe more then 3 sequential relevant messages we conclude that this is a relevant conversation and thus there are no non-relevant messages in between.
+The corrected average we got was 4.0.
+Meaning that during two relevant messages (which are not marked as relevant conversation) there are on average 4 non relevant.
+Since we are also only 78\% sure that when we predict the category \textit{D} it is also the true label we increased bot of these numbers for 50\%.
+We defined the size of the batch as the average messages before the teacher intervene which is increased by 50\% and thus we get 6.
+The number of consecutive batches is defined from the corrected average of non relevant chats between relevant ones.
+By also increasing it for 50\% we get 7 consecutive batches.
+Since 30\% of messages from the category \textit{M} is also wrongly classified as category \textit{D} we define two soft categories \textit{M} and \textit{D} which are both seen as relevant.
 
-For the future work we will focus on implementing some of the more advanced approaches to text classsification like using recurrent neural networks or transformers.
-We will test some already trained embeddings and possibly train our own.
-We will focus more in depth into the areas of identifying book relevance and message category type.
+We notify the teacher that the conversation moved away from the topic if there is no single relevant message in the 7 consecutive batches of 6 sequential messages.
+
+
+
+% \section{Future work}
+
+% For the future work we will focus on implementing some of the more advanced approaches to text classsification like using recurrent neural networks or transformers.
+% We will test some already trained embeddings and possibly train our own.
+% We will focus more in depth into the areas of identifying book relevance and message category type.
 
 
 
