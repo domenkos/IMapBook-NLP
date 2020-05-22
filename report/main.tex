@@ -13,6 +13,7 @@
 \usepackage{graphicx}
 \usepackage{multirow}
 \usepackage{multicol}
+\usepackage{tabu}
 
 %% Package options:
 %% Short version: "hyperref" and "submission" are the defaults.
@@ -215,6 +216,23 @@ With the help of FeatureUnion class in the sklearn library we added our own feat
 We first added all of the relevant stories to the training set, from which we have removed all of the special characters which improved our results.
 After that we checked the messages and their appropriate tags and came to some conclusions and predictions that we predicted to be of some value.
 We then checked how these features improved the classification results and retained only those that provided good results.
+All of the additional features can be seen in table~\ref{tab_features}.
+
+\begin{table}[ht]
+\begin{tabu} to 1.0\columnwidth {|X[l]|X[l]|}
+\hline
+\textbf{classification}         & \textbf{manual feature}                    \\ \hline
+\multirow{2}{*}{book relevance} & length of the word                         \\ \cline{2-2} 
+                                & longest repeatance of a chararacter        \\ \hline
+type                            & contains question words or a question mark \\ \hline
+\multirow{4}{*}{category}       & length of the word                         \\ \cline{2-2} 
+                                & longest repeatance of a chararacter        \\ \cline{2-2} 
+                                & contains discussion words                  \\ \cline{2-2} 
+                                & contains identity words                    \\ \hline
+\end{tabu}
+\label{tab_features}
+\caption{}
+\end{table}
 
 \subsubsection{Book relevance}
 
