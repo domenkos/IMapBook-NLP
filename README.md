@@ -22,4 +22,5 @@ Source code of the report
 2. nltk
 3. pandas
 
-Clone the repository and run the notebook in the code directory
+Clone the repository and run the notebook in the code directory. 
+You can do that by running the Anaconda command prompt and running the expression "jupyter notebook" in the "code" repository.
