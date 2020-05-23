@@ -195,7 +195,7 @@ Some manual features could be added which would be especially efficient for dete
 Very long words or those that contain a single repeating character can quickly be classified as "other" as well as those that only contain emojis or other special characters.
 Detecting question marks, question words and possibly personal names can largely contribute to classifing message as being of type identity.
 
-\section{Experiments}
+\section{Methods}
 In this section we present the pre-processing steps we performed and all the experiments we performed.
 
 \subsection{Text pre-processing}
@@ -221,7 +221,7 @@ All of the additional features can be seen in table~\ref{tab_features}.
 \begin{table}[ht]
 \begin{tabu} to 1.0\columnwidth {|X[l]|X[l]|}
 \hline
-\textbf{classification}         & \textbf{manual feature}                    \\ \hline
+\textbf{classification}         & \textbf{custom feature}                    \\ \hline
 \multirow{2}{*}{book relevance} & length of the word                         \\ \cline{2-2} 
                                 & longest repeatance of a chararacter        \\ \hline
 type                            & contains question words or a question mark \\ \hline
@@ -323,13 +323,13 @@ The simplest model that we tried was \textit{Naive Bayes} which assumes that wor
     \begin{tabular}{c | c c c c}
          & Accuracy & Precision & Recall & F1 \\ 
     \hline
-    \multirow{3}{*}{NB} & 0.81 & 0.79 & 0.66 & 0.72 \\
+    \multirow{3}{*}{NB} & 0.81 & 0.80 & 0.66 & 0.73 \\
                 & 0.50 & 0.70 & 0.50 & 0.56 \\
-                & 0.46 & 0.64 & 0.47 & 0.48 \\
+                & 0.46 & 0.64 & 0.46 & 0.49 \\
     \hline
-    \multirow{3}{*}{LR} & 0.85 & 0.84 & 0.75 & 0.79 \\
+    \multirow{3}{*}{LR} & 0.85 & 0.84 & 0.75 & 0.80 \\
                 & 0.73 & 0.73 & 0.73 & 0.72 \\
-                & 0.76 & 0.77 & 0.76 & 0.76 \\
+                & 0.76 & 0.77 & 0.77 & 0.76 \\
     \hline
     \multirow{3}{*}{SVM} & 0.86 & 0.84 & 0.79 & \textbf{0.81} \\
                 & 0.74 & 0.75 & 0.74 & \textbf{0.73} \\
@@ -423,6 +423,40 @@ We are also quite sure that the exampls from the category \textit{D} are correct
 For other categories the probabilities are lower (around 50\%) except for the \textit{Switching} category which where our model fails completely.
 We can also observe that most of the wrong predicted labels are classified into the category \textit{C}.
 
+
+\subsection{Custom features impact}
+
+Some of the custom features for classifing messages into a perticular group worked better than others.
+In table ~\ref{tab_feat_res} the improvements for our classification models can be seen with the included custom features.
+
+\begin{table}[ht]
+\begin{tabu} to 1.0\columnwidth{|X[l]|X[l]|X[l]|}
+\hline
+\textbf{classification}         & \textbf{model} & \textbf{improvement in F1} \\ \hline
+\multirow{3}{*}{book relevance} & NB             & +1,3 \%                    \\ \cline{2-3} 
+                                & LR             & -0,2\%                     \\ \cline{2-3} 
+                                & SVM            & +0,1\%                     \\ \hline
+\multirow{3}{*}{type}           & NB             & -0,2\%                     \\ \cline{2-3} 
+                                & LR             & +0,3\%                     \\ \cline{2-3} 
+                                & SVM            & +0,2\%                     \\ \hline
+\multirow{3}{*}{category}       & NB             & -0,5\%                     \\ \cline{2-3} 
+                                & LR             & +1,2\%                     \\ \cline{2-3} 
+                                & SVM            & +1\%                       \\ \hline
+\end{tabu}
+\label{tab_feat_res}
+\caption{Performance improvement in F1 score with used custom features.}
+\end{table}
+
+As it can be seen we achieved the best results when using the custom features when trying to classify message based on the broad category.
+There our score was improved by a little more than 1\% for the LR and SVM models.
+This was not expected as well defined features for the type classification problem were expected to provide the best results.
+There an improvement was bellow 0.5\% and after further inspection of the confusion matrix we identified that the problem wasn't so much in wrongly classifying questions as it was in wrongly classifing answers and statements.
+
+Using custom features for classifing book relevance did show an improvement in NB F1 score by 1.3\%.
+When tackling with this problem we saw a much greater improvement in our F1 score when we included the provided stories into the training data as defined in the subsection "Additional features", as we did with our manual features.
+Even though the words 'lahko', 'bi', 'da' often appeared in messages that were labeled as book relevant they were most probably already detected as of great value to determine the type by our models and so didn't provide much better results.
+
+
 \subsection{Detection of conversation drift}
 To detect when the teacher needs to intervene we trained two models.
 They were trained using the lemmatized texts as before.
@@ -460,7 +494,15 @@ Since 30\% of messages from the category \textit{M} is also wrongly classified a
 
 We notify the teacher that the conversation moved away from the topic if there is no single relevant message in the 7 consecutive batches of 6 sequential messages.
 
+\section{Discussion} 
 
+We achived quite good results using the traditional natural language processing approaches.
+We mainly focused on implementing and refining these and have gotten satisfing results.
+Our best results were with the use of the Support Vector Machine classifier equipped with custom features gave us F1 scores of 0.81, 0.73 and 0.78 for the classification task of determining book relevance, category and type of message respectevely.
+Our implementation also gave us good results when tackling the main problem of detecting the conversation drift.
+%TODO: Kos malo o conversation drift results.
+We also experimented a little using more advanced models that used deep learning.
+%TODO: Kos kakšni so rezultati tam
 
 % \section{Future work}
 
@@ -468,7 +510,13 @@ We notify the teacher that the conversation moved away from the topic if there i
 % We will test some already trained embeddings and possibly train our own.
 % We will focus more in depth into the areas of identifying book relevance and message category type.
 
+\section{Conclusion}
 
+We were sucessful in implementing various classifiers for determining book relevance, category and type of messages and with that a good detector of conversation drift.
+Although we could have gotten better results using more advanced methods like deep learning we rather chose to focus our efforts on improving the results using more traditional natural language processing models.
+With custom features, combination of various classifiers and our conversation drift algorithm we have achived pretty good results.
+An obvious improvement could be made towards switching the classifiers for more advances ones and thus getting better results.
+Although we started with the work on that area we didn't have time to perfect it but was never the less included in the code.
 
 % \bibliographystyle{IEEEtran}
 \bibliographystyle{acl_natbib}
