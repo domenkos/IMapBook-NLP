@@ -87,27 +87,28 @@ TACL-submission anonymization requirements)}
 \maketitle
  \begin{abstract}
 In this paper we discuss our various approaches when trying to classify messages from an IMapBook dataset.
-We dive into some of the traditional nature language processing approaches like using Logistic Regression, Support Vector Machine and also adding our own rules along with some more recent ones like the use of reccurent neural networks or transformers.
+We dive into some of the traditional nature language processing approaches like using Logistic Regression, Support Vector Machine and also adding our own rules along with some deep learning implementations.
+We use all of this information in order to determine the time when a teacher should intervene in the conversation that is taking place if this would to drift off topic.
  \end{abstract}
 
 
 \section{Introduction}
-For the course assignment at \textit{Natural language processing} class we decided to do text classification on IMapBook dataset.
-The dataset contains short discussions between primary school students who are chatting about different book topics.
-Each record is annotated with 16 attributes.
-Original messages are posted in Slovene language, but they are also translated to English.
-We also have the information about topic they are discussing, if their message was an answer to some previous asked question and if their discussion is relevant to the topic, since there are no constraints so they can write anything they want.
-If the discussion is moving away from the proposed topic, the teacher can intervene and guides it back by asking some questions relevant to the book.
-Dataset contains approximately 3500 messages about 3 different short stories.
-Our goal is to develop the models which could detect the topic of the current debate so the teacher can intervene.
-The idea is to develop different models and combine their outputs.
-We would analyse conversation on different levels.
-First would be to analyse separate messages and define their relevance to the topic.
-We would also define type of message which can either be answer or question and also the category.
-By combining results of separate messages we could determine when the conversation is starting to move away from the topic.
+For the course assignment at \textit{Natural language processing} class we decided to tackle with text classification problem on IMapBook dataset.
+The dataset contained short discussions between primary school students that were chatting about different book topics.
+Each record was annotated with 16 attributes.
+Original messages were posted in Slovene language, but they were also translated into English.
+We also had the information about topic they were discussing, if their message was an answer to some previous asked question and if their discussion was relevant to the topic, since there were no constraints so they could wrote anything they wanted.
+If the discussion was moving away from the proposed topic, the teacher should intervene and guide it back by asking some questions relevant to the book.
+Dataset contained approximately 3500 messages about 3 different short stories.
+Our goal was to develop the models which could detect the topic of the current debate so the teacher could intervene.
+The idea was to develop different models and combine their outputs.
+Our first idea was to analyze separate messages and define their relevance to the topic.
+We would also have to define type of message which could either be an answer or a question along with the message category.
+By combining results of separate messages we could determine when the conversation started to move away from the topic.
 
 \section{Related work}
-Text classification is a popular topic of natural language processing (NLP) field, thus there are many researchers working on the field. In this section we present most relevant work and techniques they used.
+Text classification is a popular topic of natural language processing (NLP) field, thus there are many researchers working on the field. 
+In this section we present most relevant work and techniques they used.
 
 Most of the research work and the state-of-the-art results were achieved using English language, but some of the techniques and approaches can be adapted to Slovene language.
 The authors of paper~\cite{articleSpanish} had similar problem, where they analysed Spanish tweets which are also relative short texts.
@@ -146,8 +147,8 @@ To determine if the teacher must intervene we need to answer the following quest
 Based on this information we could then determine if the conversation is in need of an intervention or not.
 
 Because there are three seperate requirements our first idea was to come up with three seperate classifiers.
-We will start with standard text classification procedures like tokenizing, stemming, removal of stop words and then represented words as vectors in order to use them in our machine learning algorithms.
-After that we will probably use some kind of machine-learning approach. 
+We would start with standard text classification procedures like tokenizing, stemming, removal of stop words and then represented words as vectors in order to use them in our machine learning algorithms.
+After that we would probably have to use some kind of machine-learning approach. 
 Recurring convolutional neural networks or SVMs could be used to make use of the sequential information of words as well.
 
 \subsection{Book relevance}
@@ -213,7 +214,7 @@ We assume that the reason is that most of the texts are very short and thus afte
 \subsection{Additional features}
 
 With the help of FeatureUnion class in the sklearn library we added our own feature extractor that was combined with a TfidfVectorizer.
-We first added all of the relevant stories to the training set, from which we have removed all of the special characters which improved our results.
+We first added all of the relevant stories to the training set, from which we have removed all of the special characters which greatly improved our results.
 After that we checked the messages and their appropriate tags and came to some conclusions and predictions that we predicted to be of some value.
 We then checked how these features improved the classification results and retained only those that provided good results.
 All of the additional features can be seen in table~\ref{tab_features}.
